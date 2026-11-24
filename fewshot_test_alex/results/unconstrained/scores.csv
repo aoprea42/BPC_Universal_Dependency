@@ -1,9 +1,0 @@
-model,treebank,mode,N,seed,UAS,LAS,F1,invalid,recovered,demos_used,n
-llama-3.1,en_ewt,gold,0,0,0.58,0.36,0.7,94.0,4.5,0.0,200
-llama-3.1,en_ewt,gold,3,0,2.49,1.25,2.38,83.0,11.0,3.0,200
-llama-3.1,en_ewt,gold,5,0,2.14,1.51,2.92,88.0,3.0,5.0,200
-llama-3.1,en_ewt,gold,10,0,1.56,1.38,2.69,89.5,3.0,10.0,200
-llama-3.1,fo_oft,gold,0,0,0.93,0.0,0.0,92.0,8.0,0.0,200
-llama-3.1,fo_oft,gold,3,0,7.33,3.66,5.93,68.0,28.5,3.0,200
-llama-3.1,fo_oft,gold,5,0,8.94,6.09,9.95,70.0,21.5,5.0,200
-llama-3.1,fo_oft,gold,10,0,7.02,5.71,10.06,82.0,10.0,10.0,200
