@@ -1,0 +1,3805 @@
+# sent_id = test-s598
+# text = اگر قاطر کسی را رم ندهید با شما کاری ندارند.
+1	اگر	_	_	_	_	0	root	_	_
+2	قاطر	_	_	_	_	1	dep	_	_
+3	کسی	_	_	_	_	1	dep	_	_
+4	را	_	_	_	_	1	dep	_	_
+5	رم	_	_	_	_	1	dep	_	_
+6	ندهید	_	_	_	_	1	dep	_	_
+7	با	_	_	_	_	1	dep	_	_
+8	شما	_	_	_	_	1	dep	_	_
+9	کاری	_	_	_	_	1	dep	_	_
+10	ندارند	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s378
+# text = ذوب آهن با 7 امتیاز در گروه خود که گروه مرگ نام گرفته است صدرنشینی می‌کند.
+1	ذوب	_	_	_	_	0	root	_	_
+2	آهن	_	_	_	_	1	dep	_	_
+3	با	_	_	_	_	1	dep	_	_
+4	7	_	_	_	_	1	dep	_	_
+5	امتیاز	_	_	_	_	1	dep	_	_
+6	در	_	_	_	_	1	dep	_	_
+7	گروه	_	_	_	_	1	dep	_	_
+8	خود	_	_	_	_	1	dep	_	_
+9	که	_	_	_	_	1	dep	_	_
+10	گروه	_	_	_	_	1	dep	_	_
+11	مرگ	_	_	_	_	1	dep	_	_
+12	نام	_	_	_	_	1	dep	_	_
+13	گرفته	_	_	_	_	1	dep	_	_
+14	است	_	_	_	_	1	dep	_	_
+15	صدرنشینی	_	_	_	_	1	dep	_	_
+16	می‌کند	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s295
+# text = ماه گذشته آنها جمعه‌ای را به صالح العلی از رهبران علوی ضد استعمار اختصاص دادند که سال‌ها برای استقلال سوریه رشادت کرد و با فرانسویان جنگید.
+1	ماه	ماه	NOUN	NN	Number=Sing|Person=3	2	nmod	_	_
+2	گذشته	گذشته	ADJ	JJ	Number=Sing|Person=3	0	root	_	_
+3	آنها	آنها	PRON	PRP	Number=Plur|Person=3	2	nsubj	_	_
+4	جمعه‌ای	جمعه	ADJ	JJ	Number=Sing|Person=3	5	amod	_	_
+5	را	را	PART	PRP	_	6	case	_	_
+6	به	به	ADP	IN	_	7	mark	_	_
+7	صالح	صالح	PROPN	NNP	Number=Sing|Person=3	2	obl	_	_
+8	العلی	العلی	PROPN	NNP	Number=Sing|Person=3	7	flat:name	_	_
+9	از	از	ADP	IN	_	10	case	_	_
+10	رهبران	رهبر	NOUN	NN	Number=Plur|Person=3	7	nmod	_	_
+11	علوی	علوی	ADJ	JJ	Number=Sing|Person=3	10	amod	_	_
+12	ضد	ضد	ADJ	JJ	Number=Sing|Person=3	13	amod	_	_
+13	استعمار	استعمار	NOUN	NN	Number=Sing|Person=3	10	nmod	_	_
+14	اختصاص	اختصاص	VERB	VB	Number=Sing|Person=3	2	ccomp	_	_
+15	دادند	دادن	VERB	VB	Number=Sing|Person=3	14	aux	_	_
+16	که	که	SCONJ	IN	_	18	mark	_	_
+17	سال‌ها	سال	NOUN	NN	Number=Plur|Person=3	18	nmod	_	_
+18	برای	برای	ADP	IN	_	19	case	_	_
+19	استقلال	استقلال	NOUN	NN	Number=Sing|Person=3	14	nmod	_	_
+20	سوریه	سوریه	PROPN	NNP	Number=Sing|Person=3	19	flat:name	_	_
+21	رشادت	رشادت	NOUN	NN	Number=Sing|Person=3	19	nmod	_	_
+22	کرد	کرد	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	acl	_	_
+23	و	و	CCONJ	CC	_	24	cc	_	_
+24	با	با	ADP	IN	_	25	case	_	_
+25	فرانسویان	فرانسوی	NOUN	NN	Number=Plur|Person=3	22	nmod	_	_
+26	جنگید	جنگیدن	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	acl	_	_
+27	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s1396
+# text = علوم تفسیر و حدیث و فقه ظاهر گشته و اطلاع از تاریخ خلفای راشدین نیز مانند دور رسالت لزوم پیدا کرده است.
+1	علوم	علوم	NOUN	NN	Number=Plur|Person=3	0	root	_	_
+2	تفسیر	تفسیر	NOUN	NN	Number=Sing|Person=3	3	nmod	_	_
+3	و	و	CCONJ	CC	_	4	cc	_	_
+4	حدیث	حدیث	NOUN	NN	Number=Sing|Person=3	1	conj	_	_
+5	و	و	CCONJ	CC	_	6	cc	_	_
+6	فقه	فقه	NOUN	NN	Number=Sing|Person=3	4	conj	_	_
+7	ظاهر	ظاهر	ADJ	JJ	Number=Sing|Person=3	8	amod	_	_
+8	گشته	گشته	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	root	_	_
+9	و	و	CCONJ	CC	_	10	cc	_	_
+10	اطلاع	اطلاع	NOUN	NN	Number=Sing|Person=3	8	conj	_	_
+11	از	از	ADP	IN	_	12	case	_	_
+12	تاریخ	تاریخ	NOUN	NN	Number=Sing|Person=3	10	nmod	_	_
+13	خلفای	خلفای	NOUN	NN	Number=Plur|Person=3	12	nmod	_	_
+14	راشدین	راشدین	NOUN	NN	Number=Sing|Person=3	13	nmod	_	_
+15	نیز	نیز	ADV	RB	_	10	advmod	_	_
+16	مانند	دور	NOUN	NN	Number=Sing|Person=3	17	nmod	_	_
+17	دور	رسالت	NOUN	NN	Number=Sing|Person=3	18	nmod	_	_
+18	رسالت	لزوم	NOUN	NN	Number=Sing|Person=3	10	nmod	_	_
+19	لزوم	پیدا	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl	_	_
+20	پیدا	کرده	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	xcomp	_	_
+21	کرده	است	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+22	است	.	PUNCT	.	_	8	punct	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s963
+# text = آبا و اجداد اینها که در فلسطین و غزه و امثال ذلک بودند، وقتی اسلام آمد با آغوش باز اسلام را قبول کردند ولی یک عده لجاجت کردند.
+1	آبا	_	_	_	_	0	root	_	_
+2	و	_	_	_	_	1	dep	_	_
+3	اجداد	_	_	_	_	1	dep	_	_
+4	اینها	_	_	_	_	1	dep	_	_
+5	که	_	_	_	_	1	dep	_	_
+6	در	_	_	_	_	1	dep	_	_
+7	فلسطین	_	_	_	_	1	dep	_	_
+8	و	_	_	_	_	1	dep	_	_
+9	غزه	_	_	_	_	1	dep	_	_
+10	و	_	_	_	_	1	dep	_	_
+11	امثال	_	_	_	_	1	dep	_	_
+12	ذلک	_	_	_	_	1	dep	_	_
+13	بودند	_	_	_	_	1	dep	_	_
+14	،	_	_	_	_	1	dep	_	_
+15	وقتی	_	_	_	_	1	dep	_	_
+16	اسلام	_	_	_	_	1	dep	_	_
+17	آمد	_	_	_	_	1	dep	_	_
+18	با	_	_	_	_	1	dep	_	_
+19	آغوش	_	_	_	_	1	dep	_	_
+20	باز	_	_	_	_	1	dep	_	_
+21	اسلام	_	_	_	_	1	dep	_	_
+22	را	_	_	_	_	1	dep	_	_
+23	قبول	_	_	_	_	1	dep	_	_
+24	کردند	_	_	_	_	1	dep	_	_
+25	ولی	_	_	_	_	1	dep	_	_
+26	یک	_	_	_	_	1	dep	_	_
+27	عده	_	_	_	_	1	dep	_	_
+28	لجاجت	_	_	_	_	1	dep	_	_
+29	کردند	_	_	_	_	1	dep	_	_
+30	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s851
+# text = برای خروج از این بن‌بست با دیگران مشاوره کردید.
+1	برای	_	_	_	_	0	root	_	_
+2	خروج	خروج	NOUN	NOUN	Number=Sing	1	advmod	_	_
+3	از	از	ADP	ADP	_	2	case	_	_
+4	این	این	DET	DET	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	بن‌بست	بن‌بست	NOUN	NOUN	Number=Sing	2	nmod	_	_
+6	با	با	ADP	ADP	_	7	case	_	_
+7	دیگران	دیگر	DET	DET	Definite=Def|Number=Plur|PronType=Art	5	nmod	_	_
+8	مشاوره	ها	PRON	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+9	کردید	مشاوره	NOUN	NOUN	Number=Sing	1	advmod	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s912
+# text = از جمله این روش‌ها را می‌توان همه‌پرسی، حسابرسی دوباره، وتوی مردمی، پله بیسیت، ابتکار عام و گزینش‌گری دانست که در همهٔ این موارد شهروندان مستقیماً در اعمال قدرت مباشرت می‌کنند.
+1	از	از	ADP	_	Case=Gen	0	root	_	_
+2	جمله	جمله	NOUN	_	Case=Nom|Number=Sing|Person=3	1	dep	_	_
+3	این	این	DET	_	Definite=Def|Number=Plur|Person=3|PronType=Dem	1	dep	_	_
+4	روش‌ها	روش	NOUN	_	Case=Nom|Number=Plur|Person=3	1	dep	_	_
+5	را	را	PART	_	_	6	case	_	_
+6	می‌توان	می‌توان	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	همه‌پرسی	همه‌پرسی	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
+8	،	،	PUNCT	_	_	4	punct	_	_
+9	حسابرسی	حسابرسی	NOUN	_	Case=Nom|Number=Sing|Person=3	10	nsubj	_	_
+10	دوباره	دوباره	ADV	_	_	11	advmod	_	_
+11	،	،	PUNCT	_	_	7	punct	_	_
+12	وتوی	وتوی	NOUN	_	Case=Nom|Number=Sing|Person=3	13	nsubj	_	_
+13	مردمی	مردمی	ADJ	_	Case=Nom|Number=Sing|Person=3	14	amod	_	_
+14	،	،	PUNCT	_	_	7	punct	_	_
+15	پله	پله	NOUN	_	Case=Nom|Number=Sing|Person=3	16	nsubj	_	_
+16	بیسیت	بیسیت	NOUN	_	Case=Nom|Number=Sing|Person=3	17	amod	_	_
+17	،	،	PUNCT	_	_	7	punct	_	_
+18	ابتکار	ابتکار	NOUN	_	Case=Nom|Number=Sing|Person=3	1	dep	_	_
+19	عام	عام	ADJ	_	Case=Nom|Number=Sing|Person=3	20	amod	_	_
+20	و	و	CCONJ	_	_	21	cc	_	_
+21	گزینش‌گری	گزینش‌گری	NOUN	_	Case=Nom|Number=Sing|Person=3	18	conj	_	_
+22	دانست	دانست	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	_
+23	که	که	SCONJ	_	_	24	mark	_	_
+24	در	در	ADP	_	_	25	case	_	_
+25	همهٔ	همه	DET	_	Definite=Def|Number=Plur|Person=3|PronType=Dem	26	det	_	_
+26	این	این	DET	_	Definite=Def|Number=Plur|Person=3|PronType=Dem	27	det	_	_
+27	موارد	مورد	NOUN	_	Case=Nom|Number=Plur|Person=3	28	nsubj	_	_
+28	شهروندان	شهروند	NOUN	_	Case=Nom|Number=Plur|Person=3	29	nsubj	_	_
+29	مستقیماً	مستقیماً	ADV	_	_	30	advmod	_	_
+30	در	در	ADP	_	_	31	case	_	_
+31	اعمال	اعمال	NOUN	_	Case=Nom|Number=Plur|Person=3	32	nsubj	_	_
+32	قدرت	قدرت	NOUN	_	Case=Nom|Number=Sing|Person=3	33	amod	_	_
+33	مباشرت	مباشرت	NOUN	_	Case=Nom|Number=Sing|Person=3	34	amod	_	_
+34	می‌کنند	می‌کنند	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	aux	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s205
+# text = آن روزها مردم بومی بلوچستان که کوچک‌ترین آشنایی با وسایل برقی نداشتند، از دیدن دستگاه ضبط صوت و میکروفون جا می‌خوردند.
+1	آن	_	_	_	_	0	root	_	_
+2	روزها	_	_	_	_	1	dep	_	_
+3	مردم	_	_	_	_	1	dep	_	_
+4	بومی	_	_	_	_	1	dep	_	_
+5	بلوچستان	_	_	_	_	1	dep	_	_
+6	که	_	_	_	_	1	dep	_	_
+7	کوچک‌ترین	_	_	_	_	1	dep	_	_
+8	آشنایی	_	_	_	_	1	dep	_	_
+9	با	_	_	_	_	1	dep	_	_
+10	وسایل	_	_	_	_	1	dep	_	_
+11	برقی	_	_	_	_	1	dep	_	_
+12	نداشتند	_	_	_	_	1	dep	_	_
+13	،	_	_	_	_	1	dep	_	_
+14	از	_	_	_	_	1	dep	_	_
+15	دیدن	_	_	_	_	1	dep	_	_
+16	دستگاه	_	_	_	_	1	dep	_	_
+17	ضبط	_	_	_	_	1	dep	_	_
+18	صوت	_	_	_	_	1	dep	_	_
+19	و	_	_	_	_	1	dep	_	_
+20	میکروفون	_	_	_	_	1	dep	_	_
+21	جا	_	_	_	_	1	dep	_	_
+22	می‌خوردند	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s684
+# text = در زمان خلیفهٔ اول به عراق و شام، در زمان خلیفهٔ دوم به دمشق لشگرکشی شد.
+1	در	_	_	_	_	0	root	_	_
+2	زمان	_	_	_	_	1	dep	_	_
+3	خلیفهٔ	_	_	_	_	1	dep	_	_
+4	اول	_	_	_	_	1	dep	_	_
+5	به	_	_	_	_	1	dep	_	_
+6	عراق	_	_	_	_	1	dep	_	_
+7	و	_	_	_	_	1	dep	_	_
+8	شام	_	_	_	_	1	dep	_	_
+9	،	_	_	_	_	1	dep	_	_
+10	در	_	_	_	_	1	dep	_	_
+11	زمان	_	_	_	_	1	dep	_	_
+12	خلیفهٔ	_	_	_	_	1	dep	_	_
+13	دوم	_	_	_	_	1	dep	_	_
+14	به	_	_	_	_	1	dep	_	_
+15	دمشق	_	_	_	_	1	dep	_	_
+16	لشگرکشی	_	_	_	_	1	dep	_	_
+17	شد	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1168
+# text = آیا در زمان حاملگی می‌توان نزدیکی کرد؟
+1	آیا	_	_	_	_	0	root	_	_
+2	در	در	ADP	_	_	3	case	_	_
+3	زمان	زمان	NOUN	_	_	4	compound	_	_
+4	حاملگی	حاملگی	NOUN	_	_	1	compound	_	_
+5	می‌توان	توان	VERB	_	_	1	advcl	_	_
+6	نزدیکی	نزدیکی	NOUN	_	_	5	nsubj	_	_
+7	کرد	کرد	VERB	_	_	1	root	_	_
+8	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s267
+# text = رکورد پرتاب نیزهٔ جوانان ترقی کرد.
+1	رکورد	_	_	_	_	6	dep	_	_
+2	پرتاب	پرتاپ	NOUN	_	Case=Acc|Number=Sing	3	nmod	_	_
+3	نیزهٔ	نیزه	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
+4	جوانان	جوان	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	_
+5	ترقی	ترقی	NOUN	_	Case=Acc|Number=Sing	6	nmod	_	_
+6	کرد	کرد	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+7	.	_	_	_	_	6	dep	_	_
+
+# sent_id = test-s48
+# text = در مشهد 140 اپراتور با توجه به میزان تماس‌ها در ساعت‌های مختلف به شهروندان پاسخ‌گویی می‌کنند.
+1	در	در	ADP	_	_	2	case	_	_
+2	مشهد	مشهد	NOUN	_	Number=Sing|Person=3	3	nmod	_	_
+3	140	140	NUM	_	NumType=Card	4	nummod	_	_
+4	اپراتور	اپراتور	NOUN	_	Number=Sing|Person=3	0	root	_	_
+5	با	با	ADP	_	_	4	case	_	_
+6	توجه	توجه	NOUN	_	Number=Sing|Person=3	7	nmod	_	_
+7	به	به	ADP	_	_	5	case	_	_
+8	میزان	میزان	NOUN	_	Number=Sing|Person=3	6	nmod	_	_
+9	تماس‌ها	تماس	NOUN	_	Number=Plur|Person=3	8	nmod	_	_
+10	در	در	ADP	_	_	9	case	_	_
+11	ساعت‌های	ساعت	NOUN	_	Number=Plur|Person=3	10	nmod	_	_
+12	مختلف	دروغ	NOUN	_	Number=Sing|Person=3	11	nmod	_	_
+13	به	دروغ	NOUN	_	Number=Sing|Person=3	12	nmod	_	_
+14	شهروندان	دروغ	NOUN	_	Number=Sing|Person=3	13	nmod	_	_
+15	پاسخ‌گویی	دروغ	NOUN	_	Number=Sing|Person=3	14	nmod	_	_
+16	می‌کنند	دروغ	NOUN	_	Number=Sing|Person=3	15	nmod	_	_
+17	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s1138
+# text = این شرکت‌ها 90% هزینه‌های خود را از طریق تبلیغات و 10% باقی‌مانده را از طریق مرکز مخابرات خود حصول می‌کنند.
+1	این	_	_	_	_	0	root	_	_
+2	شرکت‌ها	_	_	_	_	1	dep	_	_
+3	90%	_	_	_	_	1	dep	_	_
+4	هزینه‌های	_	_	_	_	1	dep	_	_
+5	خود	_	_	_	_	1	dep	_	_
+6	را	_	_	_	_	1	dep	_	_
+7	از	_	_	_	_	1	dep	_	_
+8	طریق	_	_	_	_	1	dep	_	_
+9	تبلیغات	_	_	_	_	1	dep	_	_
+10	و	_	_	_	_	1	dep	_	_
+11	10%	_	_	_	_	1	dep	_	_
+12	باقی‌مانده	_	_	_	_	1	dep	_	_
+13	را	_	_	_	_	1	dep	_	_
+14	از	_	_	_	_	1	dep	_	_
+15	طریق	_	_	_	_	1	dep	_	_
+16	مرکز	_	_	_	_	1	dep	_	_
+17	مخابرات	_	_	_	_	1	dep	_	_
+18	خود	_	_	_	_	1	dep	_	_
+19	حصول	_	_	_	_	1	dep	_	_
+20	می‌کنند	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s363
+# text = گمان می‌رود که امشب دوباره توفان خواهد شد.
+1	گمان	_	_	_	_	0	root	_	_
+2	می‌رود	_	_	_	_	1	dep	_	_
+3	که	_	_	_	_	1	dep	_	_
+4	امشب	_	_	_	_	1	dep	_	_
+5	دوباره	_	_	_	_	1	dep	_	_
+6	توفان	_	_	_	_	1	dep	_	_
+7	خواهد	_	_	_	_	1	dep	_	_
+8	شد	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s188
+# text = قبل از خارج شدن از خانه، خود را در آینه با دقت ورانداز کنید.
+1	قبل	_	_	_	_	0	root	_	_
+2	از	_	_	_	_	1	dep	_	_
+3	خارج	_	_	_	_	1	dep	_	_
+4	شدن	_	_	_	_	1	dep	_	_
+5	از	_	_	_	_	1	dep	_	_
+6	خانه	_	_	_	_	1	dep	_	_
+7	،	_	_	_	_	1	dep	_	_
+8	خود	_	_	_	_	1	dep	_	_
+9	را	_	_	_	_	1	dep	_	_
+10	در	_	_	_	_	1	dep	_	_
+11	آینه	_	_	_	_	1	dep	_	_
+12	با	_	_	_	_	1	dep	_	_
+13	دقت	_	_	_	_	1	dep	_	_
+14	ورانداز	_	_	_	_	1	dep	_	_
+15	کنید	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s817
+# text = شبکه‌های ماهواره‌ای اولین کسانی هستند که به مردم ایران نارو می‌زنند!
+1	شبکه‌های	شبکه	ADJ	ADJ	NumType=Sing|Number=Plur	0	root	_	_
+2	ماهواره‌ای	ماهواره	ADJ	ADJ	Number=Plur	1	dep	_	_
+3	اولین	اولین	ADJ	ADJ	Number=Plur	1	dep	_	_
+4	کسانی	کسی	PRON	PRON	PronType=Int,Rel	1	dep	_	_
+5	هستند	هست	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	dep	_	_
+6	که	که	PRON	PRON	PronType=Rel	1	dep	_	_
+7	به	به	ADP	ADP	_	8	case	_	_
+8	مردم	مردم	NOUN	NOUN	Number=Plur	6	obl	_	_
+9	ایران	ایران	PROPN	PROPN	_	8	nmod	_	_
+10	نارو	نارو	VERB	VERB	Aspect=Perf|VerbForm=Part	11	aux	_	_
+11	می‌زنند	زدن	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+12	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s7
+# text = آیا تاکنون کسی را دیده‌اید که یک ماشین 10 میلیونی را با یک پیکان 35 ساله تاخت زده باشد؟
+1	آیا	_	_	_	_	0	root	_	_
+2	تاکنون	_	_	_	_	1	dep	_	_
+3	کسی	_	_	_	_	1	dep	_	_
+4	را	_	_	_	_	1	dep	_	_
+5	دیده‌اید	_	_	_	_	1	dep	_	_
+6	که	_	_	_	_	1	dep	_	_
+7	یک	_	_	_	_	1	dep	_	_
+8	ماشین	_	_	_	_	1	dep	_	_
+9	10	_	_	_	_	1	dep	_	_
+10	میلیونی	_	_	_	_	1	dep	_	_
+11	را	_	_	_	_	1	dep	_	_
+12	با	_	_	_	_	1	dep	_	_
+13	یک	_	_	_	_	1	dep	_	_
+14	پیکان	_	_	_	_	1	dep	_	_
+15	35	_	_	_	_	1	dep	_	_
+16	ساله	_	_	_	_	1	dep	_	_
+17	تاخت	_	_	_	_	1	dep	_	_
+18	زده	_	_	_	_	1	dep	_	_
+19	باشد	_	_	_	_	1	dep	_	_
+20	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1223
+# text = بنگور از نظر پلیس انگلستان یک شهر امن محسوب می‌شود.
+1	بنگور	_	_	_	_	9	dep	_	_
+2	از	از	ADP	_	_	3	case	_	_
+3	نظر	نظر	NOUN	_	Case=Gen|Number=Sing	4	obl	_	_
+4	پلیس	پلیس	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
+5	انگلستان	انگلستان	PROPN	_	Case=Gen|Number=Sing	1	obl	_	_
+6	یک	یک	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	شهر	شهر	NOUN	_	Case=Acc|Number=Sing	8	nsubj	_	_
+8	امن	امن	ADJ	_	Case=Acc|Number=Sing	9	amod	_	_
+9	محسوب	محسوب	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+10	می‌شود	می‌شود	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+11	.	_	_	_	_	9	dep	_	_
+
+# sent_id = test-s58
+# text = تو با وجود خودت پا می‌گیری.
+1	تو	تو	PRON	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	با	با	ADP	ADP	_	3	case	_	_
+3	وجود	وجود	NOUN	NOUN	Case=Gen|Number=Sing	4	nmod	_	_
+4-5	خودت	_	_	_	_	_	_	_	_
+4	خود	خود	PRON	PRON	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	dobj	_	_
+5	ت	ت	VERB	VERB	Aspect=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	پا	پا	NOUN	NOUN	Case=Acc|Number=Sing	5	dobj	_	_
+7	می‌گیری	_	_	_	_	5	dep	_	_
+8	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s251
+# text = من هم با تمام قوایم و با تکیه بر عقلم، طبیعت اطرافم را تخریب می‌کنم.
+1	من	_	_	_	_	0	root	_	_
+2	هم	_	_	_	_	1	dep	_	_
+3	با	_	_	_	_	1	dep	_	_
+4	تمام	_	_	_	_	1	dep	_	_
+5-6	قوایم	_	_	_	_	_	_	_	_
+5	قوا	_	_	_	_	1	dep	_	_
+6	یم	_	_	_	_	1	dep	_	_
+7	و	_	_	_	_	1	dep	_	_
+8	با	_	_	_	_	1	dep	_	_
+9	تکیه	_	_	_	_	1	dep	_	_
+10	بر	_	_	_	_	1	dep	_	_
+11-13	عقلم،	_	_	_	_	_	_	_	_
+11	عقل	_	_	_	_	1	dep	_	_
+12	م	_	_	_	_	1	dep	_	_
+13	،	_	_	_	_	1	dep	_	_
+14	طبیعت	_	_	_	_	1	dep	_	_
+15-16	اطرافم	_	_	_	_	_	_	_	_
+15	اطراف	_	_	_	_	1	dep	_	_
+16	م	_	_	_	_	1	dep	_	_
+17	را	_	_	_	_	1	dep	_	_
+18	تخریب	_	_	_	_	1	dep	_	_
+19	می‌کنم	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s771
+# text = خداوند، شما را به سوگندهای لغوی که یاد می‌کنید و اثری بر آنها مترتب نیست، مؤاخذه نمی‌کند، بلکه شما را به آنچه دل‌های شما کسب می‌کنند مؤاخذه می‌کند.
+1	خداوند	_	_	_	_	0	root	_	_
+2	،	_	_	_	_	1	dep	_	_
+3	شما	_	_	_	_	1	dep	_	_
+4	را	_	_	_	_	1	dep	_	_
+5	به	_	_	_	_	1	dep	_	_
+6	سوگندهای	_	_	_	_	1	dep	_	_
+7	لغوی	_	_	_	_	1	dep	_	_
+8	که	_	_	_	_	1	dep	_	_
+9	یاد	_	_	_	_	1	dep	_	_
+10	می‌کنید	_	_	_	_	1	dep	_	_
+11	و	_	_	_	_	1	dep	_	_
+12	اثری	_	_	_	_	1	dep	_	_
+13	بر	_	_	_	_	1	dep	_	_
+14	آنها	_	_	_	_	1	dep	_	_
+15	مترتب	_	_	_	_	1	dep	_	_
+16	نیست	_	_	_	_	1	dep	_	_
+17	،	_	_	_	_	1	dep	_	_
+18	مؤاخذه	_	_	_	_	1	dep	_	_
+19	نمی‌کند	_	_	_	_	1	dep	_	_
+20	،	_	_	_	_	1	dep	_	_
+21	بلکه	_	_	_	_	1	dep	_	_
+22	شما	_	_	_	_	1	dep	_	_
+23	را	_	_	_	_	1	dep	_	_
+24	به	_	_	_	_	1	dep	_	_
+25	آنچه	_	_	_	_	1	dep	_	_
+26	دل‌های	_	_	_	_	1	dep	_	_
+27	شما	_	_	_	_	1	dep	_	_
+28	کسب	_	_	_	_	1	dep	_	_
+29	می‌کنند	_	_	_	_	1	dep	_	_
+30	مؤاخذه	_	_	_	_	1	dep	_	_
+31	می‌کند	_	_	_	_	1	dep	_	_
+32	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s148
+# text = به طور دقیق معلوم نیست که انسان‌ها در چه دوره‌ای از تاریخ برای نخستین بار روی افراد نام‌گذاری کردند اما مسلم است که نام‌گذاری دارای تاریخچهٔ طولانی است.
+1	به	به	ADP	ADP	_	2	case	_	_
+2	طور	طور	NOUN	NOUN	Number=Sing	3	nmod	_	_
+3	دقیق	دقیق	ADJ	ADJ	Number=Sing	4	amod	_	_
+4	معلوم	معلوم	VERB	VERB	Number=Sing	5	nsubj	_	_
+5	نیست	نیست	VERB	VERB	Number=Sing	0	root	_	_
+6	که	که	SCONJ	SCONJ	_	7	mark	_	_
+7	انسان‌ها	انسان	NOUN	NOUN	Number=Plur	5	advcl	_	_
+8	در	در	ADP	ADP	_	9	case	_	_
+9	چه	چه	DET	DET	Number=Sing	10	nmod	_	_
+10	دوره‌ای	دوره	NOUN	NOUN	Number=Sing	7	nmod	_	_
+11	از	از	ADP	ADP	_	12	case	_	_
+12	تاریخ	تاریخ	NOUN	NOUN	Number=Sing	10	nmod	_	_
+13	برای	برای	ADP	ADP	_	14	case	_	_
+14	نخستین	نخستین	ADJ	ADJ	Number=Sing	10	nmod	_	_
+15	بار	بار	NOUN	NOUN	Number=Sing	14	nmod	_	_
+16	روی	روی	ADP	ADP	_	17	case	_	_
+17	افراد	افراد	NOUN	NOUN	Number=Plur	15	nmod	_	_
+18	نام‌گذاری	نام‌گذاری	NOUN	NOUN	Number=Sing	17	nmod	_	_
+19	کردند	کردند	VERB	VERB	Number=Plur	17	acl	_	_
+20	اما	اما	CCONJ	CCONJ	_	21	cc	_	_
+21	مسلم	مسلم	ADJ	ADJ	Number=Sing	5	conj	_	_
+22	است	است	VERB	VERB	Number=Sing	21	advcl	_	_
+23	که	که	SCONJ	SCONJ	_	24	mark	_	_
+24	نام‌گذاری	نام‌گذاری	NOUN	NOUN	Number=Sing	21	advcl	_	_
+25	دارای	دارای	ADJ	ADJ	Number=Sing	26	amod	_	_
+26	تاریخچهٔ	تاریخچه	NOUN	NOUN	Number=Sing	24	nmod	_	_
+27	طولانی	طولانی	ADJ	ADJ	Number=Sing	26	amod	_	_
+28	است	است	VERB	VERB	Number=Sing	26	acl	_	_
+29	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s945
+# text = محاسبهٔ قبلی آنها غلط از آب درآمده بود.
+1	محاسبهٔ	_	_	_	_	4	dep	_	_
+2	قبلی	قبلی	ADJ	_	_	3	amod	_	_
+3	آنها	آن	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	غلط	محاسبه	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	از	غلط	ADJ	_	_	4	amod	_	_
+6	آب	از	ADP	_	_	7	case	_	_
+7	درآمده	آب	NOUN	_	Case=Acc|Number=Sing	4	obl	_	_
+8	بود	درآمد	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+9	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s222
+# text = هلیا را چهار ماه بود که ندیده بودیم کلی بزرگ‌تر و خوشگل‌تر شده بود.
+1	هلیا	هلیا	NOUN	NN	_	4	nsubj	_	_
+2	را	را	ADP	PART	_	1	case	_	_
+3	چهار	چهار	NUM	CARD	_	4	nummod	_	_
+4	ماه	ماه	NOUN	NN	_	5	nmod:tmod	_	_
+5	بود	بود	VERB	VBD	_	0	root	_	_
+6	که	که	SCONJ	CONJ	_	5	mark	_	_
+7	ندیده	ندید	VERB	VBD	_	5	ccomp	_	_
+8	بودیم	بود	VERB	VBD	_	7	aux	_	_
+9	کلی	کلی	ADV	ADV	_	7	advmod	_	_
+10	بزرگ‌تر	بزرگ‌تر	ADJ	JJ	_	7	advmod	_	_
+11	و	و	CCONJ	CONJ	_	10	cc	_	_
+12	خوشگل‌تر	خوشگل‌تر	ADJ	JJ	_	10	conj	_	_
+13	شده	شده	VERB	VBN	_	7	ccomp	_	_
+14	بود	بود	VERB	VBD	_	13	aux	_	_
+15	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s1072
+# text = پتر اشتورزنبرگر مدت بیست سال است که در آلمان وکالت می‌کند.
+1	پتر	پتر	NOUN	NN	Number=Sing|Person=3	0	root	_	_
+2	اشتورزنبرگر	اشتورزنبرگر	ADJ	JJ	Number=Sing|Person=3	1	amod	_	_
+3	مدت	مدت	NOUN	NN	Number=Sing|Person=3	1	dep	_	_
+4	بیست	بیست	NUM	CD	Number=Sing|Person=3	5	nummod	_	_
+5	سال	سال	NOUN	NN	Number=Sing|Person=3	3	nmod	_	_
+6	است	است	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+7	که	که	SCONJ	IN	_	8	mark	_	_
+8	در	در	ADP	IN	_	9	case	_	_
+9	آلمان	آلمان	NOUN	NN	Number=Sing|Person=3	10	nmod	_	_
+10	وکالت	وکالت	NOUN	NN	Number=Sing|Person=3	4	advcl	_	_
+11	می‌کند	می‌کند	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s948
+# text = دولت‌ها باید برای مبارزه با پول‌شویی، یک سری از قوانین و مقرراتی را که به پول‌شویی مجال می‌دهند، تغییر دهند.
+1	دولت‌ها	dowlat-ha	ADJ	ADJ	NumType=Sing|Number=Plur	2	nsubj	_	_
+2	باید	bayad	AUX	AUX	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	برای	ba-ye	ADP	ADP	Case=Acc	4	case	_	_
+4	مبارزه	mobarez	NOUN	NOUN	Number=Sing	2	obl	_	_
+5	با	ba	ADP	ADP	Case=Acc	6	case	_	_
+6	پول‌شویی	pul-shuii	NOUN	NOUN	Number=Sing	4	nmod	_	_
+7	،	،	PUNCT	PUNCT	_	8	punct	_	_
+8	یک	yek	NUM	NUM	NumType=Card	9	nummod	_	_
+9	سری	siri	NOUN	NOUN	Number=Sing	4	nmod	_	_
+10	از	az	ADP	ADP	Case=Gen	11	case	_	_
+11	قوانین	qavanin	NOUN	NOUN	Number=Plur	9	nmod	_	_
+12	و	mo	CONJ	CONJ	_	11	cc	_	_
+13	مقرراتی	moqararat	NOUN	NOUN	Number=Plur	11	conj	_	_
+14	را	ra	PART	PART	_	11	nmod	_	_
+15	که	ke	CCONJ	CONJ	_	16	cc	_	_
+16	به	ba	ADP	ADP	Case=Acc	17	case	_	_
+17	پول‌شویی	pul-shuii	NOUN	NOUN	Number=Sing	13	nmod	_	_
+18	مجال	majal	NOUN	NOUN	Number=Sing	16	nmod	_	_
+19	می‌دهند	mi-dahand	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres	13	acl	_	_
+20	،	،	PUNCT	PUNCT	_	2	punct	_	_
+21	تغییر	taqayyir	NOUN	NOUN	Number=Sing	22	compound:lvc	_	_
+22	دهند	dahand	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres	19	acl	_	_
+23	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s1081
+# text = این مقاله، بررسی اجمالی است در باب آنچه در تفسیر میبدی به نام خواجه عبدالله انصاری آمده یا به گونه‌ای نقل شده است که خواننده انتساب آن را به خواجه یقین خواهد کرد.
+1	این	این	DET	DET	_	2	det	_	_
+2	مقاله	مقاله	NOUN	NOUN	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	،	بررسی	NOUN	NOUN	Number=Sing	4	nsubj	_	_
+4	بررسی	اجمالی	ADJ	ADJ	Number=Sing	5	amod	_	_
+5	اجمالی	است	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+6	است	در	ADP	ADP	_	7	case	_	_
+7	در	باب	NOUN	NOUN	Number=Sing	5	obl	_	_
+8	باب	چه	PRON	PRON	PronType=Int	9	nsubj	_	_
+9	آنچه	است	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	acl:relcl	_	_
+10	در	در	ADP	ADP	_	11	case	_	_
+11	تفسیر	تفسیر	NOUN	NOUN	Number=Sing	9	obl	_	_
+12	میبدی	میبدی	ADJ	ADJ	Number=Sing	11	amod	_	_
+13	به	به	ADP	ADP	_	14	case	_	_
+14	نام	نام	NOUN	NOUN	Number=Sing	11	nmod	_	_
+15	خواجه	خواجه	NOUN	NOUN	Number=Sing	16	nmod:poss	_	_
+16	عبدالله	عبدالله	NOUN	NOUN	Number=Sing	14	nmod:poss	_	_
+17	انصاری	انصاری	NOUN	NOUN	Number=Sing	15	amod	_	_
+18	آمده	آمده	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	5	dep	_	_
+19	یا	یا	CCONJ	CCONJ	_	21	cc	_	_
+20	به	به	ADP	ADP	_	21	case	_	_
+21	گونه‌ای	گونه	NOUN	NOUN	Number=Sing	18	nmod	_	_
+22	نقل	نقل	NOUN	NOUN	Number=Sing	23	nmod:poss	_	_
+23	شده	شده	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	21	acl:relcl	_	_
+24	است	است	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	21	cop	_	_
+25	که	که	SCONJ	SCONJ	_	27	mark	_	_
+26	خواننده	خواننده	NOUN	NOUN	Number=Sing	27	nsubj	_	_
+27	انتساب	انتساب	NOUN	NOUN	Number=Sing	23	acl:relcl	_	_
+28	آن	آن	PRON	PRON	PronType=Dem	27	dobj	_	_
+29	را	را	ADP	ADP	_	30	case	_	_
+30	به	به	ADP	ADP	_	31	case	_	_
+31	خواجه	خواجه	NOUN	NOUN	Number=Sing	27	nmod	_	_
+32	یقین	یقین	NOUN	NOUN	Number=Sing	31	amod	_	_
+33	خواهد	خواهد	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	32	cop	_	_
+34	کرد	کرد	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	33	cop	_	_
+35	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s1163
+# text = الهاشمی غیابی محاکمه خواهد شد.
+1	الهاشمی	_	_	_	_	0	root	_	_
+2	غیابی	_	_	_	_	1	dep	_	_
+3	محاکمه	_	_	_	_	1	dep	_	_
+4	خواهد	_	_	_	_	1	dep	_	_
+5	شد	_	_	_	_	1	dep	_	_
+6	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1039
+# text = بنابراین، بی‌توجهی به بانکداری الکترونیک، موجب عقب‌ماندگی از همهٔ دستاوردهای نوین در عرصهٔ بانکداری می‌شود.
+1	بنابراین	ثبت	NOUN	NN	Number=Sing|Person=3	0	root	_	_
+2	،	این	DET	DT	Number=Sing|Person=3|PronType=Dem	1	dep	_	_
+3	بی‌توجهی	بی‌توجهی	NOUN	NN	Number=Sing	1	dep	_	_
+4	به	به	ADP	IN	_	5	case	_	_
+5	بانکداری	بانکداری	NOUN	NN	Number=Sing	6	nmod	_	_
+6	الکترونیک	الکترونیک	NOUN	NN	Number=Sing	3	amod	_	_
+7	،	،	PUNCT	,	_	1	dep	_	_
+8	موجب	موجب	ADP	IN	_	1	dep	_	_
+9	عقب‌ماندگی	عقب‌ماندگی	NOUN	NN	Number=Sing	1	dep	_	_
+10	از	از	ADP	IN	_	11	case	_	_
+11	همهٔ	همه	DET	DT	Number=Plur|PronType=Tot	12	det	_	_
+12	دستاوردهای	دستاورد	NOUN	NN	Number=Plur	13	nmod	_	_
+13	نوین	نوین	ADJ	JJ	Degree=Pos	9	amod	_	_
+14	در	در	ADP	IN	_	15	case	_	_
+15	عرصهٔ	عرصه	NOUN	NN	Number=Sing	16	nmod	_	_
+16	بانکداری	بانکداری	NOUN	NN	Number=Sing	9	amod	_	_
+17	می‌شود	می‌شود	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	acl:relcl	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s467
+# text = اگر احساسی را سرکوب کنیم، صدایش درمی‌آید و به قول معروف قیل و قال می‌کند.
+1	اگر	اگر	ADV	_	_	0	root	_	_
+2	احساسی	احساسی	NOUN	_	_	1	dep	_	_
+3	را	را	PART	_	_	2	case	_	_
+4	سرکوب	سرکوب	VERB	_	_	5	advcl	_	_
+5	کنیم	کنیم	AUX	_	_	2	aux	_	_
+6	،	،	PUNCT	_	_	7	punct	_	_
+7-8	صدایش	_	_	_	_	_	_	_	_
+7	صدا	صدا	NOUN	_	_	8	nsubj	_	_
+8	یش	یش	VERB	_	_	9	cop	_	_
+9	درمی‌آید	درمی‌آید	VERB	_	_	2	root	_	_
+10	و	و	CCONJ	_	_	1	dep	_	_
+11	به	به	ADP	_	_	1	dep	_	_
+12	قول	قول	NOUN	_	_	1	dep	_	_
+13	معروف	معروف	ADJ	_	_	1	dep	_	_
+14	قیل	قیل	NOUN	_	_	1	dep	_	_
+15	و	و	CCONJ	_	_	16	cc	_	_
+16	قال	قال	NOUN	_	_	14	conj	_	_
+17	می‌کند	می‌کند	VERB	_	_	14	root	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s677
+# text = تقوا را صیانت و حفظ کنید و خودتان را به وسیلهٔ تقوا صیانت کنید.
+1	تقوا	_	_	_	_	0	root	_	_
+2	را	_	_	_	_	1	dep	_	_
+3	صیانت	_	_	_	_	1	dep	_	_
+4	و	_	_	_	_	1	dep	_	_
+5	حفظ	_	_	_	_	1	dep	_	_
+6	کنید	_	_	_	_	1	dep	_	_
+7	و	_	_	_	_	1	dep	_	_
+8-9	خودتان	_	_	_	_	_	_	_	_
+8	خود	_	_	_	_	1	dep	_	_
+9	تان	_	_	_	_	1	dep	_	_
+10	را	_	_	_	_	1	dep	_	_
+11	به	_	_	_	_	1	dep	_	_
+12	وسیلهٔ	_	_	_	_	1	dep	_	_
+13	تقوا	_	_	_	_	1	dep	_	_
+14	صیانت	_	_	_	_	1	dep	_	_
+15	کنید	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s977
+# text = یک‌باره یک کسی بدون داشتن اطلاعات جدی یا مطالعه توانسته یک نوآوری بکند.
+1	یک‌باره	_	_	_	_	0	root	_	_
+2	یک	_	_	_	_	1	dep	_	_
+3	کسی	_	_	_	_	1	dep	_	_
+4	بدون	_	_	_	_	1	dep	_	_
+5	داشتن	_	_	_	_	1	dep	_	_
+6	اطلاعات	_	_	_	_	1	dep	_	_
+7	جدی	_	_	_	_	1	dep	_	_
+8	یا	_	_	_	_	1	dep	_	_
+9	مطالعه	_	_	_	_	1	dep	_	_
+10	توانسته	_	_	_	_	1	dep	_	_
+11	یک	_	_	_	_	1	dep	_	_
+12	نوآوری	_	_	_	_	1	dep	_	_
+13	بکند	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s367
+# text = تنها به قانون توسل می‌کنیم.
+1	تنها	تنها	ADJ	ADJ	_	0	root	_	_
+2	به	به	ADP	ADP	_	3	case	_	_
+3	قانون	قانون	NOUN	NOUN	_	4	nmod	_	_
+4	توسل	توسل	VERB	VERB	_	5	compound	_	_
+5	می‌کنیم	_	_	_	_	1	dep	_	_
+6	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1248
+# text = به قدری خوش‌محضر و شیرین‌زبانند که هیچ کس از صحبتشان سیر نمی‌شود.
+1	به	به	ADP	ADP	_	0	root	_	_
+2	قدری	قدری	ADV	ADV	_	1	dep	_	_
+3	خوش‌محضر	خوش‌محضر	ADJ	ADJ	_	1	dep	_	_
+4	و	و	CCONJ	CCONJ	_	3	cc	_	_
+5-6	شیرین‌زبانند	_	_	_	_	_	_	_	_
+5	شیرین‌زبان	شیرین‌زبان	ADJ	ADJ	_	1	dep	_	_
+6	ند	ند	VERB	VERB	_	1	dep	_	_
+7	که	که	SCONJ	SCONJ	_	1	dep	_	_
+8	هیچ	هیچ	DET	DET	_	1	dep	_	_
+9	کس	کس	NOUN	NOUN	_	1	dep	_	_
+10	از	از	ADP	ADP	_	11	case	_	_
+11-12	صحبتشان	_	_	_	_	_	_	_	_
+11	صحبت	صحبت	NOUN	NOUN	_	9	nmod	_	_
+12	شان	شان	PRON	PRON	_	11	nmod	_	_
+13	سیر	سیر	VERB	VERB	_	14	cop	_	_
+14	نمی‌شود	نمی‌شود	AUX	AUX	_	6	advcl	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s681
+# text = به خاطر آیندهٔ 2 فرزندم که حاضرم برایشان جانم را فدا کنم از این مرد بی‌مسئولیت طلاق خواهم گرفت.
+1	به	_	_	_	_	0	root	_	_
+2	خاطر	_	_	_	_	1	dep	_	_
+3	آیندهٔ	_	_	_	_	1	dep	_	_
+4	2	_	_	_	_	1	dep	_	_
+5-6	فرزندم	_	_	_	_	_	_	_	_
+5	فرزند	_	_	_	_	1	dep	_	_
+6	م	_	_	_	_	1	dep	_	_
+7	که	_	_	_	_	1	dep	_	_
+8-9	حاضرم	_	_	_	_	_	_	_	_
+8	حاضر	_	_	_	_	1	dep	_	_
+9	م	_	_	_	_	1	dep	_	_
+10-11	برایشان	_	_	_	_	_	_	_	_
+10	برای	_	_	_	_	1	dep	_	_
+11	شان	_	_	_	_	1	dep	_	_
+12-13	جانم	_	_	_	_	_	_	_	_
+12	جان	_	_	_	_	1	dep	_	_
+13	م	_	_	_	_	1	dep	_	_
+14	را	_	_	_	_	1	dep	_	_
+15	فدا	_	_	_	_	1	dep	_	_
+16	کنم	_	_	_	_	1	dep	_	_
+17	از	_	_	_	_	1	dep	_	_
+18	این	_	_	_	_	1	dep	_	_
+19	مرد	_	_	_	_	1	dep	_	_
+20	بی‌مسئولیت	_	_	_	_	1	dep	_	_
+21	طلاق	_	_	_	_	1	dep	_	_
+22	خواهم	_	_	_	_	1	dep	_	_
+23	گرفت	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s165
+# text = قزوین از قرن سوم هجری به بعد از مراکز مهم علمی به حساب آمد.
+1	قزوین	قزوین	NOUN	NN	_	0	root	_	_
+2	از	از	ADP	IN	_	3	case	_	_
+3	قرن	قرن	NOUN	NN	_	1	nmod	_	_
+4	سوم	سوم	ADJ	JJ	_	3	amod	_	_
+5	هجری	هجری	ADJ	JJ	_	3	amod	_	_
+6	به	به	ADP	IN	_	7	case	_	_
+7	بعد	بعد	NOUN	NN	_	3	nmod	_	_
+8	از	از	ADP	IN	_	9	case	_	_
+9	مراکز	مرکز	NOUN	NN	_	7	nmod	_	_
+10	مهم	مهم	ADJ	JJ	_	9	amod	_	_
+11	علمی	علمی	ADJ	JJ	_	9	amod	_	_
+12	به	به	ADP	IN	_	13	case	_	_
+13	حساب	حساب	NOUN	NN	_	9	nmod	_	_
+14	آمد	آمد	VERB	VBD	_	1	acl	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1180
+# text = چنانچه شورای نگهبان اغماض کرده باشد، دچار تخلف شده است.
+1	چنانچه	_	_	_	_	0	root	_	_
+2	شورای	_	_	_	_	1	dep	_	_
+3	نگهبان	_	_	_	_	1	dep	_	_
+4	اغماض	_	_	_	_	1	dep	_	_
+5	کرده	_	_	_	_	1	dep	_	_
+6	باشد	_	_	_	_	1	dep	_	_
+7	،	_	_	_	_	1	dep	_	_
+8	دچار	_	_	_	_	1	dep	_	_
+9	تخلف	_	_	_	_	1	dep	_	_
+10	شده	_	_	_	_	1	dep	_	_
+11	است	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1154
+# text = کسی که ادعای محبت و دوستی اهل بیت را دارد و از طرفی با دشمنان آنها سر سازش دارد در محبت خود یاوه‌گویی کرده است.
+1	کسی	_	_	_	_	0	root	_	_
+2	که	_	_	_	_	1	dep	_	_
+3	ادعای	_	_	_	_	1	dep	_	_
+4	محبت	_	_	_	_	1	dep	_	_
+5	و	_	_	_	_	1	dep	_	_
+6	دوستی	_	_	_	_	1	dep	_	_
+7	اهل	_	_	_	_	1	dep	_	_
+8	بیت	_	_	_	_	1	dep	_	_
+9	را	_	_	_	_	1	dep	_	_
+10	دارد	_	_	_	_	1	dep	_	_
+11	و	_	_	_	_	1	dep	_	_
+12	از	_	_	_	_	1	dep	_	_
+13	طرفی	_	_	_	_	1	dep	_	_
+14	با	_	_	_	_	1	dep	_	_
+15	دشمنان	_	_	_	_	1	dep	_	_
+16	آنها	_	_	_	_	1	dep	_	_
+17	سر	_	_	_	_	1	dep	_	_
+18	سازش	_	_	_	_	1	dep	_	_
+19	دارد	_	_	_	_	1	dep	_	_
+20	در	_	_	_	_	1	dep	_	_
+21	محبت	_	_	_	_	1	dep	_	_
+22	خود	_	_	_	_	1	dep	_	_
+23	یاوه‌گویی	_	_	_	_	1	dep	_	_
+24	کرده	_	_	_	_	1	dep	_	_
+25	است	_	_	_	_	1	dep	_	_
+26	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s16
+# text = همین جا بدون آنکه پیش‌داوری کرده باشم، می‌گویم که آثار عابدینی در این وانفسای سوختن‌ها و ساختن‌ها، که بیش از هر چیزی نیاز به نوجویی و نوگویی هست، ارزش زیبایی‌شناختی خاصی پیدا کرده‌اند.
+1	همین	_	_	_	_	0	root	_	_
+2	جا	_	_	_	_	1	dep	_	_
+3	بدون	_	_	_	_	1	dep	_	_
+4	آنکه	_	_	_	_	1	dep	_	_
+5	پیش‌داوری	_	_	_	_	1	dep	_	_
+6	کرده	_	_	_	_	1	dep	_	_
+7	باشم	_	_	_	_	1	dep	_	_
+8	،	_	_	_	_	1	dep	_	_
+9	می‌گویم	_	_	_	_	1	dep	_	_
+10	که	_	_	_	_	1	dep	_	_
+11	آثار	_	_	_	_	1	dep	_	_
+12	عابدینی	_	_	_	_	1	dep	_	_
+13	در	_	_	_	_	1	dep	_	_
+14	این	_	_	_	_	1	dep	_	_
+15	وانفسای	_	_	_	_	1	dep	_	_
+16	سوختن‌ها	_	_	_	_	1	dep	_	_
+17	و	_	_	_	_	1	dep	_	_
+18	ساختن‌ها	_	_	_	_	1	dep	_	_
+19	،	_	_	_	_	1	dep	_	_
+20	که	_	_	_	_	1	dep	_	_
+21	بیش	_	_	_	_	1	dep	_	_
+22	از	_	_	_	_	1	dep	_	_
+23	هر	_	_	_	_	1	dep	_	_
+24	چیزی	_	_	_	_	1	dep	_	_
+25	نیاز	_	_	_	_	1	dep	_	_
+26	به	_	_	_	_	1	dep	_	_
+27	نوجویی	_	_	_	_	1	dep	_	_
+28	و	_	_	_	_	1	dep	_	_
+29	نوگویی	_	_	_	_	1	dep	_	_
+30	هست	_	_	_	_	1	dep	_	_
+31	،	_	_	_	_	1	dep	_	_
+32	ارزش	_	_	_	_	1	dep	_	_
+33	زیبایی‌شناختی	_	_	_	_	1	dep	_	_
+34	خاصی	_	_	_	_	1	dep	_	_
+35	پیدا	_	_	_	_	1	dep	_	_
+36	کرده‌اند	_	_	_	_	1	dep	_	_
+37	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1119
+# text = من در 13 سالگی ازدواج کردم و 20 سال پیش در حالی که یک دختر داشتم با همسرم متارکه کردم.
+1	من	_	_	_	_	0	root	_	_
+2	در	_	_	_	_	1	dep	_	_
+3	13	_	_	_	_	1	dep	_	_
+4	سالگی	_	_	_	_	1	dep	_	_
+5	ازدواج	_	_	_	_	1	dep	_	_
+6	کردم	_	_	_	_	1	dep	_	_
+7	و	_	_	_	_	1	dep	_	_
+8	20	_	_	_	_	1	dep	_	_
+9	سال	_	_	_	_	1	dep	_	_
+10	پیش	_	_	_	_	1	dep	_	_
+11	در	_	_	_	_	1	dep	_	_
+12	حالی	_	_	_	_	1	dep	_	_
+13	که	_	_	_	_	1	dep	_	_
+14	یک	_	_	_	_	1	dep	_	_
+15	دختر	_	_	_	_	1	dep	_	_
+16	داشتم	_	_	_	_	1	dep	_	_
+17	با	_	_	_	_	1	dep	_	_
+18-19	همسرم	_	_	_	_	_	_	_	_
+18	همسر	_	_	_	_	1	dep	_	_
+19	م	_	_	_	_	1	dep	_	_
+20	متارکه	_	_	_	_	1	dep	_	_
+21	کردم	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1065
+# text = اولیا چلبی که در 1071 از پرلپه دیدن کرد، آن را شهری با هزار خانه و ده محله وصف می‌کند.
+1	اولیا	_	_	_	_	0	root	_	_
+2	چلبی	_	_	_	_	1	dep	_	_
+3	که	_	_	_	_	1	dep	_	_
+4	در	_	_	_	_	1	dep	_	_
+5	1071	_	_	_	_	1	dep	_	_
+6	از	_	_	_	_	1	dep	_	_
+7	پرلپه	_	_	_	_	1	dep	_	_
+8	دیدن	_	_	_	_	1	dep	_	_
+9	کرد	_	_	_	_	1	dep	_	_
+10	،	_	_	_	_	1	dep	_	_
+11	آن	_	_	_	_	1	dep	_	_
+12	را	_	_	_	_	1	dep	_	_
+13	شهری	_	_	_	_	1	dep	_	_
+14	با	_	_	_	_	1	dep	_	_
+15	هزار	_	_	_	_	1	dep	_	_
+16	خانه	_	_	_	_	1	dep	_	_
+17	و	_	_	_	_	1	dep	_	_
+18	ده	_	_	_	_	1	dep	_	_
+19	محله	_	_	_	_	1	dep	_	_
+20	وصف	_	_	_	_	1	dep	_	_
+21	می‌کند	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s753
+# text = اهمیت انتخابات با تحولات جهانی فزونی گرفت.
+1	اهمیت	اهمیت	ADJ	ADJ	_	0	root	_	_
+2	انتخابات	انتخاب	VERB	VERB	_	1	dep	_	_
+3	با	با	ADP	ADP	_	4	case	_	_
+4	تحولات	تحول	VERB	VERB	_	2	advcl	_	_
+5	جهانی	جهانی	ADJ	ADJ	_	4	amod	_	_
+6	فزونی	فزونی	ADJ	ADJ	_	4	amod	_	_
+7	گرفت	گرفتن	VERB	VERB	_	2	root	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s634
+# text = اورانگوتانی در باغ وحشی در مالزی که به دلیل سیگاری بودن اطرافیانش در باغ وحش به سیگار کشیدن عادت کرده بود، ترک داده شد.
+1	اورانگوتانی	_	_	_	_	0	root	_	_
+2	در	_	_	_	_	1	dep	_	_
+3	باغ	_	_	_	_	1	dep	_	_
+4	وحشی	_	_	_	_	1	dep	_	_
+5	در	_	_	_	_	1	dep	_	_
+6	مالزی	_	_	_	_	1	dep	_	_
+7	که	_	_	_	_	1	dep	_	_
+8	به	_	_	_	_	1	dep	_	_
+9	دلیل	_	_	_	_	1	dep	_	_
+10	سیگاری	_	_	_	_	1	dep	_	_
+11	بودن	_	_	_	_	1	dep	_	_
+12-13	اطرافیانش	_	_	_	_	_	_	_	_
+12	اطرافیان	_	_	_	_	1	dep	_	_
+13	ش	_	_	_	_	1	dep	_	_
+14	در	_	_	_	_	1	dep	_	_
+15	باغ	_	_	_	_	1	dep	_	_
+16	وحش	_	_	_	_	1	dep	_	_
+17	به	_	_	_	_	1	dep	_	_
+18	سیگار	_	_	_	_	1	dep	_	_
+19	کشیدن	_	_	_	_	1	dep	_	_
+20	عادت	_	_	_	_	1	dep	_	_
+21	کرده	_	_	_	_	1	dep	_	_
+22	بود	_	_	_	_	1	dep	_	_
+23	،	_	_	_	_	1	dep	_	_
+24	ترک	_	_	_	_	1	dep	_	_
+25	داده	_	_	_	_	1	dep	_	_
+26	شد	_	_	_	_	1	dep	_	_
+27	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1289
+# text = سامسونگ طی سه ماههٔ چهارم سال 2003 توانست از غول بزرگ رشتهٔ LCD در جهان یعنی LG که آن هم کره‌ای است سبقت بجوید.
+1	سامسونگ	_	_	_	_	0	root	_	_
+2	طی	_	_	_	_	1	dep	_	_
+3	سه	_	_	_	_	1	dep	_	_
+4	ماههٔ	_	_	_	_	1	dep	_	_
+5	چهارم	_	_	_	_	1	dep	_	_
+6	سال	_	_	_	_	1	dep	_	_
+7	2003	_	_	_	_	1	dep	_	_
+8	توانست	_	_	_	_	1	dep	_	_
+9	از	_	_	_	_	1	dep	_	_
+10	غول	_	_	_	_	1	dep	_	_
+11	بزرگ	_	_	_	_	1	dep	_	_
+12	رشتهٔ	_	_	_	_	1	dep	_	_
+13	LCD	_	_	_	_	1	dep	_	_
+14	در	_	_	_	_	1	dep	_	_
+15	جهان	_	_	_	_	1	dep	_	_
+16	یعنی	_	_	_	_	1	dep	_	_
+17	LG	_	_	_	_	1	dep	_	_
+18	که	_	_	_	_	1	dep	_	_
+19	آن	_	_	_	_	1	dep	_	_
+20	هم	_	_	_	_	1	dep	_	_
+21	کره‌ای	_	_	_	_	1	dep	_	_
+22	است	_	_	_	_	1	dep	_	_
+23	سبقت	_	_	_	_	1	dep	_	_
+24	بجوید	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s403
+# text = به عظمت کسی که در محضرش گستاخی می‌کنید بیاندیشید.
+1	به	به	ADP	_	Case=Acc	2	case	_	_
+2	عظمت	عظمت	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+3	کسی	کسی	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+4	که	که	SCONJ	_	_	2	dep	_	_
+5	در	در	ADP	_	_	6	case	_	_
+6-7	محضرش	_	_	_	_	_	_	_	_
+6	محضر	محضر	NOUN	_	Case=Acc|Number=Sing	4	obl	_	_
+7	ش	ش	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+8	گستاخی	گستاخی	NOUN	_	Case=Acc|Number=Sing	9	nmod	_	_
+9	می‌کنید	می‌کنید	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	acl	_	_
+10	بیاندیشید	بیاندیشید	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s324
+# text = در دوازده ماه گذشته تیمی از کارشناسان و تحلیلگران در خصوص برنامهٔ هسته‌ای ونزوئلا تحقیق و تفحص می‌کنند.
+1	در	در	ADP	_	_	0	root	_	_
+2	دوازده	دوازده	NUM	_	NumType=Card	1	dep	_	_
+3	ماه	ماه	NOUN	_	_	1	dep	_	_
+4	گذشته	گذشته	ADJ	_	_	1	dep	_	_
+5	تیمی	تیم	NOUN	_	_	1	dep	_	_
+6	از	از	ADP	_	_	1	dep	_	_
+7	کارشناسان	کارشناس	NOUN	_	_	6	nmod	_	_
+8	و	و	CCONJ	_	_	9	cc	_	_
+9	تحلیلگران	تحلیلگر	NOUN	_	_	5	conj	_	_
+10	در	در	ADP	_	_	1	dep	_	_
+11	خصوص	خصوص	NOUN	_	_	10	nmod	_	_
+12	برنامهٔ	برنامه	NOUN	_	_	11	nmod	_	_
+13	هسته‌ای	هسته	NOUN	_	_	12	nmod	_	_
+14	ونزوئلا	ونزوئلا	PROPN	_	_	12	nmod	_	_
+15	تحقیق	تحقیق	VERB	_	_	1	dep	_	_
+16	و	و	CCONJ	_	_	17	cc	_	_
+17	تفحص	تفحص	VERB	_	_	15	conj	_	_
+18	می‌کنند	کرد	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s452
+# text = دفاع و جنگ، دیگر مفهومی هزاره‌ای و قومی ندارد، بلکه همهٔ این تلاش‌ها برای دفاع از وحدتی است که خلیلی و چند مرید دیگر آن را قبض کرده‌اند.
+1	دفاع	دفاع	NOUN	NOUN	_	0	root	_	_
+2	و	و	CCONJ	CCONJ	_	3	cc	_	_
+3	جنگ	جنگ	NOUN	NOUN	_	1	conj	_	_
+4	،	،	PUNCT	PUNCT	_	1	punct	_	_
+5	دیگر	دیگر	ADJ	ADJ	_	1	dep	_	_
+6	مفهومی	مفهومی	NOUN	NOUN	_	1	dep	_	_
+7	هزاره‌ای	هزاره‌ای	ADJ	ADJ	_	8	amod	_	_
+8	و	و	CCONJ	CCONJ	_	9	cc	_	_
+9	قومی	قومی	ADJ	ADJ	_	6	conj	_	_
+10	ندارد	ندارد	AUX	AUX	_	1	dep	_	_
+11	،	،	PUNCT	PUNCT	_	10	punct	_	_
+12	بلکه	بلکه	CCONJ	CCONJ	_	1	dep	_	_
+13	همهٔ	همه	ADJ	ADJ	_	1	dep	_	_
+14	این	این	DET	DET	_	1	dep	_	_
+15	تلاش‌ها	تلاش	NOUN	NOUN	_	1	dep	_	_
+16	برای	برای	ADP	ADP	_	1	dep	_	_
+17	دفاع	دفاع	NOUN	NOUN	_	1	dep	_	_
+18	از	از	ADP	ADP	_	1	dep	_	_
+19	وحدتی	وحدت	NOUN	NOUN	_	1	dep	_	_
+20	است	است	VERB	VERB	_	1	dep	_	_
+21	که	که	SCONJ	SCONJ	_	1	dep	_	_
+22	خلیلی	خلیلی	PROPN	PROPN	_	1	dep	_	_
+23	و	و	CCONJ	CCONJ	_	24	cc	_	_
+24	چند	چند	NUM	NUM	_	25	nummod	_	_
+25	مرید	مرید	NOUN	NOUN	_	22	conj	_	_
+26	دیگر	دیگر	ADJ	ADJ	_	25	amod	_	_
+27	آن	آن	DET	DET	_	1	dep	_	_
+28	را	را	PRON	PRON	_	1	dep	_	_
+29	قبض	قبض	VERB	VERB	_	1	dep	_	_
+30	کرده‌اند	کرده	AUX	AUX	_	29	aux	_	_
+31	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1014
+# text = روزانه چند خانواده توافقی از هم می‌پاشد؟
+1	روزانه	روزانه	ADP	_	_	0	root	_	_
+2	چند	چند	DET	_	_	1	dep	_	_
+3	خانواده	خانواده	NOUN	_	_	1	dep	_	_
+4	توافقی	توافقی	ADJ	_	_	3	amod	_	_
+5	از	از	ADP	_	_	6	case	_	_
+6	هم	هم	PRON	_	_	7	nmod	_	_
+7	می‌پاشد	پاشیدن	VERB	_	_	3	acl	_	_
+8	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1177
+# text = در بخش صنایع دستی می‌توان با هزینه‌های کم اشتغال‌زایی کرد.
+1	در	در	ADP	_	_	2	case	_	_
+2	بخش	بخش	NOUN	_	Number=Sing|Person=3	3	nmod	_	_
+3	صنایع	صنعت	NOUN	_	Number=Plur|Person=3	4	nmod	_	_
+4	دستی	دستی	NOUN	_	Number=Sing|Person=3	5	nmod	_	_
+5	می‌توان	توان	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	با	با	ADP	_	_	7	case	_	_
+7	هزینه‌های	هزینه	NOUN	_	Number=Plur|Person=3	5	nmod	_	_
+8	کم	کم	ADJ	_	_	7	amod	_	_
+9	اشتغال‌زایی	اشتغال	NOUN	_	Number=Sing|Person=3	5	nmod	_	_
+10	کرد	کرد	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	5	ccomp	_	_
+11	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s1298
+# text = شوهرم با من آمیزش کرد و من از او بچه آوردم و نیز من با کنیزم آمیزش کردم.
+1-2	شوهرم	_	_	_	_	_	_	_	_
+1	شوهر	_	_	_	_	0	root	_	_
+2	م	_	_	_	_	1	dep	_	_
+3	با	_	_	_	_	1	dep	_	_
+4	من	_	_	_	_	1	dep	_	_
+5	آمیزش	_	_	_	_	1	dep	_	_
+6	کرد	_	_	_	_	1	dep	_	_
+7	و	_	_	_	_	1	dep	_	_
+8	من	_	_	_	_	1	dep	_	_
+9	از	_	_	_	_	1	dep	_	_
+10	او	_	_	_	_	1	dep	_	_
+11	بچه	_	_	_	_	1	dep	_	_
+12	آوردم	_	_	_	_	1	dep	_	_
+13	و	_	_	_	_	1	dep	_	_
+14	نیز	_	_	_	_	1	dep	_	_
+15	من	_	_	_	_	1	dep	_	_
+16	با	_	_	_	_	1	dep	_	_
+17-18	کنیزم	_	_	_	_	_	_	_	_
+17	کنیز	_	_	_	_	1	dep	_	_
+18	م	_	_	_	_	1	dep	_	_
+19	آمیزش	_	_	_	_	1	dep	_	_
+20	کردم	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1217
+# text = شیشه‌های سخت‌کاری‌شده در صورت شکسته شدن به ذرات ریز مکعب‌شکل تقسیم می‌گردند که خطر کمتری دارند و از این جهت برای ساخت پنجره‌های خودروها که با ایمنی سرنشینان مرتبط است، مناسبت خواهند داشت.
+1	شیشه‌های	_	_	_	_	0	root	_	_
+2	سخت‌کاری‌شده	_	_	_	_	1	dep	_	_
+3	در	_	_	_	_	1	dep	_	_
+4	صورت	_	_	_	_	1	dep	_	_
+5	شکسته	_	_	_	_	1	dep	_	_
+6	شدن	_	_	_	_	1	dep	_	_
+7	به	_	_	_	_	1	dep	_	_
+8	ذرات	_	_	_	_	1	dep	_	_
+9	ریز	_	_	_	_	1	dep	_	_
+10	مکعب‌شکل	_	_	_	_	1	dep	_	_
+11	تقسیم	_	_	_	_	1	dep	_	_
+12	می‌گردند	_	_	_	_	1	dep	_	_
+13	که	_	_	_	_	1	dep	_	_
+14	خطر	_	_	_	_	1	dep	_	_
+15	کمتری	_	_	_	_	1	dep	_	_
+16	دارند	_	_	_	_	1	dep	_	_
+17	و	_	_	_	_	1	dep	_	_
+18	از	_	_	_	_	1	dep	_	_
+19	این	_	_	_	_	1	dep	_	_
+20	جهت	_	_	_	_	1	dep	_	_
+21	برای	_	_	_	_	1	dep	_	_
+22	ساخت	_	_	_	_	1	dep	_	_
+23	پنجره‌های	_	_	_	_	1	dep	_	_
+24	خودروها	_	_	_	_	1	dep	_	_
+25	که	_	_	_	_	1	dep	_	_
+26	با	_	_	_	_	1	dep	_	_
+27	ایمنی	_	_	_	_	1	dep	_	_
+28	سرنشینان	_	_	_	_	1	dep	_	_
+29	مرتبط	_	_	_	_	1	dep	_	_
+30	است	_	_	_	_	1	dep	_	_
+31	،	_	_	_	_	1	dep	_	_
+32	مناسبت	_	_	_	_	1	dep	_	_
+33	خواهند	_	_	_	_	1	dep	_	_
+34	داشت	_	_	_	_	1	dep	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1061
+# text = ایران در دوران صفوی بارها فرصت داشت تا به عثمانی یورش بکند.
+1	ایران	ایران	NOUN	NN	Number=Sing|Person=3	4	nsubj	_	_
+2	در	در	ADP	IN	_	4	case	_	_
+3	دوران	دوران	NOUN	NN	Number=Sing|Person=3	4	nmod	_	_
+4	صفوی	صفوی	NOUN	NN	Number=Sing|Person=3	0	root	_	_
+5	بارها	بارها	ADV	RB	_	6	advmod	_	_
+6	فرصت	فرصت	NOUN	NN	Number=Sing|Person=3	4	advcl	_	_
+7	داشت	داشت	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+8	تا	تا	ADP	IN	_	9	mark	_	_
+9	به	به	ADP	IN	_	10	case	_	_
+10	عثمانی	عثمانی	NOUN	NN	Number=Sing|Person=3	6	obl	_	_
+11	یورش	یورش	NOUN	NN	Number=Sing|Person=3	10	nmod	_	_
+12	بکند	بکند	VERB	VB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+13	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s354
+# text = با استفاده از تکنیک‌های این روش بیشتر از معلومات خود نتیجه‌گیری خواهید کرد.
+1	با	با	ADP	ADP	_	2	case	_	_
+2	استفاده	استفاده	NOUN	NOUN	Number=Sing|Person=3|Tense=Pres|Voice=Cau	0	root	_	_
+3	از	از	ADP	ADP	_	2	case	_	_
+4	تکنیک‌های	تکنیک	NOUN	NOUN	Number=Sing	5	nmod	_	_
+5	این	های	NOUN	NOUN	Number=Plur	3	nmod	_	_
+6	روش	این	DET	DET	Definite=Def|PronType=Dem	7	det	_	_
+7	بیشتر	روش	NOUN	NOUN	Number=Sing	5	nmod	_	_
+8	از	بیشتر	ADV	ADV	_	2	advmod	_	_
+9	معلومات	از	ADP	ADP	_	10	case	_	_
+10	خود	اطلاعات	NOUN	NOUN	Number=Plur	2	nmod	_	_
+11	نتیجه‌گیری	خود	PRON	PRON	Person=3|Poss=Yes|PronType=Prs	10	nmod	_	_
+12	خواهید	نتیجه	NOUN	NOUN	Number=Sing	13	nmod	_	_
+13	کرد	گیری	NOUN	NOUN	Number=Sing	2	nmod	_	_
+14	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s798
+# text = بسامد لیزر یا رنگ آن به سبب لرزش‌های آینه‌ها در اثر حرکت اتم‌ها یا اختلالات محیطی به میزان بسیار کمی نوسان می‌کند.
+1	بسامد	بسامد	ADJ	ADJ	_	0	root	_	_
+2	لیزر	لیزر	NOUN	NOUN	_	1	dep	_	_
+3	یا	یا	CCONJ	CCONJ	_	1	dep	_	_
+4	رنگ	رنگ	NOUN	NOUN	_	1	dep	_	_
+5	آن	آن	PRON	PRON	_	1	dep	_	_
+6	به	به	ADP	ADP	_	1	dep	_	_
+7	سبب	سبب	NOUN	NOUN	_	1	dep	_	_
+8	لرزش‌های	لرزش	NOUN	NOUN	_	7	nmod	_	_
+9	آینه‌ها	های	ADP	ADP	_	10	case	_	_
+10	در	آینه	NOUN	NOUN	_	11	nmod	_	_
+11	اثر	ها	ADP	ADP	_	7	nmod	_	_
+12	حرکت	در	ADP	ADP	_	1	dep	_	_
+13	اتم‌ها	اثر	NOUN	NOUN	_	1	dep	_	_
+14	یا	حرکت	NOUN	NOUN	_	13	nmod	_	_
+15	اختلالات	اتم	NOUN	NOUN	_	14	nmod	_	_
+16	محیطی	ها	ADP	ADP	_	14	nmod	_	_
+17	به	یا	CCONJ	CCONJ	_	1	dep	_	_
+18	میزان	اختلالات	NOUN	NOUN	_	1	dep	_	_
+19	بسیار	محیط	NOUN	NOUN	_	18	nmod	_	_
+20	کمی	ی	ADP	ADP	_	19	case	_	_
+21	نوسان	به	ADP	ADP	_	22	case	_	_
+22	می‌کند	میزان	NOUN	NOUN	_	23	nmod	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s171
+# text = آن قدر موعظه می‌کنم، تا دریچهٔ قلبت باز شود.
+1	آن	_	_	_	_	4	dep	_	_
+2	قدر	قدر	NOUN	N	_	3	amod	_	_
+3	موعظه	موعظه	NOUN	N	_	4	compound	_	_
+4	می‌کنم	می‌کنم	VERB	V	_	0	root	_	_
+5	،	،	PUNCT	PUNCT	_	7	punct	_	_
+6	تا	تا	ADP	ADP	_	7	case	_	_
+7	دریچهٔ	دریچه	NOUN	N	_	4	obl	_	_
+8-9	قلبت	_	_	_	_	_	_	_	_
+8	قلب	قلب	NOUN	N	_	7	nmod	_	_
+9	ت	ت	PRON	PRON	_	8	nmod:poss	_	_
+10	باز	باز	VERB	V	_	11	compound	_	_
+11	شود	شود	VERB	V	_	7	acl	_	_
+12	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s137
+# text = با محاکمهٔ عاملین این قتل‌ها می‌توان جامعه را پالایش داد.
+1	با	_	_	_	_	0	root	_	_
+2	محاکمهٔ	_	_	_	_	1	dep	_	_
+3	عاملین	_	_	_	_	1	dep	_	_
+4	این	_	_	_	_	1	dep	_	_
+5	قتل‌ها	_	_	_	_	1	dep	_	_
+6	می‌توان	_	_	_	_	1	dep	_	_
+7	جامعه	_	_	_	_	1	dep	_	_
+8	را	_	_	_	_	1	dep	_	_
+9	پالایش	_	_	_	_	1	dep	_	_
+10	داد	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1343
+# text = وقتی معلم تو کلاس نبود من وسط کلاس بالانس زده بودم.
+1	وقتی	_	_	_	_	0	root	_	_
+2	معلم	معلم	NOUN	_	_	1	nmod	_	_
+3	تو	تو	PRON	_	_	2	nmod	_	_
+4	کلاس	کلاس	NOUN	_	_	1	nmod	_	_
+5	نبود	بود	VERB	_	_	1	advcl	_	_
+6	من	من	PRON	_	_	7	nsubj	_	_
+7	وسط	وسط	ADJ	_	_	8	amod	_	_
+8	کلاس	کلاس	NOUN	_	_	1	nmod	_	_
+9	بالانس	بالانس	NOUN	_	_	7	nmod	_	_
+10	زده	زده	VERB	_	_	1	advcl	_	_
+11	بودم	بود	VERB	_	_	10	aux	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s613
+# text = صورتش شناخته نمی‌شد.
+1-2	صورتش	_	_	_	_	_	_	_	_
+1	صورت	_	_	_	_	4	dep	_	_
+2	ش	ش	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	_
+3	شناخته	شناخت	NOUN	_	Case=Acc|Number=Sing	4	compound	_	_
+4	نمی‌شد	نمی‌شد	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s692
+# text = چون در روز عرفه خورشید زوال کرد، غسل کن و با یک اذان و دو اقامه نماز ظهر و عصر بگزار!
+1	چون	_	_	_	_	0	root	_	_
+2	در	_	_	_	_	1	dep	_	_
+3	روز	_	_	_	_	1	dep	_	_
+4	عرفه	_	_	_	_	1	dep	_	_
+5	خورشید	_	_	_	_	1	dep	_	_
+6	زوال	_	_	_	_	1	dep	_	_
+7	کرد	_	_	_	_	1	dep	_	_
+8	،	_	_	_	_	1	dep	_	_
+9	غسل	_	_	_	_	1	dep	_	_
+10	کن	_	_	_	_	1	dep	_	_
+11	و	_	_	_	_	1	dep	_	_
+12	با	_	_	_	_	1	dep	_	_
+13	یک	_	_	_	_	1	dep	_	_
+14	اذان	_	_	_	_	1	dep	_	_
+15	و	_	_	_	_	1	dep	_	_
+16	دو	_	_	_	_	1	dep	_	_
+17	اقامه	_	_	_	_	1	dep	_	_
+18	نماز	_	_	_	_	1	dep	_	_
+19	ظهر	_	_	_	_	1	dep	_	_
+20	و	_	_	_	_	1	dep	_	_
+21	عصر	_	_	_	_	1	dep	_	_
+22	بگزار	_	_	_	_	1	dep	_	_
+23	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s518
+# text = از آن چه در دست داری برای آن چه در پیش داری بهره گیر زیرا مؤمن توشه برمی‌دارد و کافر خوش‌گذرانی می‌کند.
+1	از	از	ADP	_	_	0	root	_	_
+2	آن	آن	DET	_	_	1	dep	_	_
+3	چه	چه	PRON	_	_	1	dep	_	_
+4	در	در	ADP	_	_	3	case	_	_
+5	دست	دست	NOUN	_	_	6	nmod	_	_
+6	داری	دارد	VERB	_	_	4	acl	_	_
+7	برای	برای	ADP	_	_	1	dep	_	_
+8	آن	آن	DET	_	_	1	dep	_	_
+9	چه	چه	PRON	_	_	1	dep	_	_
+10	در	در	ADP	_	_	9	case	_	_
+11	پیش	پیش	ADP	_	_	10	case	_	_
+12	داری	دارد	VERB	_	_	9	acl	_	_
+13	بهره	بهره	NOUN	_	_	14	nmod	_	_
+14	گیر	گیر	VERB	_	_	12	advcl	_	_
+15	زیرا	زیرا	CCONJ	_	_	1	dep	_	_
+16	مؤمن	مؤمن	NOUN	_	_	1	dep	_	_
+17	توشه	توشه	NOUN	_	_	18	nmod	_	_
+18	برمی‌دارد	برمی	VERB	_	_	16	acl	_	_
+19	و	دارد	VERB	_	_	18	advcl	_	_
+20	کافر	و	CCONJ	_	_	21	cc	_	_
+21	خوش‌گذرانی	کافر	NOUN	_	_	22	nsubj	_	_
+22	می‌کند	خوش‌گذرانی	NOUN	_	_	23	nmod	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1247
+# text = هزار زخم کهنه را که التیام می‌کند؟
+1	هزار	zahar	NOUN	NUM	NumType=Card|Number=Plur	2	nmod	_	_
+2	زخم	zakhm	NOUN	NOUN	Number=Sing	3	nmod	_	_
+3	کهنه	khaneh	ADJ	ADJ	Number=Sing	4	nmod	_	_
+4	را	ra	PART	PART	_	5	case	_	_
+5	که	khah	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+6	التیام	mi-khand	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	می‌کند	mi-kon	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+8	؟	_	_	_	_	6	dep	_	_
+
+# sent_id = test-s520
+# text = هر کس بسم الله الرحمن الرحیم را به طرز زیبا و دلربا خوشنویسی کند وارد بهشت خواهد شد.
+1	هر	_	_	_	_	0	root	_	_
+2	کس	_	_	_	_	1	dep	_	_
+3	بسم	_	_	_	_	1	dep	_	_
+4	الله	_	_	_	_	1	dep	_	_
+5	الرحمن	_	_	_	_	1	dep	_	_
+6	الرحیم	_	_	_	_	1	dep	_	_
+7	را	_	_	_	_	1	dep	_	_
+8	به	_	_	_	_	1	dep	_	_
+9	طرز	_	_	_	_	1	dep	_	_
+10	زیبا	_	_	_	_	1	dep	_	_
+11	و	_	_	_	_	1	dep	_	_
+12	دلربا	_	_	_	_	1	dep	_	_
+13	خوشنویسی	_	_	_	_	1	dep	_	_
+14	کند	_	_	_	_	1	dep	_	_
+15	وارد	_	_	_	_	1	dep	_	_
+16	بهشت	_	_	_	_	1	dep	_	_
+17	خواهد	_	_	_	_	1	dep	_	_
+18	شد	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s716
+# text = هنوز از سیلی که بر صورتمان نواخته شد سر حال نیامده‌ایم و گیج می‌خوریم.
+1	هنوز	هنوز	ADV	_	_	0	root	_	_
+2	از	از	ADP	_	Case=Gen|PronType=Prs	1	dep	_	_
+3	سیلی	سیل	NOUN	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	که	که	SCONJ	_	_	1	dep	_	_
+5	بر	بر	ADP	_	_	1	dep	_	_
+6-7	صورتمان	_	_	_	_	_	_	_	_
+6	صورت	صورت	NOUN	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	مان	ما	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nmod	_	_
+8	نواخته	نواخته	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
+9	شد	شد	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+10	سر	سر	NOUN	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
+11	حال	حال	NOUN	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+12	نیامده‌ایم	نیامده	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	aux	_	_
+13	و	ایم	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+14	گیج	و	CCONJ	_	_	15	cc	_	_
+15	می‌خوریم	گیج	NOUN	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	conj	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s558
+# text = شخصاً با خودروی غیراداری در بعدازظهرها و حتی شبانه در شهر گشت‌زنی می‌کنم.
+1	شخصاً	شخصاً	ADP	_	Case=Acc	12	dep	_	_
+2	با	با	ADP	_	_	12	dep	_	_
+3	خودروی	خودرو	NOUN	_	Case=Acc|Number=Sing	12	dep	_	_
+4	غیراداری	غیراداری	ADJ	_	Case=Acc|Number=Sing	3	amod	_	_
+5	در	در	ADP	_	_	12	dep	_	_
+6	بعدازظهرها	بعدازظهر	NOUN	_	Case=Acc|Number=Plur	12	dep	_	_
+7	و	و	CCONJ	_	_	8	cc	_	_
+8	حتی	حتی	ADV	_	_	6	advmod	_	_
+9	شبانه	شبانه	ADV	_	_	6	advmod	_	_
+10	در	در	ADP	_	_	11	case	_	_
+11	شهر	شهر	NOUN	_	Case=Acc|Number=Sing	12	nmod	_	_
+12	گشت‌زنی	گشت‌زنی	VERB	_	Case=Acc|Number=Sing	0	root	_	_
+13	می‌کنم	کنم	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+14	.	_	_	_	_	12	dep	_	_
+
+# sent_id = test-s607
+# text = قلمه‌ها را از روی پایه در اواخر زمستان برداشت کرده در گلخانه گرمی می‌کارند پس از آن که به خوبی ریشه کردند هر قلمهٔ ریشه‌کرده را در گلدان کوچکی می‌گذارند.
+1	قلمه‌ها	_	_	_	_	0	root	_	_
+2	را	_	_	_	_	1	dep	_	_
+3	از	_	_	_	_	1	dep	_	_
+4	روی	_	_	_	_	1	dep	_	_
+5	پایه	_	_	_	_	1	dep	_	_
+6	در	_	_	_	_	1	dep	_	_
+7	اواخر	_	_	_	_	1	dep	_	_
+8	زمستان	_	_	_	_	1	dep	_	_
+9	برداشت	_	_	_	_	1	dep	_	_
+10	کرده	_	_	_	_	1	dep	_	_
+11	در	_	_	_	_	1	dep	_	_
+12	گلخانه	_	_	_	_	1	dep	_	_
+13	گرمی	_	_	_	_	1	dep	_	_
+14	می‌کارند	_	_	_	_	1	dep	_	_
+15	پس	_	_	_	_	1	dep	_	_
+16	از	_	_	_	_	1	dep	_	_
+17	آن	_	_	_	_	1	dep	_	_
+18	که	_	_	_	_	1	dep	_	_
+19	به	_	_	_	_	1	dep	_	_
+20	خوبی	_	_	_	_	1	dep	_	_
+21	ریشه	_	_	_	_	1	dep	_	_
+22	کردند	_	_	_	_	1	dep	_	_
+23	هر	_	_	_	_	1	dep	_	_
+24	قلمهٔ	_	_	_	_	1	dep	_	_
+25	ریشه‌کرده	_	_	_	_	1	dep	_	_
+26	را	_	_	_	_	1	dep	_	_
+27	در	_	_	_	_	1	dep	_	_
+28	گلدان	_	_	_	_	1	dep	_	_
+29	کوچکی	_	_	_	_	1	dep	_	_
+30	می‌گذارند	_	_	_	_	1	dep	_	_
+31	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1196
+# text = برخی باکتری‌ها را تحت شرایط مناسب جهت تهیهٔ آنزیم‌های مورد نیاز پرورش می‌دهند و آنگاه آنزیم تولیدشده توسط آنها را عصاره‌گیری کرده و با راسب کردن خالص می‌سازند.
+1	برخی	بَری	ADJ	ADJ	NumType=Sing|Number=Sing	2	amod	_	_
+2	باکتری‌ها	با	ADP	ADP	_	3	case	_	_
+3	را	باکتری	NOUN	NOUN	Case=Nom|Number=Plur	4	nsubj	_	_
+4	تحت	ها	DET	DET	Case=Acc|Number=Plur|PronType=Ind	5	det	_	_
+5	شرایط	را	PART	PART	_	6	obj	_	_
+6	مناسب	تَحت	ADP	ADP	_	7	case	_	_
+7	جهت	شرایط	NOUN	NOUN	Case=Acc|Number=Plur	8	nmod	_	_
+8	تهیهٔ	نَیِ	ADP	ADP	_	9	case	_	_
+9	آنزیم‌های	پَروش	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	10	aux	_	_
+10	مورد	می‌دهند	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	نیاز	و	CCONJ	CCONJ	_	12	cc	_	_
+12	پرورش	آنگاه	ADV	ADV	_	10	advmod	_	_
+13	می‌دهند	آن	DET	DET	Case=Acc|Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	و	آنزیم	NOUN	NOUN	Case=Acc|Number=Sing	15	obj	_	_
+15	آنگاه	تولید	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	_
+16	آنزیم	شده	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	15	aux	_	_
+17	تولیدشده	دَرون	ADP	ADP	_	18	case	_	_
+18	توسط	آنها	PRON	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	nmod	_	_
+19	آنها	را	PART	PART	_	20	obj	_	_
+20	را	عصاره	NOUN	NOUN	Case=Acc|Number=Sing	21	nmod	_	_
+21	عصاره‌گیری	گیری	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	_
+22	کرده	کرده	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	21	aux	_	_
+23	و	و	CCONJ	CCONJ	_	24	cc	_	_
+24	با	با	ADP	ADP	_	25	case	_	_
+25	راسب	رَسب	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	21	conj	_	_
+26	کردن	کردن	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	25	aux	_	_
+27	خالص	خالص	ADJ	ADJ	_	25	amod	_	_
+28	می‌سازند	می‌سازند	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+29	.	_	_	_	_	10	dep	_	_
+
+# sent_id = test-s654
+# text = اورژانس این بیمارستان نیز متناسب با خدمات تخصصی طراحی و تمهید خواهد شد.
+1	اورژانس	_	_	_	_	0	root	_	_
+2	این	این	DET	_	Definite=Def|PronType=Art	1	dep	_	_
+3	بیمارستان	بیمارستان	NOUN	_	Number=Sing	1	dep	_	_
+4	نیز	نیز	ADV	_	Polarity=Pos	1	dep	_	_
+5	متناسب	متناسب	ADJ	_	Case=Acc|Number=Sing	1	dep	_	_
+6	با	با	ADP	_	_	7	case	_	_
+7	خدمات	خدمت	NOUN	_	Number=Plur	8	nmod	_	_
+8	تخصصی	تخصصی	ADJ	_	Case=Acc|Number=Sing	5	advcl	_	_
+9	طراحی	طراحی	NOUN	_	Number=Sing	8	nmod	_	_
+10	و	و	CCONJ	_	_	11	cc	_	_
+11	تمهید	تمهید	NOUN	_	Number=Sing	9	conj	_	_
+12	خواهد	خواهد	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	11	cop	_	_
+13	شد	شد	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	cop	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s319
+# text = جوان‌ها بیرون خیمه ایستاده بودند ولی آن سید داخل خیمه تشریف آورده بود.
+1	جوان‌ها	_	_	_	_	0	root	_	_
+2	بیرون	_	_	_	_	1	dep	_	_
+3	خیمه	_	_	_	_	1	dep	_	_
+4	ایستاده	_	_	_	_	1	dep	_	_
+5	بودند	_	_	_	_	1	dep	_	_
+6	ولی	_	_	_	_	1	dep	_	_
+7	آن	_	_	_	_	1	dep	_	_
+8	سید	_	_	_	_	1	dep	_	_
+9	داخل	_	_	_	_	1	dep	_	_
+10	خیمه	_	_	_	_	1	dep	_	_
+11	تشریف	_	_	_	_	1	dep	_	_
+12	آورده	_	_	_	_	1	dep	_	_
+13	بود	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s420
+# text = با شهامت و شجاعت و برای آزادی جان‌فشانی بکنید.
+1	با	_	_	_	_	0	root	_	_
+2	شهامت	_	_	_	_	1	dep	_	_
+3	و	_	_	_	_	1	dep	_	_
+4	شجاعت	_	_	_	_	1	dep	_	_
+5	و	_	_	_	_	1	dep	_	_
+6	برای	_	_	_	_	1	dep	_	_
+7	آزادی	_	_	_	_	1	dep	_	_
+8	جان‌فشانی	_	_	_	_	1	dep	_	_
+9	بکنید	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1204
+# text = سلام امید جان؛ وقت کردی پیش ما هم بیا.
+1	سلام	_	_	_	_	0	root	_	_
+2	امید	_	_	_	_	1	dep	_	_
+3	جان	_	_	_	_	1	dep	_	_
+4	؛	_	_	_	_	1	dep	_	_
+5	وقت	_	_	_	_	1	dep	_	_
+6	کردی	_	_	_	_	1	dep	_	_
+7	پیش	_	_	_	_	1	dep	_	_
+8	ما	_	_	_	_	1	dep	_	_
+9	هم	_	_	_	_	1	dep	_	_
+10	بیا	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s245
+# text = دیگران را بر فرستادن صلوات تحریض کنید.
+1	دیگران	او	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	را	دیگر	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	بر	را	PART	PART	_	4	case	_	_
+4	فرستادن	بر	ADP	ADP	_	5	case	_	_
+5	صلوات	فرستادن	NOUN	NOUN	Case=Acc|Number=Sing	6	compound:lvc	_	_
+6	تحریض	صلوات	NOUN	NOUN	Case=Acc|Number=Plur	7	compound:lvc	_	_
+7	کنید	تحریض	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+8	.	_	_	_	_	7	dep	_	_
+
+# sent_id = test-s729
+# text = من شخصاً همهٔ دارائی تو را مصادره خواهم کرد.
+1	من	_	_	_	_	8	dep	_	_
+2	شخصاً	شخص	ADJ	ADJ	Case=Nom|Number=Sing	8	dep	_	_
+3	همهٔ	همه	DET	DET	Case=Gen|Definite=Def|Number=Plur|PronType=Ind	8	dep	_	_
+4	دارائی	دارائی	NOUN	NOUN	Case=Gen|Number=Plur	8	dep	_	_
+5	تو	تو	PRON	PRON	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	_
+6	را	را	PART	PART	_	7	case	_	_
+7	مصادره	مصادره	VERB	VERB	Aspect=Perf|Case=Acc|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	خواهم	خواهم	VERB	VERB	Aspect=Perf|Case=Acc|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	کرد	کرد	AUX	AUX	Aspect=Perf|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	aux	_	_
+10	.	_	_	_	_	8	dep	_	_
+
+# sent_id = test-s610
+# text = تعصب، بر فضای جامعه چنگ انداخته بود و کسی جرئت ابراز نظرات خود را نداشت.
+1	تعصب	_	_	_	_	0	root	_	_
+2	،	_	_	_	_	1	dep	_	_
+3	بر	_	_	_	_	1	dep	_	_
+4	فضای	_	_	_	_	1	dep	_	_
+5	جامعه	_	_	_	_	1	dep	_	_
+6	چنگ	_	_	_	_	1	dep	_	_
+7	انداخته	_	_	_	_	1	dep	_	_
+8	بود	_	_	_	_	1	dep	_	_
+9	و	_	_	_	_	1	dep	_	_
+10	کسی	_	_	_	_	1	dep	_	_
+11	جرئت	_	_	_	_	1	dep	_	_
+12	ابراز	_	_	_	_	1	dep	_	_
+13	نظرات	_	_	_	_	1	dep	_	_
+14	خود	_	_	_	_	1	dep	_	_
+15	را	_	_	_	_	1	dep	_	_
+16	نداشت	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s923
+# text = او تمام شب را هرچند به کسالت منجر شود احیا می‌دارد.
+1	او	_	_	_	_	0	root	_	_
+2	تمام	_	_	_	_	1	dep	_	_
+3	شب	_	_	_	_	1	dep	_	_
+4	را	_	_	_	_	1	dep	_	_
+5	هرچند	_	_	_	_	1	dep	_	_
+6	به	_	_	_	_	1	dep	_	_
+7	کسالت	_	_	_	_	1	dep	_	_
+8	منجر	_	_	_	_	1	dep	_	_
+9	شود	_	_	_	_	1	dep	_	_
+10	احیا	_	_	_	_	1	dep	_	_
+11	می‌دارد	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1182
+# text = فردی در کنار جاده جانمازی پهن کرده و نماز اقامه داشته بود.
+1	فردی	فردی	ADJ	ADJ	_	0	root	_	_
+2	در	در	ADP	IN	_	1	dep	_	_
+3	کنار	کنار	NOUN	NOUN	_	1	dep	_	_
+4	جاده	جاده	NOUN	NOUN	_	1	dep	_	_
+5	جانمازی	جانمازی	NOUN	NOUN	_	1	dep	_	_
+6	پهن	پهن	ADJ	ADJ	_	1	dep	_	_
+7	کرده	کرد	VERB	VERB	Number=Sing|Person=3|Tense=Past|Voice=Pass	1	dep	_	_
+8	و	نماز	NOUN	NOUN	_	9	nsubj	_	_
+9	نماز	اقامه	VERB	VERB	Number=Sing|Person=3|Tense=Past	7	xcomp	_	_
+10	اقامه	داشت	VERB	VERB	Number=Sing|Person=3|Tense=Past	7	aux	_	_
+11	داشته	بود	VERB	VERB	Number=Sing|Person=3|Tense=Past	10	aux	_	_
+12	بود	.	PUNCT	PUNCT	_	11	punct	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s322
+# text = در روز قیامت حسرت همه این است که چرا نسبت به این 14 تن (علیهم‌السلام جمیعاً) تفریط کردند.
+1	در	_	_	_	_	0	root	_	_
+2	روز	_	_	_	_	1	dep	_	_
+3	قیامت	_	_	_	_	1	dep	_	_
+4	حسرت	_	_	_	_	1	dep	_	_
+5	همه	_	_	_	_	1	dep	_	_
+6	این	_	_	_	_	1	dep	_	_
+7	است	_	_	_	_	1	dep	_	_
+8	که	_	_	_	_	1	dep	_	_
+9	چرا	_	_	_	_	1	dep	_	_
+10	نسبت	_	_	_	_	1	dep	_	_
+11	به	_	_	_	_	1	dep	_	_
+12	این	_	_	_	_	1	dep	_	_
+13	14	_	_	_	_	1	dep	_	_
+14	تن	_	_	_	_	1	dep	_	_
+15	(	_	_	_	_	1	dep	_	_
+16	علیهم‌السلام	_	_	_	_	1	dep	_	_
+17	جمیعاً	_	_	_	_	1	dep	_	_
+18	)	_	_	_	_	1	dep	_	_
+19	تفریط	_	_	_	_	1	dep	_	_
+20	کردند	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s218
+# text = چگونه vcd را با کیفیت عالی رایت کنیم؟
+1	چگونه	چگونه	ADV	ADV	_	0	root	_	_
+2	vcd	vcd	NOUN	NOUN	_	1	dep	_	_
+3	را	را	PART	PART	_	2	case	_	_
+4	با	با	ADP	ADP	_	1	dep	_	_
+5	کیفیت	کیفیت	NOUN	NOUN	_	1	dep	_	_
+6	عالی	عالی	ADJ	ADJ	_	5	amod	_	_
+7	رایت	رایت	VERB	VERB	_	8	compound	_	_
+8	کنیم	کنیم	AUX	AUX	_	9	aux	_	_
+9	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1451
+# text = به هر حال ادبیاتی که انعکاس پیدا کرده است قابل دفاع نیست و شاید با آنچه که در دل ایشان گذشته است، متفاوت باشد.
+1	به	به	ADP	ADP	_	0	root	_	_
+2	هر	هر	DET	DET	_	1	dep	_	_
+3	حال	حال	NOUN	NOUN	_	1	dep	_	_
+4	ادبیاتی	ادبیاتی	NOUN	NOUN	_	1	dep	_	_
+5	که	که	SCONJ	SCONJ	_	1	dep	_	_
+6	انعکاس	انعکاس	NOUN	NOUN	_	7	nsubj	_	_
+7	پیدا	پیدا	VERB	VERB	_	5	cop	_	_
+8	کرده	کرده	AUX	AUX	_	7	aux	_	_
+9	است	است	AUX	AUX	_	7	aux	_	_
+10	قابل	قابل	ADJ	ADJ	_	11	amod	_	_
+11	دفاع	دفاع	NOUN	NOUN	_	7	dobj	_	_
+12	نیست	نیست	VERB	VERB	_	7	aux	_	_
+13	و	و	CCONJ	CCONJ	_	14	cc	_	_
+14	شاید	شاید	ADV	ADV	_	7	advmod	_	_
+15	با	با	ADP	ADP	_	16	case	_	_
+16	آنچه	آنچه	PRON	PRON	_	17	nmod	_	_
+17	که	در	ADP	ADP	_	18	case	_	_
+18	در	دل	NOUN	NOUN	_	19	nmod	_	_
+19	دل	ایشان	NOUN	NOUN	_	20	nsubj	_	_
+20	ایشان	گذشته	VERB	VERB	_	14	cop	_	_
+21	گذشته	است	AUX	AUX	_	20	aux	_	_
+22	است	،	PUNCT	PUNCT	_	7	punct	_	_
+23	،	خواه	VERB	VERB	_	24	cop	_	_
+24	متفاوت	دست	NOUN	NOUN	_	25	nsubj	_	_
+25	باشد	باشد	VERB	VERB	_	14	cop	_	_
+26	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1311
+# text = دندان‌هایم آبسه کردند.
+1-2	دندان‌هایم	_	_	_	_	_	_	_	_
+1	دندان‌های	_	_	_	_	0	root	_	_
+2	م	_	DET	_	_	1	det	_	_
+3	آبسه	_	ADP	_	_	1	case	_	_
+4	کردند	آبسه	NOUN	_	Number=Sing	5	nmod	_	_
+5	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s111
+# text = اگر ما در برابر حمله به مرحوم مجلسی ساکت بنشینیم، پرده‌دری می‌شود و دیگران رعایت این حریم را نخواهند کرد.
+1	اگر	_	_	_	_	0	root	_	_
+2	ما	_	_	_	_	1	dep	_	_
+3	در	_	_	_	_	1	dep	_	_
+4	برابر	_	_	_	_	1	dep	_	_
+5	حمله	_	_	_	_	1	dep	_	_
+6	به	_	_	_	_	1	dep	_	_
+7	مرحوم	_	_	_	_	1	dep	_	_
+8	مجلسی	_	_	_	_	1	dep	_	_
+9	ساکت	_	_	_	_	1	dep	_	_
+10	بنشینیم	_	_	_	_	1	dep	_	_
+11	،	_	_	_	_	1	dep	_	_
+12	پرده‌دری	_	_	_	_	1	dep	_	_
+13	می‌شود	_	_	_	_	1	dep	_	_
+14	و	_	_	_	_	1	dep	_	_
+15	دیگران	_	_	_	_	1	dep	_	_
+16	رعایت	_	_	_	_	1	dep	_	_
+17	این	_	_	_	_	1	dep	_	_
+18	حریم	_	_	_	_	1	dep	_	_
+19	را	_	_	_	_	1	dep	_	_
+20	نخواهند	_	_	_	_	1	dep	_	_
+21	کرد	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s254
+# text = امروز ماهی پرتم تخم‌ریزی کرد.
+1	امروز	mah-ye	MAH	ADP	Case=Acc|Definite=Def|Number=Sing|Person=3|PronType=Prs	2	case	_	_
+2	ماهی	mahi	MAHI	NOUN	Number=Sing	3	nsubj	_	_
+3	پرتم	pertam	PERTAM	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+4	تخم‌ریزی	takhm-rizi	TAKHM-RIZI	NOUN	Number=Sing	3	obj	_	_
+5	کرد	_	_	_	_	3	dep	_	_
+6	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s482
+# text = زبان شما نمی‌تواند برای من کفایت کند.
+1	زبان	zaban	NOUN	NN	Number=Sing|Person=3	5	nmod:poss	_	_
+2	شما	shoma	PRON	PRP	Case=Nom|Number=Plur|Person=2|PronType=Prs	1	nmod:poss	_	_
+3	نمی‌تواند	nemitoāzad	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	برای	bāri	PART	PART	_	5	mark	_	_
+5	من	mān	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+6	کفایت	kafāyat	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	5	cop	_	_
+7	کند	_	_	_	_	5	dep	_	_
+8	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s365
+# text = سامسونگ به ایران توهین کرد.
+1	سامسونگ	_	_	_	_	0	root	_	_
+2	به	_	_	_	_	1	dep	_	_
+3	ایران	_	_	_	_	1	dep	_	_
+4	توهین	_	_	_	_	1	dep	_	_
+5	کرد	_	_	_	_	1	dep	_	_
+6	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s345
+# text = نباید جلوی پیشرفت را بگیرد یا حتی اگر جلوی پیشرفت را می‌گیرد، جاهایی باشد که تلافی بکند.
+1	نباید	_	_	_	_	0	root	_	_
+2	جلوی	_	_	_	_	1	dep	_	_
+3	پیشرفت	_	_	_	_	1	dep	_	_
+4	را	_	_	_	_	1	dep	_	_
+5	بگیرد	_	_	_	_	1	dep	_	_
+6	یا	_	_	_	_	1	dep	_	_
+7	حتی	_	_	_	_	1	dep	_	_
+8	اگر	_	_	_	_	1	dep	_	_
+9	جلوی	_	_	_	_	1	dep	_	_
+10	پیشرفت	_	_	_	_	1	dep	_	_
+11	را	_	_	_	_	1	dep	_	_
+12	می‌گیرد	_	_	_	_	1	dep	_	_
+13	،	_	_	_	_	1	dep	_	_
+14	جاهایی	_	_	_	_	1	dep	_	_
+15	باشد	_	_	_	_	1	dep	_	_
+16	که	_	_	_	_	1	dep	_	_
+17	تلافی	_	_	_	_	1	dep	_	_
+18	بکند	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s595
+# text = تعصب با پلک‌های بسته گاهی در آینده افتخاراتی را که ممکن است این سرزمین و ملت کسب کند، رنده خواهد کرد.
+1	تعصب	_	_	_	_	0	root	_	_
+2	با	_	_	_	_	1	dep	_	_
+3	پلک‌های	_	_	_	_	1	dep	_	_
+4	بسته	_	_	_	_	1	dep	_	_
+5	گاهی	_	_	_	_	1	dep	_	_
+6	در	_	_	_	_	1	dep	_	_
+7	آینده	_	_	_	_	1	dep	_	_
+8	افتخاراتی	_	_	_	_	1	dep	_	_
+9	را	_	_	_	_	1	dep	_	_
+10	که	_	_	_	_	1	dep	_	_
+11	ممکن	_	_	_	_	1	dep	_	_
+12	است	_	_	_	_	1	dep	_	_
+13	این	_	_	_	_	1	dep	_	_
+14	سرزمین	_	_	_	_	1	dep	_	_
+15	و	_	_	_	_	1	dep	_	_
+16	ملت	_	_	_	_	1	dep	_	_
+17	کسب	_	_	_	_	1	dep	_	_
+18	کند	_	_	_	_	1	dep	_	_
+19	،	_	_	_	_	1	dep	_	_
+20	رنده	_	_	_	_	1	dep	_	_
+21	خواهد	_	_	_	_	1	dep	_	_
+22	کرد	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1439
+# text = علی دایی وقتی علی دایی است که گاهی یکدندگی کند و با سخت‌سری پای حرفش بایستد.
+1	علی	_	_	_	_	0	root	_	_
+2	دایی	_	_	_	_	1	dep	_	_
+3	وقتی	_	_	_	_	1	dep	_	_
+4	علی	_	_	_	_	1	dep	_	_
+5	دایی	_	_	_	_	1	dep	_	_
+6	است	_	_	_	_	1	dep	_	_
+7	که	_	_	_	_	1	dep	_	_
+8	گاهی	_	_	_	_	1	dep	_	_
+9	یکدندگی	_	_	_	_	1	dep	_	_
+10	کند	_	_	_	_	1	dep	_	_
+11	و	_	_	_	_	1	dep	_	_
+12	با	_	_	_	_	1	dep	_	_
+13	سخت‌سری	_	_	_	_	1	dep	_	_
+14	پای	_	_	_	_	1	dep	_	_
+15-16	حرفش	_	_	_	_	_	_	_	_
+15	حرف	_	_	_	_	1	dep	_	_
+16	ش	_	_	_	_	1	dep	_	_
+17	بایستد	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1222
+# text = فرزندانی که از عواطف و مهربانی والدین خود برخوردار نشوند و عطش نیاز آنها به محبت بزرگ‌ترها سیراب نشود چگونه در بزرگسالی نسبت به دیگران محبت خواهند ورزید.
+1	فرزندانی	فرزند	ADJ	ADJ	NumType=Plur|PronType=Ind	0	root	_	_
+2	که	که	CCONJ	CCONJ	_	3	cc	_	_
+3	از	از	ADP	ADP	_	4	case	_	_
+4	عواطف	عاطفه	NOUN	NOUN	Case=Gen|Number=Plur	1	nmod	_	_
+5	و	و	CCONJ	CCONJ	_	3	cc	_	_
+6	مهربانی	مهربانی	NOUN	NOUN	Case=Gen|Number=Plur	4	conj	_	_
+7	والدین	والد	NOUN	NOUN	Case=Gen|Number=Plur	6	nmod	_	_
+8	خود	خود	PRON	PRON	PronType=Prs	7	nmod	_	_
+9	برخوردار	برخوردار	ADJ	ADJ	_	10	acl	_	_
+10	نشوند	نشود	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	acl	_	_
+11	و	و	CCONJ	CCONJ	_	10	cc	_	_
+12	عطش	عطش	NOUN	NOUN	Case=Acc|Number=Sing	13	nmod	_	_
+13	نیاز	نیاز	NOUN	NOUN	Case=Acc|Number=Sing	10	conj	_	_
+14	آنها	آن	PRON	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_
+15	به	به	ADP	ADP	_	16	case	_	_
+16	محبت	محبت	NOUN	NOUN	Case=Acc|Number=Sing	13	nmod	_	_
+17	بزرگ‌ترها	بزرگ‌تر	NOUN	NOUN	Case=Gen|Number=Plur	16	nmod	_	_
+18	سیراب	سیراب	ADJ	ADJ	_	19	acl	_	_
+19	نشود	نشود	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	acl	_	_
+20	چگونه	چگونه	ADV	ADV	_	1	dep	_	_
+21	در	در	ADP	ADP	_	22	case	_	_
+22	بزرگسالی	بزرگسالی	NOUN	NOUN	Case=Acc|Number=Sing	20	advcl	_	_
+23	نسبت	نسبت	NOUN	NOUN	Case=Acc|Number=Sing	1	dep	_	_
+24	به	به	ADP	ADP	_	25	case	_	_
+25	دیگران	دیگران	PRON	PRON	Case=Acc|Number=Plur|PronType=Ind	23	nmod	_	_
+26	محبت	محبت	NOUN	NOUN	Case=Acc|Number=Sing	27	nmod	_	_
+27	خواهند	خواهد	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Fut	25	acl	_	_
+28	ورزید	ورزید	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past	27	aux	_	_
+29	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s749
+# text = دیپلمات ایرانی در مونیخ به خبرنگار یا کسی که از او سئوالی دارد فحش می‌دهد.
+1	دیپلمات	دیپلمات	ADJ	ADJ	_	0	root	_	_
+2	ایرانی	ایرانی	NOUN	NOUN	Case=Gen|Number=Sing	1	dep	_	_
+3	در	در	ADP	ADP	_	1	dep	_	_
+4	مونیخ	مونیخ	NOUN	NOUN	Case=Acc|Number=Sing	1	dep	_	_
+5	به	به	ADP	ADP	_	1	dep	_	_
+6	خبرنگار	خبرنگار	NOUN	NOUN	Case=Acc|Number=Sing	1	dep	_	_
+7	یا	یا	CCONJ	CCONJ	_	8	cc	_	_
+8	کسی	کسی	PRON	PRON	Case=Gen|Number=Sing|PronType=Ind	6	conj	_	_
+9	که	که	SCONJ	SCONJ	_	1	dep	_	_
+10	از	از	ADP	ADP	_	11	case	_	_
+11	او	او	PRON	PRON	Case=Gen|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
+12	سئوالی	سئوالی	NOUN	NOUN	Case=Acc|Number=Sing	9	advcl	_	_
+13	دارد	دارد	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+14	فحش	فحش	NOUN	NOUN	Case=Acc|Number=Sing	15	nmod	_	_
+15	می‌دهد	می‌دهد	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s114
+# text = در این خطبه هم خودم و شما را از گناهان پرهیز می‌دارم.
+1	در	در	ADP	_	_	0	root	_	_
+2	این	این	DET	_	_	1	dep	_	_
+3	خطبه	خطبه	NOUN	_	_	1	dep	_	_
+4	هم	هم	ADV	_	_	3	advmod	_	_
+5-6	خودم	_	_	_	_	_	_	_	_
+5	خود	خود	PRON	_	_	1	dep	_	_
+6	م	م	PRON	_	_	1	dep	_	_
+7	و	و	CCONJ	_	_	8	cc	_	_
+8	شما	شما	PRON	_	_	6	conj	_	_
+9	را	را	ADP	_	_	6	case	_	_
+10	از	از	ADP	_	_	11	case	_	_
+11	گناهان	گناه	NOUN	_	_	12	nmod	_	_
+12	پرهیز	پرهیز	VERB	_	_	6	advcl	_	_
+13	می‌دارم	می‌دارم	AUX	_	_	12	aux	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s510
+# text = امام حسین (ع) 300 سال بر روی زمین خلافت خواهد کرد.
+1	امام	_	_	_	_	0	root	_	_
+2	حسین	_	_	_	_	1	dep	_	_
+3	(	_	_	_	_	1	dep	_	_
+4	ع	_	_	_	_	1	dep	_	_
+5	)	_	_	_	_	1	dep	_	_
+6	300	_	_	_	_	1	dep	_	_
+7	سال	_	_	_	_	1	dep	_	_
+8	بر	_	_	_	_	1	dep	_	_
+9	روی	_	_	_	_	1	dep	_	_
+10	زمین	_	_	_	_	1	dep	_	_
+11	خلافت	_	_	_	_	1	dep	_	_
+12	خواهد	_	_	_	_	1	dep	_	_
+13	کرد	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s475
+# text = چرا با وجود آن که فرزندمان به سن تکلیف رسیده نماز نمی‌خواند یا کاهلی می‌کند؟
+1	چرا	چرا	ADV	_	_	0	root	_	_
+2	با	با	ADP	_	_	3	case	_	_
+3	وجود	وجود	NOUN	_	_	1	advmod	_	_
+4	آن	آن	PRON	_	_	3	nmod	_	_
+5	که	که	SCONJ	_	_	1	dep	_	_
+6-7	فرزندمان	_	_	_	_	_	_	_	_
+6	فرزند	فرزند	NOUN	_	_	1	dep	_	_
+7	مان	مان	PRON	_	_	6	nmod	_	_
+8	به	به	ADP	_	_	9	case	_	_
+9	سن	سن	NOUN	_	_	7	nmod	_	_
+10	تکلیف	تکلیف	NOUN	_	_	9	nmod	_	_
+11	رسیده	رسیدن	VERB	_	_	9	acl	_	_
+12	نماز	نماز	NOUN	_	_	11	nsubj	_	_
+13	نمی‌خواند	نمی‌خواند	VERB	_	_	1	ccomp	_	_
+14	یا	یا	CCONJ	_	_	13	cc	_	_
+15	کاهلی	کاهلی	NOUN	_	_	13	conj	_	_
+16	می‌کند	می‌کند	VERB	_	_	13	conj	_	_
+17	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s145
+# text = آیا در این کتاب هم تجدید نظر کرده‌اید؟
+1	آیا	_	_	_	_	0	root	_	_
+2	در	در	ADP	_	_	1	dep	_	_
+3	این	این	DET	_	_	1	dep	_	_
+4	کتاب	کتاب	NOUN	_	_	1	dep	_	_
+5	هم	هم	ADV	_	_	4	advmod	_	_
+6	تجدید	تجدید	NOUN	_	_	7	nmod	_	_
+7	نظر	نظر	NOUN	_	_	8	nmod	_	_
+8	کرده‌اید	کرده	VERB	_	_	4	compound	_	_
+9	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s873
+# text = ترسیدم حرف بزنم که مبادا من هم بع‌بع کرده باشم.
+1	ترسیدم	_	_	_	_	0	root	_	_
+2	حرف	حرف	NOUN	NOUN	Case=Acc|Number=Sing	1	obj	_	_
+3	بزنم	بزنم	VERB	VV	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	1	advcl	_	_
+4	که	که	SCONJ	SCONJ	_	5	mark	_	_
+5	مبادا	مبادا	ADV	ADV	_	3	advmod	_	_
+6	من	من	PRON	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	هم	هم	ADV	ADV	_	5	advmod	_	_
+8	بع‌بع	بع‌بع	ADJ	ADJ	Case=Acc|Number=Sing	9	amod	_	_
+9	کرده	کرده	VERB	VV	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	7	acl	_	_
+10	باشم	باشم	VERB	VV	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	9	aux	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s766
+# text = گرچه نوشتن و سخن گفتن در این خصوص امری است که اخلاقاً توجیهی ندارد، لیکن بایستی این واقعیت را ملحوظ داشت.
+1	گرچه	_	_	_	_	0	root	_	_
+2	نوشتن	_	_	_	_	1	dep	_	_
+3	و	_	_	_	_	1	dep	_	_
+4	سخن	_	_	_	_	1	dep	_	_
+5	گفتن	_	_	_	_	1	dep	_	_
+6	در	_	_	_	_	1	dep	_	_
+7	این	_	_	_	_	1	dep	_	_
+8	خصوص	_	_	_	_	1	dep	_	_
+9	امری	_	_	_	_	1	dep	_	_
+10	است	_	_	_	_	1	dep	_	_
+11	که	_	_	_	_	1	dep	_	_
+12	اخلاقاً	_	_	_	_	1	dep	_	_
+13	توجیهی	_	_	_	_	1	dep	_	_
+14	ندارد	_	_	_	_	1	dep	_	_
+15	،	_	_	_	_	1	dep	_	_
+16	لیکن	_	_	_	_	1	dep	_	_
+17	بایستی	_	_	_	_	1	dep	_	_
+18	این	_	_	_	_	1	dep	_	_
+19	واقعیت	_	_	_	_	1	dep	_	_
+20	را	_	_	_	_	1	dep	_	_
+21	ملحوظ	_	_	_	_	1	dep	_	_
+22	داشت	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1176
+# text = او جنگ‌ها را نشانهٔ عدم درک همدیگر و حاصل رنگ و ریای دنیوی می‌داند و اشاره می‌دارد که اگر بی‌رنگی حاکم شود، جنگ‌ها از هستی رخت برمی‌بندند.
+1	او	او	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	dep	_	_
+2	جنگ‌ها	جنگ	NOUN	NOUN	Case=Acc|Number=Plur	3	dobj	_	_
+3	را	را	PART	PART	_	1	case	_	_
+4	نشانهٔ	نشانه	NOUN	NOUN	Case=Acc|Number=Sing	14	dep	_	_
+5	عدم	عدم	NOUN	NOUN	Case=Acc|Number=Sing	14	dep	_	_
+6	درک	درک	NOUN	NOUN	Case=Acc|Number=Sing	14	dep	_	_
+7	همدیگر	همدیگر	NOUN	NOUN	Case=Acc|Number=Sing	14	dep	_	_
+8	و	و	CCONJ	CCONJ	_	14	dep	_	_
+9	حاصل	حاصل	NOUN	NOUN	Case=Acc|Number=Sing	14	dep	_	_
+10	رنگ	رنگ	NOUN	NOUN	Case=Acc|Number=Sing	11	nmod	_	_
+11	و	و	CCONJ	CCONJ	_	12	cc	_	_
+12	ریای	ریای	NOUN	NOUN	Case=Acc|Number=Sing	9	conj	_	_
+13	دنیوی	دنیوی	ADJ	ADJ	Case=Acc|Number=Sing	14	amod	_	_
+14	می‌داند	می‌داند	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	و	و	CCONJ	CCONJ	_	16	cc	_	_
+16	اشاره	اشاره	NOUN	NOUN	Case=Acc|Number=Sing	14	conj	_	_
+17	می‌دارد	می‌دارد	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl	_	_
+18	که	که	SCONJ	SCONJ	_	20	mark	_	_
+19	اگر	اگر	SCONJ	SCONJ	_	20	mark	_	_
+20	بی‌رنگی	بی‌رنگی	NOUN	NOUN	Case=Acc|Number=Sing	21	nmod	_	_
+21	حاکم	حاکم	NOUN	NOUN	Case=Acc|Number=Sing	22	dobj	_	_
+22	شود	شود	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	ccomp	_	_
+23	،	،	PUNCT	PUNCT	_	22	punct	_	_
+24	جنگ‌ها	جنگ	NOUN	NOUN	Case=Acc|Number=Plur	25	dobj	_	_
+25	از	از	PART	PART	_	26	case	_	_
+26	هستی	هستی	NOUN	NOUN	Case=Acc|Number=Sing	27	nmod	_	_
+27	رخت	رخت	NOUN	NOUN	Case=Acc|Number=Sing	28	dobj	_	_
+28	برمی‌بندند	برمی‌بندند	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	ccomp	_	_
+29	.	_	_	_	_	14	dep	_	_
+
+# sent_id = test-s699
+# text = مجلس در طرح سؤال از رییس جمهوری لجبازی کرد.
+1	مجلس	_	_	_	_	0	root	_	_
+2	در	_	_	_	_	1	dep	_	_
+3	طرح	_	_	_	_	1	dep	_	_
+4	سؤال	_	_	_	_	1	dep	_	_
+5	از	_	_	_	_	1	dep	_	_
+6	رییس	_	_	_	_	1	dep	_	_
+7	جمهوری	_	_	_	_	1	dep	_	_
+8	لجبازی	_	_	_	_	1	dep	_	_
+9	کرد	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s469
+# text = گاهی روح آدمی قولنج می‌کند!
+1	گاهی	_	_	_	_	0	root	_	_
+2	روح	_	_	_	_	1	dep	_	_
+3	آدمی	_	_	_	_	1	dep	_	_
+4	قولنج	_	_	_	_	1	dep	_	_
+5	می‌کند	_	_	_	_	1	dep	_	_
+6	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s875
+# text = او جوانمردی بس عالی‌قدر و بزرگ‌نفس بود، از سرچشمهٔ وجدانش خیر و نیکی میجوشید و از دلش شعله‌های شور و حماسه زبانه می‌زد.
+1	او	او	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	جوانمردی	جوانمرد	ADJ	ADJ	Case=Nom|Number=Sing	0	root	_	_
+3	بس	بسی	ADV	ADV	_	2	advmod	_	_
+4	عالی‌قدر	عالی	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
+5	و	و	CCONJ	CCONJ	_	6	cc	_	_
+6	بزرگ‌نفس	بزرگ‌نفس	NOUN	NOUN	Case=Nom|Number=Sing	2	conj	_	_
+7	بود	بود	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+8	،	،	PUNCT	PUNCT	_	9	punct	_	_
+9	از	از	ADP	ADP	_	10	case	_	_
+10	سرچشمهٔ	سرچشمه	NOUN	NOUN	Case=Gen|Number=Sing	11	nmod	_	_
+11-12	وجدانش	_	_	_	_	_	_	_	_
+11	وجدان	وجدان	NOUN	NOUN	Case=Nom|Number=Sing	12	nsubj	_	_
+12	ش	ش	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dep	_	_
+13	خیر	خیر	NOUN	NOUN	Case=Acc|Number=Sing	2	dep	_	_
+14	و	و	CCONJ	CCONJ	_	15	cc	_	_
+15	نیکی	نیکی	NOUN	NOUN	Case=Acc|Number=Sing	13	conj	_	_
+16	میجوشید	جوشیدن	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+17	و	و	CCONJ	CCONJ	_	2	dep	_	_
+18	از	از	ADP	ADP	_	2	dep	_	_
+19-20	دلش	_	_	_	_	_	_	_	_
+19	دل	دل	NOUN	NOUN	Case=Gen|Number=Sing	2	dep	_	_
+20	ش	ش	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dep	_	_
+21	شعله‌های	شعله	NOUN	NOUN	Case=Gen|Number=Plur	2	dep	_	_
+22	شور	شور	NOUN	NOUN	Case=Acc|Number=Sing	2	dep	_	_
+23	و	و	CCONJ	CCONJ	_	24	cc	_	_
+24	حماسه	حماسه	NOUN	NOUN	Case=Acc|Number=Sing	22	conj	_	_
+25	زبانه	زبانه	NOUN	NOUN	Case=Acc|Number=Sing	22	conj	_	_
+26	می‌زد	زد	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+27	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s8
+# text = هر جسمی با دمای بالاتر از صفر مطلق انرژی تابش خواهد کرد.
+1	هر	_	_	_	_	0	root	_	_
+2	جسمی	_	_	_	_	1	dep	_	_
+3	با	_	_	_	_	1	dep	_	_
+4	دمای	_	_	_	_	1	dep	_	_
+5	بالاتر	_	_	_	_	1	dep	_	_
+6	از	_	_	_	_	1	dep	_	_
+7	صفر	_	_	_	_	1	dep	_	_
+8	مطلق	_	_	_	_	1	dep	_	_
+9	انرژی	_	_	_	_	1	dep	_	_
+10	تابش	_	_	_	_	1	dep	_	_
+11	خواهد	_	_	_	_	1	dep	_	_
+12	کرد	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s631
+# text = من باز هم تظاهر خواهم کرد.
+1	من	_	_	_	_	4	dep	_	_
+2	باز	باز	ADV	ADV	_	3	advmod	_	_
+3	هم	هم	ADV	ADV	_	4	advmod	_	_
+4	تظاهر	تظاهر	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	خواهم	خواهم	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+6	کرد	کرد	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part	4	aux	_	_
+7	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s1449
+# text = این آهنگ یکی از آهنگ‌های آلبوم زیبای پرچم سفید می‌باشد که در سال 1391 انتشار پیدا کرد.
+1	این	این	DET	DET	_	17	dep	_	_
+2	آهنگ	آهنگ	NOUN	NOUN	Number=Sing|Person=3	17	dep	_	_
+3	یکی	یک	NUM	NUM	Case=Nom|Number=Sing|Person=3	2	nummod	_	_
+4	از	از	ADP	ADP	_	5	case	_	_
+5	آهنگ‌های	آهنگ	NOUN	NOUN	Case=Gen|Number=Plur|Person=3	2	nmod	_	_
+6	آلبوم	آلبوم	NOUN	NOUN	Number=Sing	17	dep	_	_
+7	زیبای	زیبا	ADJ	ADJ	Case=Nom|Number=Sing|Person=3	8	amod	_	_
+8	پرچم	پرچم	NOUN	NOUN	Number=Sing	9	nmod	_	_
+9	سفید	سفید	ADJ	ADJ	Case=Nom|Number=Sing|Person=3	6	amod	_	_
+10	می‌باشد	بود	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Cau	2	cop	_	_
+11	که	که	SCONJ	SCONJ	_	17	dep	_	_
+12	در	در	ADP	ADP	_	17	dep	_	_
+13	سال	سال	NOUN	NOUN	Number=Sing	14	nmod	_	_
+14	1391	1391	NUM	NUM	_	12	obl	_	_
+15	انتشار	انتشار	NOUN	NOUN	Number=Sing	16	nmod	_	_
+16	پیدا	پیدا	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past	17	aux	_	_
+17	کرد	کرد	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past	0	root	_	_
+18	.	_	_	_	_	17	dep	_	_
+
+# sent_id = test-s514
+# text = چرا به گریهٔ ما خنده می‌کنید؟
+1	چرا	چرا	ADV	_	_	0	root	_	_
+2	به	به	ADP	_	_	3	case	_	_
+3	گریهٔ	گریه	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	_
+4	ما	ما	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod	_	_
+5	خنده	خنده	NOUN	_	Case=Acc|Number=Sing	6	nmod	_	_
+6	می‌کنید	می‌کن	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s559
+# text = به گزارش رسانه‌های ژاپنی مقام‌های ژاپنی امروز پنجشنبه با مقام‌های آمریکایی دربارهٔ جزئیات تحریم‌های نفتی ایران گفت و گو می‌کنند.
+1	به	_	_	_	_	0	root	_	_
+2	گزارش	_	_	_	_	1	dep	_	_
+3	رسانه‌های	_	_	_	_	1	dep	_	_
+4	ژاپنی	_	_	_	_	1	dep	_	_
+5	مقام‌های	_	_	_	_	1	dep	_	_
+6	ژاپنی	_	_	_	_	1	dep	_	_
+7	امروز	_	_	_	_	1	dep	_	_
+8	پنجشنبه	_	_	_	_	1	dep	_	_
+9	با	_	_	_	_	1	dep	_	_
+10	مقام‌های	_	_	_	_	1	dep	_	_
+11	آمریکایی	_	_	_	_	1	dep	_	_
+12	دربارهٔ	_	_	_	_	1	dep	_	_
+13	جزئیات	_	_	_	_	1	dep	_	_
+14	تحریم‌های	_	_	_	_	1	dep	_	_
+15	نفتی	_	_	_	_	1	dep	_	_
+16	ایران	_	_	_	_	1	dep	_	_
+17	گفت	_	_	_	_	1	dep	_	_
+18	و	_	_	_	_	1	dep	_	_
+19	گو	_	_	_	_	1	dep	_	_
+20	می‌کنند	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s972
+# text = نیکویی کن همچنان که خداوند بر تو نیکویی کرد.
+1	نیکویی	_	_	_	_	2	dep	_	_
+2	کن	کن	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+3	همچنان	همچنان	ADV	_	_	2	advmod	_	_
+4	که	که	SCONJ	_	_	5	mark	_	_
+5	خداوند	خداوند	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+6	بر	بر	ADP	_	_	7	case	_	_
+7	تو	تو	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+8	نیکویی	نیکویی	NOUN	_	Case=Acc|Number=Sing	7	nmod	_	_
+9	کرد	کرد	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	8	acl:relcl	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s330
+# text = هر گاه دوست و برادر تو بدون دعوت قبلی به دیدن تو آمد، برای او تکلف مکن و به هر چه آماده است قناعت کن.
+1	هر	_	_	_	_	0	root	_	_
+2	گاه	_	_	_	_	1	dep	_	_
+3	دوست	_	_	_	_	1	dep	_	_
+4	و	_	_	_	_	1	dep	_	_
+5	برادر	_	_	_	_	1	dep	_	_
+6	تو	_	_	_	_	1	dep	_	_
+7	بدون	_	_	_	_	1	dep	_	_
+8	دعوت	_	_	_	_	1	dep	_	_
+9	قبلی	_	_	_	_	1	dep	_	_
+10	به	_	_	_	_	1	dep	_	_
+11	دیدن	_	_	_	_	1	dep	_	_
+12	تو	_	_	_	_	1	dep	_	_
+13	آمد	_	_	_	_	1	dep	_	_
+14	،	_	_	_	_	1	dep	_	_
+15	برای	_	_	_	_	1	dep	_	_
+16	او	_	_	_	_	1	dep	_	_
+17	تکلف	_	_	_	_	1	dep	_	_
+18	مکن	_	_	_	_	1	dep	_	_
+19	و	_	_	_	_	1	dep	_	_
+20	به	_	_	_	_	1	dep	_	_
+21	هر	_	_	_	_	1	dep	_	_
+22	چه	_	_	_	_	1	dep	_	_
+23	آماده	_	_	_	_	1	dep	_	_
+24	است	_	_	_	_	1	dep	_	_
+25	قناعت	_	_	_	_	1	dep	_	_
+26	کن	_	_	_	_	1	dep	_	_
+27	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s667
+# text = با سه تا مطلب بروزم، لطفاً تشریف‌فرمایی کنید.
+1	با	با	ADP	_	Case=Acc	0	root	_	_
+2	سه	سه	NUM	_	NumType=Card	3	nummod	_	_
+3	تا	تا	ADP	_	_	4	case	_	_
+4	مطلب	مطلب	NOUN	_	Case=Acc|Number=Sing	5	nmod	_	_
+5-7	بروزم،	_	_	_	_	_	_	_	_
+5	بروز	بروز	ADJ	_	_	6	amod	_	_
+6	م	م	ADP	_	_	7	case	_	_
+7	،	،	PUNCT	_	_	1	punct	_	_
+8	لطفاً	لطفاً	ADV	_	_	9	advmod	_	_
+9	تشریف‌فرمایی	تشریف‌فرمایی	VERB	_	_	1	root	_	_
+10	کنید	کرد	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s966
+# text = آثار 23 عکاس بر دیوار نگارخانهٔ ایوان نقش می‌زند.
+1	آثار	_	_	_	_	0	root	_	_
+2	23	_	_	_	_	1	dep	_	_
+3	عکاس	_	_	_	_	1	dep	_	_
+4	بر	_	_	_	_	1	dep	_	_
+5	دیوار	_	_	_	_	1	dep	_	_
+6	نگارخانهٔ	_	_	_	_	1	dep	_	_
+7	ایوان	_	_	_	_	1	dep	_	_
+8	نقش	_	_	_	_	1	dep	_	_
+9	می‌زند	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s422
+# text = شما هم امسال برف‌بازی خواهید کرد.
+1	شما	شما	PRON	PRON	Case=Nom|Number=Plur|Person=2|PronType=Prs	0	root	_	_
+2	هم	هم	ADV	ADV	_	1	advmod	_	_
+3	امسال	امسال	ADV	ADV	_	1	advmod	_	_
+4	برف‌بازی	برف‌بازی	NOUN	NOUN	Case=Nom|Number=Sing	1	nsubj	_	_
+5	خواهید	خواهی	VERB	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	aux	_	_
+6	کرد	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s890
+# text = قبل از قائم مقام، میرزا شفیع و صدر اصفهانی قریب سی سال صدارت کردند، و بعد از او میرزا آقاسی سیزده سال زمامدار بود.
+1	قبل	_	_	_	_	0	root	_	_
+2	از	_	_	_	_	1	dep	_	_
+3	قائم	_	_	_	_	1	dep	_	_
+4	مقام	_	_	_	_	1	dep	_	_
+5	،	_	_	_	_	1	dep	_	_
+6	میرزا	_	_	_	_	1	dep	_	_
+7	شفیع	_	_	_	_	1	dep	_	_
+8	و	_	_	_	_	1	dep	_	_
+9	صدر	_	_	_	_	1	dep	_	_
+10	اصفهانی	_	_	_	_	1	dep	_	_
+11	قریب	_	_	_	_	1	dep	_	_
+12	سی	_	_	_	_	1	dep	_	_
+13	سال	_	_	_	_	1	dep	_	_
+14	صدارت	_	_	_	_	1	dep	_	_
+15	کردند	_	_	_	_	1	dep	_	_
+16	،	_	_	_	_	1	dep	_	_
+17	و	_	_	_	_	1	dep	_	_
+18	بعد	_	_	_	_	1	dep	_	_
+19	از	_	_	_	_	1	dep	_	_
+20	او	_	_	_	_	1	dep	_	_
+21	میرزا	_	_	_	_	1	dep	_	_
+22	آقاسی	_	_	_	_	1	dep	_	_
+23	سیزده	_	_	_	_	1	dep	_	_
+24	سال	_	_	_	_	1	dep	_	_
+25	زمامدار	_	_	_	_	1	dep	_	_
+26	بود	_	_	_	_	1	dep	_	_
+27	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1184
+# text = اگر علت وجود داشته باشد، معلول به دنبال خواهد آمد.
+1	اگر	_	_	_	_	0	root	_	_
+2	علت	_	_	_	_	1	dep	_	_
+3	وجود	_	_	_	_	1	dep	_	_
+4	داشته	_	_	_	_	1	dep	_	_
+5	باشد	_	_	_	_	1	dep	_	_
+6	،	_	_	_	_	1	dep	_	_
+7	معلول	_	_	_	_	1	dep	_	_
+8	به	_	_	_	_	1	dep	_	_
+9	دنبال	_	_	_	_	1	dep	_	_
+10	خواهد	_	_	_	_	1	dep	_	_
+11	آمد	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s465
+# text = امروز بانک مرکزی سکه را با دلار 1500 تومانی قیمت‌گذاری کرد.
+1	امروز	_	_	_	_	0	root	_	_
+2	بانک	_	_	_	_	1	dep	_	_
+3	مرکزی	_	_	_	_	1	dep	_	_
+4	سکه	_	_	_	_	1	dep	_	_
+5	را	_	_	_	_	1	dep	_	_
+6	با	_	_	_	_	1	dep	_	_
+7	دلار	_	_	_	_	1	dep	_	_
+8	1500	_	_	_	_	1	dep	_	_
+9	تومانی	_	_	_	_	1	dep	_	_
+10	قیمت‌گذاری	_	_	_	_	1	dep	_	_
+11	کرد	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1296
+# text = در مورد دوستی هم که گفتند که ماشین i20 بوده فردا عصر یک آمار خواهم گرفت.
+1	در	در	ADP	_	_	0	root	_	_
+2	مورد	مورد	NOUN	_	_	1	dep	_	_
+3	دوستی	دوستی	NOUN	_	_	1	dep	_	_
+4	هم	هم	ADV	_	_	3	advmod	_	_
+5	که	که	SCONJ	_	_	1	dep	_	_
+6	گفتند	گفتن	VERB	_	_	1	dep	_	_
+7	که	که	SCONJ	_	_	6	mark	_	_
+8	ماشین	i20	PROPN	_	_	6	nsubj	_	_
+9	i20	بودن	VERB	_	_	6	cop	_	_
+10	بوده	فردا	ADV	_	_	11	advmod	_	_
+11	فردا	عصر	NOUN	_	_	12	nmod	_	_
+12	عصر	یک	NUM	_	_	13	nummod	_	_
+13	یک	آمار	NOUN	_	_	14	nmod	_	_
+14	آمار	خواهم	VERB	_	_	6	obj	_	_
+15	خواهم	گرفتن	VERB	_	_	14	aux	_	_
+16	گرفت	.	PUNCT	_	_	6	punct	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s723
+# text = تو داری تنها برای خودت مبارزه می‌کنی و به در و دیوار مشت می‌زنی.
+1	تو	_	_	_	_	0	root	_	_
+2	داری	_	_	_	_	1	dep	_	_
+3	تنها	_	_	_	_	1	dep	_	_
+4	برای	_	_	_	_	1	dep	_	_
+5-6	خودت	_	_	_	_	_	_	_	_
+5	خود	_	_	_	_	1	dep	_	_
+6	ت	_	_	_	_	1	dep	_	_
+7	مبارزه	_	_	_	_	1	dep	_	_
+8	می‌کنی	_	_	_	_	1	dep	_	_
+9	و	_	_	_	_	1	dep	_	_
+10	به	_	_	_	_	1	dep	_	_
+11	در	_	_	_	_	1	dep	_	_
+12	و	_	_	_	_	1	dep	_	_
+13	دیوار	_	_	_	_	1	dep	_	_
+14	مشت	_	_	_	_	1	dep	_	_
+15	می‌زنی	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1183
+# text = یعقوبی در بیان تاریخ پیامبران، از قرآن مجید و مآخذ اسلامی و کتب عهدین از جمله اناجیل اربعه نقل و اقتباس کرده است.
+1	یعقوبی	یعقوبی	NOUN	NN	_	0	root	_	_
+2	در	در	ADP	IN	_	1	dep	_	_
+3	بیان	بیان	NOUN	NN	_	1	dep	_	_
+4	تاریخ	تاریخ	NOUN	NN	_	1	dep	_	_
+5	پیامبران	پیامبران	NOUN	NN	_	1	dep	_	_
+6	،	،	PUNCT	,	_	1	dep	_	_
+7	از	از	ADP	IN	_	1	dep	_	_
+8	قرآن	قرآن	NOUN	NN	_	9	nmod	_	_
+9	مجید	مجید	NOUN	NN	_	7	nmod	_	_
+10	و	و	CCONJ	CC	_	11	cc	_	_
+11	مآخذ	مآخذ	NOUN	NN	_	7	nmod	_	_
+12	اسلامی	اسلامی	ADJ	JJ	_	11	amod	_	_
+13	و	و	CCONJ	CC	_	14	cc	_	_
+14	کتب	کتب	NOUN	NN	_	11	nmod	_	_
+15	عهدین	عهدین	NOUN	NN	_	14	nmod	_	_
+16	از	از	ADP	IN	_	17	case	_	_
+17	جمله	جمله	NOUN	NN	_	18	nmod	_	_
+18	اناجیل	اناجیل	NOUN	NN	_	14	nmod	_	_
+19	اربعه	اربعه	NUM	CD	_	18	nummod	_	_
+20	نقل	نقل	VERB	VB	_	1	dep	_	_
+21	و	و	CCONJ	CC	_	22	cc	_	_
+22	اقتباس	اقتباس	VERB	VB	_	20	conj	_	_
+23	کرده	کرده	VERB	VBD	_	24	advcl	_	_
+24	است	است	AUX	VBZ	_	20	conj	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s970
+# text = من در اینجا یک سرودهٔ کوتاه فردوسی بزرگ را نمونه آورده‌ام.
+1	من	من	PRON	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	dep	_	_
+2	در	در	ADP	ADP	_	11	dep	_	_
+3	اینجا	اینجا	ADV	ADV	_	11	dep	_	_
+4	یک	یک	NUM	NUM	NumType=Card	11	dep	_	_
+5	سرودهٔ	سروده	NOUN	NOUN	Number=Sing	11	dep	_	_
+6	کوتاه	کوتاه	ADJ	ADJ	_	5	amod	_	_
+7	فردوسی	فردوسی	PROPN	PROPN	_	8	nmod	_	_
+8	بزرگ	بزرگ	ADJ	ADJ	_	5	amod	_	_
+9	را	را	PART	PART	_	10	case	_	_
+10	نمونه	نمونه	NOUN	NOUN	Number=Sing	11	nmod	_	_
+11	آورده‌ام	آورده‌ام	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	.	_	_	_	_	11	dep	_	_
+
+# sent_id = test-s250
+# text = ارتش سوریه تمامی مناطق مسکونی و خیابان‌های سوریه را تخلیه کرده‌اند.
+1	ارتش	_	_	_	_	0	root	_	_
+2	سوریه	_	_	_	_	1	dep	_	_
+3	تمامی	_	_	_	_	1	dep	_	_
+4	مناطق	_	_	_	_	1	dep	_	_
+5	مسکونی	_	_	_	_	1	dep	_	_
+6	و	_	_	_	_	1	dep	_	_
+7	خیابان‌های	_	_	_	_	1	dep	_	_
+8	سوریه	_	_	_	_	1	dep	_	_
+9	را	_	_	_	_	1	dep	_	_
+10	تخلیه	_	_	_	_	1	dep	_	_
+11	کرده‌اند	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s277
+# text = چه طوری می‌شود یک آی‌سی را تست کرد؟
+1	چه	_	_	_	_	3	dep	_	_
+2	طوری	طوری	ADV	ADV	_	3	advmod	_	_
+3	می‌شود	می‌شود	VERB	VERB	_	0	root	_	_
+4	یک	یک	NUM	NUM	_	5	nummod	_	_
+5	آی‌سی	آی‌سی	NOUN	NOUN	_	3	obj	_	_
+6	را	را	PART	PART	_	5	case	_	_
+7	تست	تست	NOUN	NOUN	_	8	compound	_	_
+8	کرد	کرد	VERB	VERB	_	3	xcomp	_	_
+9	؟	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s308
+# text = خیلی با توپ و تشر به مجلسی‌ها توهین می‌کند و خطاب به آنها می‌گوید شما رذالت کرده‌اید.
+1	خیلی	_	_	_	_	0	root	_	_
+2	با	_	_	_	_	1	dep	_	_
+3	توپ	_	_	_	_	1	dep	_	_
+4	و	_	_	_	_	1	dep	_	_
+5	تشر	_	_	_	_	1	dep	_	_
+6	به	_	_	_	_	1	dep	_	_
+7	مجلسی‌ها	_	_	_	_	1	dep	_	_
+8	توهین	_	_	_	_	1	dep	_	_
+9	می‌کند	_	_	_	_	1	dep	_	_
+10	و	_	_	_	_	1	dep	_	_
+11	خطاب	_	_	_	_	1	dep	_	_
+12	به	_	_	_	_	1	dep	_	_
+13	آنها	_	_	_	_	1	dep	_	_
+14	می‌گوید	_	_	_	_	1	dep	_	_
+15	شما	_	_	_	_	1	dep	_	_
+16	رذالت	_	_	_	_	1	dep	_	_
+17	کرده‌اید	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1040
+# text = عادت همیشگی‌اش بود که دانشجویش را تا دم در بدرقه کرده باشد.
+1	عادت	_	_	_	_	4	dep	_	_
+2-3	همیشگی‌اش	_	_	_	_	_	_	_	_
+2	همیشگی‌	همیشگی	ADJ	ADJ	Case=Gen|Number=Sing	3	amod	_	_
+3	اش	اش	PRON	PRON	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+4	بود	بود	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	که	که	SCONJ	SCONJ	_	7	mark	_	_
+6-7	دانشجویش	_	_	_	_	_	_	_	_
+6	دانشجو	دانشجو	NOUN	NOUN	Number=Sing	7	nsubj	_	_
+7	یش	یش	PRON	PRON	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	ccomp	_	_
+8	را	را	PART	PART	_	7	det	_	_
+9	تا	تا	ADP	ADP	_	10	case	_	_
+10	دم	دم	NOUN	NOUN	Number=Sing	7	nmod	_	_
+11	در	در	NOUN	NOUN	Number=Sing	10	nmod	_	_
+12	بدرقه	بدرقه	VERB	VERB	Number=Sing	7	acl	_	_
+13	کرده	کرده	VERB	VERB	Number=Sing|Person=3|Tense=Past|VerbForm=Part	12	aux	_	_
+14	باشد	باشد	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+15	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s762
+# text = مجلس قراردادهای نفت را بررسی و کارشناسی می‌کند.
+1	مجلس	majles	NOUN	NN	Number=Sing|Person=3	5	nsubj	_	_
+2	قراردادهای	qarardadhaa	NOUN	NNS	Number=Plur|Person=3	5	nmod	_	_
+3	نفت	naf	NOUN	NN	Number=Sing|Person=3	2	nmod	_	_
+4	را	rā	PART	PART	_	5	obl	_	_
+5	بررسی	barnāmehi	VERB	VBZ	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+6	و	va	CCONJ	CC	_	5	cc	_	_
+7	کارشناسی	karšnāsi	VERB	VBZ	Number=Sing|Person=3|Tense=Pres|Voice=Act	5	conj	_	_
+8	می‌کند	mikunad	VERB	VBZ	Number=Sing|Person=3|Tense=Pres|Voice=Act	5	conj	_	_
+9	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s229
+# text = شاید اگر آن توپ‌ها را گل کرده بودید، با اختلاف گل بهتری پیروز می‌شدید.
+1	شاید	_	_	_	_	0	root	_	_
+2	اگر	_	_	_	_	1	dep	_	_
+3	آن	_	_	_	_	1	dep	_	_
+4	توپ‌ها	_	_	_	_	1	dep	_	_
+5	را	_	_	_	_	1	dep	_	_
+6	گل	_	_	_	_	1	dep	_	_
+7	کرده	_	_	_	_	1	dep	_	_
+8	بودید	_	_	_	_	1	dep	_	_
+9	،	_	_	_	_	1	dep	_	_
+10	با	_	_	_	_	1	dep	_	_
+11	اختلاف	_	_	_	_	1	dep	_	_
+12	گل	_	_	_	_	1	dep	_	_
+13	بهتری	_	_	_	_	1	dep	_	_
+14	پیروز	_	_	_	_	1	dep	_	_
+15	می‌شدید	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s83
+# text = چون ممکن است طرف مقابل برای به نمایش گذاشتن پاچه‌اش، شلوار خود را تا زده باشد.
+1	چون	_	_	_	_	0	root	_	_
+2	ممکن	_	_	_	_	1	dep	_	_
+3	است	_	_	_	_	1	dep	_	_
+4	طرف	_	_	_	_	1	dep	_	_
+5	مقابل	_	_	_	_	1	dep	_	_
+6	برای	_	_	_	_	1	dep	_	_
+7	به	_	_	_	_	1	dep	_	_
+8	نمایش	_	_	_	_	1	dep	_	_
+9	گذاشتن	_	_	_	_	1	dep	_	_
+10-12	پاچه‌اش،	_	_	_	_	_	_	_	_
+10	پاچه‌	_	_	_	_	1	dep	_	_
+11	اش	_	_	_	_	1	dep	_	_
+12	،	_	_	_	_	1	dep	_	_
+13	شلوار	_	_	_	_	1	dep	_	_
+14	خود	_	_	_	_	1	dep	_	_
+15	را	_	_	_	_	1	dep	_	_
+16	تا	_	_	_	_	1	dep	_	_
+17	زده	_	_	_	_	1	dep	_	_
+18	باشد	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s802
+# text = پدر دائم به جان یگانه پسرش نق زده است.
+1	پدر	_	_	_	_	5	dep	_	_
+2	دائم	yegane	PADR	n	_	1	case	_	_
+3	به	sh	N	_	_	1	nsubj	_	_
+4	جان	zade	EST	v	_	1	root	_	_
+5	یگانه	_	_	_	_	0	root	_	_
+6-7	پسرش	_	_	_	_	_	_	_	_
+6	پسر	_	_	_	_	5	dep	_	_
+7	ش	_	_	_	_	5	dep	_	_
+8	نق	_	_	_	_	5	dep	_	_
+9	زده	_	_	_	_	5	dep	_	_
+10	است	_	_	_	_	5	dep	_	_
+11	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s899
+# text = دیوان اروپایی حقوق بشر به استرداد «ابوحمزه» به آمریکا حکم کرد.
+1	دیوان	_	_	_	_	13	dep	_	_
+2	اروپایی	اروپایی	ADJ	_	Case=Gen|Number=Sing	13	dep	_	_
+3	حقوق	حقوق	NOUN	_	Case=Gen|Number=Sing	13	dep	_	_
+4	بشر	بشر	NOUN	_	Case=Gen|Number=Sing	13	dep	_	_
+5	به	بهر	ADP	_	_	13	dep	_	_
+6	استرداد	استرداد	NOUN	_	Case=Acc|Number=Sing	13	dep	_	_
+7	«	«	PUNCT	_	_	8	punct	_	_
+8	ابوحمزه	ابوحمزه	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	_
+9	»	»	PUNCT	_	_	8	punct	_	_
+10	به	به	ADP	_	_	11	case	_	_
+11	آمریکا	آمریکا	PROPN	_	Case=Acc|Number=Sing	6	nmod	_	_
+12	حکم	حکم	NOUN	_	Case=Acc|Number=Sing	13	nmod	_	_
+13	کرد	کرد	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+14	.	_	_	_	_	13	dep	_	_
+
+# sent_id = test-s234
+# text = معمولاً در مراسم سوگواری به احترام متوفی یک دقیقه سکوت می‌کنند.
+1	معمولاً	معمولاً	ADV	ADV	_	2	case	_	_
+2	در	در	ADP	ADP	_	3	case	_	_
+3	مراسم	مراسم	NOUN	NOUN	_	4	compound	_	_
+4	سوگواری	سوگواری	NOUN	NOUN	_	5	compound	_	_
+5	به	به	ADP	ADP	_	6	case	_	_
+6	احترام	احترام	NOUN	NOUN	_	7	case	_	_
+7	متوفی	متوفی	NOUN	NOUN	_	8	nmod	_	_
+8	یک	یک	NUM	NUM	_	9	nummod	_	_
+9	دقیقه	دقیقه	NOUN	NOUN	_	10	compound	_	_
+10	سکوت	سکوت	NOUN	NOUN	_	11	compound	_	_
+11	می‌کنند	کرد	VERB	VERB	_	0	root	_	_
+12	.	_	_	_	_	11	dep	_	_
+
+# sent_id = test-s672
+# text = در مقابل من تذلل کنید.
+1	در	در	ADP	_	Case=Acc	2	case	_	_
+2	مقابل	مقابل	ADP	_	Case=Gen	3	case	_	_
+3	من	من	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	_
+4	تذلل	تذلل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	کنید	_	_	_	_	4	dep	_	_
+6	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s538
+# text = از قصهٔ کودکیشان که می‌گفت، گاهی حرص می‌خورد و گاهی ریسه می‌رفت و این دو را چنان ترکیب می‌کرد که میخکوب می‌شدی.
+1	از	از	ADP	_	_	0	root	_	_
+2	قصهٔ	قصه	ADJ	_	_	3	amod	_	_
+3-4	کودکیشان	_	_	_	_	_	_	_	_
+3	کودکی	کودک	NOUN	_	_	1	nmod	_	_
+4	شان	شان	PRON	_	_	3	nmod	_	_
+5	که	که	SCONJ	_	_	1	dep	_	_
+6	می‌گفت	می‌گفت	VERB	_	_	1	dep	_	_
+7	،	،	PUNCT	_	_	6	punct	_	_
+8	گاهی	گاه	ADV	_	_	6	advmod	_	_
+9	حرص	حرص	NOUN	_	_	6	nsubj	_	_
+10	می‌خورد	می‌خورد	VERB	_	_	9	acl	_	_
+11	و	و	CCONJ	_	_	6	cc	_	_
+12	گاهی	گاه	ADV	_	_	6	advmod	_	_
+13	ریسه	ریسه	NOUN	_	_	6	nsubj	_	_
+14	می‌رفت	می‌رفت	VERB	_	_	13	acl	_	_
+15	و	و	CCONJ	_	_	6	cc	_	_
+16	این	این	DET	_	_	17	det	_	_
+17	دو	دو	NUM	_	_	18	nummod	_	_
+18	را	را	PRON	_	_	19	obj	_	_
+19	چنان	چنان	ADV	_	_	6	advmod	_	_
+20	ترکیب	ترکیب	NOUN	_	_	19	acl	_	_
+21	می‌کرد	می‌کرد	VERB	_	_	20	acl	_	_
+22	که	که	SCONJ	_	_	23	mark	_	_
+23	میخکوب	میخکوب	VERB	_	_	24	advcl	_	_
+24	می‌شدی	می‌شدی	VERB	_	_	6	advcl	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s714
+# text = ارتش سوریه حمص را گلوله‌باران کرد.
+1	ارتش	_	_	_	_	4	dep	_	_
+2	سوریه	SYRIA	PROPN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	حمص	SURYAN_ARMY	NOUN	_	Case=Gen|Number=Sing	4	nsubj	_	_
+4	را	HOMS	PROPN	_	Case=Acc|Number=Sing	0	root	_	_
+5	گلوله‌باران	_	PUNCT	_	_	4	punct	_	_
+6	کرد	_	VERB	_	_	4	advcl	_	_
+7	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s855
+# text = برای آن که به نتیجهٔ مثبتی از موقعیت برسم، مذاکره و مصالحه کردم.
+1	برای	_	_	_	_	0	root	_	_
+2	آن	_	_	_	_	1	dep	_	_
+3	که	_	_	_	_	1	dep	_	_
+4	به	_	_	_	_	1	dep	_	_
+5	نتیجهٔ	_	_	_	_	1	dep	_	_
+6	مثبتی	_	_	_	_	1	dep	_	_
+7	از	_	_	_	_	1	dep	_	_
+8	موقعیت	_	_	_	_	1	dep	_	_
+9	برسم	_	_	_	_	1	dep	_	_
+10	،	_	_	_	_	1	dep	_	_
+11	مذاکره	_	_	_	_	1	dep	_	_
+12	و	_	_	_	_	1	dep	_	_
+13	مصالحه	_	_	_	_	1	dep	_	_
+14	کردم	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1322
+# text = کامپیوتر به حالت کارخانه‌ای بازگردانی خواهد شد.
+1	کامپیوتر	_	_	_	_	7	dep	_	_
+2	به	به	ADP	_	_	3	case	_	_
+3	حالت	حالت	NOUN	_	Case=Acc|Number=Sing	4	nmod	_	_
+4	کارخانه‌ای	کارخانه‌ای	ADJ	_	Case=Acc|Number=Sing	5	amod	_	_
+5	بازگردانی	بازگردانی	NOUN	_	Case=Acc|Number=Sing	6	nmod	_	_
+6	خواهد	خواهد	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	شد	شد	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	.	_	_	_	_	7	dep	_	_
+
+# sent_id = test-s1294
+# text = تا سال 2020 هکرهای بیشتری به اینترنت آسیب خواهند زد.
+1	تا	_	_	_	_	0	root	_	_
+2	سال	_	_	_	_	1	dep	_	_
+3	2020	_	_	_	_	1	dep	_	_
+4	هکرهای	_	_	_	_	1	dep	_	_
+5	بیشتری	_	_	_	_	1	dep	_	_
+6	به	_	_	_	_	1	dep	_	_
+7	اینترنت	_	_	_	_	1	dep	_	_
+8	آسیب	_	_	_	_	1	dep	_	_
+9	خواهند	_	_	_	_	1	dep	_	_
+10	زد	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1336
+# text = آرزو می‌کنم همیشه با هنر مستی کنید.
+1	آرزو	_	_	_	_	2	dep	_	_
+2	می‌کنم	می-کنم	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	همیشه	همیشه	ADV	_	_	2	advmod	_	_
+4	با	با	ADP	_	_	5	case	_	_
+5	هنر	هنر	NOUN	_	Number=Sing	6	nmod	_	_
+6	مستی	مستی	NOUN	_	Number=Sing	2	nmod	_	_
+7	کنید	کن-م	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	_
+8	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s1069
+# text = چگونه می‌توان خورشید را وزن کرد؟
+1	چگونه	چگونه	ADV	ADV	_	0	root	_	_
+2	می‌توان	توان	VERB	VERB	_	1	dep	_	_
+3	خورشید	خورشید	NOUN	NOUN	_	1	dep	_	_
+4	را	را	PART	PART	_	3	obj	_	_
+5	وزن	وزن	VERB	VERB	_	6	compound	_	_
+6	کرد	کرد	VERB	VERB	_	2	root	_	_
+7	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s544
+# text = آنها با یک تلنگر، عصبی می‌شوند و با هم زد و خورد می‌کنند.
+1	آنها	_	_	_	_	0	root	_	_
+2	با	_	_	_	_	1	dep	_	_
+3	یک	_	_	_	_	1	dep	_	_
+4	تلنگر	_	_	_	_	1	dep	_	_
+5	،	_	_	_	_	1	dep	_	_
+6	عصبی	_	_	_	_	1	dep	_	_
+7	می‌شوند	_	_	_	_	1	dep	_	_
+8	و	_	_	_	_	1	dep	_	_
+9	با	_	_	_	_	1	dep	_	_
+10	هم	_	_	_	_	1	dep	_	_
+11	زد	_	_	_	_	1	dep	_	_
+12	و	_	_	_	_	1	dep	_	_
+13	خورد	_	_	_	_	1	dep	_	_
+14	می‌کنند	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s333
+# text = دیوان شعرم را، چنین زیباترین تقویم خواهم کرد.
+1	دیوان	_	_	_	_	0	root	_	_
+2-3	شعرم	_	_	_	_	_	_	_	_
+2	شعر	_	_	_	_	1	dep	_	_
+3	م	_	_	_	_	1	dep	_	_
+4	را	_	_	_	_	1	dep	_	_
+5	،	_	_	_	_	1	dep	_	_
+6	چنین	_	_	_	_	1	dep	_	_
+7	زیباترین	_	_	_	_	1	dep	_	_
+8	تقویم	_	_	_	_	1	dep	_	_
+9	خواهم	_	_	_	_	1	dep	_	_
+10	کرد	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1193
+# text = همان گونه که قبلاً نوشتم مدت زیادی بود می‌خواستم یک نوگرایی کرده باشم.
+1	همان	همان	DET	DET	_	0	root	_	_
+2	گونه	گونه	NOUN	NOUN	Case=Gen|Number=Sing	1	dep	_	_
+3	که	که	SCONJ	SCONJ	_	1	dep	_	_
+4	قبلاً	قبل	ADV	ADV	_	1	dep	_	_
+5	نوشتم	نوشتن	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	1	dep	_	_
+6	مدت	مدت	NOUN	NOUN	Case=Acc|Number=Sing	7	nmod	_	_
+7	زیادی	زیادی	ADJ	ADJ	Case=Acc|Number=Sing	5	obj	_	_
+8	بود	بود	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	ccomp	_	_
+9	می‌خواستم	خواستن	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	dep	_	_
+10	یک	یک	NUM	NUM	NumType=Card	11	nummod	_	_
+11	نوگرایی	نوگرایی	NOUN	NOUN	Case=Acc|Number=Sing	9	obj	_	_
+12	کرده	کردن	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	11	acl	_	_
+13	باشم	باش	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	12	aux	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s846
+# text = کسی که در رایزنی‌های پارلمانی من را به عنوان نخست‌وزیر معرفی نکند، من نیز با وی مقابله به مثل خواهم کرد.
+1	کسی	کسی	PRON	PRON	_	0	root	_	_
+2	که	که	SCONJ	SCONJ	_	1	dep	_	_
+3	در	در	ADP	ADP	_	1	dep	_	_
+4	رایزنی‌های	رایزنی	NOUN	NOUN	Case=Gen|Number=Plur	1	dep	_	_
+5	پارلمانی	پارلمانی	ADJ	ADJ	Case=Gen|Number=Plur	1	dep	_	_
+6	من	من	PRON	PRON	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	dep	_	_
+7	را	را	PRON	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	dep	_	_
+8	به	به	ADP	ADP	_	9	case	_	_
+9	عنوان	عنوان	NOUN	NOUN	Case=Acc|Number=Sing	10	nmod	_	_
+10	نخست‌وزیر	نخست‌وزیر	NOUN	NOUN	Case=Acc|Number=Sing	7	nmod	_	_
+11	معرفی	معرفی	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Pass	2	csubj	_	_
+12	نکند	نکند	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+13	،	،	PUNCT	PUNCT	_	15	punct	_	_
+14	من	من	PRON	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+15	نیز	نیز	ADV	ADV	_	11	ccomp	_	_
+16	با	با	ADP	ADP	_	17	case	_	_
+17	وی	وی	PRON	PRON	Case=Acc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
+18	مقابله	مقابله	VERB	VERB	Aspect=Perf|Number=Sing|Person=1|Tense=Pres|Voice=Act	15	advcl	_	_
+19	به	به	ADP	ADP	_	20	case	_	_
+20	مثل	مثل	NOUN	NOUN	Case=Acc|Number=Sing	18	nmod	_	_
+21	خواهم	خواهم	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+22	کرد	کرد	VERB	VERB	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	21	aux	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s585
+# text = این چرخه لباس‌هایی که قبلاً خشک شده‌اند را هوادهی می‌کند و بوهای نامطلوب آنها را می‌زداید.
+1	این	_	_	_	_	0	root	_	_
+2	چرخه	_	_	_	_	1	dep	_	_
+3	لباس‌هایی	_	_	_	_	1	dep	_	_
+4	که	_	_	_	_	1	dep	_	_
+5	قبلاً	_	_	_	_	1	dep	_	_
+6	خشک	_	_	_	_	1	dep	_	_
+7	شده‌اند	_	_	_	_	1	dep	_	_
+8	را	_	_	_	_	1	dep	_	_
+9	هوادهی	_	_	_	_	1	dep	_	_
+10	می‌کند	_	_	_	_	1	dep	_	_
+11	و	_	_	_	_	1	dep	_	_
+12	بوهای	_	_	_	_	1	dep	_	_
+13	نامطلوب	_	_	_	_	1	dep	_	_
+14	آنها	_	_	_	_	1	dep	_	_
+15	را	_	_	_	_	1	dep	_	_
+16	می‌زداید	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1037
+# text = شورا به پاسخگو نبودن شهرداری عادت کرده است.
+1	شورا	_	_	_	_	0	root	_	_
+2	به	_	_	_	_	1	dep	_	_
+3	پاسخگو	_	_	_	_	1	dep	_	_
+4	نبودن	_	_	_	_	1	dep	_	_
+5	شهرداری	_	_	_	_	1	dep	_	_
+6	عادت	_	_	_	_	1	dep	_	_
+7	کرده	_	_	_	_	1	dep	_	_
+8	است	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1346
+# text = واقعاً سردرد وحشتناکی خواهید گرفت که چه جنایت‌های وحشت‌انگیزی روی می‌دهد که فقط آبروداری بکنند.
+1	واقعاً	واقعاً	ADV	_	_	2	advmod	_	_
+2	سردرد	سردرد	NOUN	_	_	3	nsubj	_	_
+3	وحشتناکی	وحشتناک	ADJ	_	_	4	amod	_	_
+4	خواهید	خواهی	VERB	_	_	5	aux	_	_
+5	گرفت	گرفتن	VERB	_	_	0	root	_	_
+6	که	که	SCONJ	_	_	5	mark	_	_
+7	چه	چه	DET	_	_	8	det	_	_
+8	جنایت‌های	جنایت	NOUN	_	_	9	nsubj	_	_
+9	وحشت‌انگیزی	های	NOUN	_	_	10	nmod	_	_
+10	روی	وحشت	NOUN	_	_	11	compound	_	_
+11	می‌دهد	انگیز	ADJ	_	_	12	amod	_	_
+12	که	ی	PART	_	_	13	compound	_	_
+13	فقط	روی	VERB	_	_	14	compound	_	_
+14	آبروداری	می	VERB	_	_	15	aux	_	_
+15	بکنند	دَد	VERB	_	_	5	ccomp	_	_
+16	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s19
+# text = چگونه می‌توان با جاماسپ در نقشه‌ها پیمایش کرد؟
+1	چگونه	چگونه	ADV	ADV	_	0	root	_	_
+2	می‌توان	توان	VERB	VERB	_	1	dep	_	_
+3	با	با	ADP	ADP	_	1	dep	_	_
+4	جاماسپ	جاماسپ	NOUN	NOUN	_	1	dep	_	_
+5	در	در	ADP	ADP	_	4	case	_	_
+6	نقشه‌ها	نقشه	NOUN	NOUN	_	7	nmod	_	_
+7	پیمایش	پیمایش	VERB	VERB	_	2	obj	_	_
+8	کرد	کرد	VERB	VERB	_	7	aux	_	_
+9	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s511
+# text = خداوند اشیایی را خلقت خواهند کرد که ما از آن آگاهی نداریم.
+1	خداوند	_	_	_	_	4	dep	_	_
+2	اشیایی	اشیاء	NOUN	_	Case=Acc|Number=Plur|Person=3	3	obj	_	_
+3	را	را	PART	_	_	4	advmod	_	_
+4	خلقت	خلق	NOUN	_	Case=Acc|Number=Sing|Person=3|Reflex=Yes|Tense=Pres|Voice=Cau	0	root	_	_
+5	خواهند	خواهند	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	4	aux	_	_
+6	کرد	کرد	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	_
+7	که	که	SCONJ	_	_	8	mark	_	_
+8	ما	ما	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	advcl	_	_
+9	از	از	ADP	_	_	10	case	_	_
+10	آن	آن	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	nmod	_	_
+11	آگاهی	آگاهی	NOUN	_	Case=Acc|Number=Sing|Person=3	10	nmod	_	_
+12	نداریم	نداریم	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	11	cop	_	_
+13	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s1285
+# text = سفیانی طبق روایتی از امیرالمؤمنین (ع) فردی است با نام عثمان از نوادگان ابوسفیان و بسیار خبیث و قسی‌القلب و مدت 8 یا 9 ماه غارت و کشورگشایی می‌کند.
+1	سفیانی	_	_	_	_	0	root	_	_
+2	طبق	_	_	_	_	1	dep	_	_
+3	روایتی	_	_	_	_	1	dep	_	_
+4	از	_	_	_	_	1	dep	_	_
+5	امیرالمؤمنین	_	_	_	_	1	dep	_	_
+6	(	_	_	_	_	1	dep	_	_
+7	ع	_	_	_	_	1	dep	_	_
+8	)	_	_	_	_	1	dep	_	_
+9	فردی	_	_	_	_	1	dep	_	_
+10	است	_	_	_	_	1	dep	_	_
+11	با	_	_	_	_	1	dep	_	_
+12	نام	_	_	_	_	1	dep	_	_
+13	عثمان	_	_	_	_	1	dep	_	_
+14	از	_	_	_	_	1	dep	_	_
+15	نوادگان	_	_	_	_	1	dep	_	_
+16	ابوسفیان	_	_	_	_	1	dep	_	_
+17	و	_	_	_	_	1	dep	_	_
+18	بسیار	_	_	_	_	1	dep	_	_
+19	خبیث	_	_	_	_	1	dep	_	_
+20	و	_	_	_	_	1	dep	_	_
+21	قسی‌القلب	_	_	_	_	1	dep	_	_
+22	و	_	_	_	_	1	dep	_	_
+23	مدت	_	_	_	_	1	dep	_	_
+24	8	_	_	_	_	1	dep	_	_
+25	یا	_	_	_	_	1	dep	_	_
+26	9	_	_	_	_	1	dep	_	_
+27	ماه	_	_	_	_	1	dep	_	_
+28	غارت	_	_	_	_	1	dep	_	_
+29	و	_	_	_	_	1	dep	_	_
+30	کشورگشایی	_	_	_	_	1	dep	_	_
+31	می‌کند	_	_	_	_	1	dep	_	_
+32	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s59
+# text = اگر همگان مانند میثم، سلمان، ابوذر، حبیب و رشید هجری و... به ساحت قدسی امامان آگاهی داشتند، کسی به آنها بی‌حرمتی نمی‌کرد.
+1	اگر	_	_	_	_	0	root	_	_
+2	همگان	_	_	_	_	1	dep	_	_
+3	مانند	_	_	_	_	1	dep	_	_
+4	میثم	_	_	_	_	1	dep	_	_
+5	،	_	_	_	_	1	dep	_	_
+6	سلمان	_	_	_	_	1	dep	_	_
+7	،	_	_	_	_	1	dep	_	_
+8	ابوذر	_	_	_	_	1	dep	_	_
+9	،	_	_	_	_	1	dep	_	_
+10	حبیب	_	_	_	_	1	dep	_	_
+11	و	_	_	_	_	1	dep	_	_
+12	رشید	_	_	_	_	1	dep	_	_
+13	هجری	_	_	_	_	1	dep	_	_
+14	و	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+18	به	_	_	_	_	1	dep	_	_
+19	ساحت	_	_	_	_	1	dep	_	_
+20	قدسی	_	_	_	_	1	dep	_	_
+21	امامان	_	_	_	_	1	dep	_	_
+22	آگاهی	_	_	_	_	1	dep	_	_
+23	داشتند	_	_	_	_	1	dep	_	_
+24	،	_	_	_	_	1	dep	_	_
+25	کسی	_	_	_	_	1	dep	_	_
+26	به	_	_	_	_	1	dep	_	_
+27	آنها	_	_	_	_	1	dep	_	_
+28	بی‌حرمتی	_	_	_	_	1	dep	_	_
+29	نمی‌کرد	_	_	_	_	1	dep	_	_
+30	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s289
+# text = طالبان مدارس دینی خود را در افغانستان بازگشایی می‌کنند.
+1	طالبان	_	_	_	_	9	dep	_	_
+2	مدارس	NOUN	_	_	Case=Acc|Gender=Fem|Number=Plur	9	dep	_	_
+3	دینی	ADJ	_	_	Case=Acc|Gender=Fem|Number=Plur	2	amod	_	_
+4	خود	PRON	_	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nmod:poss	_	_
+5	را	DET	_	_	Case=Acc|Definite=Def|PronType=Art	6	det	_	_
+6	در	ADP	_	_	_	7	case	_	_
+7	افغانستان	NOUN	_	_	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	_
+8	بازگشایی	VERB	_	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	9	advcl	_	_
+9	می‌کنند	VERB	_	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	.	_	_	_	_	9	dep	_	_
+
+# sent_id = test-s797
+# text = اگر بحث دموکراسی گسترده شود سران ایران ما آن را نهی خواهند کرد.
+1	اگر	_	_	_	_	0	root	_	_
+2	بحث	_	_	_	_	1	dep	_	_
+3	دموکراسی	_	_	_	_	1	dep	_	_
+4	گسترده	_	_	_	_	1	dep	_	_
+5	شود	_	_	_	_	1	dep	_	_
+6	سران	_	_	_	_	1	dep	_	_
+7	ایران	_	_	_	_	1	dep	_	_
+8	ما	_	_	_	_	1	dep	_	_
+9	آن	_	_	_	_	1	dep	_	_
+10	را	_	_	_	_	1	dep	_	_
+11	نهی	_	_	_	_	1	dep	_	_
+12	خواهند	_	_	_	_	1	dep	_	_
+13	کرد	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s841
+# text = از تو ممنونم که به زندگی‌ام یک معنی دادی.
+1	از	از	ADP	_	Case=Gen	4	dep	_	_
+2	تو	تو	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	nmod:poss	_	_
+3-4	ممنونم	_	_	_	_	_	_	_	_
+3	ممنون	ممنون	ADJ	_	Case=Nom|Number=Sing	4	amod	_	_
+4	م	م	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+5	که	که	SCONJ	_	_	7	mark	_	_
+6	به	به	ADP	_	_	7	case	_	_
+7-8	زندگی‌ام	_	_	_	_	_	_	_	_
+7	زندگی‌	زندگی	NOUN	_	Case=Acc|Number=Sing	4	advcl	_	_
+8	ام	ام	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
+9	یک	یک	NUM	_	NumType=Card	10	nummod	_	_
+10	معنی	معنی	NOUN	_	Case=Acc|Number=Sing	7	nmod	_	_
+11	دادی	داد	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	4	csubj	_	_
+12	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s355
+# text = هر گاه امام (ع) حکمرانی معاویه را تنفیذ می‌کرد، هیچ چیز به نفع حضرت پایان نمی‌پذیرفت.
+1	هر	_	_	_	_	0	root	_	_
+2	گاه	_	_	_	_	1	dep	_	_
+3	امام	_	_	_	_	1	dep	_	_
+4	(	_	_	_	_	1	dep	_	_
+5	ع	_	_	_	_	1	dep	_	_
+6	)	_	_	_	_	1	dep	_	_
+7	حکمرانی	_	_	_	_	1	dep	_	_
+8	معاویه	_	_	_	_	1	dep	_	_
+9	را	_	_	_	_	1	dep	_	_
+10	تنفیذ	_	_	_	_	1	dep	_	_
+11	می‌کرد	_	_	_	_	1	dep	_	_
+12	،	_	_	_	_	1	dep	_	_
+13	هیچ	_	_	_	_	1	dep	_	_
+14	چیز	_	_	_	_	1	dep	_	_
+15	به	_	_	_	_	1	dep	_	_
+16	نفع	_	_	_	_	1	dep	_	_
+17	حضرت	_	_	_	_	1	dep	_	_
+18	پایان	_	_	_	_	1	dep	_	_
+19	نمی‌پذیرفت	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s129
+# text = از بیوه‌زن و یتیم بهره‌کشی نکنید.
+1	از	_	_	_	_	0	root	_	_
+2	بیوه‌زن	بیوه‌زن	NOUN	_	_	1	nmod	_	_
+3	و	و	CCONJ	_	_	4	cc	_	_
+4	یتیم	یتیم	NOUN	_	_	2	conj	_	_
+5	بهره‌کشی	بهره‌کشی	VERB	_	_	1	root	_	_
+6	نکنید	نکنید	PART	_	_	5	aux	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s960
+# text = از پریروز شرکت فرانسوی وارد مسیر ما شده بود و مسیر ساحل چپ را بازسازی و شن‌ریزی می‌کرد.
+1	از	از	ADP	_	_	0	root	_	_
+2	پریروز	پریروز	ADV	_	_	1	dep	_	_
+3	شرکت	شرکت	NOUN	_	_	1	dep	_	_
+4	فرانسوی	فرانسوی	ADJ	_	_	3	amod	_	_
+5	وارد	وارد	VERB	_	_	3	compound	_	_
+6	مسیر	مسیر	NOUN	_	_	5	nmod	_	_
+7	ما	ما	PRON	_	_	6	nmod	_	_
+8	شده	شده	VERB	_	_	5	compound	_	_
+9	بود	بود	VERB	_	_	8	compound	_	_
+10	و	و	CCONJ	_	_	1	dep	_	_
+11	مسیر	مسیر	NOUN	_	_	1	dep	_	_
+12	ساحل	ساحل	NOUN	_	_	11	compound	_	_
+13	چپ	چپ	ADJ	_	_	12	amod	_	_
+14	را	را	PART	_	_	15	case	_	_
+15	بازسازی	بازسازی	NOUN	_	_	11	nmod	_	_
+16	و	و	CCONJ	_	_	17	cc	_	_
+17	شن‌ریزی	شن‌ریزی	NOUN	_	_	15	compound	_	_
+18	می‌کرد	می‌کرد	VERB	_	_	17	compound	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1126
+# text = گردن آن بازیکن را می‌زنم که بخواهد پرسپولیس را به باد بدهد.
+1	گردن	_	_	_	_	5	dep	_	_
+2	آن	آن	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	بازیکن	بازیکن	NOUN	_	Number=Sing	4	nsubj	_	_
+4	را	را	PART	_	_	5	obj	_	_
+5	می‌زنم	می‌زنم	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+6	که	که	SCONJ	_	_	7	mark	_	_
+7	بخواهد	بخواهد	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	5	ccomp	_	_
+8	پرسپولیس	پرسپولیس	NOUN	_	Number=Sing	7	nsubj	_	_
+9	را	را	PART	_	_	8	obj	_	_
+10	به	به	ADP	_	_	11	case	_	_
+11	باد	باد	NOUN	_	Number=Sing	7	obl	_	_
+12	بدهد	بدهد	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	xcomp	_	_
+13	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s1394
+# text = ما به میزانی که عادل شویم کمال پیدا می‌کنیم.
+1	ما	_	_	_	_	0	root	_	_
+2	به	_	_	_	_	1	dep	_	_
+3	میزانی	_	_	_	_	1	dep	_	_
+4	که	_	_	_	_	1	dep	_	_
+5	عادل	_	_	_	_	1	dep	_	_
+6	شویم	_	_	_	_	1	dep	_	_
+7	کمال	_	_	_	_	1	dep	_	_
+8	پیدا	_	_	_	_	1	dep	_	_
+9	می‌کنیم	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s701
+# text = کودکان فقر لگد می‌خورند.
+1	کودکان	kodakan	NOUN	_	Number=Plur|Person=3	0	root	_	_
+2	فقر	fagir	NOUN	_	Number=Sing|Person=3	4	nmod	_	_
+3	لگد	lagad	NOUN	_	Number=Sing|Person=3	4	compound	_	_
+4	می‌خورند	_	_	_	_	1	dep	_	_
+5	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1261
+# text = آیا اگر شخصی مژه‌هایش را قیچی کند دوباره بلند می‌شود؟
+1	آیا	_	_	_	_	0	root	_	_
+2	اگر	اگر	ADV	_	_	1	dep	_	_
+3	شخصی	شخصی	NOUN	_	_	1	dep	_	_
+4-5	مژه‌هایش	_	_	_	_	_	_	_	_
+4	مژه‌های	مژه	NOUN	_	_	3	nmod	_	_
+5	ش	ش	PRON	_	_	4	det	_	_
+6	را	را	PART	_	_	4	case	_	_
+7	قیچی	قیچی	NOUN	_	_	8	nsubj	_	_
+8	کند	کرد	VERB	_	_	4	acl	_	_
+9	دوباره	دوباره	ADV	_	_	10	advmod	_	_
+10	بلند	بلند	ADJ	_	_	11	root	_	_
+11	می‌شود	شود	VERB	_	_	8	ccomp	_	_
+12	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s40
+# text = ترکیه در فلسطین پیشتازی می‌کند.
+1	ترکیه	ترکیه	NOUN	NN	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	در	در	ADP	PREP	_	3	case	_	_
+3	فلسطین	فلسطین	NOUN	NN	Case=Acc|Number=Sing	4	obl	_	_
+4	پیشتازی	پیشتازی	VERB	VB	Aspect=Perf|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+5	می‌کند	می‌کند	AUX	VB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux	_	_
+6	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s492
+# text = هنگامی که ما رحمتی را از خود به انسان می‌چشانیم بر اثر آن خوشحال می‌شود و همین که آثار سوء اعمالش را می‌گیرد کفران می‌کند.
+1	هنگامی	_	_	_	_	0	root	_	_
+2	که	_	_	_	_	1	dep	_	_
+3	ما	_	_	_	_	1	dep	_	_
+4	رحمتی	_	_	_	_	1	dep	_	_
+5	را	_	_	_	_	1	dep	_	_
+6	از	_	_	_	_	1	dep	_	_
+7	خود	_	_	_	_	1	dep	_	_
+8	به	_	_	_	_	1	dep	_	_
+9	انسان	_	_	_	_	1	dep	_	_
+10	می‌چشانیم	_	_	_	_	1	dep	_	_
+11	بر	_	_	_	_	1	dep	_	_
+12	اثر	_	_	_	_	1	dep	_	_
+13	آن	_	_	_	_	1	dep	_	_
+14	خوشحال	_	_	_	_	1	dep	_	_
+15	می‌شود	_	_	_	_	1	dep	_	_
+16	و	_	_	_	_	1	dep	_	_
+17	همین	_	_	_	_	1	dep	_	_
+18	که	_	_	_	_	1	dep	_	_
+19	آثار	_	_	_	_	1	dep	_	_
+20	سوء	_	_	_	_	1	dep	_	_
+21	اعمالش	_	_	_	_	1	dep	_	_
+22	را	_	_	_	_	1	dep	_	_
+23	می‌گیرد	_	_	_	_	1	dep	_	_
+24	کفران	_	_	_	_	1	dep	_	_
+25	می‌کند	_	_	_	_	1	dep	_	_
+26	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s438
+# text = پنتاگون در زمینهٔ 11 سپتامبر فیلم‌سازی کرده است.
+1	پنتاگون	پنتاگون	NOUN	NN	Number=Sing|Person=3	5	nsubj	_	_
+2	در	در	ADP	IN	_	5	case	_	_
+3	زمینهٔ	زمینه	NOUN	NN	Case=Gen|Number=Sing	5	nmod	_	_
+4	11	11	NUM	CD	NumType=Card	5	nummod	_	_
+5	سپتامبر	سپتامبر	NOUN	NN	Number=Sing	7	nmod	_	_
+6	فیلم‌سازی	فیلم‌سازی	VERB	VB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Pass	7	acl:relcl	_	_
+7	کرده	کرد	VERB	VBD	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+8	است	است	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	aux	_	_
+9	.	_	_	_	_	7	dep	_	_
+
+# sent_id = test-s657
+# text = همایون شجریان مثل همیشه تنبک می‌زد.
+1	همایون	_	_	_	_	2	dep	_	_
+2	شجریان	شجریان	NOUN	NN	Number=Sing	0	root	_	_
+3	مثل	مثل	ADP	PSP	_	4	case	_	_
+4	همیشه	همیشه	ADV	RB	_	2	advmod	_	_
+5	تنبک	تنبک	NOUN	NN	Number=Sing	2	compound	_	_
+6	می‌زد	می‌زدن	VERB	VB	Number=Sing|Person=3|Tense=Pres|Voice=Act	2	compound:lvc	_	_
+7	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s311
+# text = ای کسانی که ایمان آورده‌اید، رکوع کنید و سجده نمایید و پروردگارتان را بپرستید و کار خیر انجام دهید باشد که رستگار شوید.
+1	ای	ای	DET	DET	_	2	nmod	_	_
+2	کسانی	کسانی	NOUN	NOUN	Case=Gen|Number=Plur	0	root	_	_
+3	که	که	SCONJ	SCONJ	_	2	mark	_	_
+4	ایمان	ایمان	NOUN	NOUN	Number=Sing	5	nmod	_	_
+5	آورده‌اید	آورد	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	2	advcl	_	_
+6	،	اید	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	_
+7	رکوع	،	PUNCT	PUNCT	_	2	punct	_	_
+8	کنید	رکوع	NOUN	NOUN	Number=Sing	9	nmod	_	_
+9	و	کن	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres	2	advcl	_	_
+10	سجده	و	CCONJ	CCONJ	_	11	cc	_	_
+11	نمایید	سجده	NOUN	NOUN	Number=Sing	9	conj	_	_
+12	و	نمای	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres	11	advcl	_	_
+13-14	پروردگارتان	_	_	_	_	_	_	_	_
+13	پروردگار	و	CCONJ	CCONJ	_	14	cc	_	_
+14	تان	پروردگار	NOUN	NOUN	Number=Sing	12	conj	_	_
+15	را	تان	PRON	PRON	Case=Gen|Number=Plur|Person=2|PronType=Prs	14	nmod	_	_
+16	بپرستید	را	PART	PART	_	14	case	_	_
+17	و	بپرست	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	14	advcl	_	_
+18	کار	و	CCONJ	CCONJ	_	19	cc	_	_
+19	خیر	کار	NOUN	NOUN	Number=Sing	17	conj	_	_
+20	انجام	خیر	NOUN	NOUN	Number=Sing	19	nmod	_	_
+21	دهید	انجام	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	20	advcl	_	_
+22	باشد	دید	VERB	VERB	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	21	advcl	_	_
+23	که	باشد	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	aux	_	_
+24	رستگار	که	SCONJ	SCONJ	_	25	mark	_	_
+25	شوید	رستگار	NOUN	NOUN	Number=Sing	23	advcl	_	_
+26	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s1342
+# text = تا نشستم کنار جدول، بالا آوردم.
+1	تا	_	_	_	_	0	root	_	_
+2	نشستم	_	_	_	_	1	dep	_	_
+3	کنار	_	_	_	_	1	dep	_	_
+4	جدول	_	_	_	_	1	dep	_	_
+5	،	_	_	_	_	1	dep	_	_
+6	بالا	_	_	_	_	1	dep	_	_
+7	آوردم	_	_	_	_	1	dep	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1356
+# text = من پس از ایشان بدعت گذاشتم.
+1	من	_	_	_	_	6	dep	_	_
+2	پس	پس	ADP	ADP	_	3	case	_	_
+3	از	از	ADP	ADP	_	4	case	_	_
+4	ایشان	ایشان	PRON	PRON	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
+5	بدعت	بدعت	NOUN	NOUN	Number=Sing	6	nmod	_	_
+6	گذاشتم	گذاشتم	VERB	VERB	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	_
+7	.	_	_	_	_	6	dep	_	_
+
+# sent_id = test-s337
+# text = باید با تمام آنهایی که تساهل می‌ورزند تا آنجا که احکام مذاهبشان تعارضی با انجام وظیفهٔ شهروندان ندارد تساهل کرد.
+1	باید	_	_	_	_	0	root	_	_
+2	با	_	_	_	_	1	dep	_	_
+3	تمام	_	_	_	_	1	dep	_	_
+4	آنهایی	_	_	_	_	1	dep	_	_
+5	که	_	_	_	_	1	dep	_	_
+6	تساهل	_	_	_	_	1	dep	_	_
+7	می‌ورزند	_	_	_	_	1	dep	_	_
+8	تا	_	_	_	_	1	dep	_	_
+9	آنجا	_	_	_	_	1	dep	_	_
+10	که	_	_	_	_	1	dep	_	_
+11	احکام	_	_	_	_	1	dep	_	_
+12	مذاهبشان	_	_	_	_	1	dep	_	_
+13	تعارضی	_	_	_	_	1	dep	_	_
+14	با	_	_	_	_	1	dep	_	_
+15	انجام	_	_	_	_	1	dep	_	_
+16	وظیفهٔ	_	_	_	_	1	dep	_	_
+17	شهروندان	_	_	_	_	1	dep	_	_
+18	ندارد	_	_	_	_	1	dep	_	_
+19	تساهل	_	_	_	_	1	dep	_	_
+20	کرد	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1228
+# text = حداکثر امتیاز زبان اول از 16 امتیاز به 20 امتیاز افزایش خواهد یافت و برای هر شغل یک حداقل امتیازی را مد نظر خواهند گرفت.
+1	حداکثر	_	_	_	_	0	root	_	_
+2	امتیاز	_	_	_	_	1	dep	_	_
+3	زبان	_	_	_	_	1	dep	_	_
+4	اول	_	_	_	_	1	dep	_	_
+5	از	_	_	_	_	1	dep	_	_
+6	16	_	_	_	_	1	dep	_	_
+7	امتیاز	_	_	_	_	1	dep	_	_
+8	به	_	_	_	_	1	dep	_	_
+9	20	_	_	_	_	1	dep	_	_
+10	امتیاز	_	_	_	_	1	dep	_	_
+11	افزایش	_	_	_	_	1	dep	_	_
+12	خواهد	_	_	_	_	1	dep	_	_
+13	یافت	_	_	_	_	1	dep	_	_
+14	و	_	_	_	_	1	dep	_	_
+15	برای	_	_	_	_	1	dep	_	_
+16	هر	_	_	_	_	1	dep	_	_
+17	شغل	_	_	_	_	1	dep	_	_
+18	یک	_	_	_	_	1	dep	_	_
+19	حداقل	_	_	_	_	1	dep	_	_
+20	امتیازی	_	_	_	_	1	dep	_	_
+21	را	_	_	_	_	1	dep	_	_
+22	مد	_	_	_	_	1	dep	_	_
+23	نظر	_	_	_	_	1	dep	_	_
+24	خواهند	_	_	_	_	1	dep	_	_
+25	گرفت	_	_	_	_	1	dep	_	_
+26	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s489
+# text = برای فعال شدن حساب کاربری، روی لینک ارسال‌شده کلیک کنید.
+1	برای	برای	ADP	_	Case=Acc	2	case	_	_
+2	فعال	فعال	ADJ	_	_	3	amod	_	_
+3	شدن	شدن	NOUN	_	_	4	compound	_	_
+4	حساب	حساب	NOUN	_	_	5	nmod	_	_
+5	کاربری	کاربری	NOUN	_	_	6	nmod	_	_
+6	،	،	PUNCT	_	_	7	punct	_	_
+7	روی	روی	ADP	_	_	8	case	_	_
+8	لینک	لینک	NOUN	_	_	9	nmod	_	_
+9	ارسال‌شده	ارسال	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	10	advcl	_	_
+10	کلیک	کلیک	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+11	کنید	_	_	_	_	10	dep	_	_
+12	.	_	_	_	_	10	dep	_	_
+
+# sent_id = test-s1195
+# text = وی قطعاتی که از آهنگسازان مختلف اجرا می‌شد را در مجموعهٔ شخصی خود نت‌نویسی می‌کرد.
+1	وی	وی	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	dep	_	_
+2	قطعاتی	قطعه	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	13	dep	_	_
+3	که	که	SCONJ	SCONJ	_	13	dep	_	_
+4	از	از	ADP	ADP	_	5	case	_	_
+5	آهنگسازان	آهنگساز	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+6	مختلف	مختلف	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
+7	اجرا	اجرا	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl	_	_
+8	می‌شد	می‌شو	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	7	xcomp	_	_
+9	را	را	ADP	ADP	_	10	case	_	_
+10	در	در	ADP	ADP	_	11	case	_	_
+11	مجموعهٔ	مجموعه	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
+12	شخصی	خود	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	dobj	_	_
+13	خود	نت‌نویسی	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+14	نت‌نویسی	می‌کن	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	13	xcomp	_	_
+15	می‌کرد	.	PUNCT	PUNCT	_	13	punct	_	_
+16	.	_	_	_	_	13	dep	_	_
+
+# sent_id = test-s236
+# text = امام از حق شخصی خویش می‌گذشت و آن مردی را که به وی ظلم نموده و در حقش جنایت کرده بود، می‌بخشید.
+1	امام	_	_	_	_	0	root	_	_
+2	از	_	_	_	_	1	dep	_	_
+3	حق	_	_	_	_	1	dep	_	_
+4	شخصی	_	_	_	_	1	dep	_	_
+5	خویش	_	_	_	_	1	dep	_	_
+6	می‌گذشت	_	_	_	_	1	dep	_	_
+7	و	_	_	_	_	1	dep	_	_
+8	آن	_	_	_	_	1	dep	_	_
+9	مردی	_	_	_	_	1	dep	_	_
+10	را	_	_	_	_	1	dep	_	_
+11	که	_	_	_	_	1	dep	_	_
+12	به	_	_	_	_	1	dep	_	_
+13	وی	_	_	_	_	1	dep	_	_
+14	ظلم	_	_	_	_	1	dep	_	_
+15	نموده	_	_	_	_	1	dep	_	_
+16	و	_	_	_	_	1	dep	_	_
+17	در	_	_	_	_	1	dep	_	_
+18-19	حقش	_	_	_	_	_	_	_	_
+18	حق	_	_	_	_	1	dep	_	_
+19	ش	_	_	_	_	1	dep	_	_
+20	جنایت	_	_	_	_	1	dep	_	_
+21	کرده	_	_	_	_	1	dep	_	_
+22	بود	_	_	_	_	1	dep	_	_
+23	،	_	_	_	_	1	dep	_	_
+24	می‌بخشید	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1448
+# text = نه در نبردهای هوایی موفق بود و نه امان پیدا می‌کرد که در نیمهٔ زمین توپ بگیرد بچرخد و پاس پشت دفاع بیندازد.
+1	نه	_	_	_	_	0	root	_	_
+2	در	_	_	_	_	1	dep	_	_
+3	نبردهای	_	_	_	_	1	dep	_	_
+4	هوایی	_	_	_	_	1	dep	_	_
+5	موفق	_	_	_	_	1	dep	_	_
+6	بود	_	_	_	_	1	dep	_	_
+7	و	_	_	_	_	1	dep	_	_
+8	نه	_	_	_	_	1	dep	_	_
+9	امان	_	_	_	_	1	dep	_	_
+10	پیدا	_	_	_	_	1	dep	_	_
+11	می‌کرد	_	_	_	_	1	dep	_	_
+12	که	_	_	_	_	1	dep	_	_
+13	در	_	_	_	_	1	dep	_	_
+14	نیمهٔ	_	_	_	_	1	dep	_	_
+15	زمین	_	_	_	_	1	dep	_	_
+16	توپ	_	_	_	_	1	dep	_	_
+17	بگیرد	_	_	_	_	1	dep	_	_
+18	بچرخد	_	_	_	_	1	dep	_	_
+19	و	_	_	_	_	1	dep	_	_
+20	پاس	_	_	_	_	1	dep	_	_
+21	پشت	_	_	_	_	1	dep	_	_
+22	دفاع	_	_	_	_	1	dep	_	_
+23	بیندازد	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s958
+# text = پس از من شعرهایم را چو جان محفوظ خواهی داشت و با هر شعر من آتش به جانت شعله خواهد زد.
+1	پس	_	_	_	_	0	root	_	_
+2	از	_	_	_	_	1	dep	_	_
+3	من	_	_	_	_	1	dep	_	_
+4-5	شعرهایم	_	_	_	_	_	_	_	_
+4	شعرهای	_	_	_	_	1	dep	_	_
+5	م	_	_	_	_	1	dep	_	_
+6	را	_	_	_	_	1	dep	_	_
+7	چو	_	_	_	_	1	dep	_	_
+8	جان	_	_	_	_	1	dep	_	_
+9	محفوظ	_	_	_	_	1	dep	_	_
+10	خواهی	_	_	_	_	1	dep	_	_
+11	داشت	_	_	_	_	1	dep	_	_
+12	و	_	_	_	_	1	dep	_	_
+13	با	_	_	_	_	1	dep	_	_
+14	هر	_	_	_	_	1	dep	_	_
+15	شعر	_	_	_	_	1	dep	_	_
+16	من	_	_	_	_	1	dep	_	_
+17	آتش	_	_	_	_	1	dep	_	_
+18	به	_	_	_	_	1	dep	_	_
+19-20	جانت	_	_	_	_	_	_	_	_
+19	جان	_	_	_	_	1	dep	_	_
+20	ت	_	_	_	_	1	dep	_	_
+21	شعله	_	_	_	_	1	dep	_	_
+22	خواهد	_	_	_	_	1	dep	_	_
+23	زد	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1347
+# text = به یاد محمد 13 فروردین دستانمان با دستبند سبز آذین خواهد شد.
+1	به	به	ADP	ADP	_	2	case	_	_
+2	یاد	یاد	NOUN	NOUN	Number=Sing|Person=3	3	nmod	_	_
+3	محمد	محمد	PROPN	PROPN	Number=Sing	4	nmod	_	_
+4	13	13	NUM	NUM	NumType=Card	5	nummod	_	_
+5	فروردین	فروردین	NOUN	NOUN	Number=Sing	6	nmod	_	_
+6-7	دستانمان	_	_	_	_	_	_	_	_
+6	دستان	دستان	NOUN	NOUN	Number=Plur	7	nmod	_	_
+7	مان	مان	PRON	PRON	Person=1|PronType=Prs	8	nmod	_	_
+8	با	با	ADP	ADP	_	9	case	_	_
+9	دستبند	دستبند	NOUN	NOUN	Number=Sing	10	nmod	_	_
+10	سبز	سبز	ADJ	ADJ	Number=Sing	11	amod	_	_
+11	آذین	آذین	NOUN	NOUN	Number=Sing	12	nmod	_	_
+12	خواهد	خواهد	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Fut	13	aux	_	_
+13	شد	شد	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+14	.	_	_	_	_	13	dep	_	_
+
+# sent_id = test-s953
+# text = در زمان گذشته ورزشکاران در حالی به این ورزش روی آوردند که سخت‌گیرترین حکومت‌ها بر آنها سلطه می‌کردند، اما آنها با هدایت مرشد به تمرین می‌پرداختند.
+1	در	در	ADP	_	_	0	root	_	_
+2	زمان	زمان	NOUN	_	_	1	dep	_	_
+3	گذشته	گذشته	ADJ	_	_	2	amod	_	_
+4	ورزشکاران	ورزشکار	NOUN	_	_	1	dep	_	_
+5	در	در	ADP	_	_	6	case	_	_
+6	حالی	حالی	ADV	_	_	4	advmod	_	_
+7	به	به	ADP	_	_	1	dep	_	_
+8	این	این	DET	_	_	9	det	_	_
+9	ورزش	ورزش	NOUN	_	_	7	nmod	_	_
+10	روی	روی	ADP	_	_	11	case	_	_
+11	آوردند	آورد	VERB	_	_	4	acl	_	_
+12	که	که	SCONJ	_	_	11	mark	_	_
+13	سخت‌گیرترین	سخت‌گیر	NOUN	_	_	14	amod	_	_
+14	حکومت‌ها	حکومت	NOUN	_	_	12	nsubj	_	_
+15	بر	بر	ADP	_	_	16	case	_	_
+16	آنها	آن	NOUN	_	_	14	nmod	_	_
+17	سلطه	سلطه	VERB	_	_	15	acl	_	_
+18	می‌کردند	کرد	VERB	_	_	17	aux	_	_
+19	،	اما	CCONJ	_	_	1	dep	_	_
+20	اما	آن	NOUN	_	_	1	dep	_	_
+21	آنها	با	ADP	_	_	22	case	_	_
+22	با	هدایت	NOUN	_	_	20	nmod	_	_
+23	هدایت	مرشد	NOUN	_	_	22	nmod	_	_
+24	مرشد	به	ADP	_	_	25	case	_	_
+25	به	تمرین	NOUN	_	_	22	nmod	_	_
+26	تمرین	پرداخت	VERB	_	_	24	acl	_	_
+27	می‌پرداختند	.	PUNCT	_	_	26	punct	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s829
+# text = او از نوجوانی در این فکر بود تا ردیف موسیقی سنتی ایران را نت‌برداری بکند.
+1	او	_	_	_	_	0	root	_	_
+2	از	_	_	_	_	1	dep	_	_
+3	نوجوانی	_	_	_	_	1	dep	_	_
+4	در	_	_	_	_	1	dep	_	_
+5	این	_	_	_	_	1	dep	_	_
+6	فکر	_	_	_	_	1	dep	_	_
+7	بود	_	_	_	_	1	dep	_	_
+8	تا	_	_	_	_	1	dep	_	_
+9	ردیف	_	_	_	_	1	dep	_	_
+10	موسیقی	_	_	_	_	1	dep	_	_
+11	سنتی	_	_	_	_	1	dep	_	_
+12	ایران	_	_	_	_	1	dep	_	_
+13	را	_	_	_	_	1	dep	_	_
+14	نت‌برداری	_	_	_	_	1	dep	_	_
+15	بکند	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s20
+# text = حرف شما در مورد نظر dsm4 صحیح است و اتفاقاً در همان مقالهٔ انگلیسی ویکی‌پدیا که من پیوند داده بودم هم آمده است.
+1	حرف	shar	ADP	_	Case=Acc	2	case	_	_
+2	شما	shoma	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	3	nmod	_	_
+3	در	dar	ADP	_	_	4	case	_	_
+4	مورد	murd	NOUN	_	Case=Acc|Number=Sing	5	nmod	_	_
+5	نظر	nazar	NOUN	_	Case=Acc|Number=Sing	6	nmod	_	_
+6	dsm4	dsm4	PROPN	_	_	7	nmod	_	_
+7	صحیح	sahih	ADJ	_	_	8	amod	_	_
+8	است	ast	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	و	va	CCONJ	_	_	10	cc	_	_
+10	اتفاقاً	atafagane	ADV	_	_	11	advmod	_	_
+11	در	dar	ADP	_	_	12	case	_	_
+12	همان	haman	DET	_	Definite=Def|PronType=Dem	13	det	_	_
+13	مقالهٔ	maqale	NOUN	_	Case=Acc|Number=Sing	14	nmod	_	_
+14	انگلیسی	englisi	ADJ	_	_	15	nmod	_	_
+15	ویکی‌پدیا	wikipedia	PROPN	_	_	16	nmod	_	_
+16	که	ke	CCONJ	_	_	17	cc	_	_
+17	من	man	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+18	پیوند	payvan	NOUN	_	Case=Acc|Number=Sing	19	nmod	_	_
+19	داده	dadeh	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
+20	بودم	dehi	NOUN	_	Case=Acc|Number=Sing	21	nmod	_	_
+21	هم	bud	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+22	آمده	.	PUNCT	_	_	21	punct	_	_
+23	است	_	_	_	_	21	dep	_	_
+24	.	_	_	_	_	21	dep	_	_
+
+# sent_id = test-s264
+# text = چای‌های گیاهی با شیمی‌درمانی تداخل می‌کنند.
+1	چای‌های	_	_	_	_	0	root	_	_
+2	گیاهی	گیاهی	ADJ	ADJ	Number=Sing	1	amod	_	_
+3	با	با	CCONJ	CONJ	_	4	cc	_	_
+4	شیمی‌درمانی	شیمی‌درمانی	NOUN	NOUN	Case=Acc|Number=Sing	1	conj	_	_
+5	تداخل	تداخل	NOUN	NOUN	Case=Acc|Number=Sing	4	nmod	_	_
+6	می‌کنند	می‌کند	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s600
+# text = مطمئن باشید آنها از این رفتار شما مشق عملی زندگی را رونویسی خواهند کرد.
+1	مطمئن	مطمئن	ADJ	ADJ	_	2	amod	_	_
+2	باشید	باشد	VERB	VERB	_	0	root	_	_
+3	آنها	آنها	PRON	PRON	_	4	nsubj	_	_
+4	از	از	ADP	ADP	_	2	case	_	_
+5	این	این	DET	DET	_	6	det	_	_
+6	رفتار	رفتار	NOUN	NOUN	_	4	nmod	_	_
+7	شما	شما	PRON	PRON	_	6	nmod	_	_
+8	مشق	مشق	NOUN	NOUN	_	9	compound	_	_
+9	عملی	عملی	ADJ	ADJ	_	10	amod	_	_
+10	زندگی	زندگی	NOUN	NOUN	_	6	nmod	_	_
+11	را	را	PART	PART	_	12	case	_	_
+12	رونویسی	رونویسی	VERB	VERB	_	6	acl	_	_
+13	خواهند	خواهند	VERB	VERB	_	12	aux	_	_
+14	کرد	کرد	VERB	VERB	_	12	aux	_	_
+15	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s1358
+# text = سیاهی شب را به روز بدل خواهم کرد.
+1	سیاهی	_	_	_	_	0	root	_	_
+2	شب	_	_	_	_	1	dep	_	_
+3	را	_	_	_	_	1	dep	_	_
+4	به	_	_	_	_	1	dep	_	_
+5	روز	_	_	_	_	1	dep	_	_
+6	بدل	_	_	_	_	1	dep	_	_
+7	خواهم	_	_	_	_	1	dep	_	_
+8	کرد	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s421
+# text = عراق چاه‌های نفت را بمب‌گذاری کرده است.
+1	عراق	_	_	_	_	0	root	_	_
+2	چاه‌های	چاه	NOUN	_	Case=Gen|Number=Plur	3	nmod	_	_
+3	نفت	نفت	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	را	را	PART	_	_	5	mark	_	_
+5	بمب‌گذاری	بمب‌گذاری	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	6	acl	_	_
+6	کرده	کرده	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Past|Voice=Act	1	advcl	_	_
+7	است	است	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	aux	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s661
+# text = هر زمان موانع و مشکلات حوزهٔ فرهنگ مرتفع شود و سیر صعودی یابد دیگر حوزه‌ها نیز به تبع آن رشد و ترقی خواهند داشت.
+1	هر	_	_	_	_	0	root	_	_
+2	زمان	_	_	_	_	1	dep	_	_
+3	موانع	_	_	_	_	1	dep	_	_
+4	و	_	_	_	_	1	dep	_	_
+5	مشکلات	_	_	_	_	1	dep	_	_
+6	حوزهٔ	_	_	_	_	1	dep	_	_
+7	فرهنگ	_	_	_	_	1	dep	_	_
+8	مرتفع	_	_	_	_	1	dep	_	_
+9	شود	_	_	_	_	1	dep	_	_
+10	و	_	_	_	_	1	dep	_	_
+11	سیر	_	_	_	_	1	dep	_	_
+12	صعودی	_	_	_	_	1	dep	_	_
+13	یابد	_	_	_	_	1	dep	_	_
+14	دیگر	_	_	_	_	1	dep	_	_
+15	حوزه‌ها	_	_	_	_	1	dep	_	_
+16	نیز	_	_	_	_	1	dep	_	_
+17	به	_	_	_	_	1	dep	_	_
+18	تبع	_	_	_	_	1	dep	_	_
+19	آن	_	_	_	_	1	dep	_	_
+20	رشد	_	_	_	_	1	dep	_	_
+21	و	_	_	_	_	1	dep	_	_
+22	ترقی	_	_	_	_	1	dep	_	_
+23	خواهند	_	_	_	_	1	dep	_	_
+24	داشت	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s147
+# text = من فقط روی سهام تجارت خواهم کرد.
+1	من	_	_	_	_	6	dep	_	_
+2	فقط	فقط	ADV	ADV	_	3	advmod	_	_
+3	روی	روی	ADP	ADP	_	4	case	_	_
+4	سهام	سهام	NOUN	NOUN	Case=Acc|Number=Plur	5	nmod	_	_
+5	تجارت	تجارت	NOUN	NOUN	Case=Nom|Number=Sing	6	nsubj	_	_
+6	خواهم	خواهم	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	کرد	کرد	VERB	VERB	Aspect=Perf|Number=Sing|Person=1|Tense=Past|VerbForm=Part	6	aux	_	_
+8	.	_	_	_	_	6	dep	_	_
+
+# sent_id = test-s305
+# text = رئیس جمهوری آمریکا از فردا برای انتخابات ریاست جمهوری سال 2012 این کشور دورخیز می‌کند.
+1	رئیس	_	_	_	_	0	root	_	_
+2	جمهوری	_	_	_	_	1	dep	_	_
+3	آمریکا	_	_	_	_	1	dep	_	_
+4	از	_	_	_	_	1	dep	_	_
+5	فردا	_	_	_	_	1	dep	_	_
+6	برای	_	_	_	_	1	dep	_	_
+7	انتخابات	_	_	_	_	1	dep	_	_
+8	ریاست	_	_	_	_	1	dep	_	_
+9	جمهوری	_	_	_	_	1	dep	_	_
+10	سال	_	_	_	_	1	dep	_	_
+11	2012	_	_	_	_	1	dep	_	_
+12	این	_	_	_	_	1	dep	_	_
+13	کشور	_	_	_	_	1	dep	_	_
+14	دورخیز	_	_	_	_	1	dep	_	_
+15	می‌کند	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s591
+# text = به او گفت: غیرممکن است باید من از تو کام بگیرم و تو نیز از من بهره ببری.
+1	به	_	_	_	_	0	root	_	_
+2	او	_	_	_	_	1	dep	_	_
+3	گفت	_	_	_	_	1	dep	_	_
+4	:	_	_	_	_	1	dep	_	_
+5	غیرممکن	_	_	_	_	1	dep	_	_
+6	است	_	_	_	_	1	dep	_	_
+7	باید	_	_	_	_	1	dep	_	_
+8	من	_	_	_	_	1	dep	_	_
+9	از	_	_	_	_	1	dep	_	_
+10	تو	_	_	_	_	1	dep	_	_
+11	کام	_	_	_	_	1	dep	_	_
+12	بگیرم	_	_	_	_	1	dep	_	_
+13	و	_	_	_	_	1	dep	_	_
+14	تو	_	_	_	_	1	dep	_	_
+15	نیز	_	_	_	_	1	dep	_	_
+16	از	_	_	_	_	1	dep	_	_
+17	من	_	_	_	_	1	dep	_	_
+18	بهره	_	_	_	_	1	dep	_	_
+19	ببری	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1173
+# text = تو را در یکی از هتل‌های طرابلس اسکان خواهیم داد.
+1	تو	_	_	_	_	10	dep	_	_
+2	را	را	PRON	PRON	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	dep	_	_
+3	در	در	ADP	ADP	AdpType=Prep	10	dep	_	_
+4	یکی	یکی	DET	DET	Definite=Ind|PronType=Art	5	det	_	_
+5	از	از	ADP	ADP	AdpType=Prep	6	case	_	_
+6	هتل‌های	هتل	PROPN	PROPN	Number=Plur	7	nmod	_	_
+7	طرابلس	طرابلس	PROPN	PROPN	Number=Sing	3	nmod	_	_
+8	اسکان	اسکان	NOUN	NOUN	Number=Sing	9	compound	_	_
+9	خواهیم	خواهیم	AUX	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	داد	داد	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	.	_	_	_	_	10	dep	_	_
+
+# sent_id = test-s1406
+# text = دستش را بگیرید و ببرید جلوی حوزهٔ نظام وظیفه بست بنشینید.
+1-2	دستش	_	_	_	_	_	_	_	_
+1	دست	_	_	_	_	0	root	_	_
+2	ش	_	_	_	_	1	dep	_	_
+3	را	_	_	_	_	1	dep	_	_
+4	بگیرید	_	_	_	_	1	dep	_	_
+5	و	_	_	_	_	1	dep	_	_
+6	ببرید	_	_	_	_	1	dep	_	_
+7	جلوی	_	_	_	_	1	dep	_	_
+8	حوزهٔ	_	_	_	_	1	dep	_	_
+9	نظام	_	_	_	_	1	dep	_	_
+10	وظیفه	_	_	_	_	1	dep	_	_
+11	بست	_	_	_	_	1	dep	_	_
+12	بنشینید	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s105
+# text = همیشه درون خود را بازبینی کن.
+1	همیشه	همیشه	ADV	_	_	0	root	_	_
+2	درون	درون	NOUN	_	Case=Loc|Number=Sing|Person=3	3	case	_	_
+3	خود	خود	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+4	را	را	PART	_	_	5	case	_	_
+5	بازبینی	بازبینی	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	advcl	_	_
+6	کن	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s73
+# text = خداوند به کسانی کمک می‌کند که به او توکل کرده باشند.
+1	خداوند	_	_	_	_	0	root	_	_
+2	به	_	_	_	_	1	dep	_	_
+3	کسانی	_	_	_	_	1	dep	_	_
+4	کمک	_	_	_	_	1	dep	_	_
+5	می‌کند	_	_	_	_	1	dep	_	_
+6	که	_	_	_	_	1	dep	_	_
+7	به	_	_	_	_	1	dep	_	_
+8	او	_	_	_	_	1	dep	_	_
+9	توکل	_	_	_	_	1	dep	_	_
+10	کرده	_	_	_	_	1	dep	_	_
+11	باشند	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1083
+# text = انترناسیونال پنجم می‌تواند در سطح جهانی خیلی یارگیری بکند.
+1	انترناسیونال	انترناسیونال	NOUN	NN	Number=Sing|Person=3	2	nsubj	_	_
+2	پنجم	پنجم	ADJ	JJ	Number=Sing|Person=3	3	amod	_	_
+3	می‌تواند	توان	VERB	VMOD	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	در	در	ADP	IN	_	5	case	_	_
+5	سطح	سطح	NOUN	NN	Number=Sing|Person=3	3	obl	_	_
+6	جهانی	جهانی	ADJ	JJ	Number=Sing|Person=3	5	amod	_	_
+7	خیلی	خیلی	ADV	RB	_	8	advmod	_	_
+8	یارگیری	یارگیری	NOUN	NN	Number=Sing|Person=3	3	obj	_	_
+9	بکند	کرد	VERB	VV	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+10	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s720
+# text = عقیدهٔ هوا و هوس را لجام می‌کند.
+1	عقیدهٔ	_	_	_	_	0	root	_	_
+2	هوا	هوا	NOUN	_	Case=Acc|Number=Sing	1	dep	_	_
+3	و	و	CCONJ	_	_	4	cc	_	_
+4	هوس	هوس	NOUN	_	Case=Acc|Number=Sing	2	conj	_	_
+5	را	را	PART	_	_	2	advmod	_	_
+6	لجام	لجام	NOUN	_	Case=Acc|Number=Sing	7	nmod	_	_
+7	می‌کند	کرد	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	acl	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1246
+# text = اگر اندکی به شوپنهاور التفات کنیم، درمی‌یابیم که برای او همه چیز مظهر حیات بوده و حیات شأن آنتولوژیک و تکوینی دارد.
+1	اگر	اگر	ADV	_	_	0	root	_	_
+2	اندکی	اندک	ADJ	_	_	3	amod	_	_
+3	به	به	ADP	_	_	1	case	_	_
+4	شوپنهاور	شوپنهاور	NOUN	_	_	3	nmod	_	_
+5	التفات	الطف	VERB	_	_	4	acl	_	_
+6	کنیم	کنیم	VERB	_	_	5	aux	_	_
+7	،	درمی‌یابیم	VERB	_	_	1	advcl	_	_
+8	درمی‌یابیم	که	SCONJ	_	_	7	mark	_	_
+9	که	برای	ADP	_	_	10	case	_	_
+10	برای	او	PRON	_	_	7	nmod	_	_
+11	او	همه	DET	_	_	12	det	_	_
+12	همه	چیز	NOUN	_	_	9	nmod	_	_
+13	چیز	مظهر	NOUN	_	_	12	nmod	_	_
+14	مظهر	حیات	NOUN	_	_	13	nmod	_	_
+15	حیات	بوده	VERB	_	_	12	acl	_	_
+16	بوده	و	CCONJ	_	_	15	cc	_	_
+17	و	حیات	NOUN	_	_	16	nsubj	_	_
+18	حیات	شأن	NOUN	_	_	17	nmod	_	_
+19	شأن	آنتولوژیک	ADJ	_	_	18	amod	_	_
+20	آنتولوژیک	و	CCONJ	_	_	19	cc	_	_
+21	و	تکوینی	ADJ	_	_	20	conj	_	_
+22	تکوینی	دارد	VERB	_	_	17	acl	_	_
+23	دارد	.	PUNCT	_	_	7	punct	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1345
+# text = ما که حسابی لپ‌هایش رو بادکش کردیم.
+1	ما	_	_	_	_	8	dep	_	_
+2	که	که	SCONJ	SCONJ	_	8	dep	_	_
+3	حسابی	حسابی	ADV	ADV	_	8	dep	_	_
+4-5	لپ‌هایش	_	_	_	_	_	_	_	_
+4	لپ‌های	لپ	ADJ	ADJ	Case=Gen|Number=Plur	8	dep	_	_
+5	ش	او	PRON	PRON	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	_
+6	رو	رو	ADP	ADP	_	7	case	_	_
+7	بادکش	بادکش	VERB	VERB	Aspect=Perf|Number=Sing|Person=1|Tense=Past|VerbForm=Part	8	advcl	_	_
+8	کردیم	کردن	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	.	_	_	_	_	8	dep	_	_
+
+# sent_id = test-s991
+# text = در این دفتر، املای قدیم اولیه را مرعی داشتم.
+1	در	در	ADP	_	Case=Acc	2	case	_	_
+2	این	این	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	دفتر	دفتر	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+4	،	،	PUNCT	_	_	5	punct	_	_
+5	املای	املای	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	advmod	_	_
+6	قدیم	قدیم	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
+7	اولیه	اولیه	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
+8	را	را	PART	_	_	5	case	_	_
+9	مرعی	مرعی	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
+10	داشتم	داشتَم	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	csubj	_	_
+11	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s535
+# text = اردک و غازها در یک زمان تمام پرهای اصلی خود را از دست می‌دهند بنابراین به مدت چند هفته در فصل تابستان توانایی پرواز را از دست می‌دهند تا اینکه پرهای جدید رویش کنند.
+1	اردک	_	_	_	_	0	root	_	_
+2	و	_	_	_	_	1	dep	_	_
+3	غازها	_	_	_	_	1	dep	_	_
+4	در	_	_	_	_	1	dep	_	_
+5	یک	_	_	_	_	1	dep	_	_
+6	زمان	_	_	_	_	1	dep	_	_
+7	تمام	_	_	_	_	1	dep	_	_
+8	پرهای	_	_	_	_	1	dep	_	_
+9	اصلی	_	_	_	_	1	dep	_	_
+10	خود	_	_	_	_	1	dep	_	_
+11	را	_	_	_	_	1	dep	_	_
+12	از	_	_	_	_	1	dep	_	_
+13	دست	_	_	_	_	1	dep	_	_
+14	می‌دهند	_	_	_	_	1	dep	_	_
+15	بنابراین	_	_	_	_	1	dep	_	_
+16	به	_	_	_	_	1	dep	_	_
+17	مدت	_	_	_	_	1	dep	_	_
+18	چند	_	_	_	_	1	dep	_	_
+19	هفته	_	_	_	_	1	dep	_	_
+20	در	_	_	_	_	1	dep	_	_
+21	فصل	_	_	_	_	1	dep	_	_
+22	تابستان	_	_	_	_	1	dep	_	_
+23	توانایی	_	_	_	_	1	dep	_	_
+24	پرواز	_	_	_	_	1	dep	_	_
+25	را	_	_	_	_	1	dep	_	_
+26	از	_	_	_	_	1	dep	_	_
+27	دست	_	_	_	_	1	dep	_	_
+28	می‌دهند	_	_	_	_	1	dep	_	_
+29	تا	_	_	_	_	1	dep	_	_
+30	اینکه	_	_	_	_	1	dep	_	_
+31	پرهای	_	_	_	_	1	dep	_	_
+32	جدید	_	_	_	_	1	dep	_	_
+33	رویش	_	_	_	_	1	dep	_	_
+34	کنند	_	_	_	_	1	dep	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s994
+# text = با تو یکی مزاح کردم.
+1	با	_	_	_	_	0	root	_	_
+2	تو	_	_	_	_	1	dep	_	_
+3	یکی	_	_	_	_	1	dep	_	_
+4	مزاح	_	_	_	_	1	dep	_	_
+5	کردم	_	_	_	_	1	dep	_	_
+6	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s461
+# text = سفارت چین هم درختان را قطع کرد.
+1	سفارت	_	_	_	_	7	dep	_	_
+2	چین	چین	PROPN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	هم	هم	ADV	_	_	4	advmod	_	_
+4	درختان	درخت	NOUN	_	Case=Acc|Number=Plur	5	nsubj	_	_
+5	را	را	PART	_	_	6	obj	_	_
+6	قطع	قطع	VERB	_	Aspect=Perf|VerbForm=Part	7	acl	_	_
+7	کرد	کرد	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+8	.	_	_	_	_	7	dep	_	_
+
+# sent_id = test-s539
+# text = دنیا ممکن است به او ریشخند بزند اما او اهمیتی نمی‌دهد.
+1	دنیا	دنیا	NOUN	NN	_	2	nsubj	_	_
+2	ممکن	ممکن	VERB	VB	_	0	root	_	_
+3	است	است	AUX	VB	_	2	aux	_	_
+4	به	به	ADP	IN	_	5	case	_	_
+5	او	او	PRON	PRP	_	2	iobj	_	_
+6	ریشخند	ریشخند	NOUN	NN	_	7	nmod	_	_
+7	بزند	بزند	VERB	VB	_	2	xcomp	_	_
+8	اما	اما	CCONJ	CC	_	9	cc	_	_
+9	او	او	PRON	PRP	_	2	conj	_	_
+10	اهمیتی	اهمیت	NOUN	NN	_	11	nmod	_	_
+11	نمی‌دهد	نمی‌دهد	VERB	VB	_	2	conj	_	_
+12	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s128
+# text = گفت یا به دلخواه بیعت کنید یا با نادلخواه بیعت می‌کنید و آنها بیعت کردند.
+1	گفت	_	_	_	_	0	root	_	_
+2	یا	_	_	_	_	1	dep	_	_
+3	به	_	_	_	_	1	dep	_	_
+4	دلخواه	_	_	_	_	1	dep	_	_
+5	بیعت	_	_	_	_	1	dep	_	_
+6	کنید	_	_	_	_	1	dep	_	_
+7	یا	_	_	_	_	1	dep	_	_
+8	با	_	_	_	_	1	dep	_	_
+9	نادلخواه	_	_	_	_	1	dep	_	_
+10	بیعت	_	_	_	_	1	dep	_	_
+11	می‌کنید	_	_	_	_	1	dep	_	_
+12	و	_	_	_	_	1	dep	_	_
+13	آنها	_	_	_	_	1	dep	_	_
+14	بیعت	_	_	_	_	1	dep	_	_
+15	کردند	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s332
+# text = گاهی ریا نیز باعث می‌شود انسان بر دیگران تکبر بکند.
+1	گاهی	_	_	_	_	0	root	_	_
+2	ریا	_	_	_	_	1	dep	_	_
+3	نیز	نیز	ADV	_	_	2	advmod	_	_
+4	باعث	باعث	VERB	VerbForm=Conv	_	2	advcl	_	_
+5	می‌شود	_	_	_	_	1	dep	_	_
+6	انسان	_	_	_	_	1	dep	_	_
+7	بر	_	_	_	_	1	dep	_	_
+8	دیگران	_	_	_	_	1	dep	_	_
+9	تکبر	_	_	_	_	1	dep	_	_
+10	بکند	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s1076
+# text = دکتر قاسمی در هفته دو روز در خیابان دماوند و دو روز دیگر را در خیابان آرژانتین بیماران را ویزیت می‌کند.
+1	دکتر	_	_	_	_	0	root	_	_
+2	قاسمی	_	_	_	_	1	dep	_	_
+3	در	_	_	_	_	1	dep	_	_
+4	هفته	_	_	_	_	1	dep	_	_
+5	دو	_	_	_	_	1	dep	_	_
+6	روز	_	_	_	_	1	dep	_	_
+7	در	_	_	_	_	1	dep	_	_
+8	خیابان	_	_	_	_	1	dep	_	_
+9	دماوند	_	_	_	_	1	dep	_	_
+10	و	_	_	_	_	1	dep	_	_
+11	دو	_	_	_	_	1	dep	_	_
+12	روز	_	_	_	_	1	dep	_	_
+13	دیگر	_	_	_	_	1	dep	_	_
+14	را	_	_	_	_	1	dep	_	_
+15	در	_	_	_	_	1	dep	_	_
+16	خیابان	_	_	_	_	1	dep	_	_
+17	آرژانتین	_	_	_	_	1	dep	_	_
+18	بیماران	_	_	_	_	1	dep	_	_
+19	را	_	_	_	_	1	dep	_	_
+20	ویزیت	_	_	_	_	1	dep	_	_
+21	می‌کند	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s925
+# text = این دخترم است که اسهال شده است.
+1	این	_	_	_	_	3	dep	_	_
+2-3	دخترم	_	_	_	_	_	_	_	_
+2	دختر	دختر	NOUN	NOUN	_	3	nsubj	_	_
+3	م	است	VERB	VERB	_	0	root	_	_
+4	است	که	SCONJ	SCONJ	_	3	mark	_	_
+5	که	اسهال	NOUN	NOUN	_	6	nsubj	_	_
+6	اسهال	شده	VERB	VERB	_	4	csubj	_	_
+7	شده	است	VERB	VERB	_	6	aux	_	_
+8	است	_	_	_	_	3	dep	_	_
+9	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s238
+# text = در سینمای ایران فیلم‌ها را باید به خالقشان سنجاق کنیم، تا فیلم‌هایشان را متوجه شویم.
+1	در	در	ADP	_	Case=Acc	2	case	_	_
+2	سینمای	سینما	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	ایران	ایران	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	فیلم‌ها	فیلم	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
+5	را	را	PART	_	_	6	case	_	_
+6	باید	باید	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advmod	_	_
+7	به	به	ADP	_	_	8	case	_	_
+8-9	خالقشان	_	_	_	_	_	_	_	_
+8	خالق	خالق	NOUN	_	Case=Acc|Number=Sing	6	obl	_	_
+9	شان	شان	ADP	_	_	8	case	_	_
+10	سنجاق	سنجاق	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	advcl	_	_
+11	کنیم	،	PUNCT	_	_	4	punct	_	_
+12	،	تا	ADP	_	_	13	case	_	_
+13	تا	فیلم	NOUN	_	Case=Acc|Number=Plur	14	nmod	_	_
+14-15	فیلم‌هایشان	_	_	_	_	_	_	_	_
+14	فیلم‌های	شان	ADP	_	_	10	obl	_	_
+15	شان	را	PART	_	_	16	case	_	_
+16	را	متوجه	ADJ	_	Case=Acc|Number=Sing	14	amod	_	_
+17	متوجه	شدن	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
+18	شویم	.	PUNCT	_	_	4	punct	_	_
+19	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s619
+# text = چرا باید شما که این همه هم‌فکر ید، همراه ید با همدیگر تقابل بکنید؟
+1	چرا	چرا	ADV	_	_	0	root	_	_
+2	باید	باید	AUX	_	_	1	aux	_	_
+3	شما	شما	PRON	_	_	1	nsubj	_	_
+4	که	که	SCONJ	_	_	1	dep	_	_
+5	این	این	DET	_	_	6	det	_	_
+6	همه	همه	ADJ	_	_	7	amod	_	_
+7	هم‌فکر	هم‌فکر	NOUN	_	_	4	nsubj	_	_
+8	ید	ید	VERB	_	_	7	cop	_	_
+9	،	،	PUNCT	_	_	1	punct	_	_
+10	همراه	همراه	ADP	_	_	11	case	_	_
+11	ید	ید	VERB	_	_	7	nmod	_	_
+12	با	با	ADP	_	_	13	case	_	_
+13	همدیگر	همدیگر	NOUN	_	_	11	nmod	_	_
+14	تقابل	تقابل	NOUN	_	_	11	compound	_	_
+15	بکنید	بکَن	VERB	_	_	1	ccomp	_	_
+16	؟	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s645
+# text = هنوز ریتم دقیقی که بتوان برای زلزله‌شناسی جدول‌بندی کرد وجود ندارد.
+1	هنوز	هنوز	ADV	_	_	0	root	_	_
+2	ریتم	ریتم	NOUN	_	Number=Sing|Person=3|Poss=Yes|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	1	nsubj	_	_
+3	دقیقی	دقیقی	ADJ	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	2	amod	_	_
+4	که	که	SCONJ	_	_	5	mark	_	_
+5	بتوان	بند	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
+6	برای	برای	ADP	_	_	5	case	_	_
+7	زلزله‌شناسی	زلزله	NOUN	_	Number=Sing|Person=3|Poss=Yes|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	5	obl	_	_
+8	جدول‌بندی	شناسی	NOUN	_	Number=Sing|Person=3|Poss=Yes|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	5	obj	_	_
+9	کرد	جدول	NOUN	_	Number=Sing|Person=3|Poss=Yes|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	5	obj	_	_
+10	وجود	بند	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	_	_
+11	ندارد	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+

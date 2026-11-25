@@ -1,0 +1,3303 @@
+# sent_id = wiki_Sauschädelstöhln_14
+# text = Da Brauch söwa woa in Ostöstareich weit vabroadt, heitzdog wean de Hausschlochtungan söltana, deshoib gibts imma weniger Sauschädln, de gstuin werden kunntatn.
+1	Da	_	DET	_	_	2	det	_	_
+2	Brauch	_	NOUN	_	_	0	root	_	_
+3	söwa	_	ADV	_	_	2	advmod	_	_
+4	woa	_	AUX	_	_	2	cop	_	_
+5	in	_	ADP	_	_	6	case	_	_
+6	Ostöstareich	_	PROPN	_	_	2	nmod	_	_
+7	weit	_	ADV	_	_	6	advmod	_	_
+8	vabroadt	_	ADJ	_	_	6	amod	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	heitzdog	_	ADV	_	_	11	advmod	_	_
+11	wean	_	AUX	_	_	2	cop	_	_
+12	de	_	DET	_	_	13	det	_	_
+13	Hausschlochtungan	_	NOUN	_	_	11	nsubj	_	_
+14	söltana	_	ADV	_	_	13	advmod	_	_
+15	,	_	PUNCT	_	_	17	punct	_	_
+16	deshoib	_	ADV	_	_	17	advmod	_	_
+17	gibt	_	VERB	_	_	2	conj	_	_
+18	s	_	PRON	_	_	17	nsubj	_	_
+19	imma	_	ADV	_	_	17	advmod	_	_
+20	weniger	_	ADV	_	_	21	advmod	_	_
+21	Sauschädln	_	NOUN	_	_	17	obj	_	_
+22	,	_	PUNCT	_	_	24	punct	_	_
+23	de	_	DET	_	_	24	det	_	_
+24	gstuin	_	VERB	_	_	17	conj	_	_
+25	werden	_	AUX	_	_	24	aux	_	_
+26	kunntatn	_	ADV	_	_	24	advmod	_	_
+27	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Minga_7
+# text = Minga is in da ganzen woid aa zwengs da Wiesn und am Hofbraihaus bekannt.
+1	Minga	_	PROPN	_	_	0	root	_	_
+2	is	_	AUX	_	_	1	cop	_	_
+3	in	_	ADP	_	_	4	case	_	_
+4	da	_	DET	_	_	1	nmod	_	_
+5	ganzen	_	ADJ	_	_	4	amod	_	_
+6	woid	_	NOUN	_	_	4	nmod	_	_
+7	aa	_	ADV	_	_	1	advmod	_	_
+8	zwengs	_	ADP	_	_	9	case	_	_
+9	da	_	DET	_	_	1	nmod	_	_
+10	Wiesn	_	NOUN	_	_	9	nmod	_	_
+11	und	_	CCONJ	_	_	13	cc	_	_
+12	am	_	ADP	_	_	13	case	_	_
+13	Hofbraihaus	_	NOUN	_	_	9	conj	_	_
+14	bekannt	_	PUNCT	_	_	1	punct	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = wiki_Minga_32
+# text = Af Owaboarisch hoaßt ma d'Eihwohna vo Minga traditionej Mingara und Mingararin.
+1	Af	_	ADP	_	_	2	case	_	_
+2	Owaboarisch	_	ADJ	_	_	0	root	_	_
+3	hoaßt	_	VERB	_	_	2	cop	_	_
+4	ma	_	PRON	_	_	3	nsubj	_	_
+5	d'	_	DET	_	_	6	det	_	_
+6	Eihwohna	_	NOUN	_	_	3	obj	_	_
+7	vo	_	ADP	_	_	8	case	_	_
+8	Minga	_	PROPN	_	_	6	nmod	_	_
+9	traditionej	_	ADV	_	_	10	advmod	_	_
+10	Mingara	_	NOUN	_	_	3	obj	_	_
+11	und	_	CCONJ	_	_	10	cc	_	_
+12	Mingararin	_	NOUN	_	_	10	conj	_	_
+13	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Kafää_14
+# text = Des Moiguad wiad mit Wossa und Zugga in da sog. "Jabana" (an bauchign Tonkruag) aufkocht und in klaanan Schoin serviat.
+1	Des	_	DET	_	_	2	det	_	_
+2	Moiguad	_	NOUN	_	_	0	root	_	_
+3	wiad	_	AUX	_	_	2	aux	_	_
+4	mit	_	ADP	_	_	5	case	_	_
+5	Wossa	_	NOUN	_	_	2	nmod	_	_
+6	und	_	CCONJ	_	_	7	cc	_	_
+7	Zugga	_	NOUN	_	_	5	conj	_	_
+8	in	_	ADP	_	_	9	case	_	_
+9	da	_	DET	_	_	10	det	_	_
+10	sog.	_	ADV	_	_	12	advmod	_	_
+11	"	_	PUNCT	_	_	12	punct	_	_
+12	Jabana	_	NOUN	_	_	2	nmod	_	_
+13	"	_	PUNCT	_	_	12	punct	_	_
+14	(	_	ADP	_	_	15	case	_	_
+15	an	_	ADJ	_	_	16	amod	_	_
+16	bauchign	_	NOUN	_	_	12	nmod	_	_
+17	Tonkruag	_	PUNCT	_	_	12	punct	_	_
+18	)	_	VERB	_	_	2	acl	_	_
+19	aufkocht	_	CCONJ	_	_	20	cc	_	_
+20	und	_	ADP	_	_	21	case	_	_
+21	in	_	ADJ	_	_	22	amod	_	_
+22	klaanan	_	NOUN	_	_	18	nmod	_	_
+23	Schoin	_	VERB	_	_	2	acl	_	_
+24	serviat	_	PUNCT	_	_	2	punct	_	_
+25	.	_	_	_	_	2	dep	_	_
+
+# sent_id = sid_de-ba_natural_295
+# text = erinner mi moi in a viatl Stund das i bei da Nachbarin klingln muas
+1	erinner	_	VERB	_	_	0	root	_	_
+2	mi	_	PRON	_	_	1	obj	_	_
+3	moi	_	ADV	_	_	1	advmod	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	a	_	DET	_	_	6	det	_	_
+6	viatl	_	ADJ	_	_	7	amod	_	_
+7	Stund	_	NOUN	_	_	1	obl	_	_
+8	das	_	SCONJ	_	_	9	mark	_	_
+9	i	_	PRON	_	_	1	ccomp	_	_
+10	bei	_	ADP	_	_	11	case	_	_
+11	da	_	DET	_	_	12	det	_	_
+12	Nachbarin	_	NOUN	_	_	9	nmod	_	_
+13	klingln	_	VERB	_	_	9	cop	_	_
+14	muas	_	AUX	_	_	13	aux	_	_
+
+# sent_id = wiki_Dazzlwuam_33
+# text = Auf jedn Foi wean de aungeblichn Sichdungen im 20.Joahundat oiwai wenga und ma hod a niangs an archeologischn Bewais gfundn.
+1	Auf	_	ADP	_	_	2	case	_	_
+2	jedn	_	DET	_	_	3	det	_	_
+3	Foi	_	NOUN	_	_	0	root	_	_
+4	wean	_	AUX	_	_	3	cop	_	_
+5	de	_	PRON	_	_	6	nsubj	_	_
+6	aungeblichn	_	ADJ	_	_	3	amod	_	_
+7	Sichdungen	_	NOUN	_	_	6	nmod	_	_
+8-9	im	_	_	_	_	_	_	_	_
+8	i	_	ADP	_	_	9	case	_	_
+9	m	_	NUM	_	_	10	nummod	_	_
+10	20.	_	NUM	_	_	6	nmod	_	_
+11	Joahundat	_	NOUN	_	_	10	nmod	_	_
+12	oiwai	_	ADV	_	_	13	advmod	_	_
+13	wenga	_	VERB	_	_	3	acl	_	_
+14	und	_	CCONJ	_	_	16	cc	_	_
+15	ma	_	PRON	_	_	16	nsubj	_	_
+16	hod	_	AUX	_	_	13	conj	_	_
+17	a	_	DET	_	_	18	det	_	_
+18	niangs	_	ADJ	_	_	16	advmod	_	_
+19	an	_	ADP	_	_	20	case	_	_
+20	archeologischn	_	ADJ	_	_	21	amod	_	_
+21	Bewais	_	NOUN	_	_	18	nmod	_	_
+22	gfundn	_	VERB	_	_	16	ccomp	_	_
+23	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = xsid_de-ba_test_2
+# text = Brauch i an Pulli?
+1	Brauch	_	VERB	_	_	0	root	_	_
+2	i	_	PRON	_	_	1	nsubj	_	_
+3	an	_	ADP	_	_	4	case	_	_
+4	Pulli	_	NOUN	_	_	1	obj	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_J-Pop_3
+# text = Baim Inhajt geihds, waj in da westlichen Popmusik aa, maisdns um Liebe und Beziehungen.
+1-2	Baim	_	_	_	_	_	_	_	_
+1	Bai	_	ADP	_	_	2	case	_	_
+2	m	_	PRON	_	_	3	nmod	_	_
+3	Inhajt	_	NOUN	_	_	0	root	_	_
+4	geihd	_	AUX	_	_	3	cop	_	_
+5	s	_	PRON	_	_	3	nsubj	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	waj	_	AUX	_	_	8	aux	_	_
+8	in	_	ADP	_	_	9	case	_	_
+9	da	_	DET	_	_	10	det	_	_
+10	westlichen	_	ADJ	_	_	11	amod	_	_
+11	Popmusik	_	NOUN	_	_	3	nmod	_	_
+12	aa	_	ADV	_	_	11	advmod	_	_
+13	,	_	PUNCT	_	_	15	punct	_	_
+14	maisdns	_	ADV	_	_	15	advmod	_	_
+15	um	_	ADP	_	_	16	case	_	_
+16	Liebe	_	NOUN	_	_	3	nmod	_	_
+17	und	_	CCONJ	_	_	18	cc	_	_
+18	Beziehungen	_	NOUN	_	_	16	conj	_	_
+19	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Adverb_44
+# text = Seine Rezepte san guad.
+1	Seine	_	DET	_	_	2	det	_	_
+2	Rezepte	_	NOUN	_	_	4	nsubj	_	_
+3	san	_	AUX	_	_	4	cop	_	_
+4	guad	_	ADJ	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wikitalk_Dischkrian:Bairische-Buechspraach_1
+# text = Des is iedz glaab i a ganz a ganz a wichtinge Sach - do ghead aa des "ö"-Thema (min "Össn") obn von USERNAME dazua.
+1	Des	_	PRON	_	_	2	nsubj	_	_
+2	is	_	AUX	_	_	0	root	_	_
+3	iedz	_	ADV	_	_	2	advmod	_	_
+4	glaab	_	ADV	_	_	2	advmod	_	_
+5	i	_	PRON	_	_	2	expl	_	_
+6	a	_	ADV	_	_	2	advmod	_	_
+7	ganz	_	ADV	_	_	2	advmod	_	_
+8	a	_	ADV	_	_	2	advmod	_	_
+9	ganz	_	ADJ	_	_	2	advmod	_	_
+10	a	_	NOUN	_	_	2	obj	_	_
+11	wichtinge	_	PUNCT	_	_	12	punct	_	_
+12	Sach	_	PRON	_	_	2	expl	_	_
+13	-	_	VERB	_	_	2	conj	_	_
+14	do	_	ADV	_	_	13	advmod	_	_
+15	ghead	_	PRON	_	_	13	nsubj	_	_
+16	aa	_	PUNCT	_	_	17	punct	_	_
+17	des	_	PROPN	_	_	15	appos	_	_
+18	"ö"-Thema	_	PUNCT	_	_	17	punct	_	_
+19	(	_	NOUN	_	_	15	obj	_	_
+20-21	min	_	_	_	_	_	_	_	_
+20	mi	_	PUNCT	_	_	21	punct	_	_
+21	n	_	PRON	_	_	19	appos	_	_
+22	"	_	DET	_	_	21	det	_	_
+23	Össn	_	PUNCT	_	_	24	punct	_	_
+24	"	_	PROPN	_	_	21	appos	_	_
+25	)	_	PUNCT	_	_	24	punct	_	_
+26	obn	_	PUNCT	_	_	19	punct	_	_
+27	von	_	ADP	_	_	28	case	_	_
+28	USERNAME	_	PROPN	_	_	13	obl	_	_
+29	dazua	_	ADV	_	_	13	advmod	_	_
+30	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikitalk_Dischkrian:Ödenburg_5
+# text = Den oan Famülineignam vahunzt ma ned.
+1	Den	_	DET	_	_	2	det	_	_
+2	oan	_	NUM	_	_	3	nummod	_	_
+3	Famülineignam	_	NOUN	_	_	4	nsubj	_	_
+4	vahunzt	_	VERB	_	_	0	root	_	_
+5	ma	_	PRON	_	_	4	expl	_	_
+6	ned	_	AUX	_	_	4	aux	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Age-of-Empires_6
+# text = Normalaweis fangd s'Spüll in da Altschdeinzeid oo.
+1	Normalaweis	_	ADV	_	_	2	advmod	_	_
+2	fangd	_	VERB	_	_	0	root	_	_
+3	s'	_	PRON	_	_	2	nsubj	_	_
+4	Spüll	_	NOUN	_	_	2	obj	_	_
+5	in	_	ADP	_	_	6	case	_	_
+6	da	_	DET	_	_	7	det	_	_
+7	Altschdeinzeid	_	NOUN	_	_	2	obl	_	_
+8	oo	_	ADV	_	_	2	advmod	_	_
+9	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Minga_43
+# text = Wos no dazua beitrogt, dass d'Mingara oft schlecht aufglegt waradn, is da Fön, dea wo si afs G'miat schlogt und a zum Schädlwäh fian ko.
+1	Wos	_	PRON	_	_	2	nsubj	_	_
+2	no	_	ADV	_	_	0	root	_	_
+3	dazua	_	ADP	_	_	2	case	_	_
+4	beitrogt	_	VERB	_	_	2	advcl	_	_
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	dass	_	SCONJ	_	_	7	mark	_	_
+7	d'	_	DET	_	_	8	det	_	_
+8	Mingara	_	NOUN	_	_	4	obl	_	_
+9	oft	_	ADV	_	_	8	advmod	_	_
+10	schlecht	_	ADJ	_	_	8	amod	_	_
+11	aufglegt	_	ADJ	_	_	8	amod	_	_
+12	waradn	_	AUX	_	_	4	aux	_	_
+13	,	_	AUX	_	_	2	cop	_	_
+14	is	_	DET	_	_	2	dep	_	_
+15	da	_	NOUN	_	_	2	dep	_	_
+16	Fön	_	PUNCT	_	_	2	dep	_	_
+17	,	_	DET	_	_	18	det	_	_
+18	dea	_	ADP	_	_	16	case	_	_
+19	wo	_	PRON	_	_	18	expl	_	_
+20	si	_	ADP	_	_	21	case	_	_
+21-22	afs	_	_	_	_	_	_	_	_
+21	af	_	_	_	_	2	dep	_	_
+22	s	_	VERB	_	_	16	advcl	_	_
+23	G'miat	_	CCONJ	_	_	25	cc	_	_
+24	schlogt	_	ADV	_	_	25	advmod	_	_
+25	und	_	ADP	_	_	22	case	_	_
+26	a	_	DET	_	_	27	det	_	_
+27-28	zum	_	_	_	_	_	_	_	_
+27	zu	_	NOUN	_	_	25	nmod	_	_
+28	m	_	VERB	_	_	25	advcl	_	_
+29	Schädlwäh	_	PRON	_	_	28	obj	_	_
+30	fian	_	PUNCT	_	_	2	punct	_	_
+31	ko	_	_	_	_	2	dep	_	_
+32	.	_	_	_	_	2	dep	_	_
+
+# sent_id = wiki_Toppmkorsee_17
+# text = Oisdonn houd se d' Wirkung vom Zindpuifer gejtad gmocht und a Explosion houds Ungehaier umbroucht und Bevejkarung is vo ner grossn Sorg befrait woun.
+1	Oisdonn	_	VERB	_	_	0	root	_	_
+2	houd	_	AUX	_	_	1	aux	_	_
+3	se	_	PRON	_	_	1	expl	_	_
+4	d'	_	DET	_	_	5	det	_	_
+5	Wirkung	_	NOUN	_	_	1	obj	_	_
+6-7	vom	_	_	_	_	_	_	_	_
+6	vo	_	ADP	_	_	7	case	_	_
+7	m	_	DET	_	_	8	det	_	_
+8	Zindpuifer	_	NOUN	_	_	5	nmod	_	_
+9	gejtad	_	VERB	_	_	1	conj	_	_
+10	gmocht	_	AUX	_	_	9	aux	_	_
+11	und	_	CCONJ	_	_	15	cc	_	_
+12	a	_	DET	_	_	13	det	_	_
+13	Explosion	_	NOUN	_	_	15	nsubj	_	_
+14	houd	_	AUX	_	_	15	aux	_	_
+15	s	_	PRON	_	_	1	conj	_	_
+16	Ungehaier	_	NOUN	_	_	13	obj	_	_
+17	umbroucht	_	VERB	_	_	15	conj	_	_
+18	und	_	CCONJ	_	_	20	cc	_	_
+19	Bevejkarung	_	NOUN	_	_	20	nsubj	_	_
+20	is	_	VERB	_	_	15	conj	_	_
+21	vo	_	ADP	_	_	22	case	_	_
+22	ner	_	DET	_	_	23	det	_	_
+23	grossn	_	ADJ	_	_	24	amod	_	_
+24	Sorg	_	NOUN	_	_	20	obj	_	_
+25	befrait	_	VERB	_	_	20	conj	_	_
+26	woun	_	ADV	_	_	25	advmod	_	_
+27	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = xsid_de-st_valid_51
+# text = Erstell an Erinnerung um speter zin Supermarkt zi gian
+1	Erstell	_	VERB	_	_	0	root	_	_
+2	an	_	ADP	_	_	3	case	_	_
+3	Erinnerung	_	NOUN	_	_	1	obl	_	_
+4	um	_	ADP	_	_	5	case	_	_
+5	speter	_	ADV	_	_	1	obl	_	_
+6-7	zin	_	_	_	_	_	_	_	_
+6	zi	_	AUX	_	_	7	aux	_	_
+7	n	_	DET	_	_	8	det	_	_
+8	Supermarkt	_	NOUN	_	_	1	obj	_	_
+9	zi	_	AUX	_	_	10	aux	_	_
+10	gian	_	VERB	_	_	1	conj	_	_
+
+# sent_id = sid_de-ba_natural_13
+# text = dua "Dreh den Swag auf" von Moneyboy in mei Spotify-Playlist.
+1	dua	_	VERB	_	_	0	root	_	_
+2	"	_	PUNCT	_	_	3	punct	_	_
+3	Dreh	_	VERB	_	_	1	obj	_	_
+4	den	_	DET	_	_	5	det	_	_
+5	Swag	_	NOUN	_	_	3	obj	_	_
+6	auf	_	ADV	_	_	3	advmod	_	_
+7	"	_	PUNCT	_	_	3	punct	_	_
+8	von	_	ADP	_	_	9	case	_	_
+9	Moneyboy	_	PROPN	_	_	1	obl	_	_
+10	in	_	ADP	_	_	11	case	_	_
+11	mei	_	DET	_	_	12	det	_	_
+12	Spotify-Playlist	_	NOUN	_	_	1	obl	_	_
+13	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wikisource_Hansl-und-Gretl_35
+# text = De ganze Nocht durch sands ganga und wia's Friah wordn is, sand's wieda dahoam akemma.
+1	De	_	DET	_	_	2	det	_	_
+2	ganze	_	ADJ	_	_	3	amod	_	_
+3	Nocht	_	NOUN	_	_	4	nsubj	_	_
+4	durch	_	ADV	_	_	0	root	_	_
+5	sands	_	VERB	_	_	4	advmod	_	_
+6	ganga	_	VERB	_	_	5	xcomp	_	_
+7	und	_	CCONJ	_	_	9	cc	_	_
+8	wia	_	ADV	_	_	9	advmod	_	_
+9	's	_	PRON	_	_	6	advmod	_	_
+10	Friah	_	ADJ	_	_	11	amod	_	_
+11	wordn	_	VERB	_	_	9	csubj	_	_
+12	is	_	AUX	_	_	11	aux	_	_
+13	,	_	PUNCT	_	_	15	punct	_	_
+14	sand	_	VERB	_	_	15	csubj	_	_
+15	's	_	PRON	_	_	11	advmod	_	_
+16	wieda	_	ADV	_	_	14	advmod	_	_
+17	dahoam	_	ADV	_	_	14	advmod	_	_
+18	akemma	_	VERB	_	_	14	xcomp	_	_
+19	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Brod_7
+# text = S feste Aissare vom Brod hassd Rindn, s Innare Schmoin.
+1	S	_	DET	_	_	2	det	_	_
+2	feste	_	ADJ	_	_	3	amod	_	_
+3	Aissare	_	NOUN	_	_	0	root	_	_
+4-5	vom	_	_	_	_	_	_	_	_
+4	vo	_	ADP	_	_	5	case	_	_
+5	m	_	DET	_	_	6	det	_	_
+6	Brod	_	NOUN	_	_	3	nmod	_	_
+7	hassd	_	AUX	_	_	3	cop	_	_
+8	Rindn	_	ADJ	_	_	3	amod	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	s	_	DET	_	_	11	det	_	_
+11	Innare	_	NOUN	_	_	3	conj	_	_
+12	Schmoin	_	ADJ	_	_	11	amod	_	_
+13	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = sid_de-ba_natural_244
+# text = Weck mi morgn um sime ned auf
+1	Weck	_	VERB	_	_	0	root	_	_
+2	mi	_	PRON	_	_	1	obj	_	_
+3	morgn	_	ADV	_	_	1	advmod	_	_
+4	um	_	ADP	_	_	5	case	_	_
+5	sime	_	PRON	_	_	1	obl	_	_
+6	ned	_	ADV	_	_	7	advmod	_	_
+7	auf	_	ADV	_	_	1	obl	_	_
+
+# sent_id = tatoeba_5184484
+# text = Vo de hob i no nie ane hergnumma.
+1	Vo	_	ADP	_	_	2	case	_	_
+2	de	_	PRON	_	_	4	nsubj	_	_
+3	hob	_	AUX	_	_	4	aux	_	_
+4	i	_	ADV	_	_	0	root	_	_
+5	no	_	VERB	_	_	4	xcomp	_	_
+6	nie	_	ADV	_	_	5	advmod	_	_
+7	ane	_	ADV	_	_	5	advmod	_	_
+8	hergnumma	_	PUNCT	_	_	4	punct	_	_
+9	.	_	_	_	_	4	dep	_	_
+
+# sent_id = tatoeba_6196748
+# text = Du zahst beim Oabeitn gaunz sche an.
+1	Du	_	PRON	_	_	2	nsubj	_	_
+2	zahst	_	VERB	_	_	0	root	_	_
+3-4	beim	_	_	_	_	_	_	_	_
+3	bei	_	ADP	_	_	4	case	_	_
+4	m	_	PRON	_	_	2	obl	_	_
+5	Oabeitn	_	NOUN	_	_	4	nmod	_	_
+6	gaunz	_	ADV	_	_	7	advmod	_	_
+7	sche	_	ADJ	_	_	2	obl	_	_
+8	an	_	ADV	_	_	7	advmod	_	_
+9	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = xsid_de-st_valid_242
+# text = I mecht gern die Geschichte 12 Soulful Nights of Christmas schaugn
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	mecht	_	AUX	_	_	0	root	_	_
+3	gern	_	ADV	_	_	2	advmod	_	_
+4	die	_	DET	_	_	5	det	_	_
+5	Geschichte	_	NOUN	_	_	2	obj	_	_
+6	12	_	NUM	_	_	7	nummod	_	_
+7	Soulful	_	ADJ	_	_	5	amod	_	_
+8	Nights	_	NOUN	_	_	7	nmod	_	_
+9	of	_	ADP	_	_	10	case	_	_
+10	Christmas	_	NOUN	_	_	7	nmod	_	_
+11	schaugn	_	VERB	_	_	2	xcomp	_	_
+
+# sent_id = wiki_Schneckn_30
+# text = Auf dar aan Seitn bringt da Fuaß in Schneck weida, duach des, dass ar a Kontraktionswöön schlogt.
+1	Auf	_	ADP	_	_	2	case	_	_
+2	dar	_	DET	_	_	3	det	_	_
+3	aan	_	ADJ	_	_	4	amod	_	_
+4	Seitn	_	NOUN	_	_	0	root	_	_
+5	bringt	_	VERB	_	_	4	acl	_	_
+6	da	_	DET	_	_	7	det	_	_
+7	Fuaß	_	NOUN	_	_	5	nsubj	_	_
+8	in	_	ADP	_	_	9	case	_	_
+9	Schneck	_	NOUN	_	_	5	obl	_	_
+10	weida	_	ADV	_	_	5	advmod	_	_
+11	,	_	PUNCT	_	_	13	punct	_	_
+12	duach	_	ADP	_	_	13	case	_	_
+13	des	_	DET	_	_	14	det	_	_
+14	,	_	PUNCT	_	_	15	punct	_	_
+15	dass	_	SCONJ	_	_	18	mark	_	_
+16	ar	_	PRON	_	_	18	nsubj	_	_
+17	a	_	DET	_	_	18	det	_	_
+18	Kontraktionswöön	_	NOUN	_	_	5	obl	_	_
+19	schlogt	_	VERB	_	_	18	acl	_	_
+20	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = sid_de-ba_natural_21
+# text = I darat gearn an Disch im Steirawirt in Riad für 3 Leid resavieren
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	darat	_	VERB	_	_	0	root	_	_
+3	gearn	_	ADV	_	_	2	advmod	_	_
+4	an	_	ADP	_	_	5	case	_	_
+5	Disch	_	NOUN	_	_	2	obj	_	_
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	PRON	_	_	7	nsubj	_	_
+7	m	_	VERB	_	_	5	acl	_	_
+8	Steirawirt	_	PROPN	_	_	7	obj	_	_
+9	in	_	ADP	_	_	10	case	_	_
+10	Riad	_	PROPN	_	_	7	obl	_	_
+11	für	_	ADP	_	_	12	case	_	_
+12	3	_	NUM	_	_	7	obl	_	_
+13	Leid	_	NOUN	_	_	12	nmod	_	_
+14	resavieren	_	VERB	_	_	2	conj	_	_
+
+# sent_id = wiki_Fruchtschnittn_4
+# text = Nebn den reinen Fruchtschnittn gibts a Variationen denan Droad, Schogglad, Kafääh, Nussn, Honf, Gewiaze, Griantee und Marzipan beigmengt wiad.
+1	Nebn	_	ADP	_	_	2	case	_	_
+2	den	_	DET	_	_	3	det	_	_
+3	reinen	_	ADJ	_	_	4	amod	_	_
+4	Fruchtschnittn	_	NOUN	_	_	0	root	_	_
+5	gibt	_	AUX	_	_	4	cop	_	_
+6	s	_	PRON	_	_	4	nsubj	_	_
+7	a	_	DET	_	_	8	det	_	_
+8	Variationen	_	NOUN	_	_	4	nmod	_	_
+9	denan	_	DET	_	_	10	det	_	_
+10	Droad	_	NOUN	_	_	8	nmod	_	_
+11	,	_	PUNCT	_	_	12	punct	_	_
+12	Schogglad	_	NOUN	_	_	8	conj	_	_
+13	,	_	PUNCT	_	_	14	punct	_	_
+14	Kafääh	_	NOUN	_	_	8	conj	_	_
+15	,	_	PUNCT	_	_	16	punct	_	_
+16	Nussn	_	NOUN	_	_	8	conj	_	_
+17	,	_	PUNCT	_	_	18	punct	_	_
+18	Honf	_	NOUN	_	_	8	conj	_	_
+19	,	_	PUNCT	_	_	20	punct	_	_
+20	Gewiaze	_	NOUN	_	_	8	conj	_	_
+21	,	_	PUNCT	_	_	22	punct	_	_
+22	Griantee	_	NOUN	_	_	8	conj	_	_
+23	und	_	CCONJ	_	_	25	cc	_	_
+24	Marzipan	_	NOUN	_	_	25	nmod	_	_
+25	beigmengt	_	VERB	_	_	8	conj	_	_
+26	wiad	_	AUX	_	_	25	aux	_	_
+27	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = cairo_16
+# text = Da Bäda und d’Maria hom sie umarmt und san dann ausm Zimmer ganga.
+1	Da	_	DET	_	_	2	det	_	_
+2	Bäda	_	NOUN	_	_	12	nsubj	_	_
+3	und	_	CCONJ	_	_	4	cc	_	_
+4	d’	_	DET	_	_	5	det	_	_
+5	Maria	_	NOUN	_	_	2	conj	_	_
+6	hom	_	AUX	_	_	12	aux	_	_
+7	sie	_	PRON	_	_	12	obj	_	_
+8	umarmt	_	VERB	_	_	12	advcl	_	_
+9	und	_	CCONJ	_	_	12	cc	_	_
+10	san	_	AUX	_	_	12	aux	_	_
+11	dann	_	ADV	_	_	12	advmod	_	_
+12-13	ausm	_	_	_	_	_	_	_	_
+12	aus	_	VERB	_	_	0	root	_	_
+13	m	_	PUNCT	_	_	12	punct	_	_
+14	Zimmer	_	_	_	_	12	dep	_	_
+15	ganga	_	_	_	_	12	dep	_	_
+16	.	_	_	_	_	12	dep	_	_
+
+# sent_id = tatoeba_9226389
+# text = Waunst' dasaufst, bring i di um!
+1	Waunst'	_	PRON	_	_	2	nsubj	_	_
+2	dasaufst	_	VERB	_	_	0	root	_	_
+3	,	_	PUNCT	_	_	5	punct	_	_
+4	bring	_	AUX	_	_	5	aux	_	_
+5	i	_	PRON	_	_	2	obj	_	_
+6	di	_	PRON	_	_	5	nsubj	_	_
+7	um	_	ADV	_	_	5	advmod	_	_
+8	!	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Schneckn_35
+# text = Im Eingeweidesogg san de gaunzn Innarein drinnat, da Mauntln mocht bei de Heislschneckn in Obschluß gegn de Mindung hii.
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	m	_	VERB	_	_	0	root	_	_
+3	Eingeweidesogg	_	NOUN	_	_	2	obj	_	_
+4	san	_	AUX	_	_	2	aux	_	_
+5	de	_	DET	_	_	6	det	_	_
+6	gaunzn	_	ADJ	_	_	7	amod	_	_
+7	Innarein	_	NOUN	_	_	2	obl	_	_
+8	drinnat	_	ADJ	_	_	7	amod	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	da	_	DET	_	_	11	det	_	_
+11	Mauntln	_	NOUN	_	_	2	conj	_	_
+12	mocht	_	AUX	_	_	11	aux	_	_
+13	bei	_	ADP	_	_	14	case	_	_
+14	de	_	DET	_	_	15	det	_	_
+15	Heislschneckn	_	NOUN	_	_	11	nmod	_	_
+16	in	_	ADP	_	_	17	case	_	_
+17	Obschluß	_	NOUN	_	_	11	nmod	_	_
+18	gegn	_	ADP	_	_	19	case	_	_
+19	de	_	DET	_	_	20	det	_	_
+20	Mindung	_	NOUN	_	_	11	nmod	_	_
+21	hii	_	ADV	_	_	11	obl	_	_
+22	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = xsid_de-ba_test_48
+# text = Lösch mei Erinnerung, dass i an Patrick moang vo da Schui hoin muas.
+1	Lösch	_	VERB	_	_	0	root	_	_
+2	mei	_	ADP	_	_	3	case	_	_
+3	Erinnerung	_	NOUN	_	_	1	obl	_	_
+4	,	_	PUNCT	_	_	6	punct	_	_
+5	dass	_	SCONJ	_	_	6	mark	_	_
+6	i	_	PRON	_	_	1	ccomp	_	_
+7	an	_	ADP	_	_	8	case	_	_
+8	Patrick	_	PROPN	_	_	6	nmod	_	_
+9	moang	_	ADV	_	_	6	advmod	_	_
+10	vo	_	ADP	_	_	11	case	_	_
+11	da	_	DET	_	_	12	det	_	_
+12	Schui	_	NOUN	_	_	8	nmod	_	_
+13	hoin	_	VERB	_	_	6	advcl	_	_
+14	muas	_	AUX	_	_	13	aux	_	_
+15	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Fiisch_2
+# text = Fiisch (dt.: Fisch, lateinisch : piscis) san Wiaweviecha, de wo im Wossa lem.
+1	Fiisch	_	NOUN	_	_	0	root	_	_
+2	(	_	PUNCT	_	_	3	punct	_	_
+3	dt.	_	ADP	_	_	1	case	_	_
+4	:	_	PUNCT	_	_	3	punct	_	_
+5	Fisch	_	NOUN	_	_	3	obl	_	_
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	lateinisch	_	ADP	_	_	1	case	_	_
+8	:	_	PUNCT	_	_	7	punct	_	_
+9	piscis	_	NOUN	_	_	7	obl	_	_
+10	)	_	PUNCT	_	_	3	punct	_	_
+11	san	_	PUNCT	_	_	12	punct	_	_
+12	Wiaweviecha	_	AUX	_	_	1	cop	_	_
+13	,	_	NOUN	_	_	12	obj	_	_
+14	de	_	PUNCT	_	_	15	punct	_	_
+15	wo	_	DET	_	_	12	det	_	_
+16-17	im	_	_	_	_	_	_	_	_
+16	i	_	ADV	_	_	17	case	_	_
+17	m	_	PRON	_	_	18	nmod	_	_
+18	Wossa	_	ADP	_	_	19	case	_	_
+19	lem	_	NOUN	_	_	12	obl	_	_
+20	.	_	VERB	_	_	12	obl	_	_
+
+# sent_id = wiki_Pinzgau_9
+# text = Dia Bezirkshauptmohschouft is 1850 bis 1854 auf Soifejn unterbroucht gwein und is donn wiader nouch Zej am See kemm.
+1	Dia	_	DET	_	_	2	det	_	_
+2	Bezirkshauptmohschouft	_	NOUN	_	_	12	nsubj	_	_
+3	is	_	AUX	_	_	12	aux	_	_
+4	1850	_	NUM	_	_	12	obl	_	_
+5	bis	_	ADP	_	_	6	case	_	_
+6	1854	_	NUM	_	_	4	nmod	_	_
+7	auf	_	ADP	_	_	8	case	_	_
+8	Soifejn	_	PROPN	_	_	4	nmod	_	_
+9	unterbroucht	_	ADJ	_	_	12	amod	_	_
+10	gwein	_	AUX	_	_	9	aux	_	_
+11	und	_	CCONJ	_	_	12	cc	_	_
+12	is	_	AUX	_	_	0	root	_	_
+13	donn	_	ADV	_	_	12	advmod	_	_
+14	wiader	_	ADV	_	_	15	advmod	_	_
+15	nouch	_	ADV	_	_	16	advmod	_	_
+16	Zej	_	PROPN	_	_	12	obl	_	_
+17-18	am	_	_	_	_	_	_	_	_
+17	a	_	ADP	_	_	18	case	_	_
+18	m	_	DET	_	_	16	nmod	_	_
+19	See	_	NOUN	_	_	18	nmod	_	_
+20	kemm	_	VERB	_	_	12	advcl	_	_
+21	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = sid_de-ba_natural_278
+# text = stoi an Wecker in Schlummermodus
+1	stoi	_	VERB	_	_	0	root	_	_
+2	an	_	ADP	_	_	3	case	_	_
+3	Wecker	_	NOUN	_	_	1	obl	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	Schlummermodus	_	NOUN	_	_	3	nmod	_	_
+
+# sent_id = sid_de-ba_natural_269
+# text = Wann geht mei Wecka morng
+1	Wann	_	ADV	_	_	4	advmod	_	_
+2	geht	_	AUX	_	_	4	aux	_	_
+3	mei	_	PRON	_	_	4	nsubj	_	_
+4	Wecka	_	NOUN	_	_	0	root	_	_
+5	morng	_	ADV	_	_	4	advmod	_	_
+
+# sent_id = tatoeba_10673747-1
+# text = Do hot's di wieda amoi gscheid auf die Pappn ghaut!
+1	Do	_	PRON	_	_	2	expl	_	_
+2	hot	_	AUX	_	_	0	root	_	_
+3	's	_	PRON	_	_	2	nsubj	_	_
+4	di	_	DET	_	_	5	det	_	_
+5	wieda	_	ADV	_	_	2	advmod	_	_
+6	amoi	_	ADV	_	_	2	advmod	_	_
+7	gscheid	_	ADV	_	_	2	advmod	_	_
+8	auf	_	ADP	_	_	9	case	_	_
+9	die	_	DET	_	_	10	det	_	_
+10	Pappn	_	NOUN	_	_	2	obl	_	_
+11	ghaut	_	VERB	_	_	2	aux	_	_
+12	!	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Präpositiona_60
+# text = I schau bån Fenster asse.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	schau	_	VERB	_	_	0	root	_	_
+3-4	bån	_	_	_	_	_	_	_	_
+3	bå	_	ADV	_	_	2	advmod	_	_
+4	n	_	DET	_	_	5	det	_	_
+5	Fenster	_	NOUN	_	_	2	obj	_	_
+6	asse	_	ADV	_	_	2	advmod	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_5470327
+# text = Oans woaß i gwiss: ohne Dochzügi ist des Doch koa Zügidoch und ohne Turmzwüfi ist da Turm koa Zwüfiturm.
+1	Oans	_	NUM	_	_	2	nummod	_	_
+2	woaß	_	VERB	_	_	0	root	_	_
+3	i	_	PRON	_	_	2	nsubj	_	_
+4	gwiss	_	ADV	_	_	2	advmod	_	_
+5	:	_	PUNCT	_	_	7	punct	_	_
+6	ohne	_	ADP	_	_	7	case	_	_
+7	Dochzügi	_	NOUN	_	_	2	obl	_	_
+8	ist	_	AUX	_	_	7	cop	_	_
+9	des	_	DET	_	_	10	det	_	_
+10	Doch	_	NOUN	_	_	7	nmod	_	_
+11	koa	_	DET	_	_	12	det	_	_
+12	Zügidoch	_	NOUN	_	_	7	appos	_	_
+13	und	_	CCONJ	_	_	17	cc	_	_
+14	ohne	_	ADP	_	_	15	case	_	_
+15	Turmzwüfi	_	NOUN	_	_	17	obl	_	_
+16	ist	_	AUX	_	_	15	cop	_	_
+17	da	_	DET	_	_	2	obl	_	_
+18	Turm	_	NOUN	_	_	15	nmod	_	_
+19	koa	_	DET	_	_	20	det	_	_
+20	Zwüfiturm	_	NOUN	_	_	15	appos	_	_
+21	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikitalk_Dischkrian:Boarische-Umschrift_23
+# text = Wann i des zerscht kompiliern muas...
+1	Wann	_	ADV	_	_	4	advmod	_	_
+2	i	_	PRON	_	_	4	nsubj	_	_
+3	des	_	DET	_	_	4	det	_	_
+4	zerscht	_	ADJ	_	_	0	root	_	_
+5	kompiliern	_	VERB	_	_	4	xcomp	_	_
+6	muas	_	AUX	_	_	5	aux	_	_
+7	...	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = tatoeba_8925745
+# text = Da Thomas wirds ned richten.
+1	Da	_	DET	_	_	2	det	_	_
+2	Thomas	_	PROPN	_	_	4	nsubj	_	_
+3	wird	_	AUX	_	_	4	aux	_	_
+4	s	_	VERB	_	_	0	root	_	_
+5	ned	_	PRON	_	_	4	obj	_	_
+6	richten	_	ADV	_	_	4	advmod	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = tatoeba_5467693
+# text = Heit is neamd in d'Hockn kemma.
+1	Heit	_	ADV	_	_	2	advmod	_	_
+2	is	_	AUX	_	_	0	root	_	_
+3	neamd	_	VERB	_	_	2	ccomp	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	d'	_	DET	_	_	6	det	_	_
+6	Hockn	_	NOUN	_	_	3	obl	_	_
+7	kemma	_	VERB	_	_	3	xcomp	_	_
+8	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Minga_57
+# text = Nacha is a wengal obe ganga, oba seitn Joar 2000 gehts wieda konstant auffe.
+1	Nacha	_	ADV	_	_	2	advmod	_	_
+2	is	_	AUX	_	_	0	root	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	wengal	_	ADJ	_	_	2	nsubj	_	_
+5	obe	_	ADV	_	_	6	advmod	_	_
+6	ganga	_	VERB	_	_	2	conj	_	_
+7	,	_	PUNCT	_	_	2	dep	_	_
+8	oba	_	ADV	_	_	2	dep	_	_
+9-10	seitn	_	_	_	_	_	_	_	_
+9	seit	_	ADP	_	_	2	dep	_	_
+10	n	_	NUM	_	_	11	det	_	_
+11	Joar	_	NOUN	_	_	9	nmod	_	_
+12	2000	_	NUM	_	_	11	nummod	_	_
+13	geht	_	AUX	_	_	14	aux	_	_
+14	s	_	PRON	_	_	9	obl	_	_
+15	wieda	_	ADV	_	_	16	advmod	_	_
+16	konstant	_	ADJ	_	_	14	nsubj	_	_
+17	auffe	_	ADV	_	_	16	advmod	_	_
+18	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = sid_de-ba_natural_77
+# text = wo und waun spüd "The whale" in minga
+1	wo	_	ADV	_	_	2	advmod	_	_
+2	und	_	CCONJ	_	_	0	root	_	_
+3	waun	_	ADV	_	_	2	advmod	_	_
+4	spüd	_	VERB	_	_	2	conj	_	_
+5	"	_	PUNCT	_	_	6	punct	_	_
+6	The	_	DET	_	_	7	det	_	_
+7	whale	_	NOUN	_	_	4	obj	_	_
+8	"	_	PUNCT	_	_	6	punct	_	_
+9	in	_	ADP	_	_	10	case	_	_
+10	minga	_	PROPN	_	_	4	obl	_	_
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_21
+# text = I schaug amoi ob ma no eppas bessers eifoit oba "Zuagroaste/eibirgate Wörta" heart se fir mi vui z'harmlos o.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	schaug	_	VERB	_	_	0	root	_	_
+3	amoi	_	ADV	_	_	2	advmod	_	_
+4	ob	_	SCONJ	_	_	5	mark	_	_
+5	ma	_	PRON	_	_	2	obj	_	_
+6	no	_	ADV	_	_	5	advmod	_	_
+7	eppas	_	DET	_	_	8	det	_	_
+8	bessers	_	ADJ	_	_	5	nsubj	_	_
+9	eifoit	_	NOUN	_	_	8	amod	_	_
+10	oba	_	CCONJ	_	_	12	cc	_	_
+11	"	_	PUNCT	_	_	12	punct	_	_
+12	Zuagroaste	_	NOUN	_	_	8	conj	_	_
+13	/	_	PUNCT	_	_	14	punct	_	_
+14	eibirgate	_	ADJ	_	_	12	conj	_	_
+15	Wörta	_	NOUN	_	_	14	amod	_	_
+16	"	_	PUNCT	_	_	12	punct	_	_
+17	heart	_	AUX	_	_	2	aux	_	_
+18	se	_	PRON	_	_	2	dep	_	_
+19	fir	_	ADP	_	_	2	dep	_	_
+20	mi	_	PRON	_	_	19	det	_	_
+21	vui	_	ADJ	_	_	2	dep	_	_
+22	z'	_	ADP	_	_	23	case	_	_
+23	harmlos	_	ADJ	_	_	21	obl	_	_
+24	o	_	ADV	_	_	22	advmod	_	_
+25	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Obwaller_2
+# text = Obwaller is a tippisch Soizbuaga Nochnom, den wous a in Bayern und Tiroi gib.
+1	Obwaller	_	PROPN	_	_	0	root	_	_
+2	is	_	AUX	_	_	1	cop	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	tippisch	_	ADJ	_	_	1	amod	_	_
+5	Soizbuaga	_	NOUN	_	_	4	nmod	_	_
+6	Nochnom	_	NOUN	_	_	4	nmod	_	_
+7	,	_	PUNCT	_	_	9	punct	_	_
+8	den	_	DET	_	_	9	det	_	_
+9	wous	_	PRON	_	_	1	nsubj	_	_
+10	a	_	DET	_	_	11	det	_	_
+11	in	_	ADP	_	_	12	case	_	_
+12	Bayern	_	PROPN	_	_	9	nmod	_	_
+13	und	_	CCONJ	_	_	14	cc	_	_
+14	Tiroi	_	PROPN	_	_	12	conj	_	_
+15	gib	_	VERB	_	_	1	cop	_	_
+16	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Konjunktiona_81
+# text = Wej's firte gwen han, han's hoamgånga.
+1	Wej	_	PRON	_	_	4	nsubj	_	_
+2	's	_	PRON	_	_	4	expl	_	_
+3	firte	_	ADJ	_	_	4	amod	_	_
+4	gwen	_	VERB	_	_	0	root	_	_
+5	han	_	AUX	_	_	4	aux	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	han	_	AUX	_	_	8	aux	_	_
+8	's	_	PRON	_	_	4	ccomp	_	_
+9	hoamgånga	_	VERB	_	_	8	obj	_	_
+10	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Schneckn_21
+# text = Da Waachkeapa vo an Schneck zagt de glassische Dreideulung vo de Molluskn: Koobf, Fuaß und in Eingeweidesogg midn Mauntl.
+1	Da	_	DET	_	_	2	det	_	_
+2	Waachkeapa	_	NOUN	_	_	0	root	_	_
+3	vo	_	ADP	_	_	4	case	_	_
+4	an	_	DET	_	_	5	det	_	_
+5	Schneck	_	NOUN	_	_	2	nmod	_	_
+6	zagt	_	VERB	_	_	2	acl	_	_
+7	de	_	DET	_	_	8	det	_	_
+8	glassische	_	ADJ	_	_	9	amod	_	_
+9	Dreideulung	_	NOUN	_	_	6	obj	_	_
+10	vo	_	ADP	_	_	11	case	_	_
+11	de	_	DET	_	_	12	det	_	_
+12	Molluskn	_	NOUN	_	_	9	nmod	_	_
+13	:	_	PUNCT	_	_	2	punct	_	_
+14	Koobf	_	NOUN	_	_	15	nmod	_	_
+15	,	_	NOUN	_	_	12	appos	_	_
+16	Fuaß	_	CCONJ	_	_	17	cc	_	_
+17	und	_	ADP	_	_	18	case	_	_
+18	in	_	NOUN	_	_	15	conj	_	_
+19	Eingeweidesogg	_	ADP	_	_	20	case	_	_
+20-21	midn	_	_	_	_	_	_	_	_
+20	mid	_	DET	_	_	21	det	_	_
+21	n	_	NOUN	_	_	18	nmod	_	_
+22	Mauntl	_	PUNCT	_	_	2	punct	_	_
+23	.	_	_	_	_	2	dep	_	_
+
+# sent_id = tatoeba_5798319
+# text = Deppn hätt i scho gnua gseng in mein Lebm, oba an soichanan wia'n Thomas no nia!
+1	Deppn	_	NOUN	_	_	2	nsubj	_	_
+2	hätt	_	AUX	_	_	0	root	_	_
+3	i	_	PRON	_	_	2	expl	_	_
+4	scho	_	ADV	_	_	2	advmod	_	_
+5	gnua	_	ADV	_	_	2	advmod	_	_
+6	gseng	_	VERB	_	_	2	xcomp	_	_
+7	in	_	ADP	_	_	8	case	_	_
+8	mein	_	DET	_	_	9	det	_	_
+9	Lebm	_	NOUN	_	_	6	obl	_	_
+10	,	_	PUNCT	_	_	2	dep	_	_
+11	oba	_	ADV	_	_	2	dep	_	_
+12	an	_	ADP	_	_	2	dep	_	_
+13	soichanan	_	DET	_	_	2	dep	_	_
+14-15	wia'n	_	_	_	_	_	_	_	_
+14	wia	_	ADP	_	_	2	dep	_	_
+15	'n	_	DET	_	_	16	det	_	_
+16	Thomas	_	PROPN	_	_	14	fixed	_	_
+17	no	_	ADV	_	_	18	advmod	_	_
+18	nia	_	ADV	_	_	2	ccomp	_	_
+19	!	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Adverb_43
+# text = Ea kaun guad kocha.
+1	Ea	_	PRON	_	_	2	nsubj	_	_
+2	kaun	_	AUX	_	_	0	root	_	_
+3	guad	_	ADV	_	_	2	advmod	_	_
+4	kocha	_	VERB	_	_	2	xcomp	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_5191821
+# text = Passt eh ois bei eahm?
+1	Passt	_	VERB	_	_	0	root	_	_
+2	eh	_	ADV	_	_	1	advmod	_	_
+3	ois	_	ADV	_	_	1	advmod	_	_
+4	bei	_	ADP	_	_	5	case	_	_
+5	eahm	_	PRON	_	_	1	obl	_	_
+6	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = sid_de-ba_natural_78
+# text = Lösch mein Wecka um 7.
+1	Lösch	_	VERB	_	_	0	root	_	_
+2	mein	_	PRON	_	_	1	nsubj	_	_
+3	Wecka	_	NOUN	_	_	1	obj	_	_
+4	um	_	ADP	_	_	5	case	_	_
+5	7	_	NUM	_	_	1	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Pronomen_31
+# text = Dou is a Mo, der hout a Kotz.
+1	Dou	_	PRON	_	_	2	nsubj	_	_
+2	is	_	AUX	_	_	0	root	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	Mo	_	NOUN	_	_	2	obj	_	_
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	der	_	DET	_	_	7	det	_	_
+7	hout	_	VERB	_	_	2	conj	_	_
+8	a	_	DET	_	_	9	det	_	_
+9	Kotz	_	NOUN	_	_	7	obj	_	_
+10	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Minga_55
+# text = 1933 is d'Bevejkarungszoi auf 840.000 ogstieng und 1957 af iwa a Million.
+1	1933	_	NUM	_	_	2	nummod	_	_
+2	is	_	AUX	_	_	0	root	_	_
+3	d'	_	DET	_	_	4	det	_	_
+4	Bevejkarungszoi	_	NOUN	_	_	2	nsubj	_	_
+5	auf	_	ADP	_	_	6	case	_	_
+6	840.000	_	NUM	_	_	4	nmod	_	_
+7	ogstieng	_	VERB	_	_	2	conj	_	_
+8	und	_	CCONJ	_	_	7	cc	_	_
+9	1957	_	NUM	_	_	2	dep	_	_
+10	af	_	ADP	_	_	2	dep	_	_
+11	iwa	_	DET	_	_	12	det	_	_
+12	a	_	NUM	_	_	10	nmod	_	_
+13	Million	_	NOUN	_	_	10	nmod	_	_
+14	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = sid_de-ba_natural_95
+# text = Änder mein Wegga vo 5 auf 6.
+1	Änder	_	VERB	_	_	0	root	_	_
+2	mein	_	DET	_	_	3	det	_	_
+3	Wegga	_	NOUN	_	_	1	obj	_	_
+4	vo	_	ADP	_	_	5	case	_	_
+5	5	_	NUM	_	_	3	nmod	_	_
+6	auf	_	ADP	_	_	7	case	_	_
+7	6	_	NUM	_	_	3	nmod	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = xsid_de-st_valid_17
+# text = Änder in Wecker morgn friah af 6
+1	Änder	_	PROPN	_	_	0	root	_	_
+2	in	_	ADP	_	_	3	case	_	_
+3	Wecker	_	NOUN	_	_	1	nmod	_	_
+4	morgn	_	ADV	_	_	5	advmod	_	_
+5	friah	_	ADV	_	_	1	advmod	_	_
+6	af	_	ADP	_	_	7	case	_	_
+7	6	_	NUM	_	_	1	nmod	_	_
+
+# sent_id = wiki_Fruchtschnittn_3
+# text = Je noch Sortn werdn übawiegnd Rosinan, Äpfl, diverse Bean (z.B. Himmba, Bromba, Schwoazba, Erdba, Ribisl etc.), Dottln, Orangn und Mangos verwendat.
+1	Je	_	ADV	_	_	2	advmod	_	_
+2	noch	_	ADP	_	_	3	case	_	_
+3	Sortn	_	NOUN	_	_	0	root	_	_
+4	werdn	_	AUX	_	_	3	cop	_	_
+5	übawiegnd	_	ADV	_	_	3	advmod	_	_
+6	Rosinan	_	NOUN	_	_	3	nmod	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	Äpfl	_	NOUN	_	_	3	conj	_	_
+9	,	_	PUNCT	_	_	10	punct	_	_
+10	diverse	_	ADJ	_	_	11	amod	_	_
+11	Bean	_	NOUN	_	_	3	conj	_	_
+12	(	_	PUNCT	_	_	13	punct	_	_
+13	z.	_	ADP	_	_	14	case	_	_
+14	B.	_	_	_	_	3	dep	_	_
+15	Himmba	_	PUNCT	_	_	10	punct	_	_
+16	,	_	PUNCT	_	_	17	punct	_	_
+17	Bromba	_	NOUN	_	_	11	conj	_	_
+18	,	_	PUNCT	_	_	19	punct	_	_
+19	Schwoazba	_	NOUN	_	_	11	conj	_	_
+20	,	_	PUNCT	_	_	21	punct	_	_
+21	Erdba	_	NOUN	_	_	11	conj	_	_
+22	,	_	PUNCT	_	_	23	punct	_	_
+23	Ribisl	_	NOUN	_	_	11	conj	_	_
+24	etc.	_	PUNCT	_	_	25	punct	_	_
+25	)	_	NOUN	_	_	11	conj	_	_
+26	,	_	PUNCT	_	_	11	punct	_	_
+27	Dottln	_	PUNCT	_	_	11	punct	_	_
+28	,	_	PUNCT	_	_	29	punct	_	_
+29	Orangn	_	NOUN	_	_	3	conj	_	_
+30	und	_	PUNCT	_	_	31	punct	_	_
+31	Mangos	_	NOUN	_	_	3	conj	_	_
+32	verwendat	_	CCONJ	_	_	33	cc	_	_
+33	.	_	NOUN	_	_	31	conj	_	_
+
+# sent_id = xsid_de-ba_test_64
+# text = Erinner mi eikaufa zum geh
+1	Erinner	_	VERB	_	_	0	root	_	_
+2	mi	_	PRON	_	_	1	obj	_	_
+3	eikaufa	_	VERB	_	_	1	xcomp	_	_
+4-5	zum	_	_	_	_	_	_	_	_
+4	zu	_	ADP	_	_	5	case	_	_
+5	m	_	PRON	_	_	3	obl	_	_
+6	geh	_	VERB	_	_	3	xcomp	_	_
+
+# sent_id = tatoeba_5206896
+# text = Wiaso kriagt vo am schoarfm Essn Schnackerlsteßn?
+1	Wiaso	_	ADV	_	_	4	advmod	_	_
+2	kriagt	_	VERB	_	_	4	cop	_	_
+3	vo	_	ADP	_	_	4	case	_	_
+4	am	_	DET	_	_	0	root	_	_
+5	schoarfm	_	ADJ	_	_	4	amod	_	_
+6	Essn	_	NOUN	_	_	4	nmod	_	_
+7	Schnackerlsteßn	_	NOUN	_	_	4	nmod	_	_
+8	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Minga_23
+# text = D'gresste Ausdehnung vom Stodgebiet betrogt vo Noad noch Sid 20,7 km und vo Ost noch West 26,9 km.
+1	D'	_	DET	_	_	2	det	_	_
+2	gresste	_	ADJ	_	_	4	amod	_	_
+3	Ausdehnung	_	NOUN	_	_	4	nsubj	_	_
+4-5	vom	_	_	_	_	_	_	_	_
+4	vo	_	VERB	_	_	0	root	_	_
+5	m	_	ADP	_	_	6	case	_	_
+6	Stodgebiet	_	ADJ	_	_	4	obl	_	_
+7	betrogt	_	ADV	_	_	8	advmod	_	_
+8	vo	_	ADJ	_	_	6	obl	_	_
+9	Noad	_	NUM	_	_	10	nummod	_	_
+10	noch	_	NOUN	_	_	4	obl	_	_
+11	Sid	_	CCONJ	_	_	14	cc	_	_
+12	20,7	_	ADP	_	_	13	case	_	_
+13	km	_	ADJ	_	_	14	obl	_	_
+14	und	_	ADV	_	_	8	advmod	_	_
+15	vo	_	ADJ	_	_	13	obl	_	_
+16	Ost	_	NUM	_	_	17	nummod	_	_
+17	noch	_	NOUN	_	_	14	obl	_	_
+18	West	_	PUNCT	_	_	4	punct	_	_
+19	26,9	_	_	_	_	4	dep	_	_
+20	km	_	_	_	_	4	dep	_	_
+21	.	_	_	_	_	4	dep	_	_
+
+# sent_id = wiki_Minga_6
+# text = Minga is aa da Vawoitungssitz vom Regiarungsbeziak Owabayern.
+1	Minga	_	PROPN	_	_	2	nsubj	_	_
+2	is	_	AUX	_	_	0	root	_	_
+3	aa	_	ADV	_	_	2	advmod	_	_
+4	da	_	DET	_	_	5	det	_	_
+5	Vawoitungssitz	_	NOUN	_	_	2	obj	_	_
+6-7	vom	_	_	_	_	_	_	_	_
+6	vo	_	ADP	_	_	7	case	_	_
+7	m	_	DET	_	_	8	det	_	_
+8	Regiarungsbeziak	_	NOUN	_	_	5	nmod	_	_
+9	Owabayern	_	PROPN	_	_	8	nmod	_	_
+10	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Haferltarock_44
+# text = Fia alle fümf Aung, de weja mea hod wej ogsogt gwen san, deafa se nomml a Fümferl nemma.
+1	Fia	_	ADP	_	_	2	case	_	_
+2	alle	_	DET	_	_	3	det	_	_
+3	fümf	_	NUM	_	_	4	nmod	_	_
+4	Aung	_	NOUN	_	_	0	root	_	_
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	de	_	DET	_	_	7	det	_	_
+7	wej	_	PRON	_	_	4	nsubj	_	_
+8	a	_	DET	_	_	9	det	_	_
+9	mea	_	NOUN	_	_	7	nmod	_	_
+10	hod	_	AUX	_	_	7	aux	_	_
+11	wej	_	ADV	_	_	12	advmod	_	_
+12	ogsogt	_	VERB	_	_	7	acl	_	_
+13	gwen	_	AUX	_	_	12	aux	_	_
+14	san	_	AUX	_	_	12	aux	_	_
+15	,	_	PUNCT	_	_	17	punct	_	_
+16	deaf	_	AUX	_	_	17	aux	_	_
+17	a	_	DET	_	_	18	det	_	_
+18	se	_	PRON	_	_	19	nsubj	_	_
+19	nomml	_	VERB	_	_	4	conj	_	_
+20	a	_	DET	_	_	21	det	_	_
+21	Fümferl	_	NOUN	_	_	19	obj	_	_
+22	nemma	_	AUX	_	_	19	aux	_	_
+23	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Kafää_27
+# text = Im 18. Joahundat hom de Hollända in Kafää noch Surinam brocht und de Franzosn noch Cayenne, Martinique bzw. Guadeloupe und de Portugiesen noch Brasilien.
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	m	_	AUX	_	_	0	root	_	_
+3	18.	_	NUM	_	_	4	nummod	_	_
+4	Joahundat	_	NOUN	_	_	2	obj	_	_
+5	hom	_	AUX	_	_	2	dep	_	_
+6	de	_	DET	_	_	2	dep	_	_
+7	Hollända	_	PROPN	_	_	8	nsubj	_	_
+8	in	_	ADP	_	_	9	case	_	_
+9	Kafää	_	NOUN	_	_	6	obl	_	_
+10	noch	_	ADV	_	_	11	advmod	_	_
+11	Surinam	_	PROPN	_	_	9	nmod	_	_
+12	brocht	_	CCONJ	_	_	2	dep	_	_
+13	und	_	DET	_	_	2	dep	_	_
+14	de	_	PROPN	_	_	2	dep	_	_
+15	Franzosn	_	ADP	_	_	16	case	_	_
+16	noch	_	PROPN	_	_	14	nmod	_	_
+17	Cayenne	_	PUNCT	_	_	19	punct	_	_
+18	,	_	PROPN	_	_	19	nsubj	_	_
+19	Martinique	_	ADP	_	_	16	conj	_	_
+20	bzw.	_	PROPN	_	_	19	nmod	_	_
+21	Guadeloupe	_	CCONJ	_	_	2	dep	_	_
+22	und	_	DET	_	_	2	dep	_	_
+23	de	_	PROPN	_	_	2	dep	_	_
+24	Portugiesen	_	ADP	_	_	25	case	_	_
+25	noch	_	PROPN	_	_	23	nmod	_	_
+26	Brasilien	_	PUNCT	_	_	2	punct	_	_
+27	.	_	_	_	_	2	dep	_	_
+
+# sent_id = sid_de-ba_natural_219
+# text = Spui moi a boa Oldies
+1	Spui	_	VERB	_	_	0	root	_	_
+2	moi	_	ADV	_	_	1	advmod	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	boa	_	ADJ	_	_	5	amod	_	_
+5	Oldies	_	NOUN	_	_	1	obj	_	_
+
+# sent_id = wiki_Kafää_18
+# text = Um 1511 san in Mekka de easchtn Kafäähaisa entstaundn, de owa boid wieda gschlossn wuan san, weu da Kafää unta schwaara Strofaundrohung vabotn wuan is.
+1	Um	_	ADP	_	_	2	case	_	_
+2	1511	_	NUM	_	_	0	root	_	_
+3	san	_	AUX	_	_	2	cop	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	Mekka	_	PROPN	_	_	2	nmod	_	_
+6	de	_	DET	_	_	7	det	_	_
+7	easchtn	_	ADJ	_	_	8	amod	_	_
+8	Kafäähaisa	_	NOUN	_	_	2	nmod	_	_
+9	entstaundn	_	VERB	_	_	2	acl	_	_
+10	,	_	PUNCT	_	_	12	punct	_	_
+11	de	_	DET	_	_	12	det	_	_
+12	owa	_	ADJ	_	_	13	amod	_	_
+13	boid	_	VERB	_	_	9	acl	_	_
+14	wieda	_	AUX	_	_	13	aux	_	_
+15	gschlossn	_	AUX	_	_	2	cop	_	_
+16	wuan	_	SCONJ	_	_	2	dep	_	_
+17	san	_	DET	_	_	2	dep	_	_
+18	,	_	NOUN	_	_	2	dep	_	_
+19	weu	_	ADP	_	_	2	dep	_	_
+20	da	_	ADJ	_	_	21	amod	_	_
+21	Kafää	_	NOUN	_	_	19	nmod	_	_
+22	unta	_	VERB	_	_	19	acl	_	_
+23	schwaara	_	AUX	_	_	22	aux	_	_
+24	Strofaundrohung	_	AUX	_	_	2	cop	_	_
+25	vabotn	_	PUNCT	_	_	2	punct	_	_
+26	wuan	_	_	_	_	2	dep	_	_
+27	is	_	_	_	_	2	dep	_	_
+28	.	_	_	_	_	2	dep	_	_
+
+# sent_id = xsid_de-st_valid_122
+# text = Soll i heint an Montel unlegn?
+1	Soll	_	AUX	_	_	4	aux	_	_
+2	i	_	PRON	_	_	4	nsubj	_	_
+3	heint	_	ADV	_	_	4	advmod	_	_
+4	an	_	VERB	_	_	0	root	_	_
+5	Montel	_	PROPN	_	_	4	obj	_	_
+6	unlegn	_	VERB	_	_	4	xcomp	_	_
+7	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = sid_de-ba_natural_37
+# text = spui ebs vom Gabalier
+1	spui	_	VERB	_	_	0	root	_	_
+2	ebs	_	ADV	_	_	1	advmod	_	_
+3-4	vom	_	_	_	_	_	_	_	_
+3	vo	_	ADP	_	_	4	case	_	_
+4	m	_	DET	_	_	5	det	_	_
+5	Gabalier	_	NOUN	_	_	1	obj	_	_
+
+# sent_id = xsid_de-ba_test_75
+# text = Wia vui Erinnerungen hob i heid?
+1	Wia	_	ADV	_	_	2	advmod	_	_
+2	vui	_	DET	_	_	3	nsubj	_	_
+3	Erinnerungen	_	NOUN	_	_	0	root	_	_
+4	hob	_	AUX	_	_	3	aux	_	_
+5	i	_	ADV	_	_	3	advmod	_	_
+6	heid	_	PUNCT	_	_	3	punct	_	_
+7	?	_	_	_	_	3	dep	_	_
+
+# sent_id = wiki_Haferltarock_3
+# text = Trotzdem, dass's „Tarock“ hoißt, ghearts ned zu de Tarock-Variantn.
+1	Trotzdem	_	ADV	_	_	4	advmod	_	_
+2	,	_	PUNCT	_	_	4	punct	_	_
+3	dass	_	SCONJ	_	_	4	mark	_	_
+4	's	_	PRON	_	_	0	root	_	_
+5	„	_	_	_	_	4	dep	_	_
+6	Tarock	_	NOUN	_	_	4	nsubj	_	_
+7	“	_	PUNCT	_	_	6	punct	_	_
+8	hoißt	_	VERB	_	_	4	cop	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	gheart	_	AUX	_	_	11	aux	_	_
+11	s	_	PRON	_	_	4	ccomp	_	_
+12	ned	_	ADV	_	_	11	advmod	_	_
+13	zu	_	ADP	_	_	14	case	_	_
+14	de	_	DET	_	_	15	det	_	_
+15	Tarock-Variantn	_	NOUN	_	_	11	obl	_	_
+16	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wikisource_Hansl-und-Gretl_13
+# text = Da Mondschei war häj und de weißn Kieslstoana hom gleicht wia laudda Gäjdstückerl.
+1	Da	_	DET	_	_	2	det	_	_
+2	Mondschei	_	NOUN	_	_	4	nsubj	_	_
+3	war	_	AUX	_	_	4	cop	_	_
+4	häj	_	ADJ	_	_	0	root	_	_
+5	und	_	CCONJ	_	_	6	cc	_	_
+6	de	_	DET	_	_	7	det	_	_
+7	weißn	_	ADJ	_	_	8	nsubj	_	_
+8	Kieslstoana	_	NOUN	_	_	4	conj	_	_
+9	hom	_	AUX	_	_	8	cop	_	_
+10	gleicht	_	ADP	_	_	11	case	_	_
+11	wia	_	ADV	_	_	12	advmod	_	_
+12	laudda	_	ADJ	_	_	13	nsubj	_	_
+13	Gäjdstückerl	_	NOUN	_	_	8	conj	_	_
+14	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = xsid_de-st_valid_1
+# text = Regnts heinte?
+1	Regnts	_	VERB	_	_	0	root	_	_
+2	heinte	_	AUX	_	_	1	aux	_	_
+3	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = sid_de-ba_natural_45
+# text = Gib dem dumma buach de minimale Anzahl an sterne
+1	Gib	_	VERB	_	_	0	root	_	_
+2	dem	_	DET	_	_	3	det	_	_
+3	dumma	_	ADJ	_	_	4	amod	_	_
+4	buach	_	NOUN	_	_	1	obj	_	_
+5	de	_	DET	_	_	6	det	_	_
+6	minimale	_	ADJ	_	_	7	amod	_	_
+7	Anzahl	_	NOUN	_	_	4	nmod	_	_
+8	an	_	ADP	_	_	9	case	_	_
+9	sterne	_	NOUN	_	_	7	nmod	_	_
+
+# sent_id = sid_de-ba_natural_4
+# text = Dua "bloody valentine" vo Maschine Gun Kelly zua meina Playlist.
+1	Dua	_	VERB	_	_	0	root	_	_
+2	"	_	PUNCT	_	_	3	punct	_	_
+3	bloody	_	ADJ	_	_	4	amod	_	_
+4	valentine	_	NOUN	_	_	1	obj	_	_
+5	"	_	PUNCT	_	_	4	punct	_	_
+6	vo	_	ADP	_	_	7	case	_	_
+7	Maschine	_	NOUN	_	_	1	obl	_	_
+8	Gun	_	NOUN	_	_	7	nmod	_	_
+9	Kelly	_	PROPN	_	_	8	nmod	_	_
+10	zua	_	ADP	_	_	11	case	_	_
+11	meina	_	PRON	_	_	1	obl	_	_
+12	Playlist	_	NOUN	_	_	11	nmod	_	_
+13	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = xsid_de-ba_test_55
+# text = Wia hoaß wirds heid?
+1	Wia	_	ADV	_	_	4	advmod	_	_
+2	hoaß	_	VERB	_	_	4	cop	_	_
+3	wird	_	AUX	_	_	4	aux	_	_
+4	s	_	PRON	_	_	0	root	_	_
+5	heid	_	ADV	_	_	4	advmod	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = tatoeba_10476412
+# text = Des Buach is elendig fad; i bin imma nu beim erschtn Kapitel.
+1	Des	_	DET	_	_	2	det	_	_
+2	Buach	_	NOUN	_	_	4	nsubj	_	_
+3	is	_	AUX	_	_	4	cop	_	_
+4	elendig	_	ADJ	_	_	0	root	_	_
+5	fad	_	ADV	_	_	4	advmod	_	_
+6	;	_	PUNCT	_	_	8	punct	_	_
+7	i	_	PRON	_	_	8	nsubj	_	_
+8	bin	_	AUX	_	_	4	conj	_	_
+9	imma	_	ADV	_	_	8	advmod	_	_
+10	nu	_	ADV	_	_	8	advmod	_	_
+11-12	beim	_	_	_	_	_	_	_	_
+11	bei	_	ADP	_	_	13	case	_	_
+12	m	_	PRON	_	_	13	det	_	_
+13	erschtn	_	ADJ	_	_	8	obl	_	_
+14	Kapitel	_	NOUN	_	_	13	nmod	_	_
+15	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = sid_de-ba_natural_64
+# text = suach moi noch moneyboy
+1	suach	_	VERB	_	_	0	root	_	_
+2	moi	_	ADV	_	_	1	advmod	_	_
+3	noch	_	ADP	_	_	4	case	_	_
+4	moneyboy	_	NOUN	_	_	1	obl	_	_
+
+# sent_id = sid_de-ba_natural_302
+# text = wos war den am letzten Freidog um achte im Kalenda gstandn?
+1	wos	_	PRON	_	_	2	nsubj	_	_
+2	war	_	VERB	_	_	0	root	_	_
+3	den	_	DET	_	_	4	det	_	_
+4-5	am	_	_	_	_	_	_	_	_
+4	a	_	DET	_	_	2	obj	_	_
+5	m	_	DET	_	_	4	det	_	_
+6	letzten	_	ADJ	_	_	4	amod	_	_
+7	Freidog	_	NOUN	_	_	4	compound	_	_
+8	um	_	ADP	_	_	9	case	_	_
+9	achte	_	NUM	_	_	4	nmod	_	_
+10-11	im	_	_	_	_	_	_	_	_
+10	i	_	ADP	_	_	11	case	_	_
+11	m	_	DET	_	_	12	det	_	_
+12	Kalenda	_	NOUN	_	_	4	nmod	_	_
+13	gstandn	_	VERB	_	_	2	advmod	_	_
+14	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Verbn_13
+# text = DanS a wengal zammrucka?
+1	Dan	_	PRON	_	_	2	nsubj	_	_
+2	S	_	VERB	_	_	0	root	_	_
+3	a	_	ADV	_	_	2	advmod	_	_
+4	wengal	_	ADV	_	_	2	advmod	_	_
+5	zammrucka	_	VERB	_	_	2	obj	_	_
+6	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = xsid_de-ba_test_31
+# text = Erwartet Disney World heid Gewitter?
+1	Erwartet	_	VERB	_	_	0	root	_	_
+2	Disney	_	PROPN	_	_	1	obj	_	_
+3	World	_	PROPN	_	_	2	flat	_	_
+4	heid	_	ADV	_	_	1	advmod	_	_
+5	Gewitter	_	NOUN	_	_	1	obl	_	_
+6	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Schneckn_5
+# text = Nembei gibt’s aa no amphibische Fuaman.
+1	Nembei	_	ADV	_	_	2	advmod	_	_
+2	gibt	_	VERB	_	_	0	root	_	_
+3	’s	_	PRON	_	_	2	nsubj	_	_
+4	aa	_	ADV	_	_	2	advmod	_	_
+5	no	_	ADV	_	_	2	advmod	_	_
+6	amphibische	_	ADJ	_	_	7	amod	_	_
+7	Fuaman	_	NOUN	_	_	2	obj	_	_
+8	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Minga_10
+# text = Minga liegt af da owaboarischn Hochebene, ebba 50 km neadli vo d'Oipm.
+1	Minga	_	PROPN	_	_	0	root	_	_
+2	liegt	_	VERB	_	_	1	cop	_	_
+3	af	_	ADP	_	_	4	case	_	_
+4	da	_	DET	_	_	5	det	_	_
+5	owaboarischn	_	ADJ	_	_	6	amod	_	_
+6	Hochebene	_	NOUN	_	_	1	nmod	_	_
+7	,	_	PUNCT	_	_	9	punct	_	_
+8	ebba	_	ADV	_	_	9	advmod	_	_
+9	50	_	NUM	_	_	1	obl	_	_
+10	km	_	NOUN	_	_	9	nmod	_	_
+11	neadli	_	ADP	_	_	9	case	_	_
+12	vo	_	ADP	_	_	13	case	_	_
+13	d'	_	DET	_	_	14	det	_	_
+14	Oipm	_	NOUN	_	_	9	nmod	_	_
+15	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Haferltarock_33
+# text = Wenn oana de ausgspuide Foa ned hod, moua an Trumpf spuin.
+1	Wenn	_	SCONJ	_	_	4	mark	_	_
+2	oana	_	PRON	_	_	4	nsubj	_	_
+3	de	_	DET	_	_	4	det	_	_
+4	ausgspuide	_	ADJ	_	_	0	root	_	_
+5	Foa	_	NOUN	_	_	4	obl	_	_
+6	ned	_	PART	_	_	4	advmod	_	_
+7	hod	_	AUX	_	_	4	aux	_	_
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	mou	_	PRON	_	_	10	nsubj	_	_
+10	a	_	ADV	_	_	4	ccomp	_	_
+11	an	_	ADP	_	_	12	case	_	_
+12	Trumpf	_	NOUN	_	_	10	obl	_	_
+13	spuin	_	VERB	_	_	10	aux	_	_
+14	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = xsid_de-ba_test_79
+# text = Stei an Alarm für 30 Minutn
+1	Stei	_	VERB	_	_	0	root	_	_
+2	an	_	ADP	_	_	3	case	_	_
+3	Alarm	_	NOUN	_	_	1	obl	_	_
+4	für	_	ADP	_	_	5	case	_	_
+5	30	_	NUM	_	_	3	nmod	_	_
+6	Minutn	_	NOUN	_	_	5	nmod	_	_
+
+# sent_id = xsid_de-st_valid_129
+# text = lig die Temperatur heint untern Gefrierpunkt?
+1	lig	_	AUX	_	_	4	aux	_	_
+2	die	_	DET	_	_	3	det	_	_
+3	Temperatur	_	NOUN	_	_	4	nsubj	_	_
+4	heint	_	VERB	_	_	0	root	_	_
+5-6	untern	_	_	_	_	_	_	_	_
+5	unter	_	ADP	_	_	6	case	_	_
+6	n	_	DET	_	_	7	det	_	_
+7	Gefrierpunkt	_	NOUN	_	_	4	obl	_	_
+8	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Minga_34
+# text = Leid, d'wo vo aussauhoib keman und etz do wohna, hoaßt ma traditionej Zuagroaste.
+1	Leid	_	ADV	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	dep	_	_
+3	d'	_	DET	_	_	1	dep	_	_
+4	wo	_	PRON	_	_	1	dep	_	_
+5	vo	_	ADP	_	_	6	case	_	_
+6	aussauhoib	_	ADV	_	_	4	advmod	_	_
+7	keman	_	VERB	_	_	1	conj	_	_
+8	und	_	CCONJ	_	_	7	cc	_	_
+9	etz	_	ADV	_	_	10	advmod	_	_
+10	do	_	ADV	_	_	7	advmod	_	_
+11	wohna	_	VERB	_	_	7	conj	_	_
+12	,	_	PUNCT	_	_	13	punct	_	_
+13	hoaßt	_	VERB	_	_	1	conj	_	_
+14	ma	_	PRON	_	_	13	nsubj	_	_
+15	traditionej	_	ADV	_	_	13	advmod	_	_
+16	Zuagroaste	_	NOUN	_	_	13	obj	_	_
+17	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = sid_de-ba_natural_29
+# text = Spui "bloody valentine" vo Machine Gun Kelly auf Spotify.
+1	Spui	_	VERB	_	_	0	root	_	_
+2	"	_	PUNCT	_	_	3	punct	_	_
+3	bloody	_	ADJ	_	_	1	obj	_	_
+4	valentine	_	NOUN	_	_	3	compound	_	_
+5	"	_	PUNCT	_	_	3	punct	_	_
+6	vo	_	ADP	_	_	7	case	_	_
+7	Machine	_	PROPN	_	_	1	nmod	_	_
+8	Gun	_	PROPN	_	_	7	compound	_	_
+9	Kelly	_	PROPN	_	_	8	compound	_	_
+10	auf	_	ADP	_	_	11	case	_	_
+11	Spotify	_	PROPN	_	_	7	nmod	_	_
+12	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_7
+# text = I glaab ma mecht scho sogn, daß ma "Frikadelle", "Tschüß" ... bitte net in da boarischn Wiki benutzn soi weils ebm no koane eibirgatn boarischn Werta san.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	glaab	_	VERB	_	_	0	root	_	_
+3	ma	_	PRON	_	_	2	expl	_	_
+4	mecht	_	AUX	_	_	2	aux	_	_
+5	scho	_	ADV	_	_	2	advmod	_	_
+6	sogn	_	VERB	_	_	2	ccomp	_	_
+7	,	_	PUNCT	_	_	9	punct	_	_
+8	daß	_	SCONJ	_	_	9	mark	_	_
+9	ma	_	PRON	_	_	6	nsubj	_	_
+10	"	_	PUNCT	_	_	11	punct	_	_
+11	Frikadelle	_	NOUN	_	_	9	appos	_	_
+12	"	_	PUNCT	_	_	11	punct	_	_
+13	,	_	PUNCT	_	_	15	punct	_	_
+14	"	_	PUNCT	_	_	15	punct	_	_
+15	Tschüß	_	NOUN	_	_	9	appos	_	_
+16	"	_	PUNCT	_	_	15	punct	_	_
+17	...	_	PUNCT	_	_	15	punct	_	_
+18	bitte	_	ADV	_	_	2	dep	_	_
+19	net	_	ADV	_	_	2	dep	_	_
+20	in	_	ADP	_	_	2	dep	_	_
+21	da	_	DET	_	_	22	det	_	_
+22	boarischn	_	ADJ	_	_	23	amod	_	_
+23	Wiki	_	NOUN	_	_	20	nmod	_	_
+24	benutzn	_	VERB	_	_	2	conj	_	_
+25	soi	_	AUX	_	_	24	aux	_	_
+26	weil	_	SCONJ	_	_	28	mark	_	_
+27	s	_	PRON	_	_	28	nsubj	_	_
+28	ebm	_	ADV	_	_	24	advmod	_	_
+29	no	_	ADV	_	_	28	advmod	_	_
+30	koane	_	DET	_	_	31	det	_	_
+31	eibirgatn	_	ADJ	_	_	32	amod	_	_
+32	boarischn	_	ADJ	_	_	33	amod	_	_
+33	Werta	_	NOUN	_	_	28	obj	_	_
+34	san	_	AUX	_	_	33	cop	_	_
+35	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Dazzlwuam_9
+# text = Waun a owa fu am faiadn Waundara, am Jaga oda an Wüdara aufgschaicht wiad, reagiad a oft agressif und greift au.
+1	Waun	_	SCONJ	_	_	2	mark	_	_
+2	a	_	PRON	_	_	0	root	_	_
+3	owa	_	DET	_	_	4	det	_	_
+4	fu	_	NOUN	_	_	2	nsubj	_	_
+5	am	_	ADP	_	_	6	case	_	_
+6	faiadn	_	ADJ	_	_	4	amod	_	_
+7	Waundara	_	NOUN	_	_	4	nmod	_	_
+8	,	_	PUNCT	_	_	9	punct	_	_
+9	am	_	ADP	_	_	10	case	_	_
+10	Jaga	_	NOUN	_	_	4	conj	_	_
+11	oda	_	CCONJ	_	_	12	cc	_	_
+12	an	_	ADP	_	_	10	conj	_	_
+13	Wüdara	_	NOUN	_	_	10	nmod	_	_
+14	aufgschaicht	_	VERB	_	_	2	acl	_	_
+15	wiad	_	AUX	_	_	14	aux	_	_
+16	,	_	PUNCT	_	_	17	punct	_	_
+17	reagiad	_	VERB	_	_	2	acl	_	_
+18	a	_	DET	_	_	19	det	_	_
+19	oft	_	ADV	_	_	17	nsubj	_	_
+20	agressif	_	ADJ	_	_	17	advmod	_	_
+21	und	_	CCONJ	_	_	22	cc	_	_
+22	greift	_	VERB	_	_	17	conj	_	_
+23	au	_	ADV	_	_	22	advmod	_	_
+24	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Der-Zettelträger-Papp_11
+# text = Da Nestroy håt des Stückl zu ana zugkräftich'n Parodie auf's Theata umg'schrieben.
+1	Da	_	DET	_	_	2	det	_	_
+2	Nestroy	_	PROPN	_	_	12	nsubj	_	_
+3	håt	_	AUX	_	_	12	aux	_	_
+4	des	_	DET	_	_	5	det	_	_
+5	Stückl	_	NOUN	_	_	12	nsubj	_	_
+6	zu	_	ADP	_	_	7	case	_	_
+7	ana	_	DET	_	_	8	det	_	_
+8	zugkräftich'n	_	ADJ	_	_	12	amod	_	_
+9	Parodie	_	NOUN	_	_	12	obl	_	_
+10-11	auf's	_	_	_	_	_	_	_	_
+10	auf	_	ADP	_	_	11	case	_	_
+11	's	_	DET	_	_	12	det	_	_
+12	Theata	_	NOUN	_	_	0	root	_	_
+13	umg'schrieben	_	VERB	_	_	12	xcomp	_	_
+14	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = wiki_Haferltarock_42
+# text = Do mou anejda in Ofang s'Gleiche eizohln, z.B.an Eiro.
+1	Do	_	PRON	_	_	2	expl	_	_
+2	mou	_	AUX	_	_	0	root	_	_
+3	anejda	_	ADV	_	_	2	advmod	_	_
+4-5	in	_	_	_	_	_	_	_	_
+4	i	_	PRON	_	_	5	nsubj	_	_
+5	n	_	DET	_	_	6	det	_	_
+6	Ofang	_	NOUN	_	_	2	obj	_	_
+7	s'	_	DET	_	_	8	det	_	_
+8	Gleiche	_	NOUN	_	_	6	nmod	_	_
+9	eizohln	_	VERB	_	_	2	ccomp	_	_
+10	,	_	PUNCT	_	_	12	punct	_	_
+11	z.	_	ADP	_	_	12	case	_	_
+12	B.	_	VERB	_	_	9	obl	_	_
+13	an	_	ADP	_	_	12	mark	_	_
+14	Eiro	_	ADP	_	_	15	case	_	_
+15	.	_	NOUN	_	_	12	nmod	_	_
+
+# sent_id = tatoeba_6905707
+# text = Gö, da Thomas is oiwei stier.
+1	Gö	_	INTJ	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	4	punct	_	_
+3	da	_	DET	_	_	4	det	_	_
+4	Thomas	_	PROPN	_	_	1	appos	_	_
+5	is	_	AUX	_	_	4	cop	_	_
+6	oiwei	_	ADV	_	_	4	advmod	_	_
+7	stier	_	ADJ	_	_	4	amod	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Haferltarock_19
+# text = Wenn meara Leit spuin wölln, nachernd kann dea wej weida hint sitzt „fimfe mea“ oosong.
+1	Wenn	_	SCONJ	_	_	4	mark	_	_
+2	meara	_	DET	_	_	3	det	_	_
+3	Leit	_	NOUN	_	_	4	nsubj	_	_
+4	spuin	_	VERB	_	_	0	root	_	_
+5	wölln	_	AUX	_	_	4	aux	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	nachernd	_	ADV	_	_	8	advmod	_	_
+8	kann	_	AUX	_	_	4	ccomp	_	_
+9	dea	_	DET	_	_	10	det	_	_
+10	wej	_	NOUN	_	_	8	nsubj	_	_
+11	weida	_	ADV	_	_	10	advmod	_	_
+12	hint	_	ADP	_	_	13	case	_	_
+13	sitzt	_	NOUN	_	_	10	nmod	_	_
+14	„	_	PUNCT	_	_	15	punct	_	_
+15	fimfe	_	NUM	_	_	16	nummod	_	_
+16	mea	_	NOUN	_	_	17	nsubj	_	_
+17	“	_	VERB	_	_	8	conj	_	_
+18	oosong	_	PUNCT	_	_	4	punct	_	_
+19	.	_	_	_	_	4	dep	_	_
+
+# sent_id = xsid_de-ba_test_51
+# text = Wann heard da Regn auf?
+1	Wann	_	ADV	_	_	4	advmod	_	_
+2	heard	_	VERB	_	_	4	cop	_	_
+3	da	_	DET	_	_	4	det	_	_
+4	Regn	_	NOUN	_	_	0	root	_	_
+5	auf	_	ADV	_	_	4	obl	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = tatoeba_9190654
+# text = Des is a Hiadl.
+1	Des	_	PRON	_	_	2	expl	_	_
+2	is	_	AUX	_	_	0	root	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	Hiadl	_	NOUN	_	_	2	nsubj	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_10638346
+# text = Gib ma's!
+1	Gib	_	VERB	_	_	0	root	_	_
+2	ma	_	PRON	_	_	1	obj	_	_
+3	's	_	PRON	_	_	2	obl	_	_
+4	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = tatoeba_8008024
+# text = Wiaso schaust 'n olle damlaung auf d'Uhr?
+1	Wiaso	_	ADV	_	_	2	advmod	_	_
+2	schaust	_	VERB	_	_	0	root	_	_
+3	'n	_	DET	_	_	4	det	_	_
+4	olle	_	ADJ	_	_	2	nsubj	_	_
+5	damlaung	_	ADV	_	_	4	advmod	_	_
+6	auf	_	ADP	_	_	7	case	_	_
+7	d'	_	DET	_	_	8	det	_	_
+8	Uhr	_	NOUN	_	_	2	obl	_	_
+9	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Haferltarock_47
+# text = Handspiele wean awl direkt vo oan an anan zohlt und zülln dopplt.
+1	Handspiele	_	NOUN	_	_	0	root	_	_
+2	wean	_	AUX	_	_	1	cop	_	_
+3	awl	_	DET	_	_	4	det	_	_
+4	direkt	_	ADV	_	_	1	advmod	_	_
+5	vo	_	ADP	_	_	6	case	_	_
+6	oan	_	PRON	_	_	4	obl	_	_
+7	an	_	ADP	_	_	8	case	_	_
+8	anan	_	PRON	_	_	6	obl	_	_
+9	zohlt	_	VERB	_	_	1	conj	_	_
+10	und	_	CCONJ	_	_	1	dep	_	_
+11	zülln	_	AUX	_	_	1	dep	_	_
+12	dopplt	_	ADV	_	_	1	dep	_	_
+13	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Lamma_4
+# text = Noch 41 Kilometa rinnds bei Golling, 480 Meta üwan Meer drüwa, ind Soizach eini.
+1	Noch	_	ADV	_	_	2	advmod	_	_
+2	41	_	NUM	_	_	3	nummod	_	_
+3	Kilometa	_	NOUN	_	_	0	root	_	_
+4	rinnd	_	VERB	_	_	3	acl	_	_
+5	s	_	PRON	_	_	4	nsubj	_	_
+6	bei	_	ADP	_	_	7	case	_	_
+7	Golling	_	PROPN	_	_	4	obl	_	_
+8	,	_	PUNCT	_	_	3	dep	_	_
+9	480	_	NUM	_	_	3	dep	_	_
+10	Meta	_	NOUN	_	_	3	dep	_	_
+11-12	üwan	_	_	_	_	_	_	_	_
+11	üwa	_	ADP	_	_	12	case	_	_
+12	n	_	DET	_	_	13	det	_	_
+13	Meer	_	NOUN	_	_	10	nmod	_	_
+14	drüwa	_	ADV	_	_	13	advmod	_	_
+15	,	_	PUNCT	_	_	16	punct	_	_
+16-17	ind	_	_	_	_	_	_	_	_
+16	in	_	ADP	_	_	17	case	_	_
+17	d	_	DET	_	_	18	det	_	_
+18	Soizach	_	PROPN	_	_	19	nmod	_	_
+19	eini	_	ADJ	_	_	3	acl	_	_
+20	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Pronomen_27
+# text = Mir han sim Lait gwen.
+1	Mir	_	PRON	_	_	2	nsubj	_	_
+2	han	_	AUX	_	_	0	root	_	_
+3	sim	_	DET	_	_	4	det	_	_
+4	Lait	_	NOUN	_	_	2	obj	_	_
+5	gwen	_	VERB	_	_	2	aux	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Pronomen_20
+# text = Dee hamd si gscheid vàda!
+1	Dee	_	PRON	_	_	2	nsubj	_	_
+2	hamd	_	VERB	_	_	0	root	_	_
+3	si	_	PRON	_	_	2	obj	_	_
+4	gscheid	_	ADV	_	_	2	advmod	_	_
+5	vàda	_	CCONJ	_	_	6	cc	_	_
+6	!	_	ADV	_	_	2	conj	_	_
+
+# sent_id = tatoeba_7276673
+# text = Fost warats ma auskumma.
+1	Fost	_	ADV	_	_	4	advmod	_	_
+2	warat	_	AUX	_	_	4	aux	_	_
+3	s	_	DET	_	_	4	nsubj	_	_
+4	ma	_	VERB	_	_	0	root	_	_
+5	auskumma	_	VERB	_	_	4	xcomp	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Age-of-Empires_18
+# text = In dene Heisln kammá nachád Leid mocha oda irgánd án Zeig erfoáschn und fobessán.
+1	In	_	ADP	_	_	2	case	_	_
+2	dene	_	DET	_	_	3	det	_	_
+3	Heisln	_	NOUN	_	_	0	root	_	_
+4	kam	_	AUX	_	_	5	aux	_	_
+5	má	_	VERB	_	_	3	acl	_	_
+6	nachád	_	NOUN	_	_	5	obj	_	_
+7	Leid	_	ADV	_	_	5	advmod	_	_
+8	mocha	_	CCONJ	_	_	9	cc	_	_
+9	oda	_	DET	_	_	10	det	_	_
+10	irgánd	_	NOUN	_	_	5	conj	_	_
+11	án	_	VERB	_	_	10	acl	_	_
+12	Zeig	_	CCONJ	_	_	13	cc	_	_
+13	erfoáschn	_	VERB	_	_	5	conj	_	_
+14	und	_	PUNCT	_	_	3	punct	_	_
+15	fobessán	_	_	_	_	3	dep	_	_
+16	.	_	_	_	_	3	dep	_	_
+
+# sent_id = wiki_Walsch_4
+# text = Frier wor des gonz a normales Wort, ober mit der Zeit isches olleweil mehr zu an negativ brauchtn Ausdruck gwordn, wenns a viele net beas moanen, wenn sies gebrauchn.
+1	Frier	_	NOUN	_	_	0	root	_	_
+2	wor	_	AUX	_	_	1	cop	_	_
+3	des	_	DET	_	_	4	det	_	_
+4	gonz	_	ADV	_	_	1	advmod	_	_
+5	a	_	DET	_	_	6	det	_	_
+6	normales	_	ADJ	_	_	7	amod	_	_
+7	Wort	_	NOUN	_	_	1	nmod	_	_
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	ober	_	ADV	_	_	10	advmod	_	_
+10	mit	_	AUX	_	_	1	cop	_	_
+11	der	_	PRON	_	_	10	nsubj	_	_
+12	Zeit	_	ADV	_	_	10	advmod	_	_
+13	isch	_	ADV	_	_	10	advmod	_	_
+14	es	_	ADP	_	_	15	case	_	_
+15	olleweil	_	DET	_	_	16	det	_	_
+16	mehr	_	ADJ	_	_	17	amod	_	_
+17	zu	_	ADJ	_	_	18	amod	_	_
+18	an	_	NOUN	_	_	10	nmod	_	_
+19	negativ	_	VERB	_	_	10	cop	_	_
+20	brauchtn	_	PUNCT	_	_	22	punct	_	_
+21	Ausdruck	_	SCONJ	_	_	22	mark	_	_
+22	gwordn	_	PRON	_	_	10	advcl	_	_
+23	,	_	DET	_	_	24	det	_	_
+24	wenn	_	ADJ	_	_	25	nsubj	_	_
+25	s	_	ADV	_	_	22	advmod	_	_
+26	a	_	ADV	_	_	25	advmod	_	_
+27	viele	_	VERB	_	_	25	cop	_	_
+28	net	_	PUNCT	_	_	30	punct	_	_
+29	beas	_	SCONJ	_	_	30	mark	_	_
+30	moanen	_	PRON	_	_	22	advcl	_	_
+31	,	_	PRON	_	_	30	nsubj	_	_
+32	wenn	_	VERB	_	_	30	cop	_	_
+33	sie	_	PUNCT	_	_	1	punct	_	_
+34	s	_	_	_	_	1	dep	_	_
+35	gebrauchn	_	_	_	_	1	dep	_	_
+36	.	_	_	_	_	1	dep	_	_
+
+# sent_id = sid_de-ba_natural_16
+# text = I mechad gern an disch reservieren für 4 leid auf 19.00
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	mechad	_	VERB	_	_	0	root	_	_
+3	gern	_	ADV	_	_	2	advmod	_	_
+4	an	_	ADP	_	_	5	case	_	_
+5	disch	_	NOUN	_	_	2	obj	_	_
+6	reservieren	_	VERB	_	_	2	xcomp	_	_
+7	für	_	ADP	_	_	8	case	_	_
+8	4	_	NUM	_	_	6	obl	_	_
+9	leid	_	NOUN	_	_	8	nmod	_	_
+10	auf	_	ADP	_	_	11	case	_	_
+11	19.00	_	NUM	_	_	6	obl	_	_
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_8
+# text = Beim französischen Teil is anders.
+1	Bei	_	ADP	_	_	2	case	_	_
+2	m	_	PRON	_	_	4	nsubj	_	_
+3	französischen	_	ADJ	_	_	4	amod	_	_
+4	Teil	_	NOUN	_	_	0	root	_	_
+5	is	_	AUX	_	_	4	cop	_	_
+6	anders	_	ADV	_	_	4	advmod	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Schneckn_2
+# text = Schneckn (Gastropoda) san Viecha aus da Glass vo de Molluskn (Mollusca).
+1	Schneckn	_	NOUN	_	_	0	root	_	_
+2	(	_	PUNCT	_	_	3	punct	_	_
+3	Gastropoda	_	NOUN	_	_	1	appos	_	_
+4	)	_	PUNCT	_	_	3	punct	_	_
+5	san	_	AUX	_	_	1	cop	_	_
+6	Viecha	_	NOUN	_	_	1	nsubj	_	_
+7	aus	_	ADP	_	_	8	case	_	_
+8	da	_	DET	_	_	6	nmod	_	_
+9	Glass	_	NOUN	_	_	6	nmod	_	_
+10	vo	_	ADP	_	_	11	case	_	_
+11	de	_	DET	_	_	9	nmod	_	_
+12	Molluskn	_	NOUN	_	_	9	nmod	_	_
+13	(	_	PUNCT	_	_	14	punct	_	_
+14	Mollusca	_	NOUN	_	_	12	appos	_	_
+15	)	_	PUNCT	_	_	14	punct	_	_
+16	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_2
+# text = Des "von"/"davon" und "mit"/"damit" waarn Werta de ma im Hochdeitschn und im Boarischn ned sogt.
+1	Des	_	DET	_	_	2	det	_	_
+2	"	_	PUNCT	_	_	0	root	_	_
+3	von	_	ADP	_	_	4	case	_	_
+4	"	_	PUNCT	_	_	2	punct	_	_
+5	/	_	PUNCT	_	_	6	punct	_	_
+6	"	_	ADV	_	_	2	punct	_	_
+7	davon	_	CCONJ	_	_	8	cc	_	_
+8	"	_	PUNCT	_	_	2	punct	_	_
+9	und	_	ADP	_	_	10	case	_	_
+10	"	_	PUNCT	_	_	8	punct	_	_
+11	mit	_	PUNCT	_	_	12	punct	_	_
+12	"	_	ADV	_	_	8	punct	_	_
+13	/	_	AUX	_	_	2	cop	_	_
+14	"	_	NOUN	_	_	2	nsubj	_	_
+15	damit	_	DET	_	_	16	det	_	_
+16	"	_	PRON	_	_	17	nsubj	_	_
+17	waarn	_	VERB	_	_	2	acl	_	_
+18	Werta	_	PRON	_	_	17	obj	_	_
+19	de	_	PROPN	_	_	17	obl	_	_
+20	ma	_	CCONJ	_	_	21	cc	_	_
+21-22	im	_	_	_	_	_	_	_	_
+21	i	_	PRON	_	_	17	conj	_	_
+22	m	_	PRON	_	_	21	obj	_	_
+23	Hochdeitschn	_	PROPN	_	_	21	obl	_	_
+24	und	_	ADV	_	_	17	advmod	_	_
+25-26	im	_	_	_	_	_	_	_	_
+25	i	_	VERB	_	_	2	cop	_	_
+26	m	_	PUNCT	_	_	2	punct	_	_
+27	Boarischn	_	_	_	_	2	dep	_	_
+28	ned	_	_	_	_	2	dep	_	_
+29	sogt	_	_	_	_	2	dep	_	_
+30	.	_	_	_	_	2	dep	_	_
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_5
+# text = I glaab ned.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	glaab	_	VERB	_	_	0	root	_	_
+3	ned	_	ADV	_	_	2	advmod	_	_
+4	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Minga_33
+# text = Wei z'Minga nua no a bissl boarisch gredd wead, sogns do moast Münchna und Münchnarin.
+1	Wei	_	PRON	_	_	2	nsubj	_	_
+2	z'	_	VERB	_	_	0	root	_	_
+3	Minga	_	PROPN	_	_	2	obj	_	_
+4	nua	_	ADV	_	_	2	advmod	_	_
+5	no	_	ADV	_	_	2	advmod	_	_
+6	a	_	DET	_	_	7	det	_	_
+7	bissl	_	NUM	_	_	2	obl	_	_
+8	boarisch	_	ADJ	_	_	7	amod	_	_
+9	gredd	_	VERB	_	_	2	advmod	_	_
+10	wead	_	AUX	_	_	2	aux	_	_
+11	,	_	PUNCT	_	_	12	punct	_	_
+12	sogns	_	VERB	_	_	2	conj	_	_
+13	do	_	ADV	_	_	12	advmod	_	_
+14	moast	_	ADV	_	_	12	advmod	_	_
+15	Münchna	_	NOUN	_	_	12	obj	_	_
+16	und	_	CCONJ	_	_	17	cc	_	_
+17	Münchnarin	_	NOUN	_	_	15	conj	_	_
+18	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikitalk_Dischkrian:Boarische-Umschrift_12
+# text = Hob ma n konvertiern kenna (iss doch guat, wann ma se jedn Blädsinn aufhebt) und sich jetzt koane Fragezeichn mehr.
+1	Hob	_	AUX	_	_	4	aux	_	_
+2	ma	_	PRON	_	_	4	nsubj	_	_
+3	n	_	DET	_	_	4	det	_	_
+4	konvertiern	_	VERB	_	_	0	root	_	_
+5	kenna	_	AUX	_	_	4	aux	_	_
+6	(	_	PUNCT	_	_	8	punct	_	_
+7	is	_	AUX	_	_	8	aux	_	_
+8	s	_	PRON	_	_	4	obl	_	_
+9	doch	_	ADV	_	_	8	advmod	_	_
+10	guat	_	ADJ	_	_	8	amod	_	_
+11	,	_	PUNCT	_	_	13	punct	_	_
+12	wann	_	SCONJ	_	_	13	mark	_	_
+13	ma	_	PRON	_	_	8	obl	_	_
+14	se	_	DET	_	_	15	det	_	_
+15	jedn	_	ADJ	_	_	16	amod	_	_
+16	Blädsinn	_	NOUN	_	_	13	nmod	_	_
+17	aufhebt	_	VERB	_	_	13	advcl	_	_
+18	)	_	PUNCT	_	_	20	punct	_	_
+19	und	_	CCONJ	_	_	20	cc	_	_
+20	sich	_	PRON	_	_	4	obl	_	_
+21	jetzt	_	DET	_	_	22	det	_	_
+22	koane	_	NOUN	_	_	20	nmod	_	_
+23	Fragezeichn	_	ADV	_	_	22	advmod	_	_
+24	mehr	_	PUNCT	_	_	4	punct	_	_
+25	.	_	_	_	_	4	dep	_	_
+
+# sent_id = cairo_4
+# text = Mogst geh?
+1	Mogst	_	AUX	_	_	2	aux	_	_
+2	geh	_	VERB	_	_	0	root	_	_
+3	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Konjunktiona_78
+# text = I ho koan Hunger, wal i ho schou wos gessn.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	ho	_	AUX	_	_	0	root	_	_
+3	koan	_	DET	_	_	4	nsubj	_	_
+4	Hunger	_	NOUN	_	_	2	ccomp	_	_
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	wal	_	ADV	_	_	7	advmod	_	_
+7	i	_	VERB	_	_	2	ccomp	_	_
+8	ho	_	DET	_	_	9	det	_	_
+9	schou	_	NOUN	_	_	7	obj	_	_
+10	wos	_	PUNCT	_	_	2	punct	_	_
+11	gessn	_	_	_	_	2	dep	_	_
+12	.	_	_	_	_	2	dep	_	_
+
+# sent_id = sid_de-ba_natural_83
+# text = weck mi moing doch ned
+1	weck	_	VERB	_	_	0	root	_	_
+2	mi	_	PRON	_	_	1	obj	_	_
+3	moing	_	ADV	_	_	1	advmod	_	_
+4	doch	_	ADV	_	_	1	advmod	_	_
+5	ned	_	PART	_	_	1	advmod	_	_
+
+# sent_id = wiki_Fiisch_4
+# text = Fiisch san owa koa natialiche Eihheit.
+1	Fiisch	_	NOUN	_	_	4	nsubj	_	_
+2	san	_	AUX	_	_	4	cop	_	_
+3	owa	_	ADV	_	_	4	advmod	_	_
+4	koa	_	ADJ	_	_	0	root	_	_
+5	natialiche	_	ADJ	_	_	4	amod	_	_
+6	Eihheit	_	NOUN	_	_	4	obj	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = sid_de-ba_natural_69
+# text = Wann und wo laffd „Indiana Jones“?
+1	Wann	_	ADV	_	_	4	advmod	_	_
+2	und	_	CCONJ	_	_	1	cc	_	_
+3	wo	_	ADV	_	_	4	advmod	_	_
+4	laffd	_	VERB	_	_	0	root	_	_
+5	„	_	PUNCT	_	_	6	punct	_	_
+6	Indiana	Jones	_	PROPN	_	4	obj	_	_
+7	Jones	_	PUNCT	_	_	6	punct	_	_
+8	“	_	PUNCT	_	_	4	punct	_	_
+9	?	_	_	_	_	4	dep	_	_
+
+# sent_id = wiki_Der-Zettelträger-Papp_13
+# text = De erschte Fassung håt da Nestroy fia Zwölf Mädchen in Uniform g'schrieb'n, de zweite fia gymnastische G'spassettl'n und de dritte fia de daumois unhaamlich beliebt'n Tierstückl'n.
+1	De	_	DET	_	_	2	det	_	_
+2	erschte	_	ADJ	_	_	3	amod	_	_
+3	Fassung	_	NOUN	_	_	0	root	_	_
+4	håt	_	AUX	_	_	3	cop	_	_
+5	da	_	DET	_	_	6	det	_	_
+6	Nestroy	_	PROPN	_	_	3	nsubj	_	_
+7	fia	_	ADP	_	_	8	case	_	_
+8	Zwölf	_	NUM	_	_	9	nummod	_	_
+9	Mädchen	_	NOUN	_	_	3	obl	_	_
+10	in	_	ADP	_	_	11	case	_	_
+11	Uniform	_	NOUN	_	_	9	nmod	_	_
+12	g'schrieb'n	_	PUNCT	_	_	14	punct	_	_
+13	,	_	DET	_	_	14	det	_	_
+14	de	_	ADJ	_	_	3	conj	_	_
+15	zweite	_	ADP	_	_	16	case	_	_
+16	fia	_	ADJ	_	_	17	amod	_	_
+17	gymnastische	_	NOUN	_	_	14	obl	_	_
+18	G'spassettl'n	_	CCONJ	_	_	20	cc	_	_
+19	und	_	DET	_	_	20	det	_	_
+20	de	_	ADJ	_	_	3	conj	_	_
+21	dritte	_	ADP	_	_	22	case	_	_
+22	fia	_	DET	_	_	23	det	_	_
+23	de	_	ADJ	_	_	24	amod	_	_
+24	daumois	_	ADJ	_	_	25	amod	_	_
+25	unhaamlich	_	ADJ	_	_	26	amod	_	_
+26	beliebt'n	_	NOUN	_	_	20	obl	_	_
+27	Tierstückl'n	_	PUNCT	_	_	3	punct	_	_
+28	.	_	_	_	_	3	dep	_	_
+
+# sent_id = tatoeba_5623891-2
+# text = „Dir passt a nia wos, du oider Grantscherm.”
+1	„	_	PUNCT	_	_	2	punct	_	_
+2	Dir	_	PRON	_	_	3	expl	_	_
+3	passt	_	VERB	_	_	0	root	_	_
+4	a	_	ADV	_	_	3	advmod	_	_
+5	nia	_	DET	_	_	6	det	_	_
+6	wos	_	NOUN	_	_	3	obj	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	du	_	PRON	_	_	3	obl	_	_
+9	oider	_	ADJ	_	_	8	amod	_	_
+10	Grantscherm	_	NOUN	_	_	8	appos	_	_
+11	.	_	PUNCT	_	_	2	punct	_	_
+12	”	_	_	_	_	3	dep	_	_
+
+# sent_id = wikitalk_Dischkrian:Ödenburg_8
+# text = I moa es wa da sicha a ned Recht waun ma in Mohammed sein Nam vadodln dätn.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	moa	_	VERB	_	_	0	root	_	_
+3	es	_	PRON	_	_	2	obj	_	_
+4	wa	_	AUX	_	_	5	aux	_	_
+5	da	_	PRON	_	_	2	obj	_	_
+6	sicha	_	ADV	_	_	5	advmod	_	_
+7	a	_	DET	_	_	8	det	_	_
+8	ned	_	PROPN	_	_	5	nsubj	_	_
+9	Recht	_	NOUN	_	_	8	compound	_	_
+10	waun	_	SCONJ	_	_	12	mark	_	_
+11	ma	_	PRON	_	_	12	nsubj	_	_
+12	in	_	AUX	_	_	5	conj	_	_
+13	Mohammed	_	PROPN	_	_	12	obj	_	_
+14	sein	_	AUX	_	_	12	aux	_	_
+15	Nam	_	NOUN	_	_	13	compound	_	_
+16	vadodln	_	VERB	_	_	12	conj	_	_
+17	dätn	_	ADV	_	_	16	advmod	_	_
+18	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Walsch_7
+# text = Damit sein schon die Keltn va die oltn Germanen bezeichnet gwordn.
+1	Damit	_	ADV	_	_	2	advmod	_	_
+2	sein	_	PRON	_	_	0	root	_	_
+3	schon	_	ADV	_	_	2	advmod	_	_
+4	die	_	DET	_	_	5	det	_	_
+5	Keltn	_	NOUN	_	_	2	nsubj	_	_
+6	va	_	ADP	_	_	7	case	_	_
+7	die	_	DET	_	_	8	det	_	_
+8	oltn	_	ADJ	_	_	9	amod	_	_
+9	Germanen	_	NOUN	_	_	5	nmod	_	_
+10	bezeichnet	_	VERB	_	_	2	advcl	_	_
+11	gwordn	_	AUX	_	_	10	aux	_	_
+12	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Dazzlwuam_12
+# text = Es kintad duachaus sei, dass fria in de Oipm soichane Reptilien glebt haum, de filaicht eascht in jingana Zeid ausgschdoam san.
+1	Es	_	PRON	_	_	2	expl	_	_
+2	kintad	_	AUX	_	_	0	root	_	_
+3	duachaus	_	ADV	_	_	2	advmod	_	_
+4	sei	_	AUX	_	_	2	aux	_	_
+5	,	_	SCONJ	_	_	8	mark	_	_
+6	dass	_	ADV	_	_	8	advmod	_	_
+7	fria	_	ADP	_	_	8	case	_	_
+8	in	_	DET	_	_	9	det	_	_
+9	de	_	NOUN	_	_	2	obl	_	_
+10	Oipm	_	DET	_	_	11	det	_	_
+11	soichane	_	NOUN	_	_	9	nmod	_	_
+12	Reptilien	_	VERB	_	_	8	advcl	_	_
+13	glebt	_	AUX	_	_	12	aux	_	_
+14	haum	_	PUNCT	_	_	17	punct	_	_
+15	,	_	PRON	_	_	17	nsubj	_	_
+16	de	_	ADV	_	_	17	advmod	_	_
+17	filaicht	_	VERB	_	_	12	conj	_	_
+18	eascht	_	ADP	_	_	19	case	_	_
+19	in	_	DET	_	_	20	det	_	_
+20	jingana	_	NOUN	_	_	17	obl	_	_
+21	Zeid	_	VERB	_	_	17	advcl	_	_
+22	ausgschdoam	_	AUX	_	_	21	aux	_	_
+23	san	_	PUNCT	_	_	2	punct	_	_
+24	.	_	_	_	_	2	dep	_	_
+
+# sent_id = wiki_Kafää_4
+# text = Es gibt sogoa eigane Lokäu, de Kafäähaisa, wo hauptsächlich Kafää drunkn wiad.
+1	Es	_	PRON	_	_	2	expl	_	_
+2	gibt	_	VERB	_	_	0	root	_	_
+3	sogoa	_	ADV	_	_	2	advmod	_	_
+4	eigane	_	ADJ	_	_	5	amod	_	_
+5	Lokäu	_	NOUN	_	_	2	obj	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	de	_	DET	_	_	8	det	_	_
+8	Kafäähaisa	_	NOUN	_	_	5	appos	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	wo	_	ADV	_	_	11	advmod	_	_
+11	hauptsächlich	_	ADV	_	_	2	advmod	_	_
+12	Kafää	_	NOUN	_	_	11	obl	_	_
+13	drunkn	_	VERB	_	_	11	xcomp	_	_
+14	wiad	_	AUX	_	_	13	aux	_	_
+15	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_6112494-1
+# text = Die Oamut is gwiss des Schrecklichste auf da Wöd.
+1	Die	_	DET	_	_	2	det	_	_
+2	Oamut	_	NOUN	_	_	0	root	_	_
+3	is	_	AUX	_	_	2	cop	_	_
+4	gwiss	_	ADV	_	_	2	advmod	_	_
+5	des	_	DET	_	_	6	det	_	_
+6	Schrecklichste	_	ADJ	_	_	2	amod	_	_
+7	auf	_	ADP	_	_	8	case	_	_
+8	da	_	DET	_	_	6	nmod	_	_
+9	Wöd	_	NOUN	_	_	6	nmod	_	_
+10	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Kafää_19
+# text = In Kairo is des Drangl um 1532 nochweislich scho do gwesn.
+1	In	_	ADP	_	_	2	case	_	_
+2	Kairo	_	PROPN	_	_	4	nmod	_	_
+3	is	_	AUX	_	_	4	cop	_	_
+4	des	_	DET	_	_	5	nsubj	_	_
+5	Drangl	_	NOUN	_	_	0	root	_	_
+6	um	_	ADP	_	_	7	case	_	_
+7	1532	_	NUM	_	_	5	nmod	_	_
+8	nochweislich	_	ADV	_	_	5	advmod	_	_
+9	scho	_	ADV	_	_	5	advmod	_	_
+10	do	_	ADV	_	_	5	advmod	_	_
+11	gwesn	_	VERB	_	_	5	cop	_	_
+12	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = xsid_de-ba_test_74
+# text = Werds heid sonnig?
+1	Werd	_	AUX	_	_	4	aux	_	_
+2	s	_	PRON	_	_	4	nsubj	_	_
+3	heid	_	ADV	_	_	4	advmod	_	_
+4	sonnig	_	ADJ	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = tatoeba_5184415
+# text = I waaß ned, ob's kumma is oder ned.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	waaß	_	VERB	_	_	0	root	_	_
+3	ned	_	ADV	_	_	2	advmod	_	_
+4	,	_	PUNCT	_	_	6	punct	_	_
+5	ob	_	SCONJ	_	_	6	mark	_	_
+6	's	_	PRON	_	_	2	ccomp	_	_
+7	kumma	_	VERB	_	_	6	csubj	_	_
+8	is	_	AUX	_	_	7	aux	_	_
+9	oder	_	CCONJ	_	_	10	cc	_	_
+10	ned	_	ADV	_	_	7	conj	_	_
+11	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_8814303
+# text = Bei dir geht's imma sche pomali, gö?
+1	Bei	_	ADP	_	_	2	case	_	_
+2	dir	_	PRON	_	_	3	nmod	_	_
+3	geht	_	VERB	_	_	0	root	_	_
+4	's	_	PRON	_	_	3	nsubj	_	_
+5	imma	_	ADV	_	_	3	advmod	_	_
+6	sche	_	ADV	_	_	3	advmod	_	_
+7	pomali	_	ADV	_	_	3	advmod	_	_
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	gö	_	PRON	_	_	10	nsubj	_	_
+10	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = cairo_15
+# text = Er hod a Auto kauft, aber sei Bruada nur a Radl.
+1	Er	_	PRON	_	_	2	nsubj	_	_
+2	hod	_	AUX	_	_	0	root	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	Auto	_	NOUN	_	_	2	obj	_	_
+5	kauft	_	VERB	_	_	2	ccomp	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	aber	_	ADV	_	_	8	advmod	_	_
+8	sei	_	PRON	_	_	2	conj	_	_
+9	Bruada	_	NOUN	_	_	8	nsubj	_	_
+10	nur	_	ADV	_	_	11	advmod	_	_
+11	a	_	DET	_	_	12	det	_	_
+12	Radl	_	NOUN	_	_	8	obj	_	_
+13	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_6905705
+# text = Wöche Liadln kaunnst am bestn singa?
+1	Wöche	_	ADJ	_	_	2	amod	_	_
+2	Liadln	_	NOUN	_	_	4	nsubj	_	_
+3	kaunnst	_	AUX	_	_	4	aux	_	_
+4	am	_	VERB	_	_	0	root	_	_
+5	bestn	_	ADP	_	_	6	case	_	_
+6	singa	_	DET	_	_	4	obl	_	_
+7	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Studentnfuada_10
+# text = No a praktische Eingschoft vo dem Fuada is, doss mas wärndm Läsn gloaweis einefuadan ko.
+1	No	_	ADV	_	_	2	advmod	_	_
+2	a	_	DET	_	_	3	det	_	_
+3	praktische	_	ADJ	_	_	4	amod	_	_
+4	Eingschoft	_	NOUN	_	_	0	root	_	_
+5	vo	_	ADP	_	_	6	case	_	_
+6	dem	_	DET	_	_	4	nmod	_	_
+7	Fuada	_	NOUN	_	_	6	nmod	_	_
+8	is	_	AUX	_	_	4	cop	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	doss	_	SCONJ	_	_	11	mark	_	_
+11	ma	_	PRON	_	_	4	nsubj	_	_
+12	s	_	PRON	_	_	11	expl	_	_
+13-14	wärndm	_	_	_	_	_	_	_	_
+13	wärnd	_	AUX	_	_	11	aux	_	_
+14	m	_	PRON	_	_	11	expl	_	_
+15	Läsn	_	NOUN	_	_	11	nsubj	_	_
+16	gloaweis	_	ADV	_	_	11	advmod	_	_
+17	einefuadan	_	ADJ	_	_	11	xcomp	_	_
+18	ko	_	AUX	_	_	17	aux	_	_
+19	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Jazz-Rap_8
+# text = A kommerziell erfolgreiche Jazz-Rap-Kåpell wårn z.B.Gang Starr (die hom an Jazz-Rap a teiweis afundn), The Roots oda A Tribe Called Quest.
+1	A	_	DET	_	_	2	det	_	_
+2	kommerziell	_	ADJ	_	_	3	amod	_	_
+3	erfolgreiche	_	ADJ	_	_	4	amod	_	_
+4	Jazz-Rap-Kåpell	_	NOUN	_	_	0	root	_	_
+5	wårn	_	AUX	_	_	4	cop	_	_
+6	z.	_	ADP	_	_	7	case	_	_
+7	B.	_	PUNCT	_	_	1	punct	_	_
+8	Gang	_	DET	_	_	9	det	_	_
+9	Starr	_	PROPN	_	_	10	nmod	_	_
+10	(	_	PROPN	_	_	4	conj	_	_
+11	die	_	PUNCT	_	_	12	punct	_	_
+12	hom	_	PRON	_	_	10	appos	_	_
+13	an	_	AUX	_	_	12	cop	_	_
+14	Jazz-Rap	_	ADP	_	_	15	case	_	_
+15	a	_	NOUN	_	_	12	nmod	_	_
+16	teiweis	_	ADV	_	_	12	advmod	_	_
+17	afundn	_	ADV	_	_	12	advmod	_	_
+18	)	_	VERB	_	_	12	advmod	_	_
+19	,	_	PUNCT	_	_	10	punct	_	_
+20	The	_	PUNCT	_	_	22	punct	_	_
+21	Roots	_	PRON	_	_	22	nsubj	_	_
+22	oda	_	AUX	_	_	4	conj	_	_
+23	A	_	ADP	_	_	24	case	_	_
+24	Tribe	_	NOUN	_	_	21	nmod	_	_
+25	Called	_	ADV	_	_	21	advmod	_	_
+26	Quest	_	ADV	_	_	21	advmod	_	_
+27	.	_	VERB	_	_	21	advmod	_	_
+
+# sent_id = tatoeba_5166957
+# text = Waun i des wissat!
+1	Waun	_	SCONJ	_	_	4	mark	_	_
+2	i	_	PRON	_	_	4	nsubj	_	_
+3	des	_	DET	_	_	4	det	_	_
+4	wissat	_	VERB	_	_	0	root	_	_
+5	!	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = xsid_de-st_valid_24
+# text = I brauch an Erinnerung um Lisa ozuholn
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	brauch	_	VERB	_	_	0	root	_	_
+3	an	_	ADP	_	_	4	case	_	_
+4	Erinnerung	_	NOUN	_	_	2	obj	_	_
+5	um	_	ADP	_	_	6	case	_	_
+6	Lisa	_	PROPN	_	_	4	nmod	_	_
+7	ozuholn	_	VERB	_	_	2	xcomp	_	_
+
+# sent_id = wiki_Minga_37
+# text = S'guit bsundas fia d'Stodtei, wo in d'30ga Joar z'Minga kema san.
+1	S'	_	PRON	_	_	2	expl	_	_
+2	guit	_	VERB	_	_	0	root	_	_
+3	bsundas	_	ADV	_	_	2	advmod	_	_
+4	fia	_	ADP	_	_	5	case	_	_
+5	d'	_	DET	_	_	6	det	_	_
+6	Stodtei	_	NOUN	_	_	2	obl	_	_
+7	,	_	PUNCT	_	_	2	dep	_	_
+8	wo	_	ADV	_	_	2	dep	_	_
+9	in	_	PRON	_	_	10	nsubj	_	_
+10	d'	_	DET	_	_	11	det	_	_
+11	30ga	_	NUM	_	_	12	obl	_	_
+12	Joar	_	NOUN	_	_	8	obl	_	_
+13	z'	_	ADP	_	_	14	case	_	_
+14	Minga	_	PROPN	_	_	12	nmod	_	_
+15	kema	_	AUX	_	_	10	cop	_	_
+16	san	_	AUX	_	_	15	aux	_	_
+17	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Haferltarock_39
+# text = Dea wej Trumpf ogsagt hod, gwingt, wej gsagt, mid 61 Aung in seine Stich, wenn ned mea Aung ogsagt woan san.
+1	Dea	_	DET	_	_	2	det	_	_
+2	wej	_	PRON	_	_	3	nsubj	_	_
+3	Trumpf	_	PROPN	_	_	0	root	_	_
+4	ogsagt	_	VERB	_	_	3	acl	_	_
+5	hod	_	AUX	_	_	4	aux	_	_
+6	,	_	VERB	_	_	4	ccomp	_	_
+7	gwingt	_	PUNCT	_	_	9	punct	_	_
+8	,	_	PRON	_	_	9	nsubj	_	_
+9	wej	_	VERB	_	_	6	conj	_	_
+10	gsagt	_	AUX	_	_	9	aux	_	_
+11	,	_	ADP	_	_	12	case	_	_
+12	mid	_	NUM	_	_	9	obl	_	_
+13	61	_	NOUN	_	_	12	nmod	_	_
+14	Aung	_	ADP	_	_	16	case	_	_
+15	in	_	DET	_	_	16	det	_	_
+16	seine	_	NOUN	_	_	9	obl	_	_
+17	Stich	_	PUNCT	_	_	19	punct	_	_
+18	,	_	SCONJ	_	_	19	mark	_	_
+19	wenn	_	ADV	_	_	6	advmod	_	_
+20	ned	_	DET	_	_	21	det	_	_
+21	mea	_	NOUN	_	_	19	nsubj	_	_
+22	Aung	_	VERB	_	_	19	csubj	_	_
+23	ogsagt	_	AUX	_	_	22	aux	_	_
+24	woan	_	AUX	_	_	22	aux	_	_
+25	san	_	PUNCT	_	_	3	punct	_	_
+26	.	_	_	_	_	3	dep	_	_
+
+# sent_id = wikitalk_Dischkrian:Boarische-Umschrift_21
+# text = Ned ummasunscht hoasst Microsoft iabasetzt jò Winzigwoach - wei's Hirn davo zerscht gschrumpft und dann woachkocht werd.
+1	Ned	_	ADV	_	_	2	advmod	_	_
+2	ummasunscht	_	ADV	_	_	0	root	_	_
+3	hoasst	_	AUX	_	_	4	aux	_	_
+4	Microsoft	_	VERB	_	_	2	conj	_	_
+5	iabasetzt	_	ADV	_	_	4	advmod	_	_
+6	jò	_	NOUN	_	_	4	obj	_	_
+7	Winzigwoach	_	PUNCT	_	_	8	punct	_	_
+8	-	_	SCONJ	_	_	4	advmod	_	_
+9	wei	_	PRON	_	_	10	nsubj	_	_
+10	's	_	NOUN	_	_	8	ccomp	_	_
+11	Hirn	_	ADP	_	_	10	case	_	_
+12	davo	_	ADV	_	_	13	advmod	_	_
+13	zerscht	_	VERB	_	_	8	conj	_	_
+14	gschrumpft	_	CCONJ	_	_	16	cc	_	_
+15	und	_	ADV	_	_	16	advmod	_	_
+16	dann	_	VERB	_	_	8	conj	_	_
+17	woachkocht	_	AUX	_	_	16	aux	_	_
+18	werd	_	PUNCT	_	_	2	punct	_	_
+19	.	_	_	_	_	2	dep	_	_
+
+# sent_id = xsid_de-ba_test_99
+# text = Stei an Alarm für alle 30 Minutn
+1	Stei	_	VERB	_	_	0	root	_	_
+2	an	_	ADP	_	_	3	case	_	_
+3	Alarm	_	NOUN	_	_	1	obl	_	_
+4	für	_	ADP	_	_	5	case	_	_
+5	alle	_	DET	_	_	6	det	_	_
+6	30	_	NUM	_	_	7	nummod	_	_
+7	Minutn	_	NOUN	_	_	3	nmod	_	_
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_4
+# text = Wui ma sogn, schaugts her, do san neie eibirgate Werta im Boarischn und heit sogt im Boairischn Frikadelle, Brötchen, hochkommen, Tschüß oda "von" statt "davon" ...?
+1	Wui	_	PRON	_	_	2	nsubj	_	_
+2	ma	_	VERB	_	_	0	root	_	_
+3	sogn	_	AUX	_	_	2	aux	_	_
+4	,	_	PRON	_	_	2	obj	_	_
+5	schaugts	_	ADV	_	_	4	advmod	_	_
+6	her	_	PUNCT	_	_	7	punct	_	_
+7	,	_	PRON	_	_	2	obl	_	_
+8	do	_	AUX	_	_	7	aux	_	_
+9	san	_	DET	_	_	7	det	_	_
+10	neie	_	ADJ	_	_	7	amod	_	_
+11	eibirgate	_	NOUN	_	_	7	nmod	_	_
+12	Werta	_	ADP	_	_	13	case	_	_
+13-14	im	_	_	_	_	_	_	_	_
+13	i	_	PRON	_	_	11	nmod	_	_
+14	m	_	ADJ	_	_	13	amod	_	_
+15	Boarischn	_	CCONJ	_	_	17	cc	_	_
+16	und	_	ADV	_	_	17	advmod	_	_
+17	heit	_	VERB	_	_	2	conj	_	_
+18	sogt	_	PRON	_	_	17	nsubj	_	_
+19-20	im	_	_	_	_	_	_	_	_
+19	i	_	ADP	_	_	20	case	_	_
+20	m	_	ADJ	_	_	17	obl	_	_
+21	Boairischn	_	NOUN	_	_	17	obj	_	_
+22	Frikadelle	_	PUNCT	_	_	23	punct	_	_
+23	,	_	NOUN	_	_	17	conj	_	_
+24	Brötchen	_	PUNCT	_	_	25	punct	_	_
+25	,	_	VERB	_	_	17	conj	_	_
+26	hochkommen	_	PUNCT	_	_	27	punct	_	_
+27	,	_	VERB	_	_	17	conj	_	_
+28	Tschüß	_	CCONJ	_	_	30	cc	_	_
+29	oda	_	PUNCT	_	_	30	punct	_	_
+30	"	_	ADP	_	_	17	conj	_	_
+31	von	_	PUNCT	_	_	30	punct	_	_
+32	"	_	ADP	_	_	33	case	_	_
+33	statt	_	PRON	_	_	30	nmod	_	_
+34	"	_	PUNCT	_	_	30	punct	_	_
+35	davon	_	PUNCT	_	_	17	punct	_	_
+36	"	_	PUNCT	_	_	2	punct	_	_
+37	...	_	_	_	_	2	dep	_	_
+38	?	_	_	_	_	2	dep	_	_
+
+# sent_id = sid_de-ba_natural_313
+# text = Scheint in Mallorca grod Sunn?
+1	Scheint	_	AUX	_	_	4	aux	_	_
+2	in	_	ADP	_	_	3	case	_	_
+3	Mallorca	_	PROPN	_	_	4	obl	_	_
+4	grod	_	ADJ	_	_	0	root	_	_
+5	Sunn	_	NOUN	_	_	4	obj	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = tatoeba_5167002
+# text = I hau's gwisst, dass i's schoff.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	hau	_	AUX	_	_	0	root	_	_
+3	's	_	PRON	_	_	2	obj	_	_
+4	gwisst	_	VERB	_	_	2	xcomp	_	_
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	dass	_	SCONJ	_	_	7	mark	_	_
+7	i	_	PRON	_	_	4	advcl	_	_
+8	's	_	PRON	_	_	7	obj	_	_
+9	schoff	_	VERB	_	_	7	xcomp	_	_
+10	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = sid_de-ba_natural_94
+# text = Änder den Wecker um Simme auf achte.
+1	Änder	_	VERB	_	_	0	root	_	_
+2	den	_	DET	_	_	3	det	_	_
+3	Wecker	_	NOUN	_	_	1	obj	_	_
+4	um	_	ADP	_	_	5	case	_	_
+5	Simme	_	NOUN	_	_	1	obl	_	_
+6	auf	_	ADP	_	_	7	case	_	_
+7	achte	_	NUM	_	_	5	nmod	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = xsid_de-ba_test_76
+# text = Wos san meine Erinnerungen füa moang?
+1	Wos	_	PRON	_	_	4	nsubj	_	_
+2	san	_	AUX	_	_	4	aux	_	_
+3	meine	_	DET	_	_	4	det	_	_
+4	Erinnerungen	_	NOUN	_	_	0	root	_	_
+5	füa	_	ADP	_	_	6	case	_	_
+6	moang	_	PRON	_	_	4	obl	_	_
+7	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = sid_de-ba_natural_73
+# text = wann kimmt Avatar in Burghausen im Kino?
+1	wann	_	ADV	_	_	2	advmod	_	_
+2	kimmt	_	VERB	_	_	0	root	_	_
+3	Avatar	_	NOUN	_	_	2	obj	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	Burghausen	_	PROPN	_	_	3	nmod	_	_
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	ADV	_	_	7	advmod	_	_
+7	m	_	PRON	_	_	2	obl	_	_
+8	Kino	_	NOUN	_	_	7	nmod	_	_
+9	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_6630545
+# text = Nia sogat i na.
+1	Nia	_	ADV	_	_	2	advmod	_	_
+2	sogat	_	VERB	_	_	0	root	_	_
+3	i	_	PRON	_	_	2	nsubj	_	_
+4	na	_	ADV	_	_	2	advmod	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Sauschädelstöhln_4
+# text = Waunn des Vaschwinden vom Schädl ofgfoll'n is, mocht sie oft des gonze Duaf auf d Suach noch de Ibltäta.
+1	Waunn	_	SCONJ	_	_	4	mark	_	_
+2	des	_	DET	_	_	3	det	_	_
+3	Vaschwinden	_	NOUN	_	_	4	nsubj	_	_
+4-5	vom	_	_	_	_	_	_	_	_
+4	vo	_	VERB	_	_	0	root	_	_
+5	m	_	AUX	_	_	4	aux	_	_
+6	Schädl	_	PUNCT	_	_	8	punct	_	_
+7	ofgfoll'n	_	AUX	_	_	8	aux	_	_
+8	is	_	PRON	_	_	4	ccomp	_	_
+9	,	_	ADV	_	_	8	advmod	_	_
+10	mocht	_	DET	_	_	11	det	_	_
+11	sie	_	ADJ	_	_	12	amod	_	_
+12	oft	_	NOUN	_	_	8	nmod	_	_
+13	des	_	ADP	_	_	14	case	_	_
+14	gonze	_	_	_	_	4	dep	_	_
+15	Duaf	_	ADP	_	_	16	case	_	_
+16	auf	_	DET	_	_	14	nmod	_	_
+17	d	_	NOUN	_	_	16	nmod	_	_
+18	Suach	_	PUNCT	_	_	4	punct	_	_
+19	noch	_	_	_	_	4	dep	_	_
+20	de	_	_	_	_	4	dep	_	_
+21	Ibltäta	_	_	_	_	4	dep	_	_
+22	.	_	_	_	_	4	dep	_	_
+
+# sent_id = sid_de-ba_natural_270
+# text = Wos fia Wecka hob i?
+1	Wos	_	PRON	_	_	4	nsubj	_	_
+2	fia	_	ADP	_	_	3	case	_	_
+3	Wecka	_	NOUN	_	_	4	obl	_	_
+4	hob	_	AUX	_	_	0	root	_	_
+5	i	_	PRON	_	_	4	expl	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Dazzlwuam_21
+# text = Im 1935 hod owa a berlina Fotograf, dea weng Laundschoftsaufnaumen in de schwaiza Beag untawegs woa, zufelig an Schnopschus fu am Dazlwuam gmocht.
+1	Im	_	ADP	_	_	2	case	_	_
+2	1935	_	NUM	_	_	4	obl	_	_
+3	hod	_	AUX	_	_	4	aux	_	_
+4	owa	_	VERB	_	_	0	root	_	_
+5	a	_	ADV	_	_	4	advmod	_	_
+6	berlina	_	DET	_	_	7	det	_	_
+7	Fotograf	_	ADJ	_	_	8	amod	_	_
+8	,	_	NOUN	_	_	4	nsubj	_	_
+9	dea	_	PUNCT	_	_	10	punct	_	_
+10	weng	_	PRON	_	_	11	nsubj	_	_
+11	Laundschoftsaufnaumen	_	ADV	_	_	12	advmod	_	_
+12	in	_	NOUN	_	_	4	conj	_	_
+13	de	_	ADP	_	_	14	case	_	_
+14	schwaiza	_	DET	_	_	12	nmod	_	_
+15	Beag	_	ADJ	_	_	16	amod	_	_
+16	untawegs	_	NOUN	_	_	12	nmod	_	_
+17	woa	_	ADV	_	_	12	advmod	_	_
+18	,	_	AUX	_	_	12	aux	_	_
+19	zufelig	_	PUNCT	_	_	20	punct	_	_
+20	an	_	ADV	_	_	21	advmod	_	_
+21	Schnopschus	_	NOUN	_	_	4	conj	_	_
+22	fu	_	ADP	_	_	23	case	_	_
+23	am	_	DET	_	_	21	nmod	_	_
+24	Dazlwuam	_	NOUN	_	_	21	nmod	_	_
+25	gmocht	_	VERB	_	_	4	conj	_	_
+26	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Dazzlwuam_17
+# text = es gibt bis zum Aunfaung fum 20.Joahundat an Haufn Leit de in Dazlwuam gseng haum woin
+1	es	_	PRON	_	_	2	nsubj	_	_
+2	gibt	_	VERB	_	_	0	root	_	_
+3	bis	_	ADP	_	_	4	case	_	_
+4-5	zum	_	_	_	_	_	_	_	_
+4	zu	_	NUM	_	_	2	obl	_	_
+5	m	_	DET	_	_	4	det	_	_
+6	Aunfaung	_	NOUN	_	_	4	nmod	_	_
+7-8	fum	_	_	_	_	_	_	_	_
+7	fu	_	ADP	_	_	8	case	_	_
+8	m	_	DET	_	_	9	det	_	_
+9	20.	_	NUM	_	_	10	nmod	_	_
+10	Joahundat	_	NOUN	_	_	4	nmod	_	_
+11	an	_	ADP	_	_	12	case	_	_
+12	Haufn	_	NUM	_	_	2	obl	_	_
+13	Leit	_	NOUN	_	_	12	nmod	_	_
+14	de	_	DET	_	_	15	det	_	_
+15	in	_	ADP	_	_	16	case	_	_
+16	Dazlwuam	_	NOUN	_	_	12	nmod	_	_
+17	gseng	_	VERB	_	_	18	advmod	_	_
+18	haum	_	AUX	_	_	2	conj	_	_
+19	woin	_	VERB	_	_	18	aux	_	_
+
+# sent_id = tatoeba_5297343
+# text = Des is mei jingara Bruada.
+1	Des	_	PRON	_	_	2	expl	_	_
+2	is	_	AUX	_	_	0	root	_	_
+3	mei	_	PRON	_	_	2	nsubj	_	_
+4	jingara	_	ADJ	_	_	5	amod	_	_
+5	Bruada	_	NOUN	_	_	2	obj	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_5381496
+# text = Da Hauns wird si eichere Kiah auschaun.
+1	Da	_	DET	_	_	0	root	_	_
+2	Hauns	_	NOUN	_	_	1	dep	_	_
+3	wird	_	AUX	_	_	1	dep	_	_
+4	si	_	PRON	_	_	1	dep	_	_
+5	eichere	_	ADJ	_	_	1	dep	_	_
+6	Kiah	_	NOUN	_	_	1	dep	_	_
+7	auschaun	_	ADP	_	_	8	case	_	_
+8	.	_	VERB	_	_	1	dep	_	_
+
+# sent_id = sid_de-ba_natural_265
+# text = Sog Ma wannst mi auweckn konnst
+1	Sog	_	VERB	_	_	0	root	_	_
+2	Ma	_	PRON	_	_	1	nsubj	_	_
+3	wannst	_	AUX	_	_	1	aux	_	_
+4	mi	_	PRON	_	_	5	nsubj	_	_
+5	auweckn	_	VERB	_	_	1	ccomp	_	_
+6	konnst	_	AUX	_	_	5	aux	_	_
+
+# sent_id = cairo_5
+# text = Sam, machs Fensta auf!
+1	Sam	_	VERB	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	3	punct	_	_
+3	mach	_	VERB	_	_	1	ccomp	_	_
+4	s	_	PRON	_	_	3	nsubj	_	_
+5	Fensta	_	NOUN	_	_	3	obj	_	_
+6	auf	_	ADV	_	_	3	advmod	_	_
+7	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Schneckn_31
+# text = Des kaumma si recht guat auschaun, waummar an Schneck iwar a Glos greun lossd.
+1	Des	_	DET	_	_	2	det	_	_
+2	kaum	_	ADJ	_	_	3	nsubj	_	_
+3	ma	_	PRON	_	_	0	root	_	_
+4	si	_	AUX	_	_	3	aux	_	_
+5	recht	_	ADV	_	_	6	advmod	_	_
+6	guat	_	ADJ	_	_	3	advmod	_	_
+7	auschaun	_	VERB	_	_	3	xcomp	_	_
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	waum	_	ADV	_	_	10	advmod	_	_
+10	mar	_	PRON	_	_	7	obl	_	_
+11	an	_	ADP	_	_	12	case	_	_
+12	Schneck	_	NOUN	_	_	10	nmod	_	_
+13	iwar	_	ADP	_	_	14	case	_	_
+14	a	_	DET	_	_	15	det	_	_
+15	Glos	_	NOUN	_	_	10	nmod	_	_
+16	greun	_	ADJ	_	_	15	amod	_	_
+17	lossd	_	VERB	_	_	3	conj	_	_
+18	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = sid_de-ba_natural_261
+# text = schoid an Wecka auf 8e ei.
+1	schoid	_	AUX	_	_	4	aux	_	_
+2	an	_	ADP	_	_	4	case	_	_
+3	Wecka	_	NOUN	_	_	4	nmod	_	_
+4	auf	_	VERB	_	_	0	root	_	_
+5	8e	_	NUM	_	_	4	nummod	_	_
+6	ei	_	PRON	_	_	4	obj	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Walsch_17
+# text = Unter "walsch strickn" versteat man a gwisse Ort die Stricknodlen zu hebn, wenn man mit Woll strickt.
+1	Unter	_	ADP	_	_	2	case	_	_
+2	"	_	PUNCT	_	_	0	root	_	_
+3	walsch	_	ADJ	_	_	4	amod	_	_
+4	strickn	_	NOUN	_	_	2	nmod	_	_
+5	"	_	PUNCT	_	_	2	punct	_	_
+6	versteat	_	VERB	_	_	2	dep	_	_
+7	man	_	PRON	_	_	6	nsubj	_	_
+8	a	_	DET	_	_	9	det	_	_
+9	gwisse	_	ADJ	_	_	10	amod	_	_
+10	Ort	_	NOUN	_	_	6	obj	_	_
+11	die	_	DET	_	_	12	det	_	_
+12	Stricknodlen	_	NOUN	_	_	10	nmod	_	_
+13	zu	_	ADP	_	_	14	case	_	_
+14	hebn	_	VERB	_	_	10	acl	_	_
+15	,	_	PUNCT	_	_	17	punct	_	_
+16	wenn	_	SCONJ	_	_	17	mark	_	_
+17	man	_	PRON	_	_	14	advcl	_	_
+18	mit	_	ADP	_	_	19	case	_	_
+19	Woll	_	NOUN	_	_	17	nmod	_	_
+20	strickt	_	VERB	_	_	17	xcomp	_	_
+21	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = xsid_de-st_valid_137
+# text = Wearts in Donnerstog schneibm?
+1	Weart	_	PRON	_	_	4	nsubj	_	_
+2	s	_	PRON	_	_	4	expl	_	_
+3	in	_	ADP	_	_	4	case	_	_
+4	Donnerstog	_	NOUN	_	_	0	root	_	_
+5	schneibm	_	VERB	_	_	4	aux	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = tatoeba_9512380
+# text = Des is für die Fisch.
+1	Des	_	PRON	_	_	4	nsubj	_	_
+2	is	_	AUX	_	_	4	cop	_	_
+3	für	_	ADP	_	_	4	case	_	_
+4	die	_	DET	_	_	0	root	_	_
+5	Fisch	_	NOUN	_	_	4	obl	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Jazz-Rap_3
+# text = D'rbei bedianen sich die Kinschtler bå moderne Jazzformen wia Jazzfunk oder Fusion.
+1	D'rbei	_	ADP	_	_	2	case	_	_
+2	bedianen	_	VERB	_	_	0	root	_	_
+3	sich	_	PRON	_	_	2	nsubj	_	_
+4	die	_	DET	_	_	5	det	_	_
+5	Kinschtler	_	NOUN	_	_	2	obj	_	_
+6	bå	_	ADV	_	_	7	advmod	_	_
+7	moderne	_	ADJ	_	_	8	amod	_	_
+8	Jazzformen	_	NOUN	_	_	2	obl	_	_
+9	wia	_	CCONJ	_	_	11	cc	_	_
+10	Jazzfunk	_	NOUN	_	_	11	nmod	_	_
+11	oder	_	CCONJ	_	_	8	conj	_	_
+12	Fusion	_	NOUN	_	_	11	nmod	_	_
+13	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikitalk_Dischkrian:Bairische-Buechspraach_2
+# text = 3 Saachan: Genau gnumma is de BB ebm ned grod a "Ethymologische Schreibweis" von Boarischen.
+1	3	_	NUM	_	_	2	nummod	_	_
+2	Saachan	_	NOUN	_	_	0	root	_	_
+3	:	_	PUNCT	_	_	2	punct	_	_
+4	Genau	_	ADV	_	_	5	advmod	_	_
+5	gnumma	_	VERB	_	_	2	acl	_	_
+6	is	_	AUX	_	_	5	aux	_	_
+7	de	_	DET	_	_	8	det	_	_
+8	BB	_	NOUN	_	_	5	obj	_	_
+9	ebm	_	ADV	_	_	5	advmod	_	_
+10	ned	_	ADV	_	_	11	advmod	_	_
+11	grod	_	ADJ	_	_	5	advmod	_	_
+12	a	_	DET	_	_	13	det	_	_
+13	"	_	ADJ	_	_	14	amod	_	_
+14	Ethymologische	_	NOUN	_	_	11	amod	_	_
+15	Schreibweis	_	NOUN	_	_	14	appos	_	_
+16	"	_	PUNCT	_	_	15	punct	_	_
+17-18	von	_	_	_	_	_	_	_	_
+17	vo	_	ADP	_	_	18	case	_	_
+18	n	_	DET	_	_	15	nmod	_	_
+19	Boarischen	_	ADJ	_	_	18	amod	_	_
+20	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = xsid_de-ba_test_18
+# text = Is heid bewölkt?
+1	Is	_	AUX	_	_	4	cop	_	_
+2	heid	_	ADV	_	_	4	advmod	_	_
+3	bewölkt	_	ADJ	_	_	4	amod	_	_
+4	?	_	VERB	_	_	0	root	_	_
+
+# sent_id = wikisample_Boarische-Grammatik_1
+# text = "Ham S Eana oghengt?", frogd da Bolizisd.
+1	"	_	PUNCT	_	_	2	punct	_	_
+2	Ham	_	VERB	_	_	0	root	_	_
+3	S	_	DET	_	_	4	det	_	_
+4	Eana	_	PROPN	_	_	2	obj	_	_
+5	oghengt	_	VERB	_	_	2	advmod	_	_
+6	?	_	PUNCT	_	_	2	punct	_	_
+7	"	_	PUNCT	_	_	8	punct	_	_
+8	,	_	VERB	_	_	2	ccomp	_	_
+9	frogd	_	DET	_	_	10	det	_	_
+10	da	_	PROPN	_	_	8	obj	_	_
+11	Bolizisd	_	PUNCT	_	_	2	punct	_	_
+12	.	_	_	_	_	2	dep	_	_
+
+# sent_id = wiki_Toppmkorsee_12
+# text = Auf'm Toppmkor, am Berg im Kloaourlertoi ligt a sumpfige Berglaa, s Wurmfejd gnonnt.
+1-2	Auf'm	_	_	_	_	_	_	_	_
+1	Auf	_	ADP	_	_	2	case	_	_
+2	'm	_	DET	_	_	3	det	_	_
+3	Toppmkor	_	NOUN	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	am	_	ADP	_	_	6	case	_	_
+6	Berg	_	NOUN	_	_	3	obl	_	_
+7-8	im	_	_	_	_	_	_	_	_
+7	i	_	PRON	_	_	8	nsubj	_	_
+8	m	_	VERB	_	_	6	acl	_	_
+9	Kloaourlertoi	_	NOUN	_	_	8	obj	_	_
+10	ligt	_	AUX	_	_	3	cop	_	_
+11	a	_	DET	_	_	12	det	_	_
+12	sumpfige	_	ADJ	_	_	13	amod	_	_
+13	Berglaa	_	NOUN	_	_	8	nsubj	_	_
+14	,	_	PUNCT	_	_	15	punct	_	_
+15	s	_	PRON	_	_	16	nsubj	_	_
+16	Wurmfejd	_	NOUN	_	_	13	acl	_	_
+17	gnonnt	_	VERB	_	_	15	cop	_	_
+18	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = wikitalk_Dischkrian:Ödenburg_18
+# text = Wanns mit da Iwapriafung fiati seits, kunnts da Oweisung af da Voalog foign und as Problem mit da URL korrigian.
+1	Wanns	_	PRON	_	_	2	nsubj	_	_
+2	mit	_	ADP	_	_	0	root	_	_
+3	da	_	DET	_	_	4	det	_	_
+4	Iwapriafung	_	NOUN	_	_	2	obj	_	_
+5	fiati	_	ADV	_	_	2	advmod	_	_
+6	seits	_	ADV	_	_	2	advmod	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	kunnts	_	VERB	_	_	2	conj	_	_
+9	da	_	DET	_	_	10	det	_	_
+10	Oweisung	_	NOUN	_	_	8	obj	_	_
+11	af	_	ADP	_	_	12	case	_	_
+12	da	_	DET	_	_	10	nmod	_	_
+13	Voalog	_	NOUN	_	_	10	nmod	_	_
+14	foign	_	VERB	_	_	8	conj	_	_
+15	und	_	CCONJ	_	_	16	cc	_	_
+16	as	_	DET	_	_	17	det	_	_
+17	Problem	_	NOUN	_	_	14	obj	_	_
+18	mit	_	ADP	_	_	19	case	_	_
+19	da	_	DET	_	_	17	nmod	_	_
+20	URL	_	NOUN	_	_	17	nmod	_	_
+21	korrigian	_	VERB	_	_	8	conj	_	_
+22	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Verbn_17
+# text = I geh hoam, weil i mei Suppn essn wui.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	geh	_	VERB	_	_	0	root	_	_
+3	hoam	_	ADV	_	_	2	advmod	_	_
+4	,	_	PUNCT	_	_	6	punct	_	_
+5	weil	_	SCONJ	_	_	6	mark	_	_
+6	i	_	VERB	_	_	2	ccomp	_	_
+7	mei	_	AUX	_	_	6	aux	_	_
+8	Suppn	_	PRON	_	_	6	nsubj	_	_
+9	essn	_	PRON	_	_	10	nsubj	_	_
+10	wui	_	VERB	_	_	6	conj	_	_
+11	.	_	PRON	_	_	10	obj	_	_
+
+# sent_id = sid_de-ba_natural_51
+# text = bewert amoi des buach "Harry Potter" mit anem stern
+1	bewert	_	VERB	_	_	0	root	_	_
+2	amoi	_	ADV	_	_	1	advmod	_	_
+3	des	_	DET	_	_	4	det	_	_
+4	buach	_	NOUN	_	_	1	obj	_	_
+5	"	_	PUNCT	_	_	6	punct	_	_
+6	Harry	_	_	_	_	1	dep	_	_
+7	Potter	_	PROPN	_	_	6	flat	_	_
+8	"	_	PUNCT	_	_	6	punct	_	_
+9	mit	_	ADP	_	_	11	case	_	_
+10	anem	_	DET	_	_	11	det	_	_
+11	stern	_	NOUN	_	_	1	obl	_	_
+
+# sent_id = tatoeba_5166984
+# text = An deiner Stö tarat i des net.
+1	An	_	ADP	_	_	2	case	_	_
+2	deiner	_	DET	_	_	3	det	_	_
+3	Stö	_	NOUN	_	_	4	nmod	_	_
+4	tarat	_	VERB	_	_	0	root	_	_
+5	i	_	PRON	_	_	4	nsubj	_	_
+6	des	_	DET	_	_	7	det	_	_
+7	net	_	ADV	_	_	4	obl	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = tatoeba_5224038
+# text = I schau ma gern Goifspün au.
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	schau	_	VERB	_	_	0	root	_	_
+3	ma	_	ADV	_	_	2	advmod	_	_
+4	gern	_	ADV	_	_	2	advmod	_	_
+5	Goifspün	_	NOUN	_	_	2	obj	_	_
+6	au	_	ADV	_	_	2	advmod	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_5608900
+# text = Gö, du host des nu net tau, wos'd tuan soin hättatst.
+1	Gö	_	INTJ	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	4	punct	_	_
+3	du	_	PRON	_	_	4	nsubj	_	_
+4	host	_	AUX	_	_	1	advcl	_	_
+5	des	_	DET	_	_	6	det	_	_
+6	nu	_	ADV	_	_	4	advmod	_	_
+7	net	_	ADV	_	_	4	advmod	_	_
+8	tau	_	ADV	_	_	4	advmod	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	wos	_	PRON	_	_	11	nsubj	_	_
+11	'd	_	AUX	_	_	4	ccomp	_	_
+12	tuan	_	VERB	_	_	11	csubj	_	_
+13	soin	_	AUX	_	_	12	aux	_	_
+14	hättatst	_	VERB	_	_	12	xcomp	_	_
+15	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Sauschädelstöhln_9
+# text = Bei dera Grichtsvahaundlung gehts oft ziemlich hoart zua, und oft wern vom Richta hoche Göd- und Getränkestrofen fir Zwischnruaf varhängt, sodaß si de Vahaundlung ned z kuaz gstoidt.
+1	Bei	_	ADP	_	_	2	case	_	_
+2	dera	_	DET	_	_	3	det	_	_
+3	Grichtsvahaundlung	_	NOUN	_	_	0	root	_	_
+4	geht	_	AUX	_	_	3	cop	_	_
+5	s	_	PRON	_	_	3	nsubj	_	_
+6	oft	_	ADV	_	_	7	advmod	_	_
+7	ziemlich	_	ADV	_	_	8	advmod	_	_
+8	hoart	_	ADV	_	_	3	advmod	_	_
+9	zua	_	ADP	_	_	8	case	_	_
+10	,	_	PUNCT	_	_	12	punct	_	_
+11	und	_	CCONJ	_	_	12	cc	_	_
+12	oft	_	ADV	_	_	13	advmod	_	_
+13	wern	_	AUX	_	_	3	cop	_	_
+14-15	vom	_	_	_	_	_	_	_	_
+14	vo	_	ADP	_	_	15	case	_	_
+15	m	_	DET	_	_	16	det	_	_
+16	Richta	_	NOUN	_	_	13	nsubj	_	_
+17	hoche	_	ADJ	_	_	18	amod	_	_
+18	Göd-	_	NOUN	_	_	19	compound	_	_
+19	und	_	NOUN	_	_	16	nmod	_	_
+20	Getränkestrofen	_	ADP	_	_	21	case	_	_
+21	fir	_	NOUN	_	_	19	nmod	_	_
+22	Zwischnruaf	_	VERB	_	_	13	conj	_	_
+23	varhängt	_	PUNCT	_	_	25	punct	_	_
+24	,	_	SCONJ	_	_	25	mark	_	_
+25	sodaß	_	PRON	_	_	22	ccomp	_	_
+26	si	_	DET	_	_	27	det	_	_
+27	de	_	NOUN	_	_	25	nsubj	_	_
+28	Vahaundlung	_	ADV	_	_	29	advmod	_	_
+29	ned	_	ADP	_	_	30	case	_	_
+30	z	_	ADV	_	_	27	nmod	_	_
+31	kuaz	_	VERB	_	_	25	conj	_	_
+32	gstoidt	_	PUNCT	_	_	3	punct	_	_
+33	.	_	_	_	_	3	dep	_	_
+
+# sent_id = wiki_Kafää_45
+# text = Owa de Kenna schwean, dos des da Kaffää min bestn Gschmockn is.
+1	Owa	_	ADV	_	_	4	advmod	_	_
+2	de	_	DET	_	_	3	det	_	_
+3	Kenna	_	NOUN	_	_	4	nsubj	_	_
+4	schwean	_	VERB	_	_	0	root	_	_
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	dos	_	DET	_	_	7	det	_	_
+7	des	_	PRON	_	_	4	obj	_	_
+8	da	_	DET	_	_	9	det	_	_
+9	Kaffää	_	NOUN	_	_	7	nmod	_	_
+10-11	min	_	_	_	_	_	_	_	_
+10	mi	_	PRON	_	_	11	nsubj	_	_
+11	n	_	ADJ	_	_	12	amod	_	_
+12	bestn	_	NOUN	_	_	7	nmod	_	_
+13	Gschmockn	_	AUX	_	_	4	cop	_	_
+14	is	_	PUNCT	_	_	4	punct	_	_
+15	.	_	_	_	_	4	dep	_	_
+
+# sent_id = wiki_Haferltarock_34
+# text = Es gitt owa koa Regl, dasma awl stecha mou, wemma ko.
+1	Es	_	PRON	_	_	2	expl	_	_
+2	gitt	_	AUX	_	_	0	root	_	_
+3	owa	_	ADV	_	_	2	advmod	_	_
+4	koa	_	DET	_	_	5	det	_	_
+5	Regl	_	NOUN	_	_	2	nsubj	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	das	_	SCONJ	_	_	8	mark	_	_
+8	ma	_	PRON	_	_	2	ccomp	_	_
+9	awl	_	DET	_	_	10	det	_	_
+10	stecha	_	NOUN	_	_	8	nsubj	_	_
+11	mou	_	AUX	_	_	10	aux	_	_
+12	,	_	PUNCT	_	_	14	punct	_	_
+13	wem	_	PRON	_	_	14	expl	_	_
+14	ma	_	PRON	_	_	8	ccomp	_	_
+15	ko	_	PUNCT	_	_	2	punct	_	_
+16	.	_	_	_	_	2	dep	_	_
+
+# sent_id = wiki_Kafää_32
+# text = Ludwig van Beethoven hod de Gwohnheit ghobt, genau 60 Kafääbaunan zum oozöön, um si draus a Schalal Mokka zmochn.
+1	Ludwig	_	PROPN	_	_	8	dep	_	_
+2	van	_	ADP	_	_	1	case	_	_
+3	Beethoven	_	PROPN	_	_	2	flat	_	_
+4	hod	_	AUX	_	_	8	aux	_	_
+5	de	_	DET	_	_	8	det	_	_
+6	Gwohnheit	_	NOUN	_	_	8	nsubj	_	_
+7	ghobt	_	VERB	_	_	8	cop	_	_
+8	,	_	ADP	_	_	0	root	_	_
+9	genau	_	PRON	_	_	8	obj	_	_
+10	60	_	VERB	_	_	8	xcomp	_	_
+11	Kafääbaunan	_	PUNCT	_	_	13	punct	_	_
+12-13	zum	_	_	_	_	_	_	_	_
+12	zu	_	ADV	_	_	13	advmod	_	_
+13	m	_	NUM	_	_	10	obj	_	_
+14	oozöön	_	NOUN	_	_	13	nmod	_	_
+15	,	_	ADP	_	_	16	case	_	_
+16	um	_	VERB	_	_	10	conj	_	_
+17	si	_	PUNCT	_	_	19	punct	_	_
+18	draus	_	ADP	_	_	19	case	_	_
+19	a	_	PRON	_	_	16	obl	_	_
+20	Schalal	_	ADP	_	_	21	case	_	_
+21	Mokka	_	DET	_	_	22	det	_	_
+22	z	_	NOUN	_	_	23	nsubj	_	_
+23	mochn	_	NOUN	_	_	19	nmod	_	_
+24	.	_	ADP	_	_	8	dep	_	_
+
+# sent_id = wiki_Haferltarock_29
+# text = Nachand mou oane vo de vier Foama als Trumpf osong.
+1	Nachand	_	ADV	_	_	2	advmod	_	_
+2	mou	_	AUX	_	_	0	root	_	_
+3	oane	_	DET	_	_	2	dep	_	_
+4	vo	_	ADP	_	_	2	dep	_	_
+5	de	_	DET	_	_	6	det	_	_
+6	vier	_	NOUN	_	_	7	nmod	_	_
+7	Foama	_	ADP	_	_	8	case	_	_
+8	als	_	NOUN	_	_	4	nmod	_	_
+9	Trumpf	_	VERB	_	_	2	xcomp	_	_
+10	osong	_	PUNCT	_	_	2	punct	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = tatoeba_5195373
+# text = Kaunnst amoi auzahn?
+1	Kaunnst	_	VERB	_	_	0	root	_	_
+2	amoi	_	ADV	_	_	1	advmod	_	_
+3	auzahn	_	ADP	_	_	4	case	_	_
+4	?	_	NOUN	_	_	1	obl	_	_
+
+# sent_id = wiki_Dazzlwuam_11
+# text = Im Gengsoz zu de Ainhearna, de Sfinxn und Zentauren, miassn de Gschicht fum Dazzlwuam ned umbedingt kompet aus da Fantasi fu de Leit fria entschbrunga sei.
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	m	_	VERB	_	_	0	root	_	_
+3	Gengsoz	_	NOUN	_	_	2	obj	_	_
+4	zu	_	ADP	_	_	5	case	_	_
+5	de	_	DET	_	_	6	det	_	_
+6	Ainhearna	_	NOUN	_	_	3	nmod	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	de	_	DET	_	_	9	det	_	_
+9	Sfinxn	_	NOUN	_	_	3	conj	_	_
+10	und	_	CCONJ	_	_	11	cc	_	_
+11	Zentauren	_	NOUN	_	_	9	conj	_	_
+12	,	_	PUNCT	_	_	13	punct	_	_
+13	miassn	_	AUX	_	_	2	aux	_	_
+14	de	_	DET	_	_	2	dep	_	_
+15	Gschicht	_	NOUN	_	_	2	dep	_	_
+16-17	fum	_	_	_	_	_	_	_	_
+16	fu	_	ADP	_	_	17	case	_	_
+17	m	_	PRON	_	_	15	nmod	_	_
+18	Dazzlwuam	_	NOUN	_	_	15	obl	_	_
+19	ned	_	ADV	_	_	2	dep	_	_
+20	umbedingt	_	ADV	_	_	2	dep	_	_
+21	kompet	_	ADV	_	_	2	dep	_	_
+22	aus	_	ADP	_	_	2	dep	_	_
+23	da	_	DET	_	_	24	det	_	_
+24	Fantasi	_	NOUN	_	_	22	nmod	_	_
+25	fu	_	ADP	_	_	26	case	_	_
+26	de	_	DET	_	_	27	det	_	_
+27	Leit	_	NOUN	_	_	24	nmod	_	_
+28	fria	_	ADV	_	_	29	advmod	_	_
+29	entschbrunga	_	VERB	_	_	24	obl	_	_
+30	sei	_	AUX	_	_	29	aux	_	_
+31	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = sid_de-ba_natural_81
+# text = Lösch den Wecker um Simme.
+1	Lösch	_	VERB	_	_	0	root	_	_
+2	den	_	DET	_	_	3	det	_	_
+3	Wecker	_	NOUN	_	_	1	obj	_	_
+4	um	_	ADP	_	_	5	case	_	_
+5	Simme	_	NOUN	_	_	1	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = sid_de-ba_natural_7
+# text = bitte des liadl a nu dazua doa
+1	bitte	_	ADV	_	_	2	advmod	_	_
+2	des	_	DET	_	_	3	det	_	_
+3	liadl	_	NOUN	_	_	0	root	_	_
+4	a	_	ADV	_	_	3	advmod	_	_
+5	nu	_	ADV	_	_	3	advmod	_	_
+6	dazua	_	ADV	_	_	3	advmod	_	_
+7	doa	_	ADV	_	_	3	advmod	_	_
+
+# sent_id = xsid_de-st_valid_197
+# text = Weart der Wind gschnochts do wo i grot bin nochlossn?
+1	Weart	_	PRON	_	_	2	nsubj	_	_
+2	der	_	DET	_	_	0	root	_	_
+3	Wind	_	NOUN	_	_	2	compound	_	_
+4	gschnochts	_	ADV	_	_	2	advmod	_	_
+5	do	_	ADV	_	_	2	advmod	_	_
+6	wo	_	ADV	_	_	2	advmod	_	_
+7	i	_	PRON	_	_	2	expl	_	_
+8	grot	_	ADJ	_	_	9	amod	_	_
+9	bin	_	VERB	_	_	2	advcl	_	_
+10	nochlossn	_	ADV	_	_	9	advmod	_	_
+11	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Genitif_4
+# text = Gez ruig one maina waida!
+1	Gez	_	PRON	_	_	2	nsubj	_	_
+2	ruig	_	VERB	_	_	0	root	_	_
+3	one	_	DET	_	_	4	det	_	_
+4	maina	_	NOUN	_	_	2	obj	_	_
+5	waida	_	ADV	_	_	2	advmod	_	_
+6	!	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = xsid_de-st_valid_193
+# text = Spiel iber Spotify eppis vu die 80er
+1	Spiel	_	VERB	_	_	0	root	_	_
+2	iber	_	ADP	_	_	3	case	_	_
+3	Spotify	_	PROPN	_	_	1	obl	_	_
+4	eppis	_	ADV	_	_	1	advmod	_	_
+5	vu	_	ADP	_	_	6	case	_	_
+6	die	_	DET	_	_	7	det	_	_
+7	80er	_	NUM	_	_	1	obl	_	_
+
+# sent_id = xsid_de-ba_test_72
+# text = Erinner mi Miete zum zoin.
+1	Erinner	_	VERB	_	_	0	root	_	_
+2	mi	_	PRON	_	_	1	obj	_	_
+3	Miete	_	NOUN	_	_	1	obl	_	_
+4-5	zum	_	_	_	_	_	_	_	_
+4	zu	_	ADP	_	_	5	case	_	_
+5	m	_	PRON	_	_	3	nmod	_	_
+6	zoin	_	VERB	_	_	1	advmod	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Verbn_7
+# text = Da Votter sogt, er hout garwat.
+1	Da	_	DET	_	_	2	det	_	_
+2	Votter	_	NOUN	_	_	4	nsubj	_	_
+3	sogt	_	VERB	_	_	4	cop	_	_
+4	,	_	PRON	_	_	0	root	_	_
+5	er	_	AUX	_	_	4	aux	_	_
+6	hout	_	ADJ	_	_	4	amod	_	_
+7	garwat	_	PUNCT	_	_	4	punct	_	_
+8	.	_	_	_	_	4	dep	_	_
+
+# sent_id = cairo_17
+# text = Sie häd ihre Hoar macha soin, aber hods aus irgendoam Grund an dem Dog ned gmacht.
+1	Sie	_	PRON	_	_	2	nsubj	_	_
+2	häd	_	AUX	_	_	0	root	_	_
+3	ihre	_	DET	_	_	4	det	_	_
+4	Hoar	_	NOUN	_	_	2	obj	_	_
+5	macha	_	VERB	_	_	2	xcomp	_	_
+6	soin	_	AUX	_	_	5	aux	_	_
+7	,	_	PUNCT	_	_	9	punct	_	_
+8	aber	_	ADV	_	_	9	advmod	_	_
+9	hod	_	AUX	_	_	2	ccomp	_	_
+10	s	_	PRON	_	_	9	obj	_	_
+11	aus	_	ADP	_	_	12	case	_	_
+12	irgendoam	_	DET	_	_	13	det	_	_
+13	Grund	_	NOUN	_	_	9	obl	_	_
+14	an	_	ADP	_	_	15	case	_	_
+15	dem	_	DET	_	_	16	det	_	_
+16	Dog	_	NOUN	_	_	13	nmod	_	_
+17	ned	_	ADV	_	_	18	advmod	_	_
+18	gmacht	_	VERB	_	_	9	conj	_	_
+19	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_6896804
+# text = Da Thomas foahrt mitn Radl aufm Gehsteig.
+1	Da	_	DET	_	_	2	det	_	_
+2	Thomas	_	PROPN	_	_	3	nsubj	_	_
+3	foahrt	_	VERB	_	_	0	root	_	_
+4-5	mitn	_	_	_	_	_	_	_	_
+4	mit	_	ADP	_	_	5	case	_	_
+5	n	_	DET	_	_	3	obl	_	_
+6	Radl	_	NOUN	_	_	5	nmod	_	_
+7-8	aufm	_	_	_	_	_	_	_	_
+7	auf	_	ADP	_	_	8	case	_	_
+8	m	_	DET	_	_	3	obl	_	_
+9	Gehsteig	_	NOUN	_	_	8	nmod	_	_
+10	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Pronomen_32
+# text = Da Mo, deam sei Kotz oghaut is.
+1	Da	_	DET	_	_	2	det	_	_
+2	Mo	_	NOUN	_	_	4	nsubj	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	deam	_	AUX	_	_	0	root	_	_
+5	sei	_	NOUN	_	_	4	obj	_	_
+6	Kotz	_	ADV	_	_	7	advmod	_	_
+7	oghaut	_	VERB	_	_	5	acl	_	_
+8	is	_	AUX	_	_	4	aux	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_Studentnfuada_4
+# text = Da Nam Studentnfuada kimmt dohea, dass oam des Zeigl beim Denga hejfa soi.
+1	Da	_	DET	_	_	2	det	_	_
+2	Nam	_	NOUN	_	_	12	nsubj	_	_
+3	Studentnfuada	_	NOUN	_	_	2	appos	_	_
+4	kimmt	_	VERB	_	_	12	csubj	_	_
+5	dohea	_	ADV	_	_	12	advmod	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	dass	_	SCONJ	_	_	8	mark	_	_
+8	oam	_	PRON	_	_	12	nsubj	_	_
+9	des	_	DET	_	_	10	det	_	_
+10	Zeigl	_	NOUN	_	_	8	nmod	_	_
+11-12	beim	_	_	_	_	_	_	_	_
+11	bei	_	ADP	_	_	12	case	_	_
+12	m	_	PRON	_	_	0	root	_	_
+13	Denga	_	NOUN	_	_	12	nmod	_	_
+14	hejfa	_	ADV	_	_	12	advmod	_	_
+15	soi	_	AUX	_	_	12	aux	_	_
+16	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = wiki_Haberertanz_3
+# text = Er soi um 1900 entstandn sein und wiard nua vo Burschn tanzt.
+1	Er	_	PRON	_	_	2	nsubj	_	_
+2	soi	_	AUX	_	_	0	root	_	_
+3	um	_	ADP	_	_	4	case	_	_
+4	1900	_	NUM	_	_	2	obl	_	_
+5	entstandn	_	ADJ	_	_	2	amod	_	_
+6	sein	_	AUX	_	_	2	aux	_	_
+7	und	_	CCONJ	_	_	8	cc	_	_
+8	wiard	_	AUX	_	_	2	conj	_	_
+9	nua	_	ADV	_	_	8	advmod	_	_
+10	vo	_	ADP	_	_	11	case	_	_
+11	Burschn	_	NOUN	_	_	8	obl	_	_
+12	tanzt	_	VERB	_	_	8	conj	_	_
+13	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Dazzlwuam_13
+# text = Dafia schbrechn foigende Argument:
+1	Dafia	_	PRON	_	_	4	nsubj	_	_
+2	schbrechn	_	VERB	_	_	0	root	_	_
+3	foigende	_	ADJ	_	_	4	amod	_	_
+4	Argument	_	NOUN	_	_	2	obj	_	_
+5	:	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = wiki_Haferltarock_23
+# text = Des gejt in Fimfaschrittn aso zou.
+1	Des	_	PRON	_	_	2	expl	_	_
+2	gejt	_	VERB	_	_	0	root	_	_
+3	in	_	ADP	_	_	4	case	_	_
+4	Fimfaschrittn	_	NOUN	_	_	2	obl	_	_
+5	aso	_	ADV	_	_	2	advmod	_	_
+6	zou	_	ADV	_	_	2	advmod	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = xsid_de-ba_test_77
+# text = Lösch alle meine Erinnerungen.
+1	Lösch	_	VERB	_	_	0	root	_	_
+2	alle	_	DET	_	_	3	det	_	_
+3	meine	_	PRON	_	_	1	nsubj	_	_
+4	Erinnerungen	_	NOUN	_	_	1	obj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Obwaller_4
+# text = Da Nom Obwaller is a im Nationalsozialismus efta auftaucht, wei einige Nazis so koassn homb.
+1	Da	_	DET	_	_	2	det	_	_
+2	Nom	_	NOUN	_	_	0	root	_	_
+3	Obwaller	_	PROPN	_	_	2	nmod	_	_
+4	is	_	AUX	_	_	2	cop	_	_
+5	a	_	ADV	_	_	2	advmod	_	_
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	PRON	_	_	7	nsubj	_	_
+7	m	_	ADV	_	_	2	advmod	_	_
+8	Nationalsozialismus	_	NOUN	_	_	2	nmod	_	_
+9	efta	_	ADV	_	_	2	advmod	_	_
+10	auftaucht	_	VERB	_	_	2	acl	_	_
+11	,	_	PUNCT	_	_	13	punct	_	_
+12	wei	_	SCONJ	_	_	13	mark	_	_
+13	einige	_	DET	_	_	10	advcl	_	_
+14	Nazis	_	DET	_	_	13	det	_	_
+15	so	_	NOUN	_	_	13	nsubj	_	_
+16	koassn	_	ADV	_	_	13	advmod	_	_
+17	homb	_	ADJ	_	_	13	amod	_	_
+18	.	_	VERB	_	_	13	cop	_	_
+
+# sent_id = xsid_de-st_valid_121
+# text = Lesch die Erinnerung firs Treffen in der Hitte
+1	Lesch	_	VERB	_	_	0	root	_	_
+2	die	_	DET	_	_	3	det	_	_
+3	Erinnerung	_	NOUN	_	_	1	obj	_	_
+4-5	firs	_	_	_	_	_	_	_	_
+4	fir	_	ADP	_	_	5	case	_	_
+5	s	_	PRON	_	_	1	obl	_	_
+6	Treffen	_	NOUN	_	_	5	nmod	_	_
+7	in	_	ADP	_	_	8	case	_	_
+8	der	_	DET	_	_	9	det	_	_
+9	Hitte	_	NOUN	_	_	6	nmod	_	_
+
+# sent_id = wiki_Walsch_20
+# text = Unter der "Walschn Kronkatkat" versteaht man in der oltn Viechmedizin a gferlichs Kopfkatarr va die Rinder.
+1	Unter	_	ADP	_	_	2	case	_	_
+2	der	_	DET	_	_	3	det	_	_
+3	"	_	PUNCT	_	_	4	punct	_	_
+4	Walschn	_	ADJ	_	_	5	amod	_	_
+5	Kronkatkat	_	NOUN	_	_	0	root	_	_
+6	"	_	PUNCT	_	_	5	punct	_	_
+7	versteaht	_	VERB	_	_	5	acl	_	_
+8	man	_	PRON	_	_	7	nsubj	_	_
+9	in	_	ADP	_	_	10	case	_	_
+10	der	_	DET	_	_	11	det	_	_
+11	oltn	_	ADJ	_	_	12	amod	_	_
+12	Viechmedizin	_	NOUN	_	_	7	obl	_	_
+13	a	_	DET	_	_	14	det	_	_
+14	gferlichs	_	ADJ	_	_	15	amod	_	_
+15	Kopfkatarr	_	NOUN	_	_	7	obl	_	_
+16	va	_	ADP	_	_	17	case	_	_
+17	die	_	DET	_	_	18	det	_	_
+18	Rinder	_	NOUN	_	_	15	nmod	_	_
+19	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = sid_de-ba_natural_227
+# text = Bewerte des neie Buach vo da Moyes mit 4 Sterne
+1	Bewerte	_	VERB	_	_	0	root	_	_
+2	des	_	DET	_	_	3	det	_	_
+3	neie	_	ADJ	_	_	4	amod	_	_
+4	Buach	_	NOUN	_	_	1	obj	_	_
+5	vo	_	ADP	_	_	6	case	_	_
+6	da	_	DET	_	_	4	nmod	_	_
+7	Moyes	_	PROPN	_	_	6	nmod	_	_
+8	mit	_	ADP	_	_	9	case	_	_
+9	4	_	NUM	_	_	1	obl	_	_
+10	Sterne	_	NOUN	_	_	9	nmod	_	_
+
+# sent_id = wiki_Sauschädelstöhln_6
+# text = Danoch gibts beim Durfwirtn de Grichtsvahaundlung, dazua wird vurhea da Vursitzende Rod (Richta) bstimmt.
+1	Danoch	_	ADV	_	_	2	advmod	_	_
+2	gibt	_	VERB	_	_	0	root	_	_
+3	s	_	PRON	_	_	2	nsubj	_	_
+4-5	beim	_	_	_	_	_	_	_	_
+4	bei	_	ADP	_	_	5	case	_	_
+5	m	_	DET	_	_	6	det	_	_
+6	Durfwirtn	_	NOUN	_	_	2	obl	_	_
+7	de	_	DET	_	_	8	det	_	_
+8	Grichtsvahaundlung	_	NOUN	_	_	6	nmod	_	_
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	dazua	_	ADV	_	_	11	advmod	_	_
+11	wird	_	VERB	_	_	2	conj	_	_
+12	vurhea	_	ADV	_	_	11	advmod	_	_
+13	da	_	DET	_	_	14	det	_	_
+14	Vursitzende	_	NOUN	_	_	11	nsubj	_	_
+15	Rod	_	PROPN	_	_	14	appos	_	_
+16	(	_	NOUN	_	_	15	appos	_	_
+17	Richta	_	VERB	_	_	11	conj	_	_
+18	)	_	PUNCT	_	_	2	punct	_	_
+19	bstimmt	_	_	_	_	2	dep	_	_
+20	.	_	_	_	_	2	dep	_	_
+
+# sent_id = wiki_Webseitn_4
+# text = De Basissproch bei da Eastellung vo Netzseitn is HTML.
+1	De	_	DET	_	_	2	det	_	_
+2	Basissproch	_	NOUN	_	_	4	nsubj	_	_
+3	bei	_	ADP	_	_	4	case	_	_
+4	da	_	DET	_	_	0	root	_	_
+5	Eastellung	_	NOUN	_	_	4	obl	_	_
+6	vo	_	ADP	_	_	7	case	_	_
+7	Netzseitn	_	NOUN	_	_	5	nmod	_	_
+8	is	_	AUX	_	_	4	cop	_	_
+9	HTML	_	PROPN	_	_	4	obl	_	_
+10	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = sid_de-ba_natural_226
+# text = bewert des Buach "der Märchenerzähler" mit 5 Sternen.
+1	bewert	_	VERB	_	_	0	root	_	_
+2	des	_	DET	_	_	3	det	_	_
+3	Buach	_	NOUN	_	_	1	obj	_	_
+4	"	_	PUNCT	_	_	5	punct	_	_
+5	der	_	DET	_	_	6	det	_	_
+6	Märchenerzähler	_	NOUN	_	_	3	appos	_	_
+7	"	_	PUNCT	_	_	5	punct	_	_
+8	mit	_	ADP	_	_	9	case	_	_
+9	5	_	NUM	_	_	1	obl	_	_
+10	Sternen	_	NOUN	_	_	9	nmod	_	_
+11	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wikisample_Boarische-Grammatik-Präpositiona_53
+# text = Vo Låndshout å bin'e schnöller gforn.
+1	Vo	_	ADP	_	_	2	case	_	_
+2	Låndshout	_	PROPN	_	_	4	nmod	_	_
+3	å	_	AUX	_	_	4	aux	_	_
+4	bin	_	VERB	_	_	0	root	_	_
+5	'e	_	DET	_	_	6	det	_	_
+6	schnöller	_	ADJ	_	_	4	obj	_	_
+7	gforn	_	ADV	_	_	4	advmod	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = sid_de-ba_natural_241
+# text = Wo werd grod Romeo und Julia im Theater gspuit
+1	Wo	_	ADV	_	_	0	root	_	_
+2	werd	_	AUX	_	_	3	aux	_	_
+3	grod	_	ADV	_	_	1	advmod	_	_
+4	Romeo	_	PROPN	_	_	1	dep	_	_
+5	und	_	CCONJ	_	_	6	cc	_	_
+6	Julia	_	PROPN	_	_	4	conj	_	_
+7-8	im	_	_	_	_	_	_	_	_
+7	i	_	ADV	_	_	8	advmod	_	_
+8	m	_	ADP	_	_	9	case	_	_
+9	Theater	_	NOUN	_	_	1	obl	_	_
+10	gspuit	_	VERB	_	_	1	conj	_	_
+
+# sent_id = wiki_Studentnfuada_8
+# text = Insgsomt soagt des fira schnälle, oohoitnde Leistungssteigarung, ohne doss da Keapa vo zvui Vadaungsarbat belost werad.
+1	Insgsomt	_	ADV	_	_	2	advmod	_	_
+2	soagt	_	VERB	_	_	0	root	_	_
+3	des	_	DET	_	_	4	det	_	_
+4	fir	_	ADP	_	_	2	obl	_	_
+5	a	_	DET	_	_	6	det	_	_
+6	schnälle	_	ADJ	_	_	4	nmod	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	oohoitnde	_	ADJ	_	_	9	amod	_	_
+9	Leistungssteigarung	_	NOUN	_	_	4	nmod	_	_
+10	,	_	PUNCT	_	_	11	punct	_	_
+11	ohne	_	ADP	_	_	12	case	_	_
+12	doss	_	SCONJ	_	_	2	obl	_	_
+13	da	_	DET	_	_	14	det	_	_
+14	Keapa	_	NOUN	_	_	12	nmod	_	_
+15	vo	_	ADP	_	_	16	case	_	_
+16	z	_	DET	_	_	17	det	_	_
+17	vui	_	ADJ	_	_	18	amod	_	_
+18	Vadaungsarbat	_	NOUN	_	_	14	nmod	_	_
+19	belost	_	ADJ	_	_	18	amod	_	_
+20	werad	_	AUX	_	_	2	aux	_	_
+21	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = sid_de-ba_natural_19
+# text = reservierst ma bitte an Disch im Zeitlos fürn Brunch?
+1	reservierst	_	VERB	_	_	0	root	_	_
+2	ma	_	PRON	_	_	1	expl	_	_
+3	bitte	_	ADV	_	_	1	advmod	_	_
+4	an	_	ADP	_	_	5	case	_	_
+5	Disch	_	NOUN	_	_	1	obl	_	_
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	ADP	_	_	7	case	_	_
+7	m	_	PRON	_	_	5	nmod	_	_
+8	Zeitlos	_	PROPN	_	_	7	nmod	_	_
+9-10	fürn	_	_	_	_	_	_	_	_
+9	für	_	ADP	_	_	10	case	_	_
+10	n	_	DET	_	_	11	det	_	_
+11	Brunch	_	NOUN	_	_	1	obl	_	_
+12	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = wiki_Haferltarock_17
+# text = Wenn koana spuin wui wiad zamgschmissn und da naxde mou gem.
+1	Wenn	_	SCONJ	_	_	4	mark	_	_
+2	koana	_	PRON	_	_	4	nsubj	_	_
+3	spuin	_	VERB	_	_	4	cop	_	_
+4	wui	_	VERB	_	_	0	root	_	_
+5	wiad	_	AUX	_	_	4	aux	_	_
+6	zamgschmissn	_	VERB	_	_	4	xcomp	_	_
+7	und	_	CCONJ	_	_	8	cc	_	_
+8	da	_	DET	_	_	9	det	_	_
+9	naxde	_	ADJ	_	_	10	nsubj	_	_
+10	mou	_	VERB	_	_	4	conj	_	_
+11	gem	_	AUX	_	_	10	aux	_	_
+12	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = wiki_J-Pop_8
+# text = Im deitschschbrouchign Raum is J-Pop vorajm bai Anime-Fans populer.
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	m	_	VERB	_	_	0	root	_	_
+3	deitschschbrouchign	_	ADJ	_	_	2	advmod	_	_
+4	Raum	_	NOUN	_	_	2	obj	_	_
+5	is	_	AUX	_	_	2	cop	_	_
+6	J-Pop	_	PROPN	_	_	7	nmod	_	_
+7-8	vorajm	_	_	_	_	_	_	_	_
+7	vor	_	ADP	_	_	8	case	_	_
+8	ajm	_	DET	_	_	9	det	_	_
+9	bai	_	ADJ	_	_	10	amod	_	_
+10	Anime-Fans	_	NOUN	_	_	2	obl	_	_
+11	populer	_	ADJ	_	_	10	amod	_	_
+12	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tatoeba_7154447
+# text = Glei gib i s'da.
+1	Glei	_	ADV	_	_	2	advmod	_	_
+2	gib	_	VERB	_	_	0	root	_	_
+3	i	_	PRON	_	_	2	nsubj	_	_
+4	s'	_	PRON	_	_	2	obj	_	_
+5	da	_	DET	_	_	4	det	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+

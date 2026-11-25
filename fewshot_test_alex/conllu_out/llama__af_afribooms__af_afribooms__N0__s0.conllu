@@ -1,0 +1,4836 @@
+# sent_id = test-s182
+# text = President Mandela het 'n sentrale rol gespeel om die land te help om die gasheerregte vir hierdie groot geleentheid te wen.
+1	President	Mandela	PROPN	NNP	_	0	root	_	_
+2	Mandela	_	AUX	VBZ	_	3	aux	_	_
+3	het	_	DET	DT	_	4	det	_	_
+4	'n	_	ADJ	JJ	_	5	amod	_	_
+5	sentrale	_	NOUN	NN	_	1	nmod	_	_
+6	rol	_	VERB	VBN	_	1	compound	_	_
+7	gespeel	_	ADP	IN	_	1	dep	_	_
+8	om	_	DET	DT	_	9	det	_	_
+9	die	_	NOUN	NN	_	7	nmod	_	_
+10	land	_	ADP	TO	_	11	case	_	_
+11	te	_	VERB	VB	_	9	acl	_	_
+12	help	_	ADP	IN	_	1	dep	_	_
+13	om	_	DET	DT	_	14	det	_	_
+14	die	_	NOUN	NN	_	12	nmod	_	_
+15	gasheerregte	_	ADP	IN	_	1	dep	_	_
+16	vir	_	DET	DT	_	17	det	_	_
+17	hierdie	_	ADJ	JJ	_	18	amod	_	_
+18	groot	_	NOUN	NN	_	15	nmod	_	_
+19	geleentheid	_	ADP	TO	_	20	case	_	_
+20	te	_	VERB	VB	_	14	acl	_	_
+21	wen	_	PUNCT	.	_	1	punct	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s419
+# text = Dit word stadig maar seker sterker, en dit word ondersteun deur 'n Grondwet wat nêrens ter wêreld geëwenaar kan word nie.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	word	word	VERB	VBZ	_	0	root	_	_
+3	stadig	stadig	ADV	ADV	_	2	advmod	_	_
+4	maar	maar	CCONJ	CC	_	2	cc	_	_
+5	seker	sterk	ADJ	JJ	_	2	advmod	_	_
+6	sterker	,	PUNCT	,	_	2	punct	_	_
+7	,	en	CCONJ	CC	_	2	cc	_	_
+8	en	dit	PRON	PRP	_	2	nsubj	_	_
+9	dit	word	VERB	VBZ	_	2	advmod	_	_
+10	word	ondersteun	VERB	VB	_	2	conj	_	_
+11	ondersteun	'dr	NOUN	NN	_	10	obj	_	_
+12	deur	'n	DET	DT	_	13	det	_	_
+13	'n	Grondwet	NOUN	NN	_	11	nmod	_	_
+14	Grondwet	wat	ADV	ADV	_	13	advmod	_	_
+15	wat	nêrens	ADV	ADV	_	13	advmod	_	_
+16	nêrens	ter	ADP	IN	_	15	case	_	_
+17	ter	wêreld	NOUN	NN	_	16	nmod	_	_
+18	wêreld	geëwenaar	ADJ	JJ	_	17	amod	_	_
+19	geëwenaar	kom	VERB	VB	_	18	acl	_	_
+20	kan	,	PUNCT	,	_	2	punct	_	_
+21	word	.	PUNCT	.	_	2	punct	_	_
+22	nie	_	_	_	_	2	dep	_	_
+23	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s199
+# text = In Suid-Afrika het dit ook die inhoud van die 1989 Konferensie vir 'n Demokratiese Toekoms bepaal- wat patriotte vanuit byna alle vlakke van die samelewing verenig het.
+1	In	In	ADP	_	_	2	case	_	_
+2	Suid-Afrika	Suid-Afrika	NOUN	NN	_	3	nmod	_	_
+3	het	het	AUX	VBZ	_	0	root	_	_
+4	dit	dit	PRON	DT	_	3	nsubj	_	_
+5	ook	ook	ADV	RB	_	3	advmod	_	_
+6	die	die	DET	DT	_	7	det	_	_
+7	inhoud	inhoud	NOUN	NN	_	3	obj	_	_
+8	van	van	ADP	IN	_	7	case	_	_
+9	die	die	DET	DT	_	10	det	_	_
+10	1989	Konferensie	NOUN	NN	_	7	nmod	_	_
+11	Konferensie	vir	ADP	IN	_	10	case	_	_
+12	vir	'n	DET	DT	_	13	det	_	_
+13	'n	Demokraties	NOUN	NN	_	11	nmod	_	_
+14	Demokratiese	Toekoms	NOUN	NN	_	13	nmod	_	_
+15	Toekoms	-	PUNCT	-	_	13	punct	_	_
+16	bepaal	wat	PRON	WDT	_	17	nsubj	_	_
+17	-	patriot	NOUN	NN	_	13	nmod	_	_
+18	wat	van	ADP	IN	_	17	case	_	_
+19	patriotte	uit	ADP	IN	_	18	case	_	_
+20	vanuit	byna	ADV	RB	_	21	advmod	_	_
+21	byna	alle	DET	DT	_	22	det	_	_
+22	alle	vlak	NOUN	NN	_	19	nmod	_	_
+23	vlakke	van	ADP	IN	_	22	case	_	_
+24	van	die	DET	DT	_	25	det	_	_
+25	die	saam	ADP	IN	_	23	case	_	_
+26	samelewing	lewe	NOUN	NN	_	25	nmod	_	_
+27	verenig	verenig	VERB	VBN	_	3	acl	_	_
+28	het	het	AUX	VBZ	_	27	aux	_	_
+29	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s13
+# text = Ek wil beklemtoon dat dit nie poste in die hoofstroom-ekonomie is nie.
+1	Ek	_	_	_	_	2	dep	_	_
+2	wil	wil	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	beklemtoon	beklemtoon	VERB	VERB	Aspect=Perf|VerbForm=Part	2	xcomp	_	_
+4	dat	dat	SCONJ	SCONJ	_	6	mark	_	_
+5	dit	dit	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	nie	nie	PART	PART	Polarity=Neg	3	ccomp	_	_
+7	poste	poste	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	6	obj	_	_
+8	in	in	ADP	ADP	_	9	case	_	_
+9	die	die	DET	DET	Definite=Def|PronType=Art	10	det	_	_
+10	hoofstroom-ekonomie	hofstroom-ekonomie	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	_
+11	is	is	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+12	nie	nie	PART	PART	Polarity=Neg	13	advmod	_	_
+13	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s85
+# text = Dit sluit in die bou en opgradering van hospitale en klinieke en die verdere verbetering van die werksomstandighede van gesondheidswerkers.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	sluit	sluit	VERB	VBZ	_	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	die	die	DET	DT	_	5	det	_	_
+5	bou	bou	NOUN	NN	_	2	obj	_	_
+6	en	en	CCONJ	CC	_	5	cc	_	_
+7	opgradering	opgradering	NOUN	NN	_	5	conj	_	_
+8	van	en	CCONJ	CC	_	7	cc	_	_
+9	hospitale	verdere	ADJ	JJ	_	10	amod	_	_
+10	en	verbetering	NOUN	NN	_	7	conj	_	_
+11	klinieke	van	ADP	IN	_	12	case	_	_
+12	en	hospitaal	NOUN	NN	_	10	nmod	_	_
+13	die	en	CCONJ	CC	_	12	cc	_	_
+14	verdere	kliniek	NOUN	NN	_	12	conj	_	_
+15	verbetering	en	CCONJ	CC	_	14	cc	_	_
+16	van	verdere	ADJ	JJ	_	17	amod	_	_
+17	die	verbetering	NOUN	NN	_	14	conj	_	_
+18	werksomstandighede	van	ADP	IN	_	19	case	_	_
+19	van	gesondheidswerker	NOUN	NN	_	17	nmod	_	_
+20	gesondheidswerkers	.	PUNCT	.	_	2	punct	_	_
+21	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s189
+# text = Ek het gestry teen blanke oorheersing en ek het gestry teen swart oorheersing.
+1	Ek	_	_	_	_	2	dep	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gestry	stry	VERB	VERB	VerbForm=Part	2	xcomp	_	_
+4	teen	teen	ADP	ADP	_	5	case	_	_
+5	blanke	blank	ADJ	ADJ	Number=Sing	3	obl	_	_
+6	oorheersing	oorheersing	NOUN	NOUN	Number=Sing	5	nmod	_	_
+7	en	en	CCONJ	CCONJ	_	8	cc	_	_
+8	ek	swart	ADJ	ADJ	Number=Sing	5	conj	_	_
+9	het	oorheersing	NOUN	NOUN	Number=Sing	8	nmod	_	_
+10	gestry	.	PUNCT	PUNCT	_	2	punct	_	_
+11	teen	_	_	_	_	2	dep	_	_
+12	swart	_	_	_	_	2	dep	_	_
+13	oorheersing	_	_	_	_	2	dep	_	_
+14	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s223
+# text = Maar hoewel vroue omtrent 34% van alle senior poste in die Staatsdiens beklee, is dit minder as die teiken vir gelykheid wat ons vir onsself gestel het.
+1	Maar	_	_	_	_	0	root	_	_
+2	hoewel	_	_	_	_	1	dep	_	_
+3	vroue	_	_	_	_	1	dep	_	_
+4	omtrent	_	_	_	_	1	dep	_	_
+5	34%	_	_	_	_	1	dep	_	_
+6	van	_	_	_	_	1	dep	_	_
+7	alle	_	_	_	_	1	dep	_	_
+8	senior	_	_	_	_	1	dep	_	_
+9	poste	_	_	_	_	1	dep	_	_
+10	in	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	Staatsdiens	_	_	_	_	1	dep	_	_
+13	beklee	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	is	_	_	_	_	1	dep	_	_
+16	dit	_	_	_	_	1	dep	_	_
+17	minder	_	_	_	_	1	dep	_	_
+18	as	_	_	_	_	1	dep	_	_
+19	die	_	_	_	_	1	dep	_	_
+20	teiken	_	_	_	_	1	dep	_	_
+21	vir	_	_	_	_	1	dep	_	_
+22	gelykheid	_	_	_	_	1	dep	_	_
+23	wat	_	_	_	_	1	dep	_	_
+24	ons	_	_	_	_	1	dep	_	_
+25	vir	_	_	_	_	1	dep	_	_
+26	onsself	_	_	_	_	1	dep	_	_
+27	gestel	_	_	_	_	1	dep	_	_
+28	het	_	_	_	_	1	dep	_	_
+29	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s308
+# text = Die feit is dat die algehele misdaadkoers, nadat dit in 2002 'n hoogtepunt bereik het, bestendig gedaal het.
+1	Die	_	_	_	_	0	root	_	_
+2	feit	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	dat	_	_	_	_	1	dep	_	_
+5	die	_	_	_	_	1	dep	_	_
+6	algehele	_	_	_	_	1	dep	_	_
+7	misdaadkoers	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	nadat	_	_	_	_	1	dep	_	_
+10	dit	_	_	_	_	1	dep	_	_
+11	in	_	_	_	_	1	dep	_	_
+12	2002	_	_	_	_	1	dep	_	_
+13	'n	_	_	_	_	1	dep	_	_
+14	hoogtepunt	_	_	_	_	1	dep	_	_
+15	bereik	_	_	_	_	1	dep	_	_
+16	het	_	_	_	_	1	dep	_	_
+17	,	_	_	_	_	1	dep	_	_
+18	bestendig	_	_	_	_	1	dep	_	_
+19	gedaal	_	_	_	_	1	dep	_	_
+20	het	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s394
+# text = Hierdie inisiatief kan ons aanspoor om saam te werk met ander lande op ons vasteland en verderweg om die toestande van mense te verbeter.
+1	Hierdie	inisiatief	NOUN	NN	_	2	nsubj	_	_
+2	inisiatief	kan	AUX	VBZ	_	0	root	_	_
+3	kan	ons	PRON	PRP	_	2	nsubj	_	_
+4	ons	aanspoor	VERB	VB	_	2	xcomp	_	_
+5	aanspoor	om	ADP	IN	_	6	case	_	_
+6	om	saam	ADV	RB	_	4	advmod	_	_
+7	saam	te	PART	TO	_	8	mark	_	_
+8	te	werk	VERB	VB	_	4	xcomp	_	_
+9	werk	met	ADP	IN	_	10	case	_	_
+10	met	ander	ADJ	JJ	_	8	obl	_	_
+11	ander	land	NOUN	NN	_	10	nmod	_	_
+12	lande	op	ADP	IN	_	13	case	_	_
+13	op	ons	PRON	PRP	_	10	nmod	_	_
+14	ons	vasteland	NOUN	NN	_	12	nmod	_	_
+15	vasteland	en	CCONJ	CC	_	16	cc	_	_
+16	en	verderweg	ADV	RB	_	8	advmod	_	_
+17	verderweg	om	ADP	IN	_	2	dep	_	_
+18	om	die	DET	DT	_	2	dep	_	_
+19	die	toestand	NOUN	NN	_	18	nmod	_	_
+20	toestande	van	ADP	IN	_	21	case	_	_
+21	van	mens	NOUN	NN	_	19	nmod	_	_
+22	mense	te	PART	TO	_	23	mark	_	_
+23	te	verbeter	VERB	VB	_	4	xcomp	_	_
+24	verbeter	_	_	_	_	2	dep	_	_
+25	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s122
+# text = Ons het gesê hulle moet sportsentrums en beter inkopiesentrums hê soos dié in die stede.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	gesê	gesê	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
+4	hulle	hulle	PRON	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+5	moet	moet	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	sportsentrums	sportsentrums	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+7	en	hê	VERB	VERB	Aspect=Perf|VerbForm=Part	3	ccomp	_	_
+8	beter	en	CCONJ	CCONJ	_	9	cc	_	_
+9	inkopiesentrums	beter	ADJ	ADJ	Degree=Cmp	7	conj	_	_
+10	hê	inkopiesentrums	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	7	conj	_	_
+11	soos	hê	VERB	VERB	Aspect=Perf|VerbForm=Part	7	ccomp	_	_
+12	dié	soos	SCONJ	SCONJ	_	13	mark	_	_
+13	in	dié	DET	DET	Definite=Def|PronType=Dem	14	det	_	_
+14	die	in	ADP	ADP	_	15	case	_	_
+15	stede	_	_	_	_	3	dep	_	_
+16	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s278
+# text = Dit gee te kenne dat die armoede-situasie opmerklik verbeter het, veral onder mense wat die hoogste graad van welsynsontneming ervaar.
+1	Dit	_	_	_	_	0	root	_	_
+2	gee	_	_	_	_	1	dep	_	_
+3	te	_	_	_	_	1	dep	_	_
+4	kenne	_	_	_	_	1	dep	_	_
+5	dat	_	_	_	_	1	dep	_	_
+6	die	_	_	_	_	1	dep	_	_
+7	armoede-situasie	_	_	_	_	1	dep	_	_
+8	opmerklik	_	_	_	_	1	dep	_	_
+9	verbeter	_	_	_	_	1	dep	_	_
+10	het	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	veral	_	_	_	_	1	dep	_	_
+13	onder	_	_	_	_	1	dep	_	_
+14	mense	_	_	_	_	1	dep	_	_
+15	wat	_	_	_	_	1	dep	_	_
+16	die	_	_	_	_	1	dep	_	_
+17	hoogste	_	_	_	_	1	dep	_	_
+18	graad	_	_	_	_	1	dep	_	_
+19	van	_	_	_	_	1	dep	_	_
+20	welsynsontneming	_	_	_	_	1	dep	_	_
+21	ervaar	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s257
+# text = Dus behoort die vraag of groei regverdig verdeel word 'n sentrale aspek van alle ekonomiese oorwegings te wees.
+1	Dus	_	_	_	_	0	root	_	_
+2	behoort	_	_	_	_	1	dep	_	_
+3	die	_	_	_	_	1	dep	_	_
+4	vraag	_	_	_	_	1	dep	_	_
+5	of	_	_	_	_	1	dep	_	_
+6	groei	_	_	_	_	1	dep	_	_
+7	regverdig	_	_	_	_	1	dep	_	_
+8	verdeel	_	_	_	_	1	dep	_	_
+9	word	_	_	_	_	1	dep	_	_
+10	'n	_	_	_	_	1	dep	_	_
+11	sentrale	_	_	_	_	1	dep	_	_
+12	aspek	_	_	_	_	1	dep	_	_
+13	van	_	_	_	_	1	dep	_	_
+14	alle	_	_	_	_	1	dep	_	_
+15	ekonomiese	_	_	_	_	1	dep	_	_
+16	oorwegings	_	_	_	_	1	dep	_	_
+17	te	_	_	_	_	1	dep	_	_
+18	wees	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s150
+# text = Ons benodig staatsamptenare wat toegewyd en bekwaam is en wat na landsburgers se behoeftes omsien.
+1	Ons	_	_	_	_	0	root	_	_
+2	benodig	_	_	_	_	1	dep	_	_
+3	staatsamptenare	_	_	_	_	1	dep	_	_
+4	wat	_	_	_	_	1	dep	_	_
+5	toegewyd	_	_	_	_	1	dep	_	_
+6	en	_	_	_	_	1	dep	_	_
+7	bekwaam	_	_	_	_	1	dep	_	_
+8	is	_	_	_	_	1	dep	_	_
+9	en	_	_	_	_	1	dep	_	_
+10	wat	_	_	_	_	1	dep	_	_
+11	na	_	_	_	_	1	dep	_	_
+12	landsburgers	_	_	_	_	1	dep	_	_
+13	se	_	_	_	_	1	dep	_	_
+14	behoeftes	_	_	_	_	1	dep	_	_
+15	omsien	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s18
+# text = Ons weet egter dat hierdie en ander maatreëls nie die uitwerkings van die resessie heeltemal kan temper nie.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	weet	weet	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	egter	egter	ADV	ADV	_	2	advmod	_	_
+4	dat	dat	SCONJ	SCONJ	_	2	dep	_	_
+5	hierdie	hierdie	DET	DET	Definite=Def|PronType=Dem	2	dep	_	_
+6	en	en	CCONJ	CCONJ	_	7	cc	_	_
+7	ander	ander	ADJ	ADJ	_	5	conj	_	_
+8	maatreëls	maatreël	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+9	nie	nie	PART	PART	Polarity=Neg	10	advmod	_	_
+10	die	die	DET	DET	Definite=Def|PronType=Art	11	det	_	_
+11	uitwerkings	uitwerking	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	8	nmod	_	_
+12	van	heel	ADJ	ADJ	_	11	amod	_	_
+13	die	temper	VERB	VERB	VerbForm=Inf	8	acl	_	_
+14	resessie	heel	ADJ	ADJ	_	13	amod	_	_
+15	heeltemal	temper	VERB	VERB	VerbForm=Inf	8	acl	_	_
+16	kan	heel	ADJ	ADJ	_	15	amod	_	_
+17	temper	temper	VERB	VERB	VerbForm=Inf	8	acl	_	_
+18	nie	heel	ADJ	ADJ	_	17	amod	_	_
+19	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s77
+# text = Ons moet in ons jeug belê ten einde 'n vaardige en bekwame werksmag te verseker wat groei en werkskepping ondersteun.
+1	Ons	_	_	_	_	0	root	_	_
+2	moet	_	_	_	_	1	dep	_	_
+3	in	_	_	_	_	1	dep	_	_
+4	ons	_	_	_	_	1	dep	_	_
+5	jeug	_	_	_	_	1	dep	_	_
+6	belê	_	_	_	_	1	dep	_	_
+7	ten	_	_	_	_	1	dep	_	_
+8	einde	_	_	_	_	1	dep	_	_
+9	'n	_	_	_	_	1	dep	_	_
+10	vaardige	_	_	_	_	1	dep	_	_
+11	en	_	_	_	_	1	dep	_	_
+12	bekwame	_	_	_	_	1	dep	_	_
+13	werksmag	_	_	_	_	1	dep	_	_
+14	te	_	_	_	_	1	dep	_	_
+15	verseker	_	_	_	_	1	dep	_	_
+16	wat	_	_	_	_	1	dep	_	_
+17	groei	_	_	_	_	1	dep	_	_
+18	en	_	_	_	_	1	dep	_	_
+19	werkskepping	_	_	_	_	1	dep	_	_
+20	ondersteun	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s256
+# text = Welvaart word geskep om mense se lewenskwaliteit te verbeter.
+1	Welvaart	welvaart	NOUN	NN	_	0	root	_	_
+2	word	word	VERB	VBZ	_	1	dep	_	_
+3	geskep	geskep	VERB	VBN	_	1	dep	_	_
+4	om	om	ADP	IN	_	5	case	_	_
+5	mense	mens	NOUN	NN	_	7	nmod	_	_
+6	se	se	DET	DT	_	5	det	_	_
+7	lewenskwaliteit	lewenkwaliteit	NOUN	NN	_	3	obj	_	_
+8	te	te	ADP	IN	_	9	case	_	_
+9	verbeter	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s71
+# text = Die uitslae sal aan die ouers gestuur word om vordering te monitor.
+1	Die	_	_	_	_	0	root	_	_
+2	uitslae	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	aan	_	_	_	_	1	dep	_	_
+5	die	_	_	_	_	1	dep	_	_
+6	ouers	_	_	_	_	1	dep	_	_
+7	gestuur	_	_	_	_	1	dep	_	_
+8	word	_	_	_	_	1	dep	_	_
+9	om	_	_	_	_	1	dep	_	_
+10	vordering	_	_	_	_	1	dep	_	_
+11	te	_	_	_	_	1	dep	_	_
+12	monitor	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s92
+# text = Ons sal al die ondernemings wat op Wêreldvigsdag met betrekking tot die voorkoming van nuwe MIV-infeksies en die behandeling daarvan gemaak is, implementeer.
+1	Ons	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	al	_	_	_	_	1	dep	_	_
+4	die	_	_	_	_	1	dep	_	_
+5	ondernemings	_	_	_	_	1	dep	_	_
+6	wat	_	_	_	_	1	dep	_	_
+7	op	_	_	_	_	1	dep	_	_
+8	Wêreldvigsdag	_	_	_	_	1	dep	_	_
+9	met	_	_	_	_	1	dep	_	_
+10	betrekking	_	_	_	_	1	dep	_	_
+11	tot	_	_	_	_	1	dep	_	_
+12	die	_	_	_	_	1	dep	_	_
+13	voorkoming	_	_	_	_	1	dep	_	_
+14	van	_	_	_	_	1	dep	_	_
+15	nuwe	_	_	_	_	1	dep	_	_
+16	MIV-infeksies	_	_	_	_	1	dep	_	_
+17	en	_	_	_	_	1	dep	_	_
+18	die	_	_	_	_	1	dep	_	_
+19	behandeling	_	_	_	_	1	dep	_	_
+20	daarvan	_	_	_	_	1	dep	_	_
+21	gemaak	_	_	_	_	1	dep	_	_
+22	is	_	_	_	_	1	dep	_	_
+23	,	_	_	_	_	1	dep	_	_
+24	implementeer	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s171
+# text = Ek wil weer van hierdie geleentheid gebruik maak om ons almal se diepe meegevoel te betuig teenoor die Regering en die mense van Haiti met die enorme tragedie wat hulle getref het.
+1	Ek	_	_	_	_	0	root	_	_
+2	wil	_	_	_	_	1	dep	_	_
+3	weer	_	_	_	_	1	dep	_	_
+4	van	_	_	_	_	1	dep	_	_
+5	hierdie	_	_	_	_	1	dep	_	_
+6	geleentheid	_	_	_	_	1	dep	_	_
+7	gebruik	_	_	_	_	1	dep	_	_
+8	maak	_	_	_	_	1	dep	_	_
+9	om	_	_	_	_	1	dep	_	_
+10	ons	_	_	_	_	1	dep	_	_
+11	almal	_	_	_	_	1	dep	_	_
+12	se	_	_	_	_	1	dep	_	_
+13	diepe	_	_	_	_	1	dep	_	_
+14	meegevoel	_	_	_	_	1	dep	_	_
+15	te	_	_	_	_	1	dep	_	_
+16	betuig	_	_	_	_	1	dep	_	_
+17	teenoor	_	_	_	_	1	dep	_	_
+18	die	_	_	_	_	1	dep	_	_
+19	Regering	_	_	_	_	1	dep	_	_
+20	en	_	_	_	_	1	dep	_	_
+21	die	_	_	_	_	1	dep	_	_
+22	mense	_	_	_	_	1	dep	_	_
+23	van	_	_	_	_	1	dep	_	_
+24	Haiti	_	_	_	_	1	dep	_	_
+25	met	_	_	_	_	1	dep	_	_
+26	die	_	_	_	_	1	dep	_	_
+27	enorme	_	_	_	_	1	dep	_	_
+28	tragedie	_	_	_	_	1	dep	_	_
+29	wat	_	_	_	_	1	dep	_	_
+30	hulle	_	_	_	_	1	dep	_	_
+31	getref	_	_	_	_	1	dep	_	_
+32	het	_	_	_	_	1	dep	_	_
+33	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s400
+# text = Ons is opreg bemoedig dat die Zimbabwiese Parlement gister Wysiging 19 van die Grondwet aanvaar het, wat die basis vorm vir die implementering van 'n inklusiewe regering.
+1	Ons	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	opreg	_	_	_	_	1	dep	_	_
+4	bemoedig	_	_	_	_	1	dep	_	_
+5	dat	_	_	_	_	1	dep	_	_
+6	die	_	_	_	_	1	dep	_	_
+7	Zimbabwiese	_	_	_	_	1	dep	_	_
+8	Parlement	_	_	_	_	1	dep	_	_
+9	gister	_	_	_	_	1	dep	_	_
+10	Wysiging	_	_	_	_	1	dep	_	_
+11	19	_	_	_	_	1	dep	_	_
+12	van	_	_	_	_	1	dep	_	_
+13	die	_	_	_	_	1	dep	_	_
+14	Grondwet	_	_	_	_	1	dep	_	_
+15	aanvaar	_	_	_	_	1	dep	_	_
+16	het	_	_	_	_	1	dep	_	_
+17	,	_	_	_	_	1	dep	_	_
+18	wat	_	_	_	_	1	dep	_	_
+19	die	_	_	_	_	1	dep	_	_
+20	basis	_	_	_	_	1	dep	_	_
+21	vorm	_	_	_	_	1	dep	_	_
+22	vir	_	_	_	_	1	dep	_	_
+23	die	_	_	_	_	1	dep	_	_
+24	implementering	_	_	_	_	1	dep	_	_
+25	van	_	_	_	_	1	dep	_	_
+26	'n	_	_	_	_	1	dep	_	_
+27	inklusiewe	_	_	_	_	1	dep	_	_
+28	regering	_	_	_	_	1	dep	_	_
+29	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s81
+# text = Ons het ook ambisieuse doelwitte gestel vir vaardigheidsontwikkeling om addisionele ingenieurs en tegnici te kweek en om die aantal gekwalifiseerde Wiskunde- en Wetenskaponderwysers te vermeerder.
+1	Ons	_	_	_	_	2	dep	_	_
+2	het	have	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ook	also	ADV	ADV	_	4	advmod	_	_
+4	ambisieuse	ambitious	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	advmod	_	_
+5	doelwitte	goals	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	4	nmod	_	_
+6	gestel	set	VERB	VERB	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
+7	vir	for	ADP	ADP	AdpType=Prep	8	case	_	_
+8	vaardigheidsontwikkeling	skills_development	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+9	om	to	ADP	ADP	AdpType=Prep	10	case	_	_
+10	addisionele	additional	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	nmod	_	_
+11	ingenieurs	engineers	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	10	nmod	_	_
+12	en	and	CCONJ	CCONJ	_	13	cc	_	_
+13	tegnici	technicians	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	11	conj	_	_
+14	te	to	ADP	ADP	AdpType=Prep	15	case	_	_
+15	kweek	grow	VERB	VERB	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	_
+16	en	and	CCONJ	CCONJ	_	17	cc	_	_
+17	om	to	ADP	ADP	AdpType=Prep	18	case	_	_
+18	die	about	ADP	ADP	AdpType=Prep	19	case	_	_
+19	aantal	about	ADP	ADP	AdpType=Prep	20	case	_	_
+20	gekwalifiseerde	about	ADP	ADP	AdpType=Prep	21	case	_	_
+21	Wiskunde-	about	ADP	ADP	AdpType=Prep	22	case	_	_
+22	en	about	ADP	ADP	AdpType=Prep	23	case	_	_
+23	Wetenskaponderwysers	about	ADP	ADP	AdpType=Prep	24	case	_	_
+24	te	about	ADP	ADP	AdpType=Prep	25	case	_	_
+25	vermeerder	about	ADP	ADP	AdpType=Prep	26	case	_	_
+26	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s29
+# text = Ons landelike ontwikkelingsprogram sal landelike produktiwiteit verhoog en die lewens van die mense in landelike gebiede verbeter.
+1	Ons	_	_	_	_	0	root	_	_
+2	landelike	_	_	_	_	1	dep	_	_
+3	ontwikkelingsprogram	_	_	_	_	1	dep	_	_
+4	sal	_	_	_	_	1	dep	_	_
+5	landelike	_	_	_	_	1	dep	_	_
+6	produktiwiteit	_	_	_	_	1	dep	_	_
+7	verhoog	_	_	_	_	1	dep	_	_
+8	en	_	_	_	_	1	dep	_	_
+9	die	_	_	_	_	1	dep	_	_
+10	lewens	_	_	_	_	1	dep	_	_
+11	van	_	_	_	_	1	dep	_	_
+12	die	_	_	_	_	1	dep	_	_
+13	mense	_	_	_	_	1	dep	_	_
+14	in	_	_	_	_	1	dep	_	_
+15	landelike	_	_	_	_	1	dep	_	_
+16	gebiede	_	_	_	_	1	dep	_	_
+17	verbeter	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s26
+# text = Ons langtermyn-infrastruktuurprogram sal ons help om vinniger te groei.
+1	Ons	_	_	_	_	2	dep	_	_
+2	langtermyn-infrastruktuurprogram	AUX	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sal	PRON	PRON	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	det	_	_
+4	ons	NOUN	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	help	ADP	ADP	ADP	AdpType=Post	4	case	_	_
+6	om	PRON	PRON	PRON	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+7	vinniger	VERB	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+8	te	ADP	ADP	ADP	AdpType=Pre	7	mark	_	_
+9	groei	ADJ	ADJ	ADJ	Case=Acc|Degree=Cmp|Number=Sing	10	amod	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s142
+# text = Ons sal harder met ons internasionale eweknieë moet saamwerk om 'n wettig bindende verdrag te beding.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	sal	sal	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	harder	harder	ADV	ADV	_	2	dep	_	_
+4	met	met	ADP	ADP	_	2	dep	_	_
+5	ons	ons	PRON	PRON	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nmod	_	_
+6	internasionale	internasionale	ADJ	ADJ	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
+7	eweknieë	eweknie	PROPN	PROPN	Case=Gen|Number=Plur	4	nmod	_	_
+8	moet	moet	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	saamwerk	saamwerk	VERB	VERB	VerbForm=Inf	8	xcomp	_	_
+10	om	om	ADP	ADP	_	11	case	_	_
+11	'n	'n	DET	DET	Definite=Ind|PronType=Art	12	det	_	_
+12	wettig	wettig	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Sing	13	amod	_	_
+13	bindende	bindende	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
+14	verdrag	verdrag	NOUN	NOUN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	obj	_	_
+15	te	te	ADP	ADP	_	16	case	_	_
+16	beding	beding	NOUN	NOUN	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	14	nmod	_	_
+17	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s364
+# text = Die Regering sal van sy kant af nywerheidsfinansiering en aansporings aanpas om die uitdagings in verskeie sektore beter te hanteer, en ook ontwikkelingsfinansieringsinstansies aanmoedig om firmas te help wat onder die krisis gebuk gaan.
+1	Die	_	_	_	_	0	root	_	_
+2	Regering	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	van	_	_	_	_	1	dep	_	_
+5	sy	_	_	_	_	1	dep	_	_
+6	kant	_	_	_	_	1	dep	_	_
+7	af	_	_	_	_	1	dep	_	_
+8	nywerheidsfinansiering	_	_	_	_	1	dep	_	_
+9	en	_	_	_	_	1	dep	_	_
+10	aansporings	_	_	_	_	1	dep	_	_
+11	aanpas	_	_	_	_	1	dep	_	_
+12	om	_	_	_	_	1	dep	_	_
+13	die	_	_	_	_	1	dep	_	_
+14	uitdagings	_	_	_	_	1	dep	_	_
+15	in	_	_	_	_	1	dep	_	_
+16	verskeie	_	_	_	_	1	dep	_	_
+17	sektore	_	_	_	_	1	dep	_	_
+18	beter	_	_	_	_	1	dep	_	_
+19	te	_	_	_	_	1	dep	_	_
+20	hanteer	_	_	_	_	1	dep	_	_
+21	,	_	_	_	_	1	dep	_	_
+22	en	_	_	_	_	1	dep	_	_
+23	ook	_	_	_	_	1	dep	_	_
+24	ontwikkelingsfinansieringsinstansies	_	_	_	_	1	dep	_	_
+25	aanmoedig	_	_	_	_	1	dep	_	_
+26	om	_	_	_	_	1	dep	_	_
+27	firmas	_	_	_	_	1	dep	_	_
+28	te	_	_	_	_	1	dep	_	_
+29	help	_	_	_	_	1	dep	_	_
+30	wat	_	_	_	_	1	dep	_	_
+31	onder	_	_	_	_	1	dep	_	_
+32	die	_	_	_	_	1	dep	_	_
+33	krisis	_	_	_	_	1	dep	_	_
+34	gebuk	_	_	_	_	1	dep	_	_
+35	gaan	_	_	_	_	1	dep	_	_
+36	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s40
+# text = Werkloosheidskoerse vir jongmense is aansienlik hoër as die gemiddeld.
+1	Werkloosheidskoerse	_	_	_	_	0	root	_	_
+2	vir	jongmense	ADP	IN	_	3	case	_	_
+3	jongmense	_	_	_	_	1	dep	_	_
+4	is	wees	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	aansienlik	aansienlik	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	hoër	hoër	ADJ	JJ	Degree=Cmp	7	amod	_	_
+7	as	hoër	ADJ	JJ	Degree=Cmp	8	amod	_	_
+8	die	hoër	ADJ	JJ	Degree=Cmp	9	amod	_	_
+9	gemiddeld	hoër	ADJ	JJ	Degree=Cmp	10	amod	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s119
+# text = 'n Nuwe sleutelinisiatief sal wees om mense te akkommodeer wie se salarisse te hoog is om regeringsubsisies te ontvang, maar wat te min verdien om vir 'n normale bankverbandlening te kwalifiseer.
+1	'n	_	_	_	_	0	root	_	_
+2	Nuwe	_	_	_	_	1	dep	_	_
+3	sleutelinisiatief	_	_	_	_	1	dep	_	_
+4	sal	_	_	_	_	1	dep	_	_
+5	wees	_	_	_	_	1	dep	_	_
+6	om	_	_	_	_	1	dep	_	_
+7	mense	_	_	_	_	1	dep	_	_
+8	te	_	_	_	_	1	dep	_	_
+9	akkommodeer	_	_	_	_	1	dep	_	_
+10	wie	_	_	_	_	1	dep	_	_
+11	se	_	_	_	_	1	dep	_	_
+12	salarisse	_	_	_	_	1	dep	_	_
+13	te	_	_	_	_	1	dep	_	_
+14	hoog	_	_	_	_	1	dep	_	_
+15	is	_	_	_	_	1	dep	_	_
+16	om	_	_	_	_	1	dep	_	_
+17	regeringsubsisies	_	_	_	_	1	dep	_	_
+18	te	_	_	_	_	1	dep	_	_
+19	ontvang	_	_	_	_	1	dep	_	_
+20	,	_	_	_	_	1	dep	_	_
+21	maar	_	_	_	_	1	dep	_	_
+22	wat	_	_	_	_	1	dep	_	_
+23	te	_	_	_	_	1	dep	_	_
+24	min	_	_	_	_	1	dep	_	_
+25	verdien	_	_	_	_	1	dep	_	_
+26	om	_	_	_	_	1	dep	_	_
+27	vir	_	_	_	_	1	dep	_	_
+28	'n	_	_	_	_	1	dep	_	_
+29	normale	_	_	_	_	1	dep	_	_
+30	bankverbandlening	_	_	_	_	1	dep	_	_
+31	te	_	_	_	_	1	dep	_	_
+32	kwalifiseer	_	_	_	_	1	dep	_	_
+33	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s191
+# text = Dit is 'n ideaal waarvoor ek hoop om te lewe en te bereik.
+1	Dit	dit	DET	DT	_	0	root	_	_
+2	is	is	AUX	VBZ	_	1	dep	_	_
+3	'n	'n	DET	DT	_	1	dep	_	_
+4	ideaal	ideaal	NOUN	NN	_	3	nsubj	_	_
+5	waarvoor	waarvoor	ADP	IN	_	6	case	_	_
+6	ek	ek	PRON	PRP	_	7	nsubj	_	_
+7	hoop	hoop	VERB	VB	_	3	acl	_	_
+8	om	om	ADP	IN	_	9	case	_	_
+9	te	te	AUX	VB	_	10	aux	_	_
+10	lewe	lewe	VERB	VB	_	7	xcomp	_	_
+11	en	en	CCONJ	CC	_	12	cc	_	_
+12	te	bereik	VERB	VB	_	10	conj	_	_
+13	bereik	.	PUNCT	.	_	10	punct	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s329
+# text = Maar daar is ook geen twyfel dat daar nog baie uitdagings is nie.
+1	Maar	maar	CCONJ	_	_	2	advmod	_	_
+2	daar	daar	PRON	_	_	3	nsubj	_	_
+3	is	is	AUX	_	_	0	root	_	_
+4	ook	ook	ADV	_	_	3	advmod	_	_
+5	geen	geen	DET	_	_	6	det	_	_
+6	twyfel	twyfel	NOUN	_	_	3	obj	_	_
+7	dat	dat	SCONJ	_	_	8	mark	_	_
+8	daar	daar	PRON	_	_	6	nmod	_	_
+9	nog	nog	ADV	_	_	10	advmod	_	_
+10	baie	baie	ADJ	_	_	11	amod	_	_
+11	uitdagings	uitdaging	NOUN	_	_	3	obj	_	_
+12	is	is	AUX	_	_	11	cop	_	_
+13	nie	nie	PART	_	_	3	advmod	_	_
+14	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s368
+# text = Boonop sal ons die Maatskaplike Noodverligting-toelae en voedselsekuriteit-maatreëls meer gereeld aanwend, spesifiek om ook diegene te teiken wat nie deur die Werkloosheidsversekeringsfonds gedek word nie of wie se voordele uitgeput is.
+1	Boonop	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	ons	_	_	_	_	1	dep	_	_
+4	die	_	_	_	_	1	dep	_	_
+5	Maatskaplike	_	_	_	_	1	dep	_	_
+6	Noodverligting-toelae	_	_	_	_	1	dep	_	_
+7	en	_	_	_	_	1	dep	_	_
+8	voedselsekuriteit-maatreëls	_	_	_	_	1	dep	_	_
+9	meer	_	_	_	_	1	dep	_	_
+10	gereeld	_	_	_	_	1	dep	_	_
+11	aanwend	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	spesifiek	_	_	_	_	1	dep	_	_
+14	om	_	_	_	_	1	dep	_	_
+15	ook	_	_	_	_	1	dep	_	_
+16	diegene	_	_	_	_	1	dep	_	_
+17	te	_	_	_	_	1	dep	_	_
+18	teiken	_	_	_	_	1	dep	_	_
+19	wat	_	_	_	_	1	dep	_	_
+20	nie	_	_	_	_	1	dep	_	_
+21	deur	_	_	_	_	1	dep	_	_
+22	die	_	_	_	_	1	dep	_	_
+23	Werkloosheidsversekeringsfonds	_	_	_	_	1	dep	_	_
+24	gedek	_	_	_	_	1	dep	_	_
+25	word	_	_	_	_	1	dep	_	_
+26	nie	_	_	_	_	1	dep	_	_
+27	of	_	_	_	_	1	dep	_	_
+28	wie	_	_	_	_	1	dep	_	_
+29	se	_	_	_	_	1	dep	_	_
+30	voordele	_	_	_	_	1	dep	_	_
+31	uitgeput	_	_	_	_	1	dep	_	_
+32	is	_	_	_	_	1	dep	_	_
+33	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s153
+# text = Ons is tevrede met die vordering van die regering op sommige terreine.
+1	Ons	_	_	_	_	2	dep	_	_
+2	is	be	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tevrede	satisfied	ADJ	ADJ	Number=Sing	2	advmod	_	_
+4	met	with	ADP	ADP	AdpType=Prep	5	case	_	_
+5	die	the	DET	DET	Definite=Def|PronType=Art	6	det	_	_
+6	vordering	progress	NOUN	NOUN	Number=Sing	3	nmod	_	_
+7	van	of	ADP	ADP	AdpType=Prep	8	case	_	_
+8	die	the	DET	DET	Definite=Def|PronType=Art	9	det	_	_
+9	regering	government	NOUN	NOUN	Number=Sing	6	nmod	_	_
+10	op	on	ADP	ADP	AdpType=Prep	11	case	_	_
+11	sommige	some	DET	DET	Definite=Def|Number=Plur|PronType=Ind	12	det	_	_
+12	terreine	fronts	NOUN	NOUN	Number=Plur	3	nmod	_	_
+13	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s284
+# text = Dit het die moontlikheid om die program uit te brei en die kwaliteit daarvan te verhoog, aansienlik verbeter.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	het	het	AUX	VBZ	_	0	root	_	_
+3	die	die	DET	DT	_	4	det	_	_
+4	moontlikheid	moontlikheid	NOUN	NN	_	2	obj	_	_
+5	om	om	ADP	IN	_	4	case	_	_
+6	die	die	DET	DT	_	7	det	_	_
+7	program	program	NOUN	NN	_	4	nmod	_	_
+8	uit	uit	ADV	RB	_	7	advmod	_	_
+9	te	te	PART	TO	_	10	mark	_	_
+10	brei	brei	VERB	VB	_	7	acl	_	_
+11	en	en	CCONJ	CC	_	12	cc	_	_
+12	die	die	DET	DT	_	13	det	_	_
+13	kwaliteit	kwaliteit	NOUN	NN	_	4	nmod	_	_
+14	daarvan	daarvan	ADP	IN	_	13	case	_	_
+15	te	te	PART	TO	_	16	mark	_	_
+16	verhoog	verhoog	VERB	VB	_	13	acl	_	_
+17	,	,	PUNCT	,	_	2	punct	_	_
+18	aansienlik	aansienlik	ADV	RB	_	19	advmod	_	_
+19	verbeter	verbeter	VERB	VB	_	2	advcl	_	_
+20	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s89
+# text = Ons doen dus stappe om sterftesyfers onder moeders te verlaag, om nuwe MIV-infeksies te verminder en om MIV en tuberkulose effektief te behandel.
+1	Ons	_	_	_	_	2	dep	_	_
+2	doen	do	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dus	thus	ADV	ADV	_	2	advmod	_	_
+4	stappe	stap	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	2	obj	_	_
+5	om	om	ADP	ADP	_	6	case	_	_
+6	sterftesyfers	sterftesys	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	4	advmod	_	_
+7	onder	onder	ADP	ADP	_	8	case	_	_
+8	moeders	moeder	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	6	advmod	_	_
+9	te	te	ADP	ADP	_	10	case	_	_
+10	verlaag	verlaag	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+11	,	,	PUNCT	PUNCT	_	2	punct	_	_
+12	om	om	ADP	ADP	_	13	case	_	_
+13	nuwe	nuwe	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	_
+14	MIV-infeksies	MIV-infeksie	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	10	advmod	_	_
+15	te	te	ADP	ADP	_	16	case	_	_
+16	verminder	verminder	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	_
+17	en	en	CCONJ	CCONJ	_	18	cc	_	_
+18	om	MIV	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	_
+19	MIV	en	CCONJ	CCONJ	_	20	cc	_	_
+20	en	tuberkulose	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	_
+21	tuberkulose	effektief	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+22	effektief	te	ADP	ADP	_	23	case	_	_
+23	te	behandel	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl	_	_
+24	behandel	.	PUNCT	PUNCT	_	2	punct	_	_
+25	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s249
+# text = Ons ekonomie bly grotendeels afhanklik van mynbou en landbou vir uitvoere.
+1	Ons	_	_	_	_	0	root	_	_
+2	ekonomie	_	_	_	_	1	dep	_	_
+3	bly	_	_	_	_	1	dep	_	_
+4	grotendeels	_	_	_	_	1	dep	_	_
+5	afhanklik	_	_	_	_	1	dep	_	_
+6	van	_	_	_	_	1	dep	_	_
+7	mynbou	_	_	_	_	1	dep	_	_
+8	en	_	_	_	_	1	dep	_	_
+9	landbou	_	_	_	_	1	dep	_	_
+10	vir	_	_	_	_	1	dep	_	_
+11	uitvoere	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s311
+# text = Die feit dat voorvalle van gewelddadige inbrake in huise en besighede toegeneem het, en dat misdaad teen vroue en kinders nie beduidend afgeneem het nie, is rede tot groot kommer.
+1	Die	_	_	_	_	0	root	_	_
+2	feit	_	_	_	_	1	dep	_	_
+3	dat	_	_	_	_	1	dep	_	_
+4	voorvalle	_	_	_	_	1	dep	_	_
+5	van	_	_	_	_	1	dep	_	_
+6	gewelddadige	_	_	_	_	1	dep	_	_
+7	inbrake	_	_	_	_	1	dep	_	_
+8	in	_	_	_	_	1	dep	_	_
+9	huise	_	_	_	_	1	dep	_	_
+10	en	_	_	_	_	1	dep	_	_
+11	besighede	_	_	_	_	1	dep	_	_
+12	toegeneem	_	_	_	_	1	dep	_	_
+13	het	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	en	_	_	_	_	1	dep	_	_
+16	dat	_	_	_	_	1	dep	_	_
+17	misdaad	_	_	_	_	1	dep	_	_
+18	teen	_	_	_	_	1	dep	_	_
+19	vroue	_	_	_	_	1	dep	_	_
+20	en	_	_	_	_	1	dep	_	_
+21	kinders	_	_	_	_	1	dep	_	_
+22	nie	_	_	_	_	1	dep	_	_
+23	beduidend	_	_	_	_	1	dep	_	_
+24	afgeneem	_	_	_	_	1	dep	_	_
+25	het	_	_	_	_	1	dep	_	_
+26	nie	_	_	_	_	1	dep	_	_
+27	,	_	_	_	_	1	dep	_	_
+28	is	_	_	_	_	1	dep	_	_
+29	rede	_	_	_	_	1	dep	_	_
+30	tot	_	_	_	_	1	dep	_	_
+31	groot	_	_	_	_	1	dep	_	_
+32	kommer	_	_	_	_	1	dep	_	_
+33	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s103
+# text = Deur saam te werk sal ons misdaad verslaan.
+1	Deur	saam	ADP	ADP	Case=Gen	0	root	_	_
+2	saam	te	PART	PART	_	1	dep	_	_
+3	te	werk	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	dep	_	_
+4	werk	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+5	sal	misdaad	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	_
+6	ons	verslaan	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+7	misdaad	_	PUNCT	PUNCT	_	3	punct	_	_
+8	verslaan	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s183
+# text = Ons moet dus tot sy eer 'n sukses van die Wêreldbeker maak.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	moet	moet	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dus	dus	ADV	ADV	_	2	advmod	_	_
+4	tot	tot	ADP	ADP	_	5	case	_	_
+5	sy	sy	PRON	PRON	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+6	eer	eer	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	obl	_	_
+7	'n	'n	DET	DET	Definite=Ind|PronType=Art	8	det	_	_
+8	sukses	sukses	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	_
+9	van	van	ADP	ADP	_	10	case	_	_
+10	die	die	DET	DET	Definite=Def|PronType=Art	11	det	_	_
+11	Wêreldbeker	Wêreldbeker	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
+12	maak	maak	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+13	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s297
+# text = Om aan te sluit hierby, dui neigings in prestasie, beide vir onderwys en leer, 'n kommerwekkende ooreenstemming met die sosiale verdeeldheid van die verlede.
+1	Om	_	_	_	_	0	root	_	_
+2	aan	_	_	_	_	1	dep	_	_
+3	te	_	_	_	_	1	dep	_	_
+4	sluit	_	_	_	_	1	dep	_	_
+5	hierby	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	dui	_	_	_	_	1	dep	_	_
+8	neigings	_	_	_	_	1	dep	_	_
+9	in	_	_	_	_	1	dep	_	_
+10	prestasie	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	beide	_	_	_	_	1	dep	_	_
+13	vir	_	_	_	_	1	dep	_	_
+14	onderwys	_	_	_	_	1	dep	_	_
+15	en	_	_	_	_	1	dep	_	_
+16	leer	_	_	_	_	1	dep	_	_
+17	,	_	_	_	_	1	dep	_	_
+18	'n	_	_	_	_	1	dep	_	_
+19	kommerwekkende	_	_	_	_	1	dep	_	_
+20	ooreenstemming	_	_	_	_	1	dep	_	_
+21	met	_	_	_	_	1	dep	_	_
+22	die	_	_	_	_	1	dep	_	_
+23	sosiale	_	_	_	_	1	dep	_	_
+24	verdeeldheid	_	_	_	_	1	dep	_	_
+25	van	_	_	_	_	1	dep	_	_
+26	die	_	_	_	_	1	dep	_	_
+27	verlede	_	_	_	_	1	dep	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s233
+# text = Die privaatsektor het met dieselfde uitdagings te kampe.
+1	Die	privaatsektor	NOUN	NN	_	2	nsubj	_	_
+2	privaatsektor	het	AUX	VBC	_	0	root	_	_
+3	het	met	ADP	IN	_	2	dep	_	_
+4	met	dieselfde	ADJ	JJ	_	5	amod	_	_
+5	dieselfde	uitdaging	NOUN	NN	_	3	nmod	_	_
+6	uitdagings	te	ADP	IN	_	7	case	_	_
+7	te	kamp	VERB	VB	_	2	xcomp	_	_
+8	kampe	_	_	_	_	2	dep	_	_
+9	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s94
+# text = Ons sal ook voortgaan met ons voorbereidings vir die instelling van 'n nasionale gesondheidsorgversekeringstelsel.
+1	Ons	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	ook	_	_	_	_	1	dep	_	_
+4	voortgaan	_	_	_	_	1	dep	_	_
+5	met	_	_	_	_	1	dep	_	_
+6	ons	_	_	_	_	1	dep	_	_
+7	voorbereidings	_	_	_	_	1	dep	_	_
+8	vir	_	_	_	_	1	dep	_	_
+9	die	_	_	_	_	1	dep	_	_
+10	instelling	_	_	_	_	1	dep	_	_
+11	van	_	_	_	_	1	dep	_	_
+12	'n	_	_	_	_	1	dep	_	_
+13	nasionale	_	_	_	_	1	dep	_	_
+14	gesondheidsorgversekeringstelsel	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s161
+# text = Sy is vanaand hier saam met ons.
+1	Sy	sy	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	is	is	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vanaand	vanaand	ADV	ADV	_	4	advmod	_	_
+4	hier	hier	ADV	ADV	_	2	advmod	_	_
+5	saam	saam	ADV	ADV	_	2	advmod	_	_
+6	met	met	ADP	ADP	_	7	case	_	_
+7	ons	_	_	_	_	2	dep	_	_
+8	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s270
+# text = Ons het in die afgelope 15 jaar ons bes gedoen om hierdie euwel deur maatskaplike dienste uit te roei.
+1	Ons	_	_	_	_	2	dep	_	_
+2	het	have	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	ADP	AdpType=Prep	4	case	_	_
+4	die	the	DET	DET	Definite=Def|PronType=Art	5	det	_	_
+5	afgelope	afgelope	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
+6	15	jaar	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	2	obl	_	_
+7	jaar	we	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nmod	_	_
+8	ons	we	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+9	bes	bes	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	advcl	_	_
+10	gedoen	gedoen	VERB	VERB	Case=Nom|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part	9	xcomp	_	_
+11	om	om	ADP	ADP	AdpType=Prep	12	case	_	_
+12	hierdie	hierdie	DET	DET	Definite=Def|PronType=Dem	13	det	_	_
+13	euwel	euwel	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
+14	deur	deur	ADP	ADP	AdpType=Prep	15	case	_	_
+15	maatskaplike	maatskaplike	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Sing	13	nmod	_	_
+16	dienste	dienste	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	15	nmod	_	_
+17	uit	uit	ADP	ADP	AdpType=Post	18	case	_	_
+18	te	roei	VERB	VERB	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part	16	advcl	_	_
+19	roei	.	PUNCT	PUNCT	_	2	punct	_	_
+20	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s114
+# text = In Desember 2009 het die Kabinet 'n omkeerstrategie vir die plaaslike regering goedgekeur.
+1	In	_	_	_	_	0	root	_	_
+2	Desember	_	_	_	_	1	dep	_	_
+3	2009	_	_	_	_	1	dep	_	_
+4	het	_	_	_	_	1	dep	_	_
+5	die	_	_	_	_	1	dep	_	_
+6	Kabinet	_	_	_	_	1	dep	_	_
+7	'n	_	_	_	_	1	dep	_	_
+8	omkeerstrategie	_	_	_	_	1	dep	_	_
+9	vir	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	plaaslike	_	_	_	_	1	dep	_	_
+12	regering	_	_	_	_	1	dep	_	_
+13	goedgekeur	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s250
+# text = Buiten die privaatsektor is daar nog nie genoeg uitbreiding van kritieke sektore nie, veral wat vervaardiging betref.
+1	Buiten	_	_	_	_	0	root	_	_
+2	die	_	_	_	_	1	dep	_	_
+3	privaatsektor	_	_	_	_	1	dep	_	_
+4	is	_	_	_	_	1	dep	_	_
+5	daar	_	_	_	_	1	dep	_	_
+6	nog	_	_	_	_	1	dep	_	_
+7	nie	_	_	_	_	1	dep	_	_
+8	genoeg	_	_	_	_	1	dep	_	_
+9	uitbreiding	_	_	_	_	1	dep	_	_
+10	van	_	_	_	_	1	dep	_	_
+11	kritieke	_	_	_	_	1	dep	_	_
+12	sektore	_	_	_	_	1	dep	_	_
+13	nie	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	veral	_	_	_	_	1	dep	_	_
+16	wat	_	_	_	_	1	dep	_	_
+17	vervaardiging	_	_	_	_	1	dep	_	_
+18	betref	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s291
+# text = Ons antiretrovirale behandelingsprogramme is nie net die grootste ter wêreld nie, maar dit brei ook voortdurend uit, met meer as 690 000 pasiënte wat al met antiretrovirale behandeling begin het sedert die aanvang van die program.
+1	Ons	_	_	_	_	0	root	_	_
+2	antiretrovirale	_	_	_	_	1	dep	_	_
+3	behandelingsprogramme	_	_	_	_	1	dep	_	_
+4	is	_	_	_	_	1	dep	_	_
+5	nie	_	_	_	_	1	dep	_	_
+6	net	_	_	_	_	1	dep	_	_
+7	die	_	_	_	_	1	dep	_	_
+8	grootste	_	_	_	_	1	dep	_	_
+9	ter	_	_	_	_	1	dep	_	_
+10	wêreld	_	_	_	_	1	dep	_	_
+11	nie	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	maar	_	_	_	_	1	dep	_	_
+14	dit	_	_	_	_	1	dep	_	_
+15	brei	_	_	_	_	1	dep	_	_
+16	ook	_	_	_	_	1	dep	_	_
+17	voortdurend	_	_	_	_	1	dep	_	_
+18	uit	_	_	_	_	1	dep	_	_
+19	,	_	_	_	_	1	dep	_	_
+20	met	_	_	_	_	1	dep	_	_
+21	meer	_	_	_	_	1	dep	_	_
+22	as	_	_	_	_	1	dep	_	_
+23	690	_	_	_	_	1	dep	_	_
+24	000	_	_	_	_	1	dep	_	_
+25	pasiënte	_	_	_	_	1	dep	_	_
+26	wat	_	_	_	_	1	dep	_	_
+27	al	_	_	_	_	1	dep	_	_
+28	met	_	_	_	_	1	dep	_	_
+29	antiretrovirale	_	_	_	_	1	dep	_	_
+30	behandeling	_	_	_	_	1	dep	_	_
+31	begin	_	_	_	_	1	dep	_	_
+32	het	_	_	_	_	1	dep	_	_
+33	sedert	_	_	_	_	1	dep	_	_
+34	die	_	_	_	_	1	dep	_	_
+35	aanvang	_	_	_	_	1	dep	_	_
+36	van	_	_	_	_	1	dep	_	_
+37	die	_	_	_	_	1	dep	_	_
+38	program	_	_	_	_	1	dep	_	_
+39	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s98
+# text = Ons het die stryd teen kapings, besigheids- en huisrooftogte asook kontakmisdade soos moord, verkragting en aanranding, as ons topprioriteite geïdentifiseer.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	die	die	DET	DET	Definite=Def|PronType=Art	4	det	_	_
+4	stryd	stryd	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	teen	teen	ADP	ADP	_	2	dep	_	_
+6	kapings	kaping	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	5	nmod	_	_
+7	,	,	PUNCT	PUNCT	_	2	punct	_	_
+8	besigheids-	besigheid	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	dep	_	_
+9	en	heids	ADP	ADP	_	8	case	_	_
+10	huisrooftogte	-en	CCONJ	CCONJ	_	2	cc	_	_
+11	asook	huisrooftog	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	6	conj	_	_
+12	kontakmisdade	,	PUNCT	PUNCT	_	2	punct	_	_
+13	soos	asook	CCONJ	CCONJ	_	2	cc	_	_
+14	moord	kontakmisdade	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	6	conj	_	_
+15	,	soos	SCONJ	SCONJ	_	2	cc	_	_
+16	verkragting	moord	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	14	conj	_	_
+17	en	,	PUNCT	PUNCT	_	2	punct	_	_
+18	aanranding	verkragting	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	conj	_	_
+19	,	en	CCONJ	CCONJ	_	2	cc	_	_
+20	as	aanranding	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	conj	_	_
+21	ons	,	PUNCT	PUNCT	_	2	punct	_	_
+22	topprioriteite	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	nsubj	_	_
+23	geïdentifiseer	topprioriteit	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+24	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s121
+# text = Verlede jaar het ons gesê dat mense op die platteland ook die reg het om elektrisiteit, water, spoeltoilette en paaie te hê.
+1	Verlede	_	_	_	_	2	dep	_	_
+2	jaar	JAAR	NOUN	_	_	0	root	_	_
+3	het	HET	AUX	_	_	2	aux	_	_
+4	ons	ON	PRON	_	_	2	nsubj	_	_
+5	gesê	GESÊ	VERB	_	_	2	advcl	_	_
+6	dat	DAT	SCONJ	_	_	5	mark	_	_
+7	mense	MENSE	NOUN	_	_	5	nsubj	_	_
+8	op	OP	ADP	_	_	9	case	_	_
+9	die	DIE	DET	_	_	7	nmod	_	_
+10	platteland	PLATTELAND	NOUN	_	_	7	nmod	_	_
+11	ook	OOK	ADV	_	_	5	advmod	_	_
+12	die	DIE	DET	_	_	13	det	_	_
+13	reg	REG	NOUN	_	_	7	nmod	_	_
+14	het	HET	AUX	_	_	13	cop	_	_
+15	om	ON	PRON	_	_	13	nsubj	_	_
+16	elektrisiteit	OP	ADP	_	_	17	case	_	_
+17	,	DIE	DET	_	_	18	det	_	_
+18	water	PLATTELAND	NOUN	_	_	13	nmod	_	_
+19	,	OOK	ADV	_	_	13	advmod	_	_
+20	spoeltoilette	HÊ	VERB	_	_	13	cop	_	_
+21	en	ELEKTRISITEIT	NOUN	_	_	13	nmod	_	_
+22	paaie	,	PUNCT	_	_	23	punct	_	_
+23	te	WATER	NOUN	_	_	21	conj	_	_
+24	hê	,	PUNCT	_	_	25	punct	_	_
+25	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s374
+# text = Dit impliseer ook 'n vinnige afname in regeringskuldvlakke wanneer toestande weer 'n gunstige wending neem.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	impliseer	impliseer	VERB	VVFIN	_	0	root	_	_
+3	ook	ook	ADV	ADV	_	2	advmod	_	_
+4	'n	'n	DET	DT	_	5	det	_	_
+5	vinnige	vinnig	ADJ	ADJA	_	6	amod	_	_
+6	afname	afname	NOUN	NN	_	2	obj	_	_
+7	in	in	ADP	IN	_	8	case	_	_
+8	regeringskuldvlakke	regeringskuldvlak	NOUN	NN	_	6	nmod	_	_
+9	wanneer	wanneer	SCONJ	SS	_	10	mark	_	_
+10	toestande	toestand	NOUN	NN	_	11	nsubj	_	_
+11	weer	weer	ADV	ADV	_	2	advcl	_	_
+12	'n	'n	DET	DT	_	13	det	_	_
+13	gunstige	gunstig	ADJ	ADJA	_	14	amod	_	_
+14	wending	wending	NOUN	NN	_	11	obj	_	_
+15	neem	neem	VERB	VVFIN	_	11	aux	_	_
+16	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s172
+# text = Ons is bly dat ons reddingspanne hulle kon gaan bystaan.
+1	Ons	_	_	_	_	2	dep	_	_
+2	is	be	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bly	happy	ADJ	ADJ	Number=Sing	2	advcl	_	_
+4	dat	that	SCONJ	SCONJ	_	5	mark	_	_
+5	ons	we	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+6	reddingspanne	rescue	ADJ	ADJ	Number=Plur	7	amod	_	_
+7	hulle	team	NOUN	NOUN	Number=Plur	5	nmod	_	_
+8	kon	they	PRON	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+9	gaan	could	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl	_	_
+10	bystaan	go	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s276
+# text = Armoede het afgeneem sedert die oorgang, maar ongelykheid het nie verbeter nie.
+1	Armoede	_	_	_	_	2	dep	_	_
+2	het	het	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	afgeneem	afgeneem	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	_
+4	sedert	sedert	ADP	IN	_	5	case	_	_
+5	die	die	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	oorgang	oorgang	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+7	,	,	PUNCT	PUNCT	_	8	punct	_	_
+8	maar	maar	CCONJ	CC	_	3	cc	_	_
+9	ongelykheid	ongelykheid	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+10	het	het	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	nie	nie	PART	NEG	Polarity=Neg	12	advmod	_	_
+12	verbeter	verbeter	VERB	VB	VerbForm=Inf	10	xcomp	_	_
+13	nie	nie	PART	NEG	Polarity=Neg	12	advmod	_	_
+14	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s30
+# text = Ons kapitaalinvesteringsprogram lê ten grondslag aan ons strategie vir ekonomiese herstel en groei.
+1	Ons	_	_	_	_	0	root	_	_
+2	kapitaalinvesteringsprogram	_	_	_	_	1	dep	_	_
+3	lê	_	_	_	_	1	dep	_	_
+4	ten	_	_	_	_	1	dep	_	_
+5	grondslag	_	_	_	_	1	dep	_	_
+6	aan	_	_	_	_	1	dep	_	_
+7	ons	_	_	_	_	1	dep	_	_
+8	strategie	_	_	_	_	1	dep	_	_
+9	vir	_	_	_	_	1	dep	_	_
+10	ekonomiese	_	_	_	_	1	dep	_	_
+11	herstel	_	_	_	_	1	dep	_	_
+12	en	_	_	_	_	1	dep	_	_
+13	groei	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s335
+# text = Oor 'n paar maande van nou af sal die mense van ons land besluit wie se leierskap hulle verkies om die edel werk van hierdie groot vryheidsvegter en ander stigters van ons demokrasie voort te sit.
+1	Oor	_	_	_	_	0	root	_	_
+2	'n	_	_	_	_	1	dep	_	_
+3	paar	_	_	_	_	1	dep	_	_
+4	maande	_	_	_	_	1	dep	_	_
+5	van	_	_	_	_	1	dep	_	_
+6	nou	_	_	_	_	1	dep	_	_
+7	af	_	_	_	_	1	dep	_	_
+8	sal	_	_	_	_	1	dep	_	_
+9	die	_	_	_	_	1	dep	_	_
+10	mense	_	_	_	_	1	dep	_	_
+11	van	_	_	_	_	1	dep	_	_
+12	ons	_	_	_	_	1	dep	_	_
+13	land	_	_	_	_	1	dep	_	_
+14	besluit	_	_	_	_	1	dep	_	_
+15	wie	_	_	_	_	1	dep	_	_
+16	se	_	_	_	_	1	dep	_	_
+17	leierskap	_	_	_	_	1	dep	_	_
+18	hulle	_	_	_	_	1	dep	_	_
+19	verkies	_	_	_	_	1	dep	_	_
+20	om	_	_	_	_	1	dep	_	_
+21	die	_	_	_	_	1	dep	_	_
+22	edel	_	_	_	_	1	dep	_	_
+23	werk	_	_	_	_	1	dep	_	_
+24	van	_	_	_	_	1	dep	_	_
+25	hierdie	_	_	_	_	1	dep	_	_
+26	groot	_	_	_	_	1	dep	_	_
+27	vryheidsvegter	_	_	_	_	1	dep	_	_
+28	en	_	_	_	_	1	dep	_	_
+29	ander	_	_	_	_	1	dep	_	_
+30	stigters	_	_	_	_	1	dep	_	_
+31	van	_	_	_	_	1	dep	_	_
+32	ons	_	_	_	_	1	dep	_	_
+33	demokrasie	_	_	_	_	1	dep	_	_
+34	voort	_	_	_	_	1	dep	_	_
+35	te	_	_	_	_	1	dep	_	_
+36	sit	_	_	_	_	1	dep	_	_
+37	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s351
+# text = Hierdie probleme het saamgeval met 'n tydperk waarin inflasie en rentekoerse steeds te hoog was.
+1	Hierdie	_hierdie_	DET	DET	_	2	det	_	_
+2	probleme	_probleem_	NOUN	NOUN	_	3	nsubj	_	_
+3	het	_het_	AUX	AUX	_	0	root	_	_
+4	saamgeval	saamval	NOUN	NOUN	_	3	obj	_	_
+5	met	_met_	ADP	ADP	_	6	case	_	_
+6	'n	'n	DET	DET	_	7	det	_	_
+7	tydperk	tydperk	NOUN	NOUN	_	4	obl	_	_
+8	waarin	waarin	ADV	ADV	_	9	advmod	_	_
+9	inflasie	inflasie	NOUN	NOUN	_	7	obl	_	_
+10	en	en	CCONJ	CCONJ	_	11	cc	_	_
+11	rentekoerse	rantekoers	NOUN	NOUN	_	9	conj	_	_
+12	steeds	steeds	ADV	ADV	_	13	advmod	_	_
+13	te	te	ADP	ADP	_	14	case	_	_
+14	hoog	hoog	ADJ	ADJ	_	11	obl	_	_
+15	was	_	_	_	_	3	dep	_	_
+16	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s248
+# text = Tog is hul reikwydte in ons samelewing ver onder verwagting.
+1	Tog	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	hul	_	_	_	_	1	dep	_	_
+4	reikwydte	_	_	_	_	1	dep	_	_
+5	in	_	_	_	_	1	dep	_	_
+6	ons	_	_	_	_	1	dep	_	_
+7	samelewing	_	_	_	_	1	dep	_	_
+8	ver	_	_	_	_	1	dep	_	_
+9	onder	_	_	_	_	1	dep	_	_
+10	verwagting	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s159
+# text = Dit het 'n verskil aan baie Suid-Afrikaners se lewens gemaak.
+1	Dit	dit	DET	DT	_	0	root	_	_
+2	het	het	AUX	VBZ	_	1	dep	_	_
+3	'n	'n	DET	DT	_	1	dep	_	_
+4	verskil	verskil	NOUN	NN	_	1	dep	_	_
+5	aan	aan	ADP	IN	_	4	case	_	_
+6	baie	baie	ADJ	JJ	_	1	dep	_	_
+7	Suid-Afrikaners	Suid-Afrikaner	NOUN	NN	_	1	dep	_	_
+8	se	se	DET	DT	_	7	det	_	_
+9	lewens	lewe	NOUN	NN	_	10	nsubj	_	_
+10	gemaak	gemaak	VERB	VBN	_	5	root	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s290
+# text = Ons is ook bemoedig dat navorsing oor die voorkoms van MIV stabilisasie 'n effense afname in die tempo van infeksie toon.
+1	Ons	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	ook	_	_	_	_	1	dep	_	_
+4	bemoedig	_	_	_	_	1	dep	_	_
+5	dat	_	_	_	_	1	dep	_	_
+6	navorsing	_	_	_	_	1	dep	_	_
+7	oor	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	voorkoms	_	_	_	_	1	dep	_	_
+10	van	_	_	_	_	1	dep	_	_
+11	MIV	_	_	_	_	1	dep	_	_
+12	stabilisasie	_	_	_	_	1	dep	_	_
+13	'n	_	_	_	_	1	dep	_	_
+14	effense	_	_	_	_	1	dep	_	_
+15	afname	_	_	_	_	1	dep	_	_
+16	in	_	_	_	_	1	dep	_	_
+17	die	_	_	_	_	1	dep	_	_
+18	tempo	_	_	_	_	1	dep	_	_
+19	van	_	_	_	_	1	dep	_	_
+20	infeksie	_	_	_	_	1	dep	_	_
+21	toon	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s353
+# text = Daarom is ons gedwing om ons vooruitsigte met betrekking tot groei en werkskepping af te skaal.
+1	Daarom	_	_	_	_	2	dep	_	_
+2	is	are	VERB	VERB	_	0	root	_	_
+3	ons	we	PRON	PRON	_	2	nsubj	_	_
+4	gedwing	forced	AUX	AUX	_	2	aux	_	_
+5	om	to	PART	PART	_	2	mark	_	_
+6	ons	we	PRON	PRON	_	5	nsubj	_	_
+7	vooruitsigte	expectations	NOUN	NOUN	_	5	obj	_	_
+8	met	with	ADP	ADP	_	9	case	_	_
+9	betrekking	regarding	ADP	ADP	_	7	nmod	_	_
+10	tot	to	ADP	ADP	_	9	case	_	_
+11	groei	growth	NOUN	NOUN	_	7	nmod	_	_
+12	en	and	CCONJ	CCONJ	_	13	cc	_	_
+13	werkskepping	_	_	_	_	2	dep	_	_
+14	af	to	PART	PART	_	13	case	_	_
+15	te	scale	VERB	VERB	_	13	advmod	_	_
+16	skaal	.	PUNCT	PUNCT	_	2	punct	_	_
+17	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s10
+# text = Die Regering het 'n "opleidingsafleggingskema" ingestel om aan werkers die opsie van 'n opleidingstydperk, in plaas van aflegging, te bied.
+1	Die	_	_	_	_	0	root	_	_
+2	Regering	_	_	_	_	1	dep	_	_
+3	het	_	_	_	_	1	dep	_	_
+4	'n	_	_	_	_	1	dep	_	_
+5	"	_	_	_	_	1	dep	_	_
+6	opleidingsafleggingskema	_	_	_	_	1	dep	_	_
+7	"	_	_	_	_	1	dep	_	_
+8	ingestel	_	_	_	_	1	dep	_	_
+9	om	_	_	_	_	1	dep	_	_
+10	aan	_	_	_	_	1	dep	_	_
+11	werkers	_	_	_	_	1	dep	_	_
+12	die	_	_	_	_	1	dep	_	_
+13	opsie	_	_	_	_	1	dep	_	_
+14	van	_	_	_	_	1	dep	_	_
+15	'n	_	_	_	_	1	dep	_	_
+16	opleidingstydperk	_	_	_	_	1	dep	_	_
+17	,	_	_	_	_	1	dep	_	_
+18	in	_	_	_	_	1	dep	_	_
+19	plaas	_	_	_	_	1	dep	_	_
+20	van	_	_	_	_	1	dep	_	_
+21	aflegging	_	_	_	_	1	dep	_	_
+22	,	_	_	_	_	1	dep	_	_
+23	te	_	_	_	_	1	dep	_	_
+24	bied	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s62
+# text = Ons het onderwys en vaardigheidsontwikkeling as die middelpunt van hierdie regering se beleide gestel.
+1	Ons	_	_	_	_	2	dep	_	_
+2	het	have	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	onderwys	education	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	_
+4	en	and	CCONJ	CCONJ	_	5	cc	_	_
+5	vaardigheidsontwikkeling	skills-development	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+6	as	as	ADP	ADP	_	7	case	_	_
+7	die	die	DET	DET	Definite=Def|PronType=Art	8	det	_	_
+8	middelpunt	focal-point	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+9	van	se	DET	DET	Definite=Def|PronType=Art	10	det	_	_
+10	hierdie	policies	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	8	nmod	_	_
+11	regering	.	PUNCT	PUNCT	_	2	punct	_	_
+12	se	_	_	_	_	2	dep	_	_
+13	beleide	_	_	_	_	2	dep	_	_
+14	gestel	_	_	_	_	2	dep	_	_
+15	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s405
+# text = Ongeag die stampe en stote wat klaarblyklik die vordering van die mense van die Demokratiese Republiek van Kongo (DRK) op hul pad na stabiliteit en vooruitgang karakteriseer, is dit ook bemoedigend dat vooruitgang daar gemaak word.
+1	Ongeag	_	_	_	_	0	root	_	_
+2	die	_	_	_	_	1	dep	_	_
+3	stampe	_	_	_	_	1	dep	_	_
+4	en	_	_	_	_	1	dep	_	_
+5	stote	_	_	_	_	1	dep	_	_
+6	wat	_	_	_	_	1	dep	_	_
+7	klaarblyklik	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	vordering	_	_	_	_	1	dep	_	_
+10	van	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	mense	_	_	_	_	1	dep	_	_
+13	van	_	_	_	_	1	dep	_	_
+14	die	_	_	_	_	1	dep	_	_
+15	Demokratiese	_	_	_	_	1	dep	_	_
+16	Republiek	_	_	_	_	1	dep	_	_
+17	van	_	_	_	_	1	dep	_	_
+18	Kongo	_	_	_	_	1	dep	_	_
+19	(	_	_	_	_	1	dep	_	_
+20	DRK	_	_	_	_	1	dep	_	_
+21	)	_	_	_	_	1	dep	_	_
+22	op	_	_	_	_	1	dep	_	_
+23	hul	_	_	_	_	1	dep	_	_
+24	pad	_	_	_	_	1	dep	_	_
+25	na	_	_	_	_	1	dep	_	_
+26	stabiliteit	_	_	_	_	1	dep	_	_
+27	en	_	_	_	_	1	dep	_	_
+28	vooruitgang	_	_	_	_	1	dep	_	_
+29	karakteriseer	_	_	_	_	1	dep	_	_
+30	,	_	_	_	_	1	dep	_	_
+31	is	_	_	_	_	1	dep	_	_
+32	dit	_	_	_	_	1	dep	_	_
+33	ook	_	_	_	_	1	dep	_	_
+34	bemoedigend	_	_	_	_	1	dep	_	_
+35	dat	_	_	_	_	1	dep	_	_
+36	vooruitgang	_	_	_	_	1	dep	_	_
+37	daar	_	_	_	_	1	dep	_	_
+38	gemaak	_	_	_	_	1	dep	_	_
+39	word	_	_	_	_	1	dep	_	_
+40	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s67
+# text = Ons sal onderwysers help deur gedetailleerde daaglikse lesplanne te voorsien.
+1	Ons	_	_	_	_	2	dep	_	_
+2	sal	will	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	onderwysers	teachers	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+4	help	help	VERB	VERB	VerbForm=Inf	2	xcomp	_	_
+5	deur	by	ADP	ADP	_	6	case	_	_
+6	gedetailleerde	detailed	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	daaglikse	daily	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
+8	lesplanne	lesson	PLURAL	PLURAL	Case=Nom|Gender=Masc|Number=Plur	4	obj	_	_
+9	te	te	PART	PART	_	10	mark	_	_
+10	voorsien	provide	VERB	VERB	VerbForm=Inf	4	xcomp	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s80
+# text = Ons werk saam met hoëronderwysinstellings om te verseker dat studente wat daarvoor kwalifiseer, deur die Nasionale Finansiële Hulpskema vir Studente finansiële bystand ontvang.
+1	Ons	_	_	_	_	0	root	_	_
+2	werk	_	_	_	_	1	dep	_	_
+3	saam	_	_	_	_	1	dep	_	_
+4	met	_	_	_	_	1	dep	_	_
+5	hoëronderwysinstellings	_	_	_	_	1	dep	_	_
+6	om	_	_	_	_	1	dep	_	_
+7	te	_	_	_	_	1	dep	_	_
+8	verseker	_	_	_	_	1	dep	_	_
+9	dat	_	_	_	_	1	dep	_	_
+10	studente	_	_	_	_	1	dep	_	_
+11	wat	_	_	_	_	1	dep	_	_
+12	daarvoor	_	_	_	_	1	dep	_	_
+13	kwalifiseer	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	deur	_	_	_	_	1	dep	_	_
+16	die	_	_	_	_	1	dep	_	_
+17	Nasionale	_	_	_	_	1	dep	_	_
+18	Finansiële	_	_	_	_	1	dep	_	_
+19	Hulpskema	_	_	_	_	1	dep	_	_
+20	vir	_	_	_	_	1	dep	_	_
+21	Studente	_	_	_	_	1	dep	_	_
+22	finansiële	_	_	_	_	1	dep	_	_
+23	bystand	_	_	_	_	1	dep	_	_
+24	ontvang	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s226
+# text = Alhoewel sekere vooruitgang gemaak is (naamlik 0,2%), is die situasie minder indrukwekkend met betrekking tot mense met gebreke wat vir die Regering werk, gemeet teen die 2%-teiken wat ons vir onsself gestel het.
+1	Alhoewel	_	_	_	_	0	root	_	_
+2	sekere	_	_	_	_	1	dep	_	_
+3	vooruitgang	_	_	_	_	1	dep	_	_
+4	gemaak	_	_	_	_	1	dep	_	_
+5	is	_	_	_	_	1	dep	_	_
+6	(	_	_	_	_	1	dep	_	_
+7	naamlik	_	_	_	_	1	dep	_	_
+8	0,2%	_	_	_	_	1	dep	_	_
+9	)	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	is	_	_	_	_	1	dep	_	_
+12	die	_	_	_	_	1	dep	_	_
+13	situasie	_	_	_	_	1	dep	_	_
+14	minder	_	_	_	_	1	dep	_	_
+15	indrukwekkend	_	_	_	_	1	dep	_	_
+16	met	_	_	_	_	1	dep	_	_
+17	betrekking	_	_	_	_	1	dep	_	_
+18	tot	_	_	_	_	1	dep	_	_
+19	mense	_	_	_	_	1	dep	_	_
+20	met	_	_	_	_	1	dep	_	_
+21	gebreke	_	_	_	_	1	dep	_	_
+22	wat	_	_	_	_	1	dep	_	_
+23	vir	_	_	_	_	1	dep	_	_
+24	die	_	_	_	_	1	dep	_	_
+25	Regering	_	_	_	_	1	dep	_	_
+26	werk	_	_	_	_	1	dep	_	_
+27	,	_	_	_	_	1	dep	_	_
+28	gemeet	_	_	_	_	1	dep	_	_
+29	teen	_	_	_	_	1	dep	_	_
+30	die	_	_	_	_	1	dep	_	_
+31	2%-teiken	_	_	_	_	1	dep	_	_
+32	wat	_	_	_	_	1	dep	_	_
+33	ons	_	_	_	_	1	dep	_	_
+34	vir	_	_	_	_	1	dep	_	_
+35	onsself	_	_	_	_	1	dep	_	_
+36	gestel	_	_	_	_	1	dep	_	_
+37	het	_	_	_	_	1	dep	_	_
+38	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s262
+# text = Om die voordele van groei te deel sluit ook versnelde implementering van regstellende aksie in, insluitend breë swart ekonomiese bemagtiging.
+1	Om	_	_	_	_	0	root	_	_
+2	die	_	_	_	_	1	dep	_	_
+3	voordele	_	_	_	_	1	dep	_	_
+4	van	_	_	_	_	1	dep	_	_
+5	groei	_	_	_	_	1	dep	_	_
+6	te	_	_	_	_	1	dep	_	_
+7	deel	_	_	_	_	1	dep	_	_
+8	sluit	_	_	_	_	1	dep	_	_
+9	ook	_	_	_	_	1	dep	_	_
+10	versnelde	_	_	_	_	1	dep	_	_
+11	implementering	_	_	_	_	1	dep	_	_
+12	van	_	_	_	_	1	dep	_	_
+13	regstellende	_	_	_	_	1	dep	_	_
+14	aksie	_	_	_	_	1	dep	_	_
+15	in	_	_	_	_	1	dep	_	_
+16	,	_	_	_	_	1	dep	_	_
+17	insluitend	_	_	_	_	1	dep	_	_
+18	breë	_	_	_	_	1	dep	_	_
+19	swart	_	_	_	_	1	dep	_	_
+20	ekonomiese	_	_	_	_	1	dep	_	_
+21	bemagtiging	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s64
+# text = As ons dit nié doen nie, sal ons nie die gehalte van die onderwys kan verbeter nie.
+1	As	As	ADV	_	_	0	root	_	_
+2	ons	dit	PRON	_	_	1	advmod	_	_
+3	dit	doen	ADV	_	_	2	advmod	_	_
+4	nié	nie	PART	_	_	3	advmod	_	_
+5	doen	sal	AUX	_	_	6	aux	_	_
+6	nie	ons	PRON	_	_	1	nsubj	_	_
+7	,	die	PRON	_	_	8	det	_	_
+8	sal	gehalte	NOUN	_	_	6	obj	_	_
+9	ons	kan	AUX	_	_	10	aux	_	_
+10	nie	verbeter	VERB	_	_	6	xcomp	_	_
+11	die	nié	PART	_	_	10	advmod	_	_
+12	gehalte	ne	PART	_	_	13	aux	_	_
+13	van	die	PRON	_	_	14	det	_	_
+14	die	onderwys	NOUN	_	_	10	obj	_	_
+15	onderwys	.	PUNCT	_	_	1	punct	_	_
+16	kan	_	_	_	_	1	dep	_	_
+17	verbeter	_	_	_	_	1	dep	_	_
+18	nie	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s55
+# text = Hierdie optrede sal verseker dat vroue, kinders en persone met gestremdhede toegang tot ontwikkelingsgeleenthede kry.
+1	Hierdie	_	_	_	_	0	root	_	_
+2	optrede	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	verseker	_	_	_	_	1	dep	_	_
+5	dat	_	_	_	_	1	dep	_	_
+6	vroue	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	kinders	_	_	_	_	1	dep	_	_
+9	en	_	_	_	_	1	dep	_	_
+10	persone	_	_	_	_	1	dep	_	_
+11	met	_	_	_	_	1	dep	_	_
+12	gestremdhede	_	_	_	_	1	dep	_	_
+13	toegang	_	_	_	_	1	dep	_	_
+14	tot	_	_	_	_	1	dep	_	_
+15	ontwikkelingsgeleenthede	_	_	_	_	1	dep	_	_
+16	kry	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s3
+# text = Baie mense wat hul werk verloor het, was die broodwinners van arm families.
+1	Baie	baie	ADJ	ADJ	_	0	root	_	_
+2	mense	mens	NOUN	NOUN	_	1	dep	_	_
+3	wat	wat	SCONJ	SCONJ	_	4	mark	_	_
+4	hul	hul	PRON	PRON	_	2	nmod	_	_
+5	werk	werk	NOUN	NOUN	_	6	compound	_	_
+6	verloor	verloor	VERB	VERB	_	4	advcl	_	_
+7	het	het	AUX	AUX	_	6	aux	_	_
+8	,	,	PUNCT	PUNCT	_	1	dep	_	_
+9	was	was	AUX	AUX	_	1	dep	_	_
+10	die	die	DET	DET	_	11	det	_	_
+11	broodwinners	broodwinner	NOUN	NOUN	_	9	nsubj	_	_
+12	van	van	ADP	ADP	_	13	case	_	_
+13	arm	arm	ADJ	ADJ	_	11	nmod	_	_
+14	families	familie	NOUN	NOUN	_	13	nmod	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s115
+# text = Dit sal verseker dat die plaaslike regering oor die korrekte bestuurs-, administratiewe en tegniese vaardighede beskik.
+1	Dit	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	verseker	_	_	_	_	1	dep	_	_
+4	dat	_	_	_	_	1	dep	_	_
+5	die	_	_	_	_	1	dep	_	_
+6	plaaslike	_	_	_	_	1	dep	_	_
+7	regering	_	_	_	_	1	dep	_	_
+8	oor	_	_	_	_	1	dep	_	_
+9	die	_	_	_	_	1	dep	_	_
+10	korrekte	_	_	_	_	1	dep	_	_
+11	bestuurs-	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	administratiewe	_	_	_	_	1	dep	_	_
+14	en	_	_	_	_	1	dep	_	_
+15	tegniese	_	_	_	_	1	dep	_	_
+16	vaardighede	_	_	_	_	1	dep	_	_
+17	beskik	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s112
+# text = Ons wil herbeklemtoon dat geen griewe ooit geweld en die vernietiging van eiendom kan regverdig nie.
+1	Ons	_	_	_	_	0	root	_	_
+2	wil	_	_	_	_	1	dep	_	_
+3	herbeklemtoon	_	_	_	_	1	dep	_	_
+4	dat	_	_	_	_	1	dep	_	_
+5	geen	_	_	_	_	1	dep	_	_
+6	griewe	_	_	_	_	1	dep	_	_
+7	ooit	_	_	_	_	1	dep	_	_
+8	geweld	_	_	_	_	1	dep	_	_
+9	en	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	vernietiging	_	_	_	_	1	dep	_	_
+12	van	_	_	_	_	1	dep	_	_
+13	eiendom	_	_	_	_	1	dep	_	_
+14	kan	_	_	_	_	1	dep	_	_
+15	regverdig	_	_	_	_	1	dep	_	_
+16	nie	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s207
+# text = Vergun my om aan Lucas Mahlangu, broer van Kalushi, wat die Mahlangu-familie verteenwoordig, erkenning te gee.
+1	Vergun	_	_	_	_	0	root	_	_
+2	my	_	_	_	_	1	dep	_	_
+3	om	_	_	_	_	1	dep	_	_
+4	aan	_	_	_	_	1	dep	_	_
+5	Lucas	_	_	_	_	1	dep	_	_
+6	Mahlangu	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	broer	_	_	_	_	1	dep	_	_
+9	van	_	_	_	_	1	dep	_	_
+10	Kalushi	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	wat	_	_	_	_	1	dep	_	_
+13	die	_	_	_	_	1	dep	_	_
+14	Mahlangu-familie	_	_	_	_	1	dep	_	_
+15	verteenwoordig	_	_	_	_	1	dep	_	_
+16	,	_	_	_	_	1	dep	_	_
+17	erkenning	_	_	_	_	1	dep	_	_
+18	te	_	_	_	_	1	dep	_	_
+19	gee	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s212
+# text = Ons salueer hulle vir die hoop wat hulle gebring het in 'n tyd van wanhoop.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	salueer	salueer	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hulle	hulle	PRON	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+4	vir	vir	ADP	ADP	_	5	case	_	_
+5	die	die	DET	DET	Definite=Def|PronType=Art	6	det	_	_
+6	hoop	hoop	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+7	wat	wat	PRON	PRON	PronType=Rel	8	nsubj	_	_
+8	hulle	gebring	VERB	VERB	Aspect=Perf|VerbForm=Part	6	acl:relcl	_	_
+9	gebring	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+10	het	'n	DET	DET	Definite=Ind|PronType=Art	11	det	_	_
+11	in	tyd	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
+12	'n	van	ADP	ADP	_	13	case	_	_
+13	tyd	wanhoop	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	van	.	PUNCT	PUNCT	_	2	punct	_	_
+15	wanhoop	_	_	_	_	2	dep	_	_
+16	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s392
+# text = Slegs twee weke gelede het Suid-Afrika saam met Mali 'n deel van die argiewe voltooi om die antieke manuskripte van Timboektoe te bewaar.
+1	Slegs	_	_	_	_	0	root	_	_
+2	twee	_	_	_	_	1	dep	_	_
+3	weke	_	_	_	_	1	dep	_	_
+4	gelede	_	_	_	_	1	dep	_	_
+5	het	_	_	_	_	1	dep	_	_
+6	Suid-Afrika	_	_	_	_	1	dep	_	_
+7	saam	_	_	_	_	1	dep	_	_
+8	met	_	_	_	_	1	dep	_	_
+9	Mali	_	_	_	_	1	dep	_	_
+10	'n	_	_	_	_	1	dep	_	_
+11	deel	_	_	_	_	1	dep	_	_
+12	van	_	_	_	_	1	dep	_	_
+13	die	_	_	_	_	1	dep	_	_
+14	argiewe	_	_	_	_	1	dep	_	_
+15	voltooi	_	_	_	_	1	dep	_	_
+16	om	_	_	_	_	1	dep	_	_
+17	die	_	_	_	_	1	dep	_	_
+18	antieke	_	_	_	_	1	dep	_	_
+19	manuskripte	_	_	_	_	1	dep	_	_
+20	van	_	_	_	_	1	dep	_	_
+21	Timboektoe	_	_	_	_	1	dep	_	_
+22	te	_	_	_	_	1	dep	_	_
+23	bewaar	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s180
+# text = As 'n nasie is ons groot dankbaarheid verskuldig teenoor die 2010 Plaaslike Reëlingskomitee vir hul uitstekende poging.
+1	As	_	_	_	_	0	root	_	_
+2	'n	_	_	_	_	1	dep	_	_
+3	nasie	_	_	_	_	1	dep	_	_
+4	is	_	_	_	_	1	dep	_	_
+5	ons	_	_	_	_	1	dep	_	_
+6	groot	_	_	_	_	1	dep	_	_
+7	dankbaarheid	_	_	_	_	1	dep	_	_
+8	verskuldig	_	_	_	_	1	dep	_	_
+9	teenoor	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	2010	_	_	_	_	1	dep	_	_
+12	Plaaslike	_	_	_	_	1	dep	_	_
+13	Reëlingskomitee	_	_	_	_	1	dep	_	_
+14	vir	_	_	_	_	1	dep	_	_
+15	hul	_	_	_	_	1	dep	_	_
+16	uitstekende	_	_	_	_	1	dep	_	_
+17	poging	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s59
+# text = Hierdie ooreenkomste sal duidelik uiteensit wat gedoen moet word, hoe, deur wie, binne watter tydperk en met behulp van watter maatreëls en hulpbronne.
+1	Hierdie	_	_	_	_	2	dep	_	_
+2	ooreenkomste	sal	AUX	VB	_	0	root	_	_
+3	sal	duidelik	ADV	ADV	_	4	advmod	_	_
+4	duidelik	uiteensit	VERB	VV	_	2	xcomp	_	_
+5	uiteensit	wat	PRON	PRP	_	6	nsubj	_	_
+6	wat	gedoen	VERB	VV	_	4	ccomp	_	_
+7	gedoen	moet	AUX	VB	_	6	aux	_	_
+8	moet	hoé	ADV	ADV	_	9	advmod	_	_
+9	word	gedoen	VERB	VV	_	6	advcl	_	_
+10	,	deur	ADP	IN	_	11	case	_	_
+11	hoe	who	PRON	PRP	_	9	nmod	_	_
+12	,	binne	ADP	IN	_	13	case	_	_
+13	deur	tydperk	NOUN	NN	_	9	nmod	_	_
+14	wie	en	CCONJ	CC	_	15	cc	_	_
+15	,	met	ADP	IN	_	16	case	_	_
+16	binne	maatreëls	NOUN	NN	_	9	nmod	_	_
+17	watter	en	CCONJ	CC	_	18	cc	_	_
+18	tydperk	hulpbronne	NOUN	NN	_	16	conj	_	_
+19	en	.	PUNCT	.	_	2	punct	_	_
+20	met	_	_	_	_	2	dep	_	_
+21	behulp	_	_	_	_	2	dep	_	_
+22	van	_	_	_	_	2	dep	_	_
+23	watter	_	_	_	_	2	dep	_	_
+24	maatreëls	_	_	_	_	2	dep	_	_
+25	en	_	_	_	_	2	dep	_	_
+26	hulpbronne	_	_	_	_	2	dep	_	_
+27	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s154
+# text = Hierdie week het ons 32 687 onregmatige maatskapliketoelaagbetalings opgeskort, ter waarde van R180 miljoen.
+1	Hierdie	_	_	_	_	0	root	_	_
+2	week	_	_	_	_	1	dep	_	_
+3	het	_	_	_	_	1	dep	_	_
+4	ons	_	_	_	_	1	dep	_	_
+5	32	_	_	_	_	1	dep	_	_
+6	687	_	_	_	_	1	dep	_	_
+7	onregmatige	_	_	_	_	1	dep	_	_
+8	maatskapliketoelaagbetalings	_	_	_	_	1	dep	_	_
+9	opgeskort	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	ter	_	_	_	_	1	dep	_	_
+12	waarde	_	_	_	_	1	dep	_	_
+13	van	_	_	_	_	1	dep	_	_
+14	R180	_	_	_	_	1	dep	_	_
+15	miljoen	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s398
+# text = En dit is om hierdie rede, en slegs om hierdie rede, dat ons aanhou om die mense van Zimbabwe te probeer help om 'n blywende oplossing vir die krisis in daardie land te vind.
+1	En	dit	DET	DT	_	2	det	_	_
+2	dit	is	VERB	VBZ	_	0	root	_	_
+3	is	hierdie	ADP	IN	_	4	case	_	_
+4	om	rede	NOUN	NN	_	2	obj	_	_
+5	hierdie	,	PUNCT	,	_	2	punct	_	_
+6	rede	en	CCONJ	CC	_	7	cc	_	_
+7	,	slegs	ADV	RB	_	2	advmod	_	_
+8	en	hierdie	ADP	IN	_	9	case	_	_
+9	slegs	rede	NOUN	NN	_	7	obj	_	_
+10	om	,	PUNCT	,	_	7	punct	_	_
+11	hierdie	dat	SCONJ	IN	_	12	mark	_	_
+12	rede	ons	PRON	PRP	_	2	advcl	_	_
+13	,	aanhou	VERB	VB	_	12	root	_	_
+14	dat	om	ADP	IN	_	15	case	_	_
+15	ons	mens	NOUN	NN	_	13	obj	_	_
+16	aanhou	Zimbabwe	PROPN	NNP	_	15	nmod	_	_
+17	om	te	ADP	IN	_	18	case	_	_
+18	die	probeer	VERB	VB	_	13	advcl	_	_
+19	mense	help	VERB	VB	_	18	xcomp	_	_
+20	van	om	ADP	IN	_	2	dep	_	_
+21	Zimbabwe	'n	DET	DT	_	2	dep	_	_
+22	te	blywende	ADJ	JJ	_	21	amod	_	_
+23	probeer	oplossing	NOUN	NN	_	20	obj	_	_
+24	help	vir	ADP	IN	_	25	case	_	_
+25	om	krisis	NOUN	NN	_	23	nmod	_	_
+26	'n	in	ADP	IN	_	27	case	_	_
+27	blywende	daardie	DET	DT	_	28	det	_	_
+28	oplossing	land	NOUN	NN	_	25	nmod	_	_
+29	vir	te	ADP	IN	_	30	case	_	_
+30	die	vind	VERB	VB	_	19	xcomp	_	_
+31	krisis	'	PUNCT	'	_	2	dep	_	_
+32	in	'n	DET	DT	_	2	dep	_	_
+33	daardie	blywende	ADJ	JJ	_	32	amod	_	_
+34	land	oplossing	NOUN	NN	_	32	obj	_	_
+35	te	'	PUNCT	'	_	32	punct	_	_
+36	vind	.	PUNCT	.	_	2	punct	_	_
+37	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s324
+# text = MIV het die grootste impak op jong vroue.
+1	MIV	MIV	NOUN	NN	_	4	nsubj	_	_
+2	het	het	AUX	VBZ	_	4	aux	_	_
+3	die	die	DET	DT	_	4	det	_	_
+4	grootste	grootste	ADJ	JJ	_	5	amod	_	_
+5	impak	impak	NOUN	NN	_	6	nsubj	_	_
+6	op	had	VERB	VBD	_	0	root	_	_
+7	jong	op	ADP	IN	_	8	case	_	_
+8	vroue	_	_	_	_	6	dep	_	_
+9	.	_	_	_	_	6	dep	_	_
+
+# sent_id = test-s384
+# text = Ek verwys hier spesifiek na die FIFA-Wêreldbeker in 2010, sowel as die Konfederasiebeker 'n paar maande van nou af.
+1	Ek	ek	PRON	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	verwys	verwys	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hier	hier	ADV	ADV	_	2	advmod	_	_
+4	spesifiek	spesifiek	ADV	ADV	_	2	advmod	_	_
+5	na	na	ADP	ADP	_	6	case	_	_
+6	die	die	DET	DET	Definite=Def|PronType=Art	7	det	_	_
+7	FIFA-Wêreldbeker	FIFA-Wêreldbeker	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+8	in	in	ADP	ADP	_	9	case	_	_
+9	2010	2010	NUM	NUM	NumType=Card	7	nmod	_	_
+10	,	,	PUNCT	PUNCT	_	2	punct	_	_
+11	sowel	sowel	ADV	ADV	_	12	advmod	_	_
+12	as	Konfederasiebeker	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+13	die	'n	DET	DET	Definite=Ind|PronType=Art	14	det	_	_
+14	Konfederasiebeker	paar	NUM	NUM	NumType=Card	12	nummod	_	_
+15	'n	maand	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	14	nummod	_	_
+16	paar	van	ADP	ADP	_	17	case	_	_
+17	maande	nou	ADV	ADV	_	15	nmod	_	_
+18	van	af	ADV	ADV	_	17	advmod	_	_
+19	nou	.	PUNCT	PUNCT	_	2	punct	_	_
+20	af	_	_	_	_	2	dep	_	_
+21	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s57
+# text = Departemente se werk sal gemeet word deur uitkomste, wat op grond van ons prestasie-monitering-en-evalueringstelsel ontwikkel word.
+1	Departemente	departemente	ADJ	ADJ	_	2	nmod	_	_
+2	se	se	ADP	ADP	_	3	case	_	_
+3	werk	werk	NOUN	NOUN	_	4	nsubj	_	_
+4	sal	sal	AUX	AUX	_	0	root	_	_
+5	gemeet	word	VERB	VERB	_	4	xcomp	_	_
+6	word	word	AUX	AUX	_	5	aux	_	_
+7	deur	deur	ADP	ADP	_	8	case	_	_
+8	uitkomste	uitkomste	NOUN	NOUN	_	5	obj	_	_
+9	,	,	PUNCT	PUNCT	_	4	dep	_	_
+10	wat	wat	PRON	PRON	_	4	dep	_	_
+11	op	op	ADP	ADP	_	4	dep	_	_
+12	grond	grond	NOUN	NOUN	_	13	nmod	_	_
+13	van	ons	PRON	PRON	_	14	nsubj	_	_
+14	ons	prestasie-monitering-en-evalueringstelsel	NOUN	NOUN	_	15	nmod	_	_
+15	prestasie-monitering-en-evalueringstelsel	ontwikkel	VERB	VERB	_	11	acl	_	_
+16	ontwikkel	word	AUX	AUX	_	15	aux	_	_
+17	word	.	PUNCT	PUNCT	_	4	punct	_	_
+18	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s372
+# text = Hierdie onmiddellike maatreëls sal gelei word deur die beginsel van 'n teensikliese fiskale beleid.
+1	Hierdie	_	_	_	_	5	dep	_	_
+2	onmiddellike	onmiddellike	ADJ	JJ	_	3	amod	_	_
+3	maatreëls	maatreël	NOUN	NN	_	4	nsubj	_	_
+4	sal	sal	AUX	VBC	_	5	aux	_	_
+5	gelei	lei	VERB	VVFIN	_	0	root	_	_
+6	word	word	AUX	VB	_	5	aux	_	_
+7	deur	deur	ADP	IN	_	8	case	_	_
+8	die	die	DET	DT	_	9	nmod	_	_
+9	beginsel	beginsel	NOUN	NN	_	5	nmod	_	_
+10	van	van	ADP	IN	_	11	case	_	_
+11	'n	'n	DET	DT	_	9	nmod	_	_
+12	teensikliese	teensikliese	ADJ	JJ	_	13	amod	_	_
+13	fiskale	fiskale	ADJ	JJ	_	14	amod	_	_
+14	beleid	beleid	NOUN	NN	_	9	nmod	_	_
+15	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s128
+# text = Ons beoog om teen 2014 terreine in 160 wyke te hê.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	beoog	beoog	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	om	om	ADP	ADP	_	4	case	_	_
+4	teen	teen	ADP	ADP	_	2	advmod	_	_
+5	2014	2014	NUM	NUM	NumType=Card	6	nummod	_	_
+6	terreine	terrein	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
+7	in	in	ADP	ADP	_	8	case	_	_
+8	160	wyk	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	6	nmod	_	_
+9	wyke	te	ADP	ADP	_	10	case	_	_
+10	te	hê	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advmod	_	_
+11	hê	_	_	_	_	2	dep	_	_
+12	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s131
+# text = Ons wil ook grondhervornming en landbou-ondersteuningsprogramme beter integreer.
+1	Ons	_	_	_	_	2	dep	_	_
+2	wil	want	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ook	also	ADV	ADV	_	2	advmod	_	_
+4	grondhervornming	_	_	_	_	2	dep	_	_
+5	en	and	CCONJ	CCONJ	_	6	cc	_	_
+6	landbou-ondersteuningsprogramme	_	_	_	_	2	dep	_	_
+7	beter	better	ADV	ADV	_	6	advmod	_	_
+8	integreer	integrate	VERB	VERB	Aspect=Perf|VerbForm=Part|Voice=Act	2	xcomp	_	_
+9	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s376
+# text = In beide die G20-vergaderings en ander interaksies met multilaterale instansies het ons regering redes aangevoer vir toepaslike en dringende ingrypings, veral ten opsigte van ontwikkelde lande waar die krisis ontstaan het en waar dit die ergste gevoel word.
+1	In	_	_	_	_	0	root	_	_
+2	beide	_	_	_	_	1	dep	_	_
+3	die	_	_	_	_	1	dep	_	_
+4	G20-vergaderings	_	_	_	_	1	dep	_	_
+5	en	_	_	_	_	1	dep	_	_
+6	ander	_	_	_	_	1	dep	_	_
+7	interaksies	_	_	_	_	1	dep	_	_
+8	met	_	_	_	_	1	dep	_	_
+9	multilaterale	_	_	_	_	1	dep	_	_
+10	instansies	_	_	_	_	1	dep	_	_
+11	het	_	_	_	_	1	dep	_	_
+12	ons	_	_	_	_	1	dep	_	_
+13	regering	_	_	_	_	1	dep	_	_
+14	redes	_	_	_	_	1	dep	_	_
+15	aangevoer	_	_	_	_	1	dep	_	_
+16	vir	_	_	_	_	1	dep	_	_
+17	toepaslike	_	_	_	_	1	dep	_	_
+18	en	_	_	_	_	1	dep	_	_
+19	dringende	_	_	_	_	1	dep	_	_
+20	ingrypings	_	_	_	_	1	dep	_	_
+21	,	_	_	_	_	1	dep	_	_
+22	veral	_	_	_	_	1	dep	_	_
+23	ten	_	_	_	_	1	dep	_	_
+24	opsigte	_	_	_	_	1	dep	_	_
+25	van	_	_	_	_	1	dep	_	_
+26	ontwikkelde	_	_	_	_	1	dep	_	_
+27	lande	_	_	_	_	1	dep	_	_
+28	waar	_	_	_	_	1	dep	_	_
+29	die	_	_	_	_	1	dep	_	_
+30	krisis	_	_	_	_	1	dep	_	_
+31	ontstaan	_	_	_	_	1	dep	_	_
+32	het	_	_	_	_	1	dep	_	_
+33	en	_	_	_	_	1	dep	_	_
+34	waar	_	_	_	_	1	dep	_	_
+35	dit	_	_	_	_	1	dep	_	_
+36	die	_	_	_	_	1	dep	_	_
+37	ergste	_	_	_	_	1	dep	_	_
+38	gevoel	_	_	_	_	1	dep	_	_
+39	word	_	_	_	_	1	dep	_	_
+40	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s74
+# text = Ons beoog om die aantal matriekstudente met universiteitstoelating teen 2014 tot 175 000 per jaar te verhoog.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	beoog	beoog	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	om	om	ADP	ADP	_	4	case	_	_
+4	die	die	DET	DET	Definite=Def|PronType=Art	5	det	_	_
+5	aantal	aantal	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+6	matriekstudente	matriekstudent	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	_
+7	met	met	ADP	ADP	_	8	case	_	_
+8	universiteitstoelating	universiteitstoelating	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	teen	teen	ADP	ADP	_	10	case	_	_
+10	2014	2014	NUM	NUM	NumType=Card	11	nummod	_	_
+11	tot	per	ADP	ADP	_	12	case	_	_
+12	175	jaar	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	_
+13	000	te	ADP	ADP	_	14	case	_	_
+14	per	verhoog	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	_
+15	jaar	.	PUNCT	PUNCT	_	2	punct	_	_
+16	te	_	_	_	_	2	dep	_	_
+17	verhoog	_	_	_	_	2	dep	_	_
+18	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s157
+# text = Soos u weet, het ons die Presidensiële Klagtelyn ingestel om die regering en die Presidensie meer toeganklik vir die publiek te maak en om te help om blokkasies in dienslewering uit die weg te ruim.
+1	Soos	_	_	_	_	0	root	_	_
+2	u	,	_	_	_	1	punct	_	_
+3	weet	ons	_	_	_	1	nsubj	_	_
+4	,	die	_	_	_	3	det	_	_
+5	het	Presidensiële	_	_	_	4	amod	_	_
+6	ons	Klagtelyn	_	_	_	5	compound	_	_
+7	die	ingestel	_	_	_	1	advcl	_	_
+8	Presidensiële	om	_	_	_	7	mark	_	_
+9	Klagtelyn	die	_	_	_	8	det	_	_
+10	ingestel	regering	_	_	_	9	nmod	_	_
+11	om	en	_	_	_	10	cc	_	_
+12	die	die	_	_	_	11	det	_	_
+13	regering	Presidensie	_	_	_	12	nmod	_	_
+14	en	meer	_	_	_	13	amod	_	_
+15	die	toeganklik	_	_	_	14	amod	_	_
+16	Presidensie	voor	_	_	_	15	case	_	_
+17	meer	die	_	_	_	16	det	_	_
+18	toeganklik	publiek	_	_	_	17	nmod	_	_
+19	vir	en	_	_	_	18	cc	_	_
+20	die	om	_	_	_	19	mark	_	_
+21	publiek	help	_	_	_	20	aux	_	_
+22	te	help	_	_	_	21	xcomp	_	_
+23	maak	om	_	_	_	22	mark	_	_
+24	en	te	_	_	_	23	aux	_	_
+25	om	remu	_	_	_	24	xcomp	_	_
+26	te	blokkasies	_	_	_	25	obj	_	_
+27	help	in	_	_	_	26	case	_	_
+28	om	dienslewering	_	_	_	27	nmod	_	_
+29	blokkasies	uit	_	_	_	28	case	_	_
+30	in	die	_	_	_	29	det	_	_
+31	dienslewering	weg	_	_	_	30	nmod	_	_
+32	uit	ruim	_	_	_	31	amod	_	_
+33	die	.	_	_	_	1	punct	_	_
+34	weg	_	_	_	_	1	dep	_	_
+35	te	_	_	_	_	1	dep	_	_
+36	ruim	_	_	_	_	1	dep	_	_
+37	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s299
+# text = Die Regering se maatskaplike programme het die batebasis van arm mense verbeter, in die vorm van behuising- met 2,6 miljoen gesubsidieerde huise wat voorsien is.
+1	Die	_	_	_	_	0	root	_	_
+2	Regering	_	_	_	_	1	dep	_	_
+3	se	_	_	_	_	1	dep	_	_
+4	maatskaplike	_	_	_	_	1	dep	_	_
+5	programme	_	_	_	_	1	dep	_	_
+6	het	_	_	_	_	1	dep	_	_
+7	die	_	_	_	_	1	dep	_	_
+8	batebasis	_	_	_	_	1	dep	_	_
+9	van	_	_	_	_	1	dep	_	_
+10	arm	_	_	_	_	1	dep	_	_
+11	mense	_	_	_	_	1	dep	_	_
+12	verbeter	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	in	_	_	_	_	1	dep	_	_
+15	die	_	_	_	_	1	dep	_	_
+16	vorm	_	_	_	_	1	dep	_	_
+17	van	_	_	_	_	1	dep	_	_
+18	behuising	_	_	_	_	1	dep	_	_
+19	-	_	_	_	_	1	dep	_	_
+20	met	_	_	_	_	1	dep	_	_
+21	2,6	_	_	_	_	1	dep	_	_
+22	miljoen	_	_	_	_	1	dep	_	_
+23	gesubsidieerde	_	_	_	_	1	dep	_	_
+24	huise	_	_	_	_	1	dep	_	_
+25	wat	_	_	_	_	1	dep	_	_
+26	voorsien	_	_	_	_	1	dep	_	_
+27	is	_	_	_	_	1	dep	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s39
+# text = Beleidsverandering moet fokus op ingrypings om werksgeleenthede vir jongmense te skep.
+1	Beleidsverandering	Beleidsverandering	ADJ	ADJ	_	2	nsubj	_	_
+2	moet	moet	AUX	AUX	_	0	root	_	_
+3	fokus	fokus	NOUN	NOUN	_	2	obj	_	_
+4	op	op	ADP	ADP	_	5	case	_	_
+5	ingrypings	ingrypings	NOUN	NOUN	_	3	nmod	_	_
+6	om	om	ADP	ADP	_	7	case	_	_
+7	werksgeleenthede	werksgeleenthede	NOUN	NOUN	_	5	nmod	_	_
+8	vir	vir	ADP	ADP	_	9	case	_	_
+9	jongmense	jongmense	NOUN	NOUN	_	7	nmod	_	_
+10	te	skep	VERB	VERB	_	2	xcomp	_	_
+11	skep	.	PUNCT	PUNCT	_	2	punct	_	_
+12	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s160
+# text = Ons kan mev Buziwe Ngaleka van Mount Frere hier noem, wie se oproep oor haar oorlede man se pensioen die eerste oproep was wat ons op die eerste dag van die klagtelyn geneem het.
+1	Ons	_	_	_	_	0	root	_	_
+2	kan	_	_	_	_	1	dep	_	_
+3	mev	_	_	_	_	1	dep	_	_
+4	Buziwe	_	_	_	_	1	dep	_	_
+5	Ngaleka	_	_	_	_	1	dep	_	_
+6	van	_	_	_	_	1	dep	_	_
+7	Mount	_	_	_	_	1	dep	_	_
+8	Frere	_	_	_	_	1	dep	_	_
+9	hier	_	_	_	_	1	dep	_	_
+10	noem	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	wie	_	_	_	_	1	dep	_	_
+13	se	_	_	_	_	1	dep	_	_
+14	oproep	_	_	_	_	1	dep	_	_
+15	oor	_	_	_	_	1	dep	_	_
+16	haar	_	_	_	_	1	dep	_	_
+17	oorlede	_	_	_	_	1	dep	_	_
+18	man	_	_	_	_	1	dep	_	_
+19	se	_	_	_	_	1	dep	_	_
+20	pensioen	_	_	_	_	1	dep	_	_
+21	die	_	_	_	_	1	dep	_	_
+22	eerste	_	_	_	_	1	dep	_	_
+23	oproep	_	_	_	_	1	dep	_	_
+24	was	_	_	_	_	1	dep	_	_
+25	wat	_	_	_	_	1	dep	_	_
+26	ons	_	_	_	_	1	dep	_	_
+27	op	_	_	_	_	1	dep	_	_
+28	die	_	_	_	_	1	dep	_	_
+29	eerste	_	_	_	_	1	dep	_	_
+30	dag	_	_	_	_	1	dep	_	_
+31	van	_	_	_	_	1	dep	_	_
+32	die	_	_	_	_	1	dep	_	_
+33	klagtelyn	_	_	_	_	1	dep	_	_
+34	geneem	_	_	_	_	1	dep	_	_
+35	het	_	_	_	_	1	dep	_	_
+36	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s76
+# text = Ons verwelkom verlede maand se verklaring deur die drie onderwysersvakbonde, NAPTOSA, SADTU en SAOU, waarin hulle hulle vanaf die begin van 2010 herverbind het tot die Kwaliteit Leer- en Onderrigveldtog.
+1	Ons	_	_	_	_	0	root	_	_
+2	verwelkom	_	_	_	_	1	dep	_	_
+3	verlede	_	_	_	_	1	dep	_	_
+4	maand	_	_	_	_	1	dep	_	_
+5	se	_	_	_	_	1	dep	_	_
+6	verklaring	_	_	_	_	1	dep	_	_
+7	deur	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	drie	_	_	_	_	1	dep	_	_
+10	onderwysersvakbonde	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	NAPTOSA	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	SADTU	_	_	_	_	1	dep	_	_
+15	en	_	_	_	_	1	dep	_	_
+16	SAOU	_	_	_	_	1	dep	_	_
+17	,	_	_	_	_	1	dep	_	_
+18	waarin	_	_	_	_	1	dep	_	_
+19	hulle	_	_	_	_	1	dep	_	_
+20	hulle	_	_	_	_	1	dep	_	_
+21	vanaf	_	_	_	_	1	dep	_	_
+22	die	_	_	_	_	1	dep	_	_
+23	begin	_	_	_	_	1	dep	_	_
+24	van	_	_	_	_	1	dep	_	_
+25	2010	_	_	_	_	1	dep	_	_
+26	herverbind	_	_	_	_	1	dep	_	_
+27	het	_	_	_	_	1	dep	_	_
+28	tot	_	_	_	_	1	dep	_	_
+29	die	_	_	_	_	1	dep	_	_
+30	Kwaliteit	_	_	_	_	1	dep	_	_
+31	Leer-	_	_	_	_	1	dep	_	_
+32	en	_	_	_	_	1	dep	_	_
+33	Onderrigveldtog	_	_	_	_	1	dep	_	_
+34	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s343
+# text = En tog word die mensdom vandag gekonfronteer met die gevaar dat die bereiking van hierdie doelwitte nog vir baie jare, indien nie dekades nie, uitgestel kan word weens die ekonomiese krisis wat die wêreld oorval het.
+1	En	en	CCONJ	_	_	7	dep	_	_
+2	tog	tog	CCONJ	_	_	4	cc	_	_
+3	word	die	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	die	mensdom	NOUN	_	_	1	conj	_	_
+5	mensdom	van	ADP	_	_	6	case	_	_
+6	vandag	dag	NOUN	_	_	4	nmod	_	_
+7	gekonfronteer	word	VERB	_	_	0	root	_	_
+8	met	die	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	die	bereiking	NOUN	_	_	7	nsubj	_	_
+10	gevaar	van	ADP	_	_	11	case	_	_
+11	dat	dit	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+12	die	nog	ADV	_	_	13	advmod	_	_
+13	bereiking	uitstel	VERB	_	_	9	acl	_	_
+14	van	kun	AUX	_	_	13	aux	_	_
+15	hierdie	kan	AUX	_	_	14	aux	_	_
+16	doelwitte	kan	AUX	_	_	15	aux	_	_
+17	nog	kan	AUX	_	_	16	aux	_	_
+18	vir	kan	AUX	_	_	17	aux	_	_
+19	baie	kan	AUX	_	_	18	aux	_	_
+20	jare	kan	AUX	_	_	19	aux	_	_
+21	,	kan	AUX	_	_	20	aux	_	_
+22	indien	kan	AUX	_	_	21	aux	_	_
+23	nie	kan	AUX	_	_	22	aux	_	_
+24	dekades	kan	AUX	_	_	23	aux	_	_
+25	nie	kan	AUX	_	_	24	aux	_	_
+26	,	kan	AUX	_	_	25	aux	_	_
+27	uitgestel	kan	AUX	_	_	26	aux	_	_
+28	kan	kan	AUX	_	_	27	aux	_	_
+29	word	kan	AUX	_	_	28	aux	_	_
+30	weens	kan	AUX	_	_	29	aux	_	_
+31	die	kan	AUX	_	_	30	aux	_	_
+32	ekonomiese	kan	AUX	_	_	31	aux	_	_
+33	krisis	kan	AUX	_	_	32	aux	_	_
+34	wat	kan	AUX	_	_	33	aux	_	_
+35	die	kan	AUX	_	_	34	aux	_	_
+36	wêreld	kan	AUX	_	_	35	aux	_	_
+37	oorval	kan	AUX	_	_	36	aux	_	_
+38	het	kan	AUX	_	_	37	aux	_	_
+39	.	_	_	_	_	7	dep	_	_
+
+# sent_id = test-s101
+# text = Kom ons hou op om gesteelde goedere te koop.
+1	Kom	_	_	_	_	0	root	_	_
+2	ons	_	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+3	hou	_	VERB	VERB	Mood=Imp|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	op	_	ADP	ADP	_	5	case	_	_
+5	om	_	ADV	ADV	_	3	advmod	_	_
+6	gesteelde	_	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur|Variant=Short	7	amod	_	_
+7	goedere	_	NOUN	NOUN	Case=Nom|Number=Plur	3	obj	_	_
+8	te	_	ADP	ADP	_	9	case	_	_
+9	koop	_	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s109
+# text = Na afloop van die Balfour-besoek het ons 'n ministeriële span, bestaande uit nege lede, gestuur om die gebied te besoek en aandag te skenk aan die kwessies wat deur die gemeenskap geopper is.
+1	Na	_	_	_	_	0	root	_	_
+2	afloop	_	_	_	_	1	dep	_	_
+3	van	_	_	_	_	1	dep	_	_
+4	die	_	_	_	_	1	dep	_	_
+5	Balfour-besoek	_	_	_	_	1	dep	_	_
+6	het	_	_	_	_	1	dep	_	_
+7	ons	_	_	_	_	1	dep	_	_
+8	'n	_	_	_	_	1	dep	_	_
+9	ministeriële	_	_	_	_	1	dep	_	_
+10	span	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	bestaande	_	_	_	_	1	dep	_	_
+13	uit	_	_	_	_	1	dep	_	_
+14	nege	_	_	_	_	1	dep	_	_
+15	lede	_	_	_	_	1	dep	_	_
+16	,	_	_	_	_	1	dep	_	_
+17	gestuur	_	_	_	_	1	dep	_	_
+18	om	_	_	_	_	1	dep	_	_
+19	die	_	_	_	_	1	dep	_	_
+20	gebied	_	_	_	_	1	dep	_	_
+21	te	_	_	_	_	1	dep	_	_
+22	besoek	_	_	_	_	1	dep	_	_
+23	en	_	_	_	_	1	dep	_	_
+24	aandag	_	_	_	_	1	dep	_	_
+25	te	_	_	_	_	1	dep	_	_
+26	skenk	_	_	_	_	1	dep	_	_
+27	aan	_	_	_	_	1	dep	_	_
+28	die	_	_	_	_	1	dep	_	_
+29	kwessies	_	_	_	_	1	dep	_	_
+30	wat	_	_	_	_	1	dep	_	_
+31	deur	_	_	_	_	1	dep	_	_
+32	die	_	_	_	_	1	dep	_	_
+33	gemeenskap	_	_	_	_	1	dep	_	_
+34	geopper	_	_	_	_	1	dep	_	_
+35	is	_	_	_	_	1	dep	_	_
+36	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s265
+# text = Die feit dat die privaatsektor nie genoeg doen om die demografie van bestuurs- en vaardigheidsberoepe in ondernemingsontwikkeling en so meer te verander nie, maak van ons land deels 'n agtergeblewene in hoëgroei-aandele.
+1	Die	_	_	_	_	0	root	_	_
+2	feit	_	_	_	_	1	dep	_	_
+3	dat	_	_	_	_	1	dep	_	_
+4	die	_	_	_	_	1	dep	_	_
+5	privaatsektor	_	_	_	_	1	dep	_	_
+6	nie	_	_	_	_	1	dep	_	_
+7	genoeg	_	_	_	_	1	dep	_	_
+8	doen	_	_	_	_	1	dep	_	_
+9	om	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	demografie	_	_	_	_	1	dep	_	_
+12	van	_	_	_	_	1	dep	_	_
+13	bestuurs-	_	_	_	_	1	dep	_	_
+14	en	_	_	_	_	1	dep	_	_
+15	vaardigheidsberoepe	_	_	_	_	1	dep	_	_
+16	in	_	_	_	_	1	dep	_	_
+17	ondernemingsontwikkeling	_	_	_	_	1	dep	_	_
+18	en	_	_	_	_	1	dep	_	_
+19	so	_	_	_	_	1	dep	_	_
+20	meer	_	_	_	_	1	dep	_	_
+21	te	_	_	_	_	1	dep	_	_
+22	verander	_	_	_	_	1	dep	_	_
+23	nie	_	_	_	_	1	dep	_	_
+24	,	_	_	_	_	1	dep	_	_
+25	maak	_	_	_	_	1	dep	_	_
+26	van	_	_	_	_	1	dep	_	_
+27	ons	_	_	_	_	1	dep	_	_
+28	land	_	_	_	_	1	dep	_	_
+29	deels	_	_	_	_	1	dep	_	_
+30	'n	_	_	_	_	1	dep	_	_
+31	agtergeblewene	_	_	_	_	1	dep	_	_
+32	in	_	_	_	_	1	dep	_	_
+33	hoëgroei-aandele	_	_	_	_	1	dep	_	_
+34	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s349
+# text = Wat ons wel weet, is dat ons land se regulerende omgewing en die teensikliese begrotingsbeleide wat ons aanvaar het, gehelp het om die ergste impak van die krisis te vermy.
+1	Wat	_	_	_	_	0	root	_	_
+2	ons	_	_	_	_	1	dep	_	_
+3	wel	_	_	_	_	1	dep	_	_
+4	weet	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	is	_	_	_	_	1	dep	_	_
+7	dat	_	_	_	_	1	dep	_	_
+8	ons	_	_	_	_	1	dep	_	_
+9	land	_	_	_	_	1	dep	_	_
+10	se	_	_	_	_	1	dep	_	_
+11	regulerende	_	_	_	_	1	dep	_	_
+12	omgewing	_	_	_	_	1	dep	_	_
+13	en	_	_	_	_	1	dep	_	_
+14	die	_	_	_	_	1	dep	_	_
+15	teensikliese	_	_	_	_	1	dep	_	_
+16	begrotingsbeleide	_	_	_	_	1	dep	_	_
+17	wat	_	_	_	_	1	dep	_	_
+18	ons	_	_	_	_	1	dep	_	_
+19	aanvaar	_	_	_	_	1	dep	_	_
+20	het	_	_	_	_	1	dep	_	_
+21	,	_	_	_	_	1	dep	_	_
+22	gehelp	_	_	_	_	1	dep	_	_
+23	het	_	_	_	_	1	dep	_	_
+24	om	_	_	_	_	1	dep	_	_
+25	die	_	_	_	_	1	dep	_	_
+26	ergste	_	_	_	_	1	dep	_	_
+27	impak	_	_	_	_	1	dep	_	_
+28	van	_	_	_	_	1	dep	_	_
+29	die	_	_	_	_	1	dep	_	_
+30	krisis	_	_	_	_	1	dep	_	_
+31	te	_	_	_	_	1	dep	_	_
+32	vermy	_	_	_	_	1	dep	_	_
+33	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s105
+# text = Munisipaliteite moet die voorsiening van behuising, water, sanitasie, elektrisiteit, afvalbestuur en paaie verbeter.
+1	Munisipaliteite	_	_	_	_	0	root	_	_
+2	moet	_	_	_	_	1	dep	_	_
+3	die	_	_	_	_	1	dep	_	_
+4	voorsiening	_	_	_	_	1	dep	_	_
+5	van	_	_	_	_	1	dep	_	_
+6	behuising	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	water	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	sanitasie	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	elektrisiteit	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	afvalbestuur	_	_	_	_	1	dep	_	_
+15	en	_	_	_	_	1	dep	_	_
+16	paaie	_	_	_	_	1	dep	_	_
+17	verbeter	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s373
+# text = Ons sal nogtans verseker dat die leningsvlakke van die Regering versigtig en volhoubaar is.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	sal	sal	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	nogtans	nogtans	ADV	ADV	_	2	advmod	_	_
+4	verseker	verseker	VERB	VERB	VerbForm=Inf	2	xcomp	_	_
+5	dat	dat	SCONJ	SCONJ	_	6	mark	_	_
+6	die	die	DET	DET	Definite=Def|PronType=Art	7	det	_	_
+7	leningsvlakke	leningsvlak	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+8	van	van	ADP	ADP	_	7	case	_	_
+9	die	die	DET	DET	Definite=Def|PronType=Art	10	det	_	_
+10	Regering	Regering	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	_
+11	versigtig	versigtig	ADJ	ADJ	Degree=Pos	12	amod	_	_
+12	en	is	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+13	volhoubaar	volhoubaar	ADJ	ADJ	Degree=Pos	12	amod	_	_
+14	is	.	PUNCT	PUNCT	_	2	punct	_	_
+15	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s222
+# text = Die Regering kan met reg trots wees daarop dat ons die demografiese samestelling van die Staatsdiens verander het, wat feitlik in alle opsigte die karakter van ons samelewing weerspieël.
+1	Die	_	_	_	_	0	root	_	_
+2	Regering	_	_	_	_	1	dep	_	_
+3	kan	_	_	_	_	1	dep	_	_
+4	met	_	_	_	_	1	dep	_	_
+5	reg	_	_	_	_	1	dep	_	_
+6	trots	_	_	_	_	1	dep	_	_
+7	wees	_	_	_	_	1	dep	_	_
+8	daarop	_	_	_	_	1	dep	_	_
+9	dat	_	_	_	_	1	dep	_	_
+10	ons	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	demografiese	_	_	_	_	1	dep	_	_
+13	samestelling	_	_	_	_	1	dep	_	_
+14	van	_	_	_	_	1	dep	_	_
+15	die	_	_	_	_	1	dep	_	_
+16	Staatsdiens	_	_	_	_	1	dep	_	_
+17	verander	_	_	_	_	1	dep	_	_
+18	het	_	_	_	_	1	dep	_	_
+19	,	_	_	_	_	1	dep	_	_
+20	wat	_	_	_	_	1	dep	_	_
+21	feitlik	_	_	_	_	1	dep	_	_
+22	in	_	_	_	_	1	dep	_	_
+23	alle	_	_	_	_	1	dep	_	_
+24	opsigte	_	_	_	_	1	dep	_	_
+25	die	_	_	_	_	1	dep	_	_
+26	karakter	_	_	_	_	1	dep	_	_
+27	van	_	_	_	_	1	dep	_	_
+28	ons	_	_	_	_	1	dep	_	_
+29	samelewing	_	_	_	_	1	dep	_	_
+30	weerspieël	_	_	_	_	1	dep	_	_
+31	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s240
+# text = Wat dit betref, omtrent vyf jaar gelede het ons gedraai by 16% van bruto vastekapitaalformasie as 'n persentasie van Bruto Binnelandse Produk (BBP).
+1	Wat	_	_	_	_	0	root	_	_
+2	dit	vyf	JAAR	_	_	3	advmod	_	_
+3	betref	ons	GEDRAAI	_	_	1	advcl	_	_
+4	,	16	%	_	_	3	case	_	_
+5	omtrent	bruto	VASTEKAPITAALFORMASIE	_	_	4	nmod	_	_
+6	vyf	_	_	_	_	1	dep	_	_
+7	jaar	bruto	BINNELANDSE	Produk	_	5	nmod	_	_
+8	gelede	_	_	_	_	7	punct	_	_
+9	het	_	_	_	_	7	punct	_	_
+10	ons	_	_	_	_	7	punct	_	_
+11	gedraai	_	_	_	_	7	punct	_	_
+12	by	_	_	_	_	1	dep	_	_
+13	16%	_	_	_	_	1	dep	_	_
+14	van	_	_	_	_	1	dep	_	_
+15	bruto	_	_	_	_	1	dep	_	_
+16	vastekapitaalformasie	_	_	_	_	1	dep	_	_
+17	as	_	_	_	_	1	dep	_	_
+18	'n	_	_	_	_	1	dep	_	_
+19	persentasie	_	_	_	_	1	dep	_	_
+20	van	_	_	_	_	1	dep	_	_
+21	Bruto	_	_	_	_	1	dep	_	_
+22	Binnelandse	_	_	_	_	1	dep	_	_
+23	Produk	_	_	_	_	1	dep	_	_
+24	(	_	_	_	_	1	dep	_	_
+25	BBP	_	_	_	_	1	dep	_	_
+26	)	_	_	_	_	1	dep	_	_
+27	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s366
+# text = Dit sal gekombineer word met die bevordering van die Trots Suid-Afrikaanse-veldtog en fermer optrede teen onwettige invoere.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	sal	sal	AUX	VB	_	3	aux	_	_
+3	gekombineer	gekombineer	VERB	VV	_	0	root	_	_
+4	word	word	AUX	VB	_	3	aux	_	_
+5	met	met	ADP	IN	_	6	case	_	_
+6	die	die	DET	DT	_	7	nmod	_	_
+7	bevordering	bevordering	NOUN	NN	_	3	obj	_	_
+8	van	van	ADP	IN	_	9	case	_	_
+9	die	die	DET	DT	_	10	nmod	_	_
+10	Trots	Trots	PROPN	NNP	_	7	nmod	_	_
+11	Suid-Afrikaanse-veldtog	Suid-Afrikaanse	PROPN	NNP	_	10	nmod	_	_
+12	en	_	_	_	_	3	dep	_	_
+13	fermer	en	CCONJ	CC	_	14	cc	_	_
+14	optrede	fermer	ADV	RB	_	3	advmod	_	_
+15	teen	optrede	VERB	VV	_	3	obj	_	_
+16	onwettige	teen	ADP	IN	_	17	case	_	_
+17	invoere	onwettige	ADJ	JJ	_	15	nmod	_	_
+18	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s388
+# text = Dit gaan van ons afhang, en daar kan nie 'n prys daaraan geheg word nie!
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	gaan	gaan	VERB	VBZ	_	0	root	_	_
+3	van	van	ADP	IN	_	4	case	_	_
+4	ons	ons	PRON	PRP	_	2	obl	_	_
+5	afhang	afhang	NOUN	NN	_	2	obj	_	_
+6	,	,	PUNCT	,	_	2	punct	_	_
+7	en	en	CCONJ	CC	_	8	cc	_	_
+8	daar	daar	ADV	RB	_	2	conj	_	_
+9	kan	kon	AUX	MD	_	10	aux	_	_
+10	nie	kan	AUX	VBZ	_	2	conj	_	_
+11	'n	'n	DET	DT	_	12	det	_	_
+12	prys	prys	NOUN	NN	_	10	obj	_	_
+13	daaraan	daararaan	ADV	RB	_	12	advmod	_	_
+14	geheg	geheg	VERB	VBN	_	12	acl	_	_
+15	word	,	PUNCT	,	_	2	punct	_	_
+16	nie	nie	PART	NEG	_	17	advmod	_	_
+17	!	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s113
+# text = Ons het wetstoepassingsagentskappe beveel om strenger op te tree teen wetteloosheid in Balfour en ander gebiede.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	wetstoepassingsagentskappe	wetstoepassingsagentskap	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+4	beveel	beveel	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	om	om	ADP	ADP	_	6	case	_	_
+6	strenger	strenger	ADJ	ADJ	_	4	advmod	_	_
+7	op	op	ADP	ADP	_	8	case	_	_
+8	te	tree	VERB	VERB	_	4	advmod	_	_
+9	tree	teen	ADP	ADP	_	10	case	_	_
+10	teen	wetteloosheid	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
+11	wetteloosheid	in	ADP	ADP	_	12	case	_	_
+12	in	Balfour	PROPN	PROPN	_	10	nmod	_	_
+13	Balfour	en	CCONJ	CCONJ	_	14	cc	_	_
+14	en	ander	ADJ	ADJ	_	12	conj	_	_
+15	ander	gebied	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	14	nmod	_	_
+16	gebiede	.	PUNCT	PUNCT	_	2	punct	_	_
+17	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s72
+# text = Daarbenewens sal elk van ons 27 000 skole deur amptenare van die Departement van Basiese Onderwys geassesseer word.
+1	Daarbenewens	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	elk	_	_	_	_	1	dep	_	_
+4	van	_	_	_	_	1	dep	_	_
+5	ons	_	_	_	_	1	dep	_	_
+6	27	_	_	_	_	1	dep	_	_
+7	000	_	_	_	_	1	dep	_	_
+8	skole	_	_	_	_	1	dep	_	_
+9	deur	_	_	_	_	1	dep	_	_
+10	amptenare	_	_	_	_	1	dep	_	_
+11	van	_	_	_	_	1	dep	_	_
+12	die	_	_	_	_	1	dep	_	_
+13	Departement	_	_	_	_	1	dep	_	_
+14	van	_	_	_	_	1	dep	_	_
+15	Basiese	_	_	_	_	1	dep	_	_
+16	Onderwys	_	_	_	_	1	dep	_	_
+17	geassesseer	_	_	_	_	1	dep	_	_
+18	word	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s302
+# text = Maar ons kan nie tevrede wees met slegs kwantitatiewe verandering nie.
+1	Maar	_	_	_	_	0	root	_	_
+2	ons	_	_	_	_	1	dep	_	_
+3	kan	be	AUX	_	_	1	dep	_	_
+4	nie	satisfied	ADJ	_	_	1	dep	_	_
+5	tevrede	with	ADP	_	_	4	case	_	_
+6	wees	only	ADV	_	_	5	advmod	_	_
+7	met	quantitative	ADJ	_	_	8	amod	_	_
+8	slegs	change	NOUN	_	_	5	nmod	_	_
+9	kwantitatiewe	.	PUNCT	_	_	2	punct	_	_
+10	verandering	_	_	_	_	1	dep	_	_
+11	nie	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s34
+# text = Om betroubare kragtoevoer te verseker, het ons 'n Inter-Ministeriële Komitee oor Energie ingestel, om 'n 20-jaar- geïntegreerde hulpbronplan te ontwikkel.
+1	Om	_	_	_	_	0	root	_	_
+2	betroubare	_	_	_	_	1	dep	_	_
+3	kragtoevoer	_	_	_	_	1	dep	_	_
+4	te	_	_	_	_	1	dep	_	_
+5	verseker	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	het	_	_	_	_	1	dep	_	_
+8	ons	_	_	_	_	1	dep	_	_
+9	'n	_	_	_	_	1	dep	_	_
+10	Inter-Ministeriële	_	_	_	_	1	dep	_	_
+11	Komitee	_	_	_	_	1	dep	_	_
+12	oor	_	_	_	_	1	dep	_	_
+13	Energie	_	_	_	_	1	dep	_	_
+14	ingestel	_	_	_	_	1	dep	_	_
+15	,	_	_	_	_	1	dep	_	_
+16	om	_	_	_	_	1	dep	_	_
+17	'n	_	_	_	_	1	dep	_	_
+18	20-jaar-	_	_	_	_	1	dep	_	_
+19	geïntegreerde	_	_	_	_	1	dep	_	_
+20	hulpbronplan	_	_	_	_	1	dep	_	_
+21	te	_	_	_	_	1	dep	_	_
+22	ontwikkel	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s383
+# text = In hierdie opsig sal dit uiters belangrik wees hoe ons die land posisioneer om voordeel te trek uit die unieke geleenthede wat oor ons pad gekom het.
+1	In	in	ADP	_	_	0	root	_	_
+2	hierdie	hierdie	DET	_	_	1	dep	_	_
+3	opsig	opsig	NOUN	_	_	1	dep	_	_
+4	sal	sal	AUX	_	_	1	dep	_	_
+5	dit	dit	PRON	_	_	1	dep	_	_
+6	uiters	uiterst	ADV	_	_	1	dep	_	_
+7	belangrik	belangrik	ADJ	_	_	1	dep	_	_
+8	wees	wees	AUX	_	_	1	dep	_	_
+9	hoe	hoe	ADV	_	_	1	dep	_	_
+10	ons	ons	PRON	_	_	1	dep	_	_
+11	die	die	DET	_	_	1	dep	_	_
+12	land	land	NOUN	_	_	1	dep	_	_
+13	posisioneer	posisioneer	VERB	_	_	1	dep	_	_
+14	om	om	ADP	_	_	13	case	_	_
+15	voordeel	voordeel	NOUN	_	_	16	nmod	_	_
+16	te	trek	VERB	_	_	17	compound	_	_
+17	trek	trek	VERB	_	_	18	compound	_	_
+18	uit	trek	VERB	_	_	19	compound	_	_
+19	die	trek	VERB	_	_	20	compound	_	_
+20	unieke	trek	VERB	_	_	21	compound	_	_
+21	geleenthede	trek	VERB	_	_	22	compound	_	_
+22	wat	trek	VERB	_	_	23	compound	_	_
+23	oor	trek	VERB	_	_	24	compound	_	_
+24	ons	trek	VERB	_	_	25	compound	_	_
+25	pad	trek	VERB	_	_	26	compound	_	_
+26	gekom	trek	VERB	_	_	27	compound	_	_
+27	het	trek	VERB	_	_	28	compound	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s280
+# text = Hierdie waarnemings word inderdaad bevestig deur ons eie navorsing, wat wys dat inkomste-armoede veral in swart- en kleurling-gemeenskappe afgeneem het, deels as gevolg van laer vlakke van werkloosheid en beter toegang tot maatskaplike toelaes.
+1	Hierdie	_	_	_	_	0	root	_	_
+2	waarnemings	_	_	_	_	1	dep	_	_
+3	word	_	_	_	_	1	dep	_	_
+4	inderdaad	_	_	_	_	1	dep	_	_
+5	bevestig	_	_	_	_	1	dep	_	_
+6	deur	_	_	_	_	1	dep	_	_
+7	ons	_	_	_	_	1	dep	_	_
+8	eie	_	_	_	_	1	dep	_	_
+9	navorsing	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	wat	_	_	_	_	1	dep	_	_
+12	wys	_	_	_	_	1	dep	_	_
+13	dat	_	_	_	_	1	dep	_	_
+14	inkomste-armoede	_	_	_	_	1	dep	_	_
+15	veral	_	_	_	_	1	dep	_	_
+16	in	_	_	_	_	1	dep	_	_
+17	swart-	_	_	_	_	1	dep	_	_
+18	en	_	_	_	_	1	dep	_	_
+19	kleurling-gemeenskappe	_	_	_	_	1	dep	_	_
+20	afgeneem	_	_	_	_	1	dep	_	_
+21	het	_	_	_	_	1	dep	_	_
+22	,	_	_	_	_	1	dep	_	_
+23	deels	_	_	_	_	1	dep	_	_
+24	as	_	_	_	_	1	dep	_	_
+25	gevolg	_	_	_	_	1	dep	_	_
+26	van	_	_	_	_	1	dep	_	_
+27	laer	_	_	_	_	1	dep	_	_
+28	vlakke	_	_	_	_	1	dep	_	_
+29	van	_	_	_	_	1	dep	_	_
+30	werkloosheid	_	_	_	_	1	dep	_	_
+31	en	_	_	_	_	1	dep	_	_
+32	beter	_	_	_	_	1	dep	_	_
+33	toegang	_	_	_	_	1	dep	_	_
+34	tot	_	_	_	_	1	dep	_	_
+35	maatskaplike	_	_	_	_	1	dep	_	_
+36	toelaes	_	_	_	_	1	dep	_	_
+37	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s403
+# text = In hierdie opsig is daar 'n dringende behoefte om die menseregte-krisis in daardie land te help aanspreek.
+1	In	in	ADP	_	_	2	case	_	_
+2	hierdie	hierdie	DET	_	_	3	det	_	_
+3	opsig	opsig	NOUN	_	_	4	nmod	_	_
+4	is	is	AUX	_	_	0	root	_	_
+5	daar	daar	ADV	_	_	4	advmod	_	_
+6	'n	'n	DET	_	_	7	det	_	_
+7	dringende	dringend	ADJ	_	_	8	amod	_	_
+8	behoefte	behoeft	NOUN	_	_	4	nsubj	_	_
+9	om	om	ADP	_	_	8	case	_	_
+10	die	die	DET	_	_	11	det	_	_
+11	menseregte-krisis	_	_	_	_	4	dep	_	_
+12	in	_	_	_	_	4	dep	_	_
+13	daardie	in	ADP	_	_	12	case	_	_
+14	land	daardie	DET	_	_	15	det	_	_
+15	te	land	NOUN	_	_	11	nmod	_	_
+16	help	te	ADP	_	_	15	case	_	_
+17	aanspreek	help	VERB	_	_	4	ccomp	_	_
+18	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s377
+# text = Ons glo dat die tyd nou aangebreek het om binnelandse regulasies en oorsigte oor die finansiële stelsel te verstewig, maar ook dat strenger toesig oor en optrede op 'n wêreldwye skaal onvermydelik en noodsaaklik geword het.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	glo	glo	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dat	dat	SCONJ	SCONJ	_	4	mark	_	_
+4	die	die	DET	DET	Definite=Def|PronType=Art	5	det	_	_
+5	tyd	tyd	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+6	nou	nou	ADV	ADV	_	5	advmod	_	_
+7	aangebreek	aanbreek	VERB	VERB	Aspect=Perf|VerbForm=Part	5	acl	_	_
+8	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+9	om	om	ADP	ADP	_	10	case	_	_
+10	binnelandse	binnelandse	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	regulasies	regulasie	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	2	obj	_	_
+12	en	en	CCONJ	CCONJ	_	13	cc	_	_
+13	oorsigte	oorsig	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	_
+14	oor	oor	ADP	ADP	_	15	case	_	_
+15	die	die	DET	DET	Definite=Def|PronType=Art	16	det	_	_
+16	finansiële	finansiële	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	stelsel	stelsel	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	13	nmod	_	_
+18	te	te	PART	PART	_	19	mark	_	_
+19	verstewig	verstewig	VERB	VERB	VerbForm=Inf	2	advcl	_	_
+20	,	,	PUNCT	PUNCT	_	2	punct	_	_
+21	maar	maar	CCONJ	CCONJ	_	22	cc	_	_
+22	ook	ook	ADV	ADV	_	20	conj	_	_
+23	dat	dat	SCONJ	SCONJ	_	24	mark	_	_
+24	strenger	streng	ADJ	ADJ	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	25	amod	_	_
+25	toesig	toesig	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	_
+26	oor	oor	ADP	ADP	_	27	case	_	_
+27	en	en	CCONJ	CCONJ	_	28	cc	_	_
+28	optrede	optrede	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	_
+29	op	op	ADP	ADP	_	30	case	_	_
+30	'n	'	PUNCT	PUNCT	_	31	punct	_	_
+31	wêreldwye	'n	DET	DET	Definite=Def|PronType=Art	32	det	_	_
+32	skaal	wêreldwye	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+33	onvermydelik	skaal	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	28	nmod	_	_
+34	en	onvermydelik	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	_
+35	noodsaaklik	geword	VERB	VERB	Aspect=Perf|VerbForm=Part	28	acl	_	_
+36	geword	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	aux	_	_
+37	het	.	PUNCT	PUNCT	_	2	punct	_	_
+38	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s381
+# text = Dit gaan beteken dat dit effens langer gaan neem om 'n hoër trajek te bereik.
+1	Dit	dit	DET	DT	_	2	det	_	_
+2	gaan	gaan	AUX	VBZ	_	3	aux	_	_
+3	beteken	beteken	VERB	VB	_	0	root	_	_
+4	dat	dat	SCONJ	IN	_	3	mark	_	_
+5	dit	dit	PRON	PRON	_	6	nsubj	_	_
+6	effens	effens	ADV	ADV	_	3	advmod	_	_
+7	langer	langer	ADJ	JJ	_	6	amod	_	_
+8	gaan	gaan	AUX	VBZ	_	9	aux	_	_
+9	neem	neem	VERB	VB	_	6	advmod	_	_
+10	om	om	ADP	IN	_	9	mark	_	_
+11	'n	'n	DET	DT	_	12	det	_	_
+12	hoër	hoër	ADJ	JJ	_	13	amod	_	_
+13	trajek	trajek	NOUN	NN	_	9	obj	_	_
+14	te	te	ADP	IN	_	13	case	_	_
+15	bereik	bereik	VERB	VB	_	3	ccomp	_	_
+16	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s273
+# text = Hierdie verbetering word weerspieël deur toegang tot basiese dienste- 'n vinnige afname in bate-armoede het die afname in geld-metrieke armoede voorafgegaan.
+1	Hierdie	_	_	_	_	2	dep	_	_
+2	verbetering	_	NOUN	NOUN	_	0	root	_	_
+3	word	_	AUX	AUX	_	2	cop	_	_
+4	weerspieël	_	VERB	VERB	_	2	advcl	_	_
+5	deur	_	ADP	ADP	_	4	case	_	_
+6	toegang	_	NOUN	NOUN	_	5	nmod	_	_
+7	tot	_	ADP	ADP	_	6	case	_	_
+8	basiese	_	ADJ	ADJ	_	6	amod	_	_
+9	dienste	_	NOUN	NOUN	_	7	nmod	_	_
+10	-	_	PUNCT	PUNCT	_	2	dep	_	_
+11	'n	_	DET	DET	_	2	dep	_	_
+12	vinnige	_	ADJ	ADJ	_	2	dep	_	_
+13	afname	_	NOUN	NOUN	_	2	dep	_	_
+14	in	_	ADP	ADP	_	13	case	_	_
+15	bate-armoede	_	NOUN	NOUN	_	14	nmod	_	_
+16	het	_	AUX	AUX	_	2	dep	_	_
+17	die	_	DET	DET	_	2	dep	_	_
+18	afname	_	NOUN	NOUN	_	2	dep	_	_
+19	in	_	ADP	ADP	_	18	case	_	_
+20	geld-metrieke	_	ADJ	ADJ	_	19	amod	_	_
+21	armoede	_	NOUN	NOUN	_	20	nmod	_	_
+22	voorafgegaan	_	VERB	VERB	_	18	advcl	_	_
+23	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s49
+# text = Die onderskeidende kenmerk van hierdie administrasie sal wees dat dit weet waar mense bly, hulle behoeftes verstaan en vinniger daarop reageer.
+1	Die	_	_	_	_	4	dep	_	_
+2	onderskeidende	onderskeid	ADJ	ADJ	_	3	amod	_	_
+3	kenmerk	kenmerk	NOUN	NOUN	_	4	nmod	_	_
+4	van	kenmerk	NOUN	NOUN	_	0	root	_	_
+5	hierdie	wees	AUX	AUX	_	4	cop	_	_
+6	administrasie	mense	NOUN	NOUN	_	7	nmod	_	_
+7	sal	bly	VERB	VERB	_	4	advcl	_	_
+8	wees	hulle	PRON	PRON	_	7	nsubj	_	_
+9	dat	behoeft	NOUN	NOUN	_	10	nmod	_	_
+10	dit	verstaan	VERB	VERB	_	7	advcl	_	_
+11	weet	en	CCONJ	CCONJ	_	10	cc	_	_
+12	waar	vinnig	ADV	ADV	_	13	advmod	_	_
+13	mense	daarop	ADV	ADV	_	10	advmod	_	_
+14	bly	reageer	VERB	VERB	_	4	advcl	_	_
+15	,	.	PUNCT	PUNCT	_	4	punct	_	_
+16	hulle	_	_	_	_	4	dep	_	_
+17	behoeftes	_	_	_	_	4	dep	_	_
+18	verstaan	_	_	_	_	4	dep	_	_
+19	en	_	_	_	_	4	dep	_	_
+20	vinniger	_	_	_	_	4	dep	_	_
+21	daarop	_	_	_	_	4	dep	_	_
+22	reageer	_	_	_	_	4	dep	_	_
+23	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s375
+# text = Ons pogings sal ook ingelig word deur die wete dat die maatreëls om die omgewing te beskerm en om die impak van klimaatsverandering af te weer ook kan bydra tot werkskepping.
+1	Ons	_	_	_	_	0	root	_	_
+2	pogings	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	ook	_	_	_	_	1	dep	_	_
+5	ingelig	_	_	_	_	1	dep	_	_
+6	word	_	_	_	_	1	dep	_	_
+7	deur	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	wete	_	_	_	_	1	dep	_	_
+10	dat	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	maatreëls	_	_	_	_	1	dep	_	_
+13	om	_	_	_	_	1	dep	_	_
+14	die	_	_	_	_	1	dep	_	_
+15	omgewing	_	_	_	_	1	dep	_	_
+16	te	_	_	_	_	1	dep	_	_
+17	beskerm	_	_	_	_	1	dep	_	_
+18	en	_	_	_	_	1	dep	_	_
+19	om	_	_	_	_	1	dep	_	_
+20	die	_	_	_	_	1	dep	_	_
+21	impak	_	_	_	_	1	dep	_	_
+22	van	_	_	_	_	1	dep	_	_
+23	klimaatsverandering	_	_	_	_	1	dep	_	_
+24	af	_	_	_	_	1	dep	_	_
+25	te	_	_	_	_	1	dep	_	_
+26	weer	_	_	_	_	1	dep	_	_
+27	ook	_	_	_	_	1	dep	_	_
+28	kan	_	_	_	_	1	dep	_	_
+29	bydra	_	_	_	_	1	dep	_	_
+30	tot	_	_	_	_	1	dep	_	_
+31	werkskepping	_	_	_	_	1	dep	_	_
+32	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s369
+# text = Ons sal ook aanhou om spesiale aandag te skenk aan die uitdaging van anti-kompeterende gedrag deur sommige van ons korporasies.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	sal	sal	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	ook	ook	ADV	ADV	_	4	advmod	_	_
+4	aanhou	aanhou	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	om	om	ADP	ADP	_	6	case	_	_
+6	spesiale	spesiale	ADJ	ADJ	_	7	amod	_	_
+7	aandag	aandag	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+8	te	skenk	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+9	skenk	te	ADP	ADP	_	10	case	_	_
+10	aan	uitdaging	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+11	die	van	ADP	ADP	_	12	case	_	_
+12	uitdaging	sommige	PRON	PRON	Case=Gen|Number=Plur|PronType=Ind	10	nmod	_	_
+13	van	ons	PRON	PRON	Case=Gen|Number=Plur|Person=1|PronType=Prs	12	nmod	_	_
+14	anti-kompeterende	korporasie	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+15	gedrag	deur	ADP	ADP	_	16	case	_	_
+16	deur	sommige	PRON	PRON	Case=Gen|Number=Plur|PronType=Ind	14	nmod	_	_
+17	sommige	ons	PRON	PRON	Case=Gen|Number=Plur|Person=1|PronType=Prs	16	nmod	_	_
+18	van	korporasie	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+19	ons	_	_	_	_	2	dep	_	_
+20	korporasies	kompeterend	ADJ	ADJ	_	21	amod	_	_
+21	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s25
+# text = Dit is nou die tyd om die basis te lê vir sterker groei in die toekoms en vir groei wat tot meer werksgeleenthede lei.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	is	is	AUX	VBZ	_	0	root	_	_
+3	nou	nou	ADV	RB	_	2	advmod	_	_
+4	die	die	DET	DT	_	5	det	_	_
+5	tyd	tyd	NOUN	NN	_	2	obj	_	_
+6	om	om	ADP	IN	_	7	case	_	_
+7	die	die	DET	DT	_	8	det	_	_
+8	basis	basis	NOUN	NN	_	5	nmod	_	_
+9	te	te	ADP	IN	_	10	case	_	_
+10	lê	lê	VERB	VB	_	8	acl	_	_
+11	vir	vir	ADP	IN	_	12	case	_	_
+12	sterker	sterk	ADJ	JJ	_	13	amod	_	_
+13	groei	groei	NOUN	NN	_	10	obj	_	_
+14	in	in	ADP	IN	_	15	case	_	_
+15	die	die	DET	DT	_	16	det	_	_
+16	toekoms	toekoms	NOUN	NN	_	13	nmod	_	_
+17	en	en	CCONJ	CC	_	18	cc	_	_
+18	vir	groei	NOUN	NN	_	13	conj	_	_
+19	groei	wat	ADV	WRB	_	20	advmod	_	_
+20	wat	tot	ADP	IN	_	21	case	_	_
+21	tot	meer	ADJ	JJ	_	22	amod	_	_
+22	meer	werksgeleenthede	NOUN	NN	_	18	nmod	_	_
+23	werksgeleenthede	lei	VERB	VB	_	18	acl	_	_
+24	lei	.	PUNCT	.	_	2	punct	_	_
+25	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s327
+# text = Dit is dan sommige van die vooruitgang wat die demokrasie meegebring het, en die vordering wat die Regering gemaak het om aan die verkiesingsmandaat te voldoen.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	is	is	AUX	VBZ	_	0	root	_	_
+3	dan	dan	ADV	RB	_	2	advmod	_	_
+4	sommige	som	NUM	CD	NumType=Card	5	nummod	_	_
+5	van	van	ADP	IN	_	6	case	_	_
+6	die	die	DET	DT	_	7	det	_	_
+7	vooruitgang	vooruitgang	NOUN	NN	_	2	obj	_	_
+8	wat	wat	DET	WDT	_	9	det	_	_
+9	die	die	DET	DT	_	10	det	_	_
+10	demokrasie	demokrasie	NOUN	NN	_	7	nmod	_	_
+11	meegebring	meebring	VERB	VBN	_	2	advcl	_	_
+12	het	het	AUX	VBZ	_	11	aux	_	_
+13	,	en	CCONJ	CC	_	14	cc	_	_
+14	en	die	DET	DT	_	15	det	_	_
+15	die	vordering	NOUN	NN	_	7	nmod	_	_
+16	vordering	wat	DET	WDT	_	17	det	_	_
+17	wat	die	DET	DT	_	18	det	_	_
+18	die	Regering	NOUN	NN	_	15	nmod	_	_
+19	Regering	gemaak	VERB	VBN	_	2	advcl	_	_
+20	gemaak	het	AUX	VBZ	_	19	aux	_	_
+21	het	om	ADP	IN	_	22	case	_	_
+22	om	aan	ADP	IN	_	23	case	_	_
+23	aan	die	DET	DT	_	24	det	_	_
+24	die	verkiesingsmandaat	NOUN	NN	_	19	nmod	_	_
+25	verkiesingsmandaat	te	ADP	IN	_	26	case	_	_
+26	te	voldoen	VERB	VB	_	19	advcl	_	_
+27	voldoen	.	PUNCT	.	_	2	punct	_	_
+28	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s104
+# text = Die plaaslike regering moet werk.
+1	Die	_	_	_	_	0	root	_	_
+2	plaaslike	_	_	_	_	1	dep	_	_
+3	regering	_	_	_	_	1	dep	_	_
+4	moet	_	_	_	_	1	dep	_	_
+5	werk	_	_	_	_	1	dep	_	_
+6	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s44
+# text = Verlede jaar het ons die Nasionale Jeugontwikkelingsagentskap in die lewe geroep.
+1	Verlede	_	_	_	_	0	root	_	_
+2	jaar	het	AUX	AUX	_	1	dep	_	_
+3	het	ons	PRON	PRON	_	1	dep	_	_
+4	ons	die	DET	DET	_	1	dep	_	_
+5	die	Nasionale	ADJ	ADJ	_	1	dep	_	_
+6	Nasionale	Jeugontwikkelingsagentskap	NOUN	NOUN	_	7	nmod	_	_
+7	Jeugontwikkelingsagentskap	in	ADP	ADP	_	5	case	_	_
+8	in	die	DET	DET	_	9	det	_	_
+9	die	lewe	NOUN	NOUN	_	10	nmod	_	_
+10	lewe	geroep	VERB	VERB	_	2	root	_	_
+11	geroep	.	PUNCT	PUNCT	_	10	punct	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s148
+# text = Die Staatsdiens moet reageer op die beroep om hierdie termyn deur vinniger optrede en beter prestasie deur die staat te laat kenmerk.
+1	Die	_	_	_	_	0	root	_	_
+2	Staatsdiens	_	_	_	_	1	dep	_	_
+3	moet	_	_	_	_	1	dep	_	_
+4	reageer	_	_	_	_	1	dep	_	_
+5	op	_	_	_	_	1	dep	_	_
+6	die	_	_	_	_	1	dep	_	_
+7	beroep	_	_	_	_	1	dep	_	_
+8	om	_	_	_	_	1	dep	_	_
+9	hierdie	_	_	_	_	1	dep	_	_
+10	termyn	_	_	_	_	1	dep	_	_
+11	deur	_	_	_	_	1	dep	_	_
+12	vinniger	_	_	_	_	1	dep	_	_
+13	optrede	_	_	_	_	1	dep	_	_
+14	en	_	_	_	_	1	dep	_	_
+15	beter	_	_	_	_	1	dep	_	_
+16	prestasie	_	_	_	_	1	dep	_	_
+17	deur	_	_	_	_	1	dep	_	_
+18	die	_	_	_	_	1	dep	_	_
+19	staat	_	_	_	_	1	dep	_	_
+20	te	_	_	_	_	1	dep	_	_
+21	laat	_	_	_	_	1	dep	_	_
+22	kenmerk	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s318
+# text = Ons het nog 'n ver pad om te gaan.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nog	'n	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	'n	ver	ADJ	ADJ	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	ver	pad	NOUN	NOUN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
+6	pad	om	ADP	ADP	AdpType=Prep	7	case	_	_
+7	om	te	AUX	AUX	VerbForm=Inf	5	acl	_	_
+8	te	gaan	VERB	VERB	VerbForm=Inf	7	xcomp	_	_
+9	gaan	_	_	_	_	2	dep	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s28
+# text = Ons Nywerheidsbeleids-aksieplan en ons nuwe fokus op groen werksgeleenthede sal sterker en meer arbeids-absorberende nywerhede bou.
+1	Ons	_	_	_	_	0	root	_	_
+2	Nywerheidsbeleids-aksieplan	_	_	_	_	1	dep	_	_
+3	en	_	_	_	_	1	dep	_	_
+4	ons	_	_	_	_	1	dep	_	_
+5	nuwe	_	_	_	_	1	dep	_	_
+6	fokus	_	_	_	_	1	dep	_	_
+7	op	_	_	_	_	1	dep	_	_
+8	groen	_	_	_	_	1	dep	_	_
+9	werksgeleenthede	_	_	_	_	1	dep	_	_
+10	sal	_	_	_	_	1	dep	_	_
+11	sterker	_	_	_	_	1	dep	_	_
+12	en	_	_	_	_	1	dep	_	_
+13	meer	_	_	_	_	1	dep	_	_
+14	arbeids-absorberende	_	_	_	_	1	dep	_	_
+15	nywerhede	_	_	_	_	1	dep	_	_
+16	bou	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s352
+# text = Tesame voorspel hierdie dinge niks goed vir die inkomste wat ons nodig het om die voorsiening van dienste uit te brei en om ons infrastruktuur-projekte te implementeer nie.
+1	Tesame	_	_	_	_	0	root	_	_
+2	voorspel	_	_	_	_	1	dep	_	_
+3	hierdie	_	_	_	_	1	dep	_	_
+4	dinge	_	_	_	_	1	dep	_	_
+5	niks	_	_	_	_	1	dep	_	_
+6	goed	_	_	_	_	1	dep	_	_
+7	vir	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	inkomste	_	_	_	_	1	dep	_	_
+10	wat	_	_	_	_	1	dep	_	_
+11	ons	_	_	_	_	1	dep	_	_
+12	nodig	_	_	_	_	1	dep	_	_
+13	het	_	_	_	_	1	dep	_	_
+14	om	_	_	_	_	1	dep	_	_
+15	die	_	_	_	_	1	dep	_	_
+16	voorsiening	_	_	_	_	1	dep	_	_
+17	van	_	_	_	_	1	dep	_	_
+18	dienste	_	_	_	_	1	dep	_	_
+19	uit	_	_	_	_	1	dep	_	_
+20	te	_	_	_	_	1	dep	_	_
+21	brei	_	_	_	_	1	dep	_	_
+22	en	_	_	_	_	1	dep	_	_
+23	om	_	_	_	_	1	dep	_	_
+24	ons	_	_	_	_	1	dep	_	_
+25	infrastruktuur-projekte	_	_	_	_	1	dep	_	_
+26	te	_	_	_	_	1	dep	_	_
+27	implementeer	_	_	_	_	1	dep	_	_
+28	nie	_	_	_	_	1	dep	_	_
+29	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s192
+# text = Maar, as dit nodig sou wees, is dit 'n ideaal waarvoor ek bereid is om te sterf.
+1	Maar	maar	CCONJ	_	_	0	root	_	_
+2	,	as	SCONJ	_	_	4	mark	_	_
+3	as	dit	PRON	_	_	4	dobj	_	_
+4	dit	nodig	ADJ	_	_	5	amod	_	_
+5	nodig	sou	AUX	_	_	6	aux	_	_
+6	sou	wees	AUX	_	_	7	aux	_	_
+7	wees	wees	AUX	_	_	8	cop	_	_
+8	,	wees	AUX	_	_	9	cop	_	_
+9	is	wees	AUX	_	_	10	cop	_	_
+10	dit	wees	AUX	_	_	11	cop	_	_
+11	'n	wees	AUX	_	_	12	cop	_	_
+12	ideaal	wees	AUX	_	_	13	cop	_	_
+13	waarvoor	wees	AUX	_	_	14	cop	_	_
+14	ek	wees	AUX	_	_	15	cop	_	_
+15	bereid	wees	AUX	_	_	16	cop	_	_
+16	is	wees	AUX	_	_	17	cop	_	_
+17	om	wees	AUX	_	_	18	cop	_	_
+18	te	wees	AUX	_	_	19	cop	_	_
+19	sterf	wees	AUX	_	_	20	cop	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s54
+# text = Ons moet ook geslagsgelykheidsmaatreëls in die Regering se Aksieprogram integreer.
+1	Ons	_	_	_	_	2	dep	_	_
+2	moet	must	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ook	also	ADV	ADV	_	4	advmod	_	_
+4	geslagsgelykheidsmaatreëls	gender-equality-measures	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	2	obj	_	_
+5	in	into	ADP	ADP	AdpType=Prep	6	case	_	_
+6	die	the	DET	DET	Definite=Def|PronType=Art	7	det	_	_
+7	Regering	_	_	_	_	2	dep	_	_
+8	se	_	_	_	_	2	dep	_	_
+9	Aksieprogram	integrate	VERB	VERB	Aspect=Perf|VerbForm=Part|Voice=Act	2	xcomp	_	_
+10	integreer	.	PUNCT	PUNCT	_	2	punct	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s253
+# text = En omdat ons nie genoeg gespaar het nie, moes ons op korttermyn-kapitaalvloei staatmaak om die tekort sowel as ons beleggingsprogramme te finansier.
+1	En	_	_	_	_	0	root	_	_
+2	omdat	_	_	_	_	1	dep	_	_
+3	ons	_	_	_	_	1	dep	_	_
+4	nie	_	_	_	_	1	dep	_	_
+5	genoeg	_	_	_	_	1	dep	_	_
+6	gespaar	_	_	_	_	1	dep	_	_
+7	het	_	_	_	_	1	dep	_	_
+8	nie	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	moes	_	_	_	_	1	dep	_	_
+11	ons	_	_	_	_	1	dep	_	_
+12	op	_	_	_	_	1	dep	_	_
+13	korttermyn-kapitaalvloei	_	_	_	_	1	dep	_	_
+14	staatmaak	_	_	_	_	1	dep	_	_
+15	om	_	_	_	_	1	dep	_	_
+16	die	_	_	_	_	1	dep	_	_
+17	tekort	_	_	_	_	1	dep	_	_
+18	sowel	_	_	_	_	1	dep	_	_
+19	as	_	_	_	_	1	dep	_	_
+20	ons	_	_	_	_	1	dep	_	_
+21	beleggingsprogramme	_	_	_	_	1	dep	_	_
+22	te	_	_	_	_	1	dep	_	_
+23	finansier	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s271
+# text = Eerstens het geld-metrieke armoede aansienlik afgeneem sedert die eeuwisseling.
+1	Eerstens	_	_	_	_	0	root	_	_
+2	het	_	_	_	_	1	dep	_	_
+3	geld-metrieke	_	_	_	_	1	dep	_	_
+4	armoede	_	_	_	_	1	dep	_	_
+5	aansienlik	_	_	_	_	1	dep	_	_
+6	afgeneem	_	_	_	_	1	dep	_	_
+7	sedert	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	eeuwisseling	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s123
+# text = In hierdie verband het ons in Augustus verlede jaar die eerste loodsterrein van die Omvattende Landelike-ontwikkelingsprogram in Giyani, Limpopo, geloods.
+1	In	_	_	_	_	0	root	_	_
+2	hierdie	_	_	_	_	1	dep	_	_
+3	verband	_	_	_	_	1	dep	_	_
+4	het	_	_	_	_	1	dep	_	_
+5	ons	_	_	_	_	1	dep	_	_
+6	in	_	_	_	_	1	dep	_	_
+7	Augustus	_	_	_	_	1	dep	_	_
+8	verlede	_	_	_	_	1	dep	_	_
+9	jaar	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	eerste	_	_	_	_	1	dep	_	_
+12	loodsterrein	_	_	_	_	1	dep	_	_
+13	van	_	_	_	_	1	dep	_	_
+14	die	_	_	_	_	1	dep	_	_
+15	Omvattende	_	_	_	_	1	dep	_	_
+16	Landelike-ontwikkelingsprogram	_	_	_	_	1	dep	_	_
+17	in	_	_	_	_	1	dep	_	_
+18	Giyani	_	_	_	_	1	dep	_	_
+19	,	_	_	_	_	1	dep	_	_
+20	Limpopo	_	_	_	_	1	dep	_	_
+21	,	_	_	_	_	1	dep	_	_
+22	geloods	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s47
+# text = Ons het gesê dat dit 'n staat sou wees wat op die mense se behoeftes en aspirasies reageer, en wat beter en vinniger presteer.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	gesê	gesê	VERB	VERB	Aspect=Perf|VerbForm=Part	2	xcomp	_	_
+4	dat	dat	SCONJ	SCONJ	_	5	mark	_	_
+5	dit	dit	PRON	PRON	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+6	'n	'n	DET	DET	Definite=Ind|PronType=Art	7	det	_	_
+7	staat	staat	NOUN	NOUN	Number=Sing	5	nmod	_	_
+8	sou	sou	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	cop	_	_
+9	wees	wat	PRON	PRON	PronType=Rel	2	dep	_	_
+10	wat	op	ADP	ADP	_	11	case	_	_
+11	op	die	DET	DET	Definite=Def|PronType=Art	12	det	_	_
+12	die	mens	NOUN	NOUN	Number=Plur	9	nmod	_	_
+13	mense	se	ADP	ADP	_	12	case	_	_
+14	se	behoeftes	NOUN	NOUN	Number=Plur	12	nmod	_	_
+15	behoeftes	en	CCONJ	CCONJ	_	16	cc	_	_
+16	en	aspirasie	NOUN	NOUN	Number=Plur	14	conj	_	_
+17	aspirasies	reageer	VERB	VERB	VerbForm=Inf	3	advcl	_	_
+18	reageer	en	CCONJ	CCONJ	_	19	cc	_	_
+19	,	beter	ADV	ADV	_	20	advmod	_	_
+20	en	presteer	VERB	VERB	VerbForm=Inf	17	conj	_	_
+21	wat	,	PUNCT	PUNCT	_	3	punct	_	_
+22	beter	en	CCONJ	CCONJ	_	23	cc	_	_
+23	en	beter	ADV	ADV	_	24	advmod	_	_
+24	vinniger	presteer	VERB	VERB	VerbForm=Inf	20	conj	_	_
+25	presteer	,	PUNCT	PUNCT	_	3	punct	_	_
+26	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s319
+# text = Ek is seker dat die agbare lede sal saamstem dat die menslikheid van ons demokratiese bedeling uitdrukking behoort te vind in die mate waartoe ons aandag skenk aan die weerbaarste lede van ons samelewing.
+1	Ek	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	seker	_	_	_	_	1	dep	_	_
+4	dat	_	_	_	_	1	dep	_	_
+5	die	_	_	_	_	1	dep	_	_
+6	agbare	_	_	_	_	1	dep	_	_
+7	lede	_	_	_	_	1	dep	_	_
+8	sal	_	_	_	_	1	dep	_	_
+9	saamstem	_	_	_	_	1	dep	_	_
+10	dat	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	menslikheid	_	_	_	_	1	dep	_	_
+13	van	_	_	_	_	1	dep	_	_
+14	ons	_	_	_	_	1	dep	_	_
+15	demokratiese	_	_	_	_	1	dep	_	_
+16	bedeling	_	_	_	_	1	dep	_	_
+17	uitdrukking	_	_	_	_	1	dep	_	_
+18	behoort	_	_	_	_	1	dep	_	_
+19	te	_	_	_	_	1	dep	_	_
+20	vind	_	_	_	_	1	dep	_	_
+21	in	_	_	_	_	1	dep	_	_
+22	die	_	_	_	_	1	dep	_	_
+23	mate	_	_	_	_	1	dep	_	_
+24	waartoe	_	_	_	_	1	dep	_	_
+25	ons	_	_	_	_	1	dep	_	_
+26	aandag	_	_	_	_	1	dep	_	_
+27	skenk	_	_	_	_	1	dep	_	_
+28	aan	_	_	_	_	1	dep	_	_
+29	die	_	_	_	_	1	dep	_	_
+30	weerbaarste	_	_	_	_	1	dep	_	_
+31	lede	_	_	_	_	1	dep	_	_
+32	van	_	_	_	_	1	dep	_	_
+33	ons	_	_	_	_	1	dep	_	_
+34	samelewing	_	_	_	_	1	dep	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s345
+# text = Ons kan die gulsigheid, kortsigtigheid en sorgeloosheid van bestuurders van groot korporasies, wat die krisis bespoedig het, blameer.
+1	Ons	_	_	_	_	0	root	_	_
+2	kan	_	_	_	_	1	dep	_	_
+3	die	_	_	_	_	1	dep	_	_
+4	gulsigheid	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	kortsigtigheid	_	_	_	_	1	dep	_	_
+7	en	_	_	_	_	1	dep	_	_
+8	sorgeloosheid	_	_	_	_	1	dep	_	_
+9	van	_	_	_	_	1	dep	_	_
+10	bestuurders	_	_	_	_	1	dep	_	_
+11	van	_	_	_	_	1	dep	_	_
+12	groot	_	_	_	_	1	dep	_	_
+13	korporasies	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	wat	_	_	_	_	1	dep	_	_
+16	die	_	_	_	_	1	dep	_	_
+17	krisis	_	_	_	_	1	dep	_	_
+18	bespoedig	_	_	_	_	1	dep	_	_
+19	het	_	_	_	_	1	dep	_	_
+20	,	_	_	_	_	1	dep	_	_
+21	blameer	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s14
+# text = Hierdie is werksgeleenthede wat geskep is om werklose mense van 'n inkomste, ervaring en opleidingsgeleenthede te voorsien.
+1	Hierdie	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	werksgeleenthede	_	_	_	_	1	dep	_	_
+4	wat	_	_	_	_	1	dep	_	_
+5	geskep	_	_	_	_	1	dep	_	_
+6	is	_	_	_	_	1	dep	_	_
+7	om	_	_	_	_	1	dep	_	_
+8	werklose	_	_	_	_	1	dep	_	_
+9	mense	_	_	_	_	1	dep	_	_
+10	van	_	_	_	_	1	dep	_	_
+11	'n	_	_	_	_	1	dep	_	_
+12	inkomste	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	ervaring	_	_	_	_	1	dep	_	_
+15	en	_	_	_	_	1	dep	_	_
+16	opleidingsgeleenthede	_	_	_	_	1	dep	_	_
+17	te	_	_	_	_	1	dep	_	_
+18	voorsien	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s32
+# text = Op die terrein van vervoer, sal ons ons padnetwerk in stand hou en uitbrei.
+1	Op	die	DET	DT	_	0	root	_	_
+2	die	terrein	NOUN	NN	_	1	dep	_	_
+3	terrein	van	ADP	IN	_	2	case	_	_
+4	van	vervoer	NOUN	NN	_	3	nmod	_	_
+5	vervoer	,	PUNCT	,	_	1	dep	_	_
+6	,	sal	AUX	VB	_	1	dep	_	_
+7	sal	ons	PRON	PRP	_	1	dep	_	_
+8	ons	ons	PRON	PRP	_	9	nmod	_	_
+9	ons	padnetwerk	NOUN	NN	_	7	dobj	_	_
+10	padnetwerk	in	ADP	IN	_	9	case	_	_
+11	in	stand	NOUN	NN	_	9	nmod	_	_
+12	stand	en	CCONJ	CC	_	13	cc	_	_
+13	hou	uitbrei	VERB	VB	_	6	conj	_	_
+14	en	.	PUNCT	.	_	6	punct	_	_
+15	uitbrei	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s139
+# text = Hierdie regering sal verseker dat ons omgewingsbates en natuurlike hulpbronne goed beskerm en deurentyd verbeter word.
+1	Hierdie	regering	NOUN	NN	_	0	root	_	_
+2	regering	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	verseker	_	_	_	_	1	dep	_	_
+5	dat	_	_	_	_	1	dep	_	_
+6	ons	_	_	_	_	1	dep	_	_
+7	omgewingsbates	_	_	_	_	1	dep	_	_
+8	en	hulpbronne	NOUN	NN	_	6	conj	_	_
+9	natuurlike	_	_	_	_	1	dep	_	_
+10	hulpbronne	_	_	_	_	1	dep	_	_
+11	goed	_	_	_	_	1	dep	_	_
+12	beskerm	_	_	_	_	1	dep	_	_
+13	en	_	_	_	_	1	dep	_	_
+14	deurentyd	_	_	_	_	1	dep	_	_
+15	verbeter	_	_	_	_	1	dep	_	_
+16	word	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s312
+# text = Dit dui op swakhede in ons buurte, veral om bande van gemeenskaplike solidariteit te bou wat ons sal help om misdaad te voorkom en te bekamp.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	dui	dui	VERB	VBZ	_	0	root	_	_
+3	op	op	ADP	IN	_	2	case	_	_
+4	swakhede	swakheid	NOUN	NN	_	3	obl	_	_
+5	in	in	ADP	IN	_	4	case	_	_
+6	ons	onse	PRON	PRP$	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
+7	buurte	buurt	NOUN	NN	_	6	nmod	_	_
+8	,	,	PUNCT	,	_	2	punct	_	_
+9	veral	veral	ADV	RB	_	2	advmod	_	_
+10	om	om	ADP	IN	_	12	case	_	_
+11	bande	band	NOUN	NN	_	12	nsubj	_	_
+12	van	bou	VERB	VB	_	9	advcl	_	_
+13	gemeenskaplike	wat	PRON	PRP	_	12	obj	_	_
+14	solidariteit	onse	PRON	PRP$	Case=Gen|Number=Plur|Person=1|PronType=Prs	13	nmod	_	_
+15	te	sal	AUX	MD	_	2	dep	_	_
+16	bou	help	VERB	VB	_	2	dep	_	_
+17	wat	om	ADP	IN	_	19	case	_	_
+18	ons	misdaad	NOUN	NN	_	17	obj	_	_
+19	sal	voorkom	VERB	VB	_	16	advcl	_	_
+20	help	en	CCONJ	CC	_	22	cc	_	_
+21	om	te	ADP	IN	_	22	case	_	_
+22	misdaad	bekamp	VERB	VB	_	19	conj	_	_
+23	te	.	PUNCT	.	_	2	punct	_	_
+24	voorkom	_	_	_	_	2	dep	_	_
+25	en	_	_	_	_	2	dep	_	_
+26	te	_	_	_	_	2	dep	_	_
+27	bekamp	_	_	_	_	2	dep	_	_
+28	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s2
+# text = Die krisis het ons ekonomie ongeveer 900 000 werksgeleenthede gekos.
+1	Die	_	_	_	_	2	dep	_	_
+2	krisis	_	AUX	VBZ	_	0	root	_	_
+3	het	_	PRON	PRP	_	2	nsubj	_	_
+4	ons	_	NOUN	NN	_	2	dobj	_	_
+5	ekonomie	_	ADV	RB	_	2	dep	_	_
+6	ongeveer	_	NUM	CD	_	2	dep	_	_
+7	900	_	NUM	CD	_	6	nummod	_	_
+8	000	_	NOUN	NN	_	2	dobj	_	_
+9	werksgeleenthede	_	VERB	VBN	_	2	aux	_	_
+10	gekos	_	PUNCT	.	_	2	punct	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s230
+# text = Soos die agbare lede weet, het ons regering die geveg teen misdaad een van ons hoof-fokusareas gemaak.
+1	Soos	soos	ADP	ADP	_	2	case	_	_
+2	die	die	DET	DET	_	3	det	_	_
+3	agbare	agbaar	ADJ	ADJ	_	4	amod	_	_
+4	lede	lede	NOUN	NOUN	_	5	nsubj	_	_
+5	weet	weet	VERB	VERB	_	0	root	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	het	het	AUX	AUX	_	8	aux	_	_
+8	ons	ons	PRON	PRON	_	5	nsubj	_	_
+9	regering	regering	NOUN	NOUN	_	8	nmod	_	_
+10	die	die	DET	DET	_	9	det	_	_
+11	geveg	geveg	NOUN	NOUN	_	12	nsubj	_	_
+12	teen	teen	ADP	ADP	_	13	case	_	_
+13	misdaad	misdaad	NOUN	NOUN	_	9	nmod	_	_
+14	een	een	NUM	NUM	_	15	nummod	_	_
+15	van	geveg	NOUN	NOUN	_	11	nmod	_	_
+16	ons	een	NUM	NUM	_	17	nummod	_	_
+17	hoof-fokusareas	hof-fokusarea	NOUN	NOUN	_	15	nmod	_	_
+18	gemaak	gemaak	VERB	VERB	_	5	ccomp	_	_
+19	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s166
+# text = Ek het 'n uiteensetting gegee van die hoofelemente van ons planne vir 2010, ons kollektiewe verbintenis as regering teenoor die mense van Suid-Afrika.
+1	Ek	_	_	_	_	2	dep	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	'n	'n	DET	DET	Definite=Ind|PronType=Art	4	det	_	_
+4	uiteensetting	uiteensetting	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	obj	_	_
+5	gegee	gee	VERB	VERB	Aspect=Perf|VerbForm=Part	4	acl	_	_
+6	van	van	ADP	ADP	_	7	case	_	_
+7	die	die	DET	DET	Definite=Def|PronType=Art	8	det	_	_
+8	hoofelemente	hoofelement	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	obl	_	_
+9	van	van	ADP	ADP	_	10	case	_	_
+10	ons	onse	PRON	PRON	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod	_	_
+11	planne	plann	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	obl	_	_
+12	vir	2010	NUM	NUM	NumType=Card	11	nummod	_	_
+13	2010	,	PUNCT	PUNCT	_	14	punct	_	_
+14	,	onse	PRON	PRON	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod	_	_
+15	ons	kollektiewe	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	kollektiewe	verbintenis	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	11	nmod	_	_
+17	verbintenis	as	ADP	ADP	_	18	case	_	_
+18	as	regering	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	16	nmod	_	_
+19	regering	tegenoor	ADP	ADP	_	20	case	_	_
+20	teenoor	die	DET	DET	Definite=Def|PronType=Art	21	det	_	_
+21	die	mens	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	18	nmod	_	_
+22	mense	van	ADP	ADP	_	23	case	_	_
+23	van	Suid-Afrika	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	21	nmod	_	_
+24	Suid-Afrika	_	_	_	_	2	dep	_	_
+25	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s179
+# text = Die nodige infrastruktuur, sekuriteit en logistieke reëlings is alles gereed om 'n suksesvolle toernooi te verseker.
+1	Die	_	_	_	_	0	root	_	_
+2	nodige	_	_	_	_	1	dep	_	_
+3	infrastruktuur	_	_	_	_	1	dep	_	_
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	sekuriteit	_	_	_	_	1	dep	_	_
+6	en	_	_	_	_	1	dep	_	_
+7	logistieke	_	_	_	_	1	dep	_	_
+8	reëlings	_	_	_	_	1	dep	_	_
+9	is	_	_	_	_	1	dep	_	_
+10	alles	_	_	_	_	1	dep	_	_
+11	gereed	_	_	_	_	1	dep	_	_
+12	om	_	_	_	_	1	dep	_	_
+13	'n	_	_	_	_	1	dep	_	_
+14	suksesvolle	_	_	_	_	1	dep	_	_
+15	toernooi	_	_	_	_	1	dep	_	_
+16	te	_	_	_	_	1	dep	_	_
+17	verseker	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s261
+# text = Natuurlik moet dit ons nie laat afsien van ons verpligting om die kwessie van die kwaliteit van hierdie werke te bevraagteken nie, insluitend die regte en voordele wat werkers geniet.
+1	Natuurlik	natuurlik	ADV	_	_	0	root	_	_
+2	moet	moet	AUX	_	_	1	dep	_	_
+3	dit	dit	PRON	_	_	4	dobj	_	_
+4	ons	ons	PRON	_	_	5	nsubj	_	_
+5	nie	laat	VERB	_	_	2	advcl	_	_
+6	laat	nie	PART	_	_	5	advmod	_	_
+7	afsien	afsiens	NOUN	_	_	5	dobj	_	_
+8	van	van	ADP	_	_	7	case	_	_
+9	ons	onse	PRON	_	_	8	nmod	_	_
+10	verpligting	verpligting	NOUN	_	_	5	nmod	_	_
+11	om	om	ADP	_	_	10	case	_	_
+12	die	die	DET	_	_	13	det	_	_
+13	kwessie	kwessie	NOUN	_	_	10	nmod	_	_
+14	van	van	ADP	_	_	13	case	_	_
+15	die	die	DET	_	_	16	det	_	_
+16	kwaliteit	kwaliteit	NOUN	_	_	13	nmod	_	_
+17	van	van	ADP	_	_	16	case	_	_
+18	hierdie	hierdie	DET	_	_	19	det	_	_
+19	werke	werk	NOUN	_	_	16	nmod	_	_
+20	te	bevraagteken	BEVRAAGTEKEN	VERB	_	13	advcl	_	_
+21	bevraagteken	bevraagteken	BEVRAAGTEKEN	VERB	_	20	aux	_	_
+22	nie	insluitend	ADV	_	_	20	advmod	_	_
+23	,	die	DET	_	_	24	det	_	_
+24	insluitend	regt	NOUN	_	_	22	nmod	_	_
+25	die	en	CCONJ	_	_	24	cc	_	_
+26	regte	die	DET	_	_	27	det	_	_
+27	en	voordel	NOUN	_	_	24	nmod	_	_
+28	voordele	wat	PRON	_	_	27	nmod	_	_
+29	wat	werker	NOUN	_	_	28	nmod	_	_
+30	werkers	geniet	VERB	_	_	27	advcl	_	_
+31	geniet	geniet	VERB	_	_	30	aux	_	_
+32	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s422
+# text = Vergun my, Mevrou die Speaker en Voorsitter, om op hierdie noot alle stemgeregtigde Suid-Afrikaners aan te spoor om te registreer en te stem in die komende nasionale en plaaslike verkiesings sodat ons self die toekoms kan bepaal.
+1	Vergun	_	_	_	_	0	root	_	_
+2	my	my	PRON	PPER	_	1	nsubj	_	_
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	Mevrou	die	DET	ART	_	5	det	_	_
+5	die	Speaker	PROPN	NN	_	1	nmod	_	_
+6	Speaker	en	CCONJ	CC	_	7	cc	_	_
+7	en	Voorsitter	PROPN	NN	_	5	conj	_	_
+8	Voorsitter	,	PUNCT	PUNCT	_	1	dep	_	_
+9	,	om	ADP	APPR	_	1	dep	_	_
+10	om	op	ADP	APPR	_	1	dep	_	_
+11	op	hierdie	DET	ART	_	12	det	_	_
+12	hierdie	noot	NOUN	NN	_	10	nmod	_	_
+13	noot	alle	DET	ART	_	14	det	_	_
+14	alle	stemgeregtigde	ADJ	ADJA	_	15	amod	_	_
+15	stemgeregtigde	Suid-Afrikaner	NOUN	NN	_	12	nmod	_	_
+16	Suid-Afrikaners	aan	ADP	APPR	_	17	case	_	_
+17	aan	aan	VERB	VVFIN	_	18	cop	_	_
+18	te	spoor	VERB	VVFIN	_	15	acl	_	_
+19	spoor	,	PUNCT	PUNCT	_	1	dep	_	_
+20	om	om	ADP	APPR	_	1	dep	_	_
+21	te	op	ADP	APPR	_	22	case	_	_
+22	registreer	hierdie	DET	ART	_	23	det	_	_
+23	en	noot	NOUN	NN	_	20	nmod	_	_
+24	te	alle	DET	ART	_	25	det	_	_
+25	stem	stemgeregtigde	ADJ	ADJA	_	26	amod	_	_
+26	in	Suid-Afrikaner	NOUN	NN	_	23	nmod	_	_
+27	die	te	ADP	APPR	_	1	dep	_	_
+28	komende	registreer	VERB	VVFIN	_	1	dep	_	_
+29	nasionale	en	CCONJ	CC	_	30	cc	_	_
+30	en	stem	VERB	VVFIN	_	28	conj	_	_
+31	plaaslike	in	ADP	APPR	_	1	dep	_	_
+32	verkiesings	hierdie	DET	ART	_	33	det	_	_
+33	sodat	noot	NOUN	NN	_	31	nmod	_	_
+34	ons	alle	DET	ART	_	35	det	_	_
+35	self	stemgeregtigde	ADJ	ADJA	_	36	amod	_	_
+36	die	Suid-Afrikaner	NOUN	NN	_	33	nmod	_	_
+37	toekoms	sodat	SCONJ	SCONJ	_	38	mark	_	_
+38	kan	wir	PRON	PPER	_	39	nsubj	_	_
+39	bepaal	self	PRON	PPER	_	40	nmod	_	_
+40	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s125
+# text = Vordering is ook gemaak met die voorsiening van infrastruktuur om landbou-ontwikkeling en opleiding vir gemeenskapsleiers te ondersteun.
+1	Vordering	vordering	NOUN	NN	_	4	nsubj	_	_
+2	is	is	AUX	VBZ	_	4	cop	_	_
+3	ook	ook	ADV	RB	_	4	advmod	_	_
+4	gemaak	gemaak	VERB	VBN	_	0	root	_	_
+5	met	met	ADP	IN	_	6	case	_	_
+6	die	voorsiening	NOUN	NN	_	4	obl	_	_
+7	voorsiening	om	ADP	IN	_	8	case	_	_
+8	van	infrastruktuur	NOUN	NN	_	6	nmod	_	_
+9	infrastruktuur	om	ADP	IN	_	10	case	_	_
+10	om	landbou-ontwikkeling	NOUN	NN	_	8	nmod	_	_
+11	landbou-ontwikkeling	en	CCONJ	CC	_	10	cc	_	_
+12	en	opleiding	NOUN	NN	_	10	conj	_	_
+13	opleiding	vir	ADP	IN	_	14	case	_	_
+14	vir	gemeenskapsleier	NOUN	NN	_	12	nmod	_	_
+15	gemeenskapsleiers	te	ADP	IN	_	16	case	_	_
+16	te	ondersteun	VERB	VB	_	12	advcl	_	_
+17	ondersteun	.	PUNCT	.	_	4	punct	_	_
+18	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s66
+# text = Ons wil hê dat leerders en onderwysers betyds in die skool, in die klas moet wees, besig om sewe uur per dag te leer en te onderrig.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	wil	wil	AUX	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hê	hê	AUX	AUX	VerbForm=Fin	2	aux	_	_
+4	dat	dat	SCONJ	SCONJ	_	5	mark	_	_
+5	leerders	leerder	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	2	ccomp	_	_
+6	en	en	CCONJ	CCONJ	_	7	cc	_	_
+7	onderwysers	onderwyser	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	_
+8	betyds	betyds	ADV	ADV	_	9	advmod	_	_
+9	in	in	ADP	ADP	_	10	case	_	_
+10	die	die	DET	DET	Definite=Def|PronType=Art	11	det	_	_
+11	skool	skool	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+12	,	,	PUNCT	PUNCT	_	13	punct	_	_
+13	in	in	ADP	ADP	_	14	case	_	_
+14	die	die	DET	DET	Definite=Def|PronType=Art	15	det	_	_
+15	klas	klas	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	11	nmod	_	_
+16	moet	moet	AUX	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	_
+17	wees	wees	AUX	AUX	VerbForm=Fin	16	aux	_	_
+18	,	besig	ADV	ADV	_	19	advmod	_	_
+19	besig	om	ADP	ADP	_	20	case	_	_
+20	om	seven	NUM	NUM	NumType=Card	21	nummod	_	_
+21	sewe	uur	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	22	nmod	_	_
+22	uur	per	ADP	ADP	_	23	case	_	_
+23	per	dag	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	16	nmod	_	_
+24	dag	te	ADP	ADP	_	25	case	_	_
+25	te	leer	VERB	VERB	VerbForm=Inf	16	xcomp	_	_
+26	leer	en	CCONJ	CCONJ	_	27	cc	_	_
+27	en	onderrig	VERB	VERB	VerbForm=Inf	25	conj	_	_
+28	te	.	PUNCT	PUNCT	_	2	punct	_	_
+29	onderrig	_	_	_	_	2	dep	_	_
+30	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s200
+# text = Al hierdie dinge het gelei tot die onderhandelingsproses wat uitgeloop het op ons eerste demokratiese verkiesing in 1994.
+1	Al	Al	DET	DT	_	2	det	_	_
+2	hierdie	hierdie	DET	DT	_	3	det	_	_
+3	dinge	ding	NOUN	NOUN	_	4	nmod	_	_
+4	het	het	AUX	AUX	_	5	aux	_	_
+5	gelei	lei	VERB	VERB	_	0	root	_	_
+6	tot	tot	ADP	ADP	_	5	case	_	_
+7	die	die	DET	DT	_	8	det	_	_
+8	onderhandelingsproses	onderhandelingsproses	NOUN	NOUN	_	6	nmod	_	_
+9	wat	wat	PRON	PRON	_	10	nsubj	_	_
+10	uitgeloop	uitloop	VERB	VERB	_	5	ccomp	_	_
+11	het	het	AUX	AUX	_	10	aux	_	_
+12	op	op	ADP	ADP	_	10	case	_	_
+13	ons	ons	PRON	PRON	_	14	nmod	_	_
+14	eerste	eerste	ADJ	ADJ	_	12	nmod	_	_
+15	demokratiese	demokraties	ADJ	ADJ	_	14	amod	_	_
+16	verkiesing	verkiesing	NOUN	NOUN	_	12	nmod	_	_
+17	in	in	ADP	ADP	_	16	case	_	_
+18	1994	_	_	_	_	5	dep	_	_
+19	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s168
+# text = Ministers sal die details in hul onderskeie begrotingsredes verskaf.
+1	Ministers	_	_	_	_	2	dep	_	_
+2	sal	sal	AUX	VAFS	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	die	die	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	details	details	NOUN	NN	Number=Plur	2	obj	_	_
+5	in	in	ADP	IN	_	6	case	_	_
+6	hul	hul	PRON	PP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	_
+7	onderskeie	onderskeie	ADJ	JJ	Number=Plur	6	amod	_	_
+8	begrotingsredes	begrotingsrede	NOUN	NN	Number=Plur	6	nmod	_	_
+9	verskaf	verskaf	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s127
+# text = Ons implementeer tans soortgelyke programme in sewe terreine regoor die land, tot voordeel van 21 wyke.
+1	Ons	_	_	_	_	2	dep	_	_
+2	implementeer	implement	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tans	tans	ADV	ADV	_	2	advmod	_	_
+4	soortgelyke	soortgelyk	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	programme	program	PROPN	PROPN	Case=Nom|Number=Plur	2	obj	_	_
+6	in	in	ADP	ADP	_	7	case	_	_
+7	sewe	seven	NUM	NUM	Case=Nom|Number=Sing	5	nmod	_	_
+8	terreine	terrein	NOUN	NOUN	Case=Nom|Number=Plur	5	nmod	_	_
+9	regoor	regoor	ADV	ADV	_	8	advmod	_	_
+10	die	die	DET	DET	Definite=Def|PronType=Art	11	det	_	_
+11	land	land	NOUN	NOUN	Case=Nom|Number=Sing	8	nmod	_	_
+12	,	,	PUNCT	PUNCT	_	14	punct	_	_
+13	tot	tot	ADP	ADP	_	14	case	_	_
+14	voordeel	voordeel	NOUN	NOUN	Case=Dat|Number=Sing	2	advmod	_	_
+15	van	van	ADP	ADP	_	16	case	_	_
+16	21	21	NUM	NUM	Case=Nom|Number=Sing	14	nmod	_	_
+17	wyke	wyk	NOUN	NOUN	Case=Nom|Number=Plur	16	nmod	_	_
+18	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s124
+# text = Sedertdien is 231 huise gebou.
+1	Sedertdien	sedertdien	ADP	ADP	_	2	case	_	_
+2	is	is	AUX	AUX	_	3	cop	_	_
+3	231	231	NUM	NUM	_	4	nummod	_	_
+4	huise	huis	NOUN	NOUN	_	5	nmod	_	_
+5	gebou	gebou	NOUN	NOUN	_	0	root	_	_
+6	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s330
+# text = Ek het die lang pad na vryheid geloop.
+1	Ek	ek	PRON	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	die	die	DET	DET	Definite=Def|PronType=Art	4	det	_	_
+4	lang	lank	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	obj	_	_
+5	pad	pad	NOUN	NOUN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	nmod	_	_
+6	na	na	ADP	ADP	AdpType=Prep	7	case	_	_
+7	vryheid	vryheid	NOUN	NOUN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	nmod	_	_
+8	geloop	_	_	_	_	2	dep	_	_
+9	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s317
+# text = Maar ons moet onsself nie flous nie: soos op alle maatskaplike gebiede, is sulke transformasie steeds in wording.
+1	Maar	maar	CCONJ	_	_	0	root	_	_
+2	ons	on	PRON	_	_	1	dep	_	_
+3	moet	moet	AUX	_	_	4	aux	_	_
+4	onsself	onsself	PRON	_	_	2	advcl	_	_
+5	nie	nie	PART	_	_	4	advmod	_	_
+6	flous	flous	VERB	_	_	4	obj	_	_
+7	nie	nie	PART	_	_	6	advmod	_	_
+8	:	:	PUNCT	_	_	2	punct	_	_
+9	soos	soos	ADV	_	_	1	dep	_	_
+10	op	op	ADP	_	_	11	case	_	_
+11	alle	alle	DET	_	_	12	det	_	_
+12	maatskaplike	maatskaplik	ADJ	_	_	13	amod	_	_
+13	gebiede	gebied	NOUN	_	_	9	obl	_	_
+14	,	,	PUNCT	_	_	2	punct	_	_
+15	is	is	AUX	_	_	1	dep	_	_
+16	sulke	sulke	DET	_	_	17	det	_	_
+17	transformasie	transformasie	NOUN	_	_	15	nsubj	_	_
+18	steeds	steeds	ADV	_	_	19	advmod	_	_
+19	in	in	ADP	_	_	20	case	_	_
+20	wording	woord	NOUN	_	_	15	obj	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s361
+# text = Aan die een kant sal planne voortgaan om werksgeleenthede uit te brei in sektore soos gesondheid, maatskaplike werk, onderwys en wetstoepassingsagentskappe.
+1	Aan	_	_	_	_	0	root	_	_
+2	die	_	_	_	_	1	dep	_	_
+3	een	_	_	_	_	1	dep	_	_
+4	kant	_	_	_	_	1	dep	_	_
+5	sal	_	_	_	_	1	dep	_	_
+6	planne	_	_	_	_	1	dep	_	_
+7	voortgaan	_	_	_	_	1	dep	_	_
+8	om	_	_	_	_	1	dep	_	_
+9	werksgeleenthede	_	_	_	_	1	dep	_	_
+10	uit	_	_	_	_	1	dep	_	_
+11	te	_	_	_	_	1	dep	_	_
+12	brei	_	_	_	_	1	dep	_	_
+13	in	_	_	_	_	1	dep	_	_
+14	sektore	_	_	_	_	1	dep	_	_
+15	soos	_	_	_	_	1	dep	_	_
+16	gesondheid	_	_	_	_	1	dep	_	_
+17	,	_	_	_	_	1	dep	_	_
+18	maatskaplike	_	_	_	_	1	dep	_	_
+19	werk	_	_	_	_	1	dep	_	_
+20	,	_	_	_	_	1	dep	_	_
+21	onderwys	_	_	_	_	1	dep	_	_
+22	en	_	_	_	_	1	dep	_	_
+23	wetstoepassingsagentskappe	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s264
+# text = In werklikheid sal 'n land wat nie die betrokkenheid van sy hele bevolking op alle vlakke van ekonomiese aktiwiteit verseker nie, definitief ver onder sy ware potensiaal presteer.
+1	In	_	_	_	_	0	root	_	_
+2	werklikheid	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	'n	_	_	_	_	1	dep	_	_
+5	land	_	_	_	_	1	dep	_	_
+6	wat	_	_	_	_	1	dep	_	_
+7	nie	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	betrokkenheid	_	_	_	_	1	dep	_	_
+10	van	_	_	_	_	1	dep	_	_
+11	sy	_	_	_	_	1	dep	_	_
+12	hele	_	_	_	_	1	dep	_	_
+13	bevolking	_	_	_	_	1	dep	_	_
+14	op	_	_	_	_	1	dep	_	_
+15	alle	_	_	_	_	1	dep	_	_
+16	vlakke	_	_	_	_	1	dep	_	_
+17	van	_	_	_	_	1	dep	_	_
+18	ekonomiese	_	_	_	_	1	dep	_	_
+19	aktiwiteit	_	_	_	_	1	dep	_	_
+20	verseker	_	_	_	_	1	dep	_	_
+21	nie	_	_	_	_	1	dep	_	_
+22	,	_	_	_	_	1	dep	_	_
+23	definitief	_	_	_	_	1	dep	_	_
+24	ver	_	_	_	_	1	dep	_	_
+25	onder	_	_	_	_	1	dep	_	_
+26	sy	_	_	_	_	1	dep	_	_
+27	ware	_	_	_	_	1	dep	_	_
+28	potensiaal	_	_	_	_	1	dep	_	_
+29	presteer	_	_	_	_	1	dep	_	_
+30	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s143
+# text = As Suid-Afrika, het ons ons vrywillig verbind tot spesifieke uitlaatgas-verlagingsteikens, en ons sal aanhou werk aan ons langtermynstrategie om klimaatsverandering teen te werk.
+1	As	_	_	_	_	0	root	_	_
+2	Suid-Afrika	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	het	_	_	_	_	1	dep	_	_
+5	ons	_	_	_	_	1	dep	_	_
+6	ons	_	_	_	_	1	dep	_	_
+7	vrywillig	_	_	_	_	1	dep	_	_
+8	verbind	_	_	_	_	1	dep	_	_
+9	tot	_	_	_	_	1	dep	_	_
+10	spesifieke	_	_	_	_	1	dep	_	_
+11	uitlaatgas-verlagingsteikens	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	en	_	_	_	_	1	dep	_	_
+14	ons	_	_	_	_	1	dep	_	_
+15	sal	_	_	_	_	1	dep	_	_
+16	aanhou	_	_	_	_	1	dep	_	_
+17	werk	_	_	_	_	1	dep	_	_
+18	aan	_	_	_	_	1	dep	_	_
+19	ons	_	_	_	_	1	dep	_	_
+20	langtermynstrategie	_	_	_	_	1	dep	_	_
+21	om	_	_	_	_	1	dep	_	_
+22	klimaatsverandering	_	_	_	_	1	dep	_	_
+23	teen	_	_	_	_	1	dep	_	_
+24	te	_	_	_	_	1	dep	_	_
+25	werk	_	_	_	_	1	dep	_	_
+26	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s413
+# text = Ons is bevoorreg om hierdie jaar die einde van die eerste dekade van ons diplomatiese verhouding met China te vier.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	is	is	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bevoorreg	bevoorreg	ADJ	ADJ	Number=Sing	4	amod	_	_
+4	om	om	ADP	ADP	_	5	case	_	_
+5	hierdie	hierdie	DET	DET	Definite=Def|PronType=Dem	6	det	_	_
+6	jaar	jaar	NOUN	NOUN	Number=Sing	7	nmod	_	_
+7	die	die	DET	DET	Definite=Def	8	det	_	_
+8	einde	einde	NOUN	NOUN	Number=Sing	9	nmod	_	_
+9	van	verhouding	NOUN	NOUN	Number=Sing	10	nmod	_	_
+10	die	diplomaties	ADJ	ADJ	Number=Sing	11	amod	_	_
+11	eerste	verhouding	NOUN	NOUN	Number=Sing	12	nmod	_	_
+12	dekade	met	ADP	ADP	_	13	case	_	_
+13	van	China	PROPN	PROPN	_	14	nmod	_	_
+14	ons	te	ADP	ADP	_	15	case	_	_
+15	diplomatiese	vier	VERB	VERB	VerbForm=Inf	2	xcomp	_	_
+16	verhouding	jaar	NOUN	NOUN	Number=Sing	15	obl	_	_
+17	met	die	DET	DET	Definite=Def	18	det	_	_
+18	China	einde	NOUN	NOUN	Number=Sing	16	nmod	_	_
+19	te	derde	NUM	NUM	NumType=Card	20	nummod	_	_
+20	vier	dekade	NOUN	NOUN	Number=Sing	21	nmod	_	_
+21	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s156
+# text = Deur saam te werk kan ons meer doen.
+1	Deur	saam	ADP	ADP	Case=Gen	0	root	_	_
+2	saam	te	PART	PART	_	1	dep	_	_
+3	te	werk	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	dep	_	_
+4	werk	kan	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+5	kan	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+6	ons	meer	ADJ	ADJ	_	7	amod	_	_
+7	meer	doen	VERB	VERB	VerbForm=Inf	3	xcomp	_	_
+8	doen	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s411
+# text = Ons wil graag van die geleentheid gebruik maak om die mense en leierskorps van Zambië, Ghana en die Verenigde State van Amerika geluk te wens met verkiesings wat simbolies die nougesette grense van hul lande oorgesteek het.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	wil	wil	AUX	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	graag	grag	ADV	ADV	_	2	advmod	_	_
+4	van	van	ADP	ADP	_	5	case	_	_
+5	die	die	DET	DET	Definite=Def|PronType=Art	6	det	_	_
+6	geleentheid	geleentheid	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+7	gebruik	gebruik	VERB	VERB	VerbForm=Inf	6	acl	_	_
+8	maak	maak	VERB	VERB	VerbForm=Inf	7	xcomp	_	_
+9	om	om	ADP	ADP	_	10	case	_	_
+10	die	die	DET	DET	Definite=Def|PronType=Art	11	det	_	_
+11	mense	mens	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	8	nmod	_	_
+12	en	en	CCONJ	CCONJ	_	13	cc	_	_
+13	leierskorps	leierskorps	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	11	conj	_	_
+14	van	van	ADP	ADP	_	15	case	_	_
+15	Zambië	Zambië	PROPN	PROPN	_	13	nmod	_	_
+16	,	,	PUNCT	PUNCT	_	17	punct	_	_
+17	Ghana	Ghana	PROPN	PROPN	_	11	conj	_	_
+18	en	en	CCONJ	CCONJ	_	19	cc	_	_
+19	die	die	DET	DET	Definite=Def|PronType=Art	20	det	_	_
+20	Verenigde	Verenigde	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	21	amod	_	_
+21	State	State	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	17	conj	_	_
+22	van	van	ADP	ADP	_	23	case	_	_
+23	Amerika	Amerika	PROPN	PROPN	_	21	nmod	_	_
+24	geluk	,	PUNCT	PUNCT	_	25	punct	_	_
+25	te	geluk	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+26	wens	wens	VERB	VERB	VerbForm=Inf	25	acl	_	_
+27	met	met	ADP	ADP	_	28	case	_	_
+28	verkiesings	verkiesing	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	26	nmod	_	_
+29	wat	wat	DET	DET	Definite=Ind|PronType=Rel	30	det	_	_
+30	simbolies	simbol	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	die	grens	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	28	nmod	_	_
+32	nougesette	oorgesteek	VERB	VERB	VerbForm=Part	31	acl	_	_
+33	grense	het	AUX	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	32	aux	_	_
+34	van	het	AUX	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	32	aux	_	_
+35	hul	.	PUNCT	PUNCT	_	2	punct	_	_
+36	lande	_	_	_	_	2	dep	_	_
+37	oorgesteek	_	_	_	_	2	dep	_	_
+38	het	_	_	_	_	2	dep	_	_
+39	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s155
+# text = Ons Inter-Ministeriële Komitee op Korrupsie ondersoek maniere om korrupsie doelgerig die nek in te slaan.
+1	Ons	_	_	_	_	0	root	_	_
+2	Inter-Ministeriële	_	_	_	_	1	dep	_	_
+3	Komitee	_	_	_	_	1	dep	_	_
+4	op	_	_	_	_	1	dep	_	_
+5	Korrupsie	_	_	_	_	1	dep	_	_
+6	ondersoek	_	_	_	_	1	dep	_	_
+7	maniere	_	_	_	_	1	dep	_	_
+8	om	_	_	_	_	1	dep	_	_
+9	korrupsie	_	_	_	_	1	dep	_	_
+10	doelgerig	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	nek	_	_	_	_	1	dep	_	_
+13	in	_	_	_	_	1	dep	_	_
+14	te	_	_	_	_	1	dep	_	_
+15	slaan	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s22
+# text = Die arbeidstatistiek wat Dinsdag vrygestel is, dui daarop dat die ekonomie tans werksgeleenthede skep eerder as om dit in te boet.
+1	Die	_	_	_	_	0	root	_	_
+2	arbeidstatistiek	_	_	_	_	1	dep	_	_
+3	wat	_	_	_	_	1	dep	_	_
+4	Dinsdag	_	_	_	_	1	dep	_	_
+5	vrygestel	_	_	_	_	1	dep	_	_
+6	is	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	dui	_	_	_	_	1	dep	_	_
+9	daarop	_	_	_	_	1	dep	_	_
+10	dat	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	ekonomie	_	_	_	_	1	dep	_	_
+13	tans	_	_	_	_	1	dep	_	_
+14	werksgeleenthede	_	_	_	_	1	dep	_	_
+15	skep	_	_	_	_	1	dep	_	_
+16	eerder	_	_	_	_	1	dep	_	_
+17	as	_	_	_	_	1	dep	_	_
+18	om	_	_	_	_	1	dep	_	_
+19	dit	_	_	_	_	1	dep	_	_
+20	in	_	_	_	_	1	dep	_	_
+21	te	_	_	_	_	1	dep	_	_
+22	boet	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s60
+# text = Daarbenewens sal ons werk om die effektiwiteit van plaaslike regering, infrastruktuurontwikkeling en menslike nedersettings te verbeter.
+1	Daarbenewens	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	ons	_	_	_	_	1	dep	_	_
+4	werk	_	_	_	_	1	dep	_	_
+5	om	_	_	_	_	1	dep	_	_
+6	die	_	_	_	_	1	dep	_	_
+7	effektiwiteit	_	_	_	_	1	dep	_	_
+8	van	_	_	_	_	1	dep	_	_
+9	plaaslike	_	_	_	_	1	dep	_	_
+10	regering	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	infrastruktuurontwikkeling	_	_	_	_	1	dep	_	_
+13	en	_	_	_	_	1	dep	_	_
+14	menslike	_	_	_	_	1	dep	_	_
+15	nedersettings	_	_	_	_	1	dep	_	_
+16	te	_	_	_	_	1	dep	_	_
+17	verbeter	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s146
+# text = Suid-Afrika gaan voort om 'n toonaangewende rol te speel in kontinentale pogings om die Afrika Unie en sy organe te versterk en na eenheid te streef.
+1	Suid-Afrika	_Suid-Afrika_	PROPN	PROPN	_	0	root	_	_
+2	gaan	_gaan_	VERB	VERB	_	1	aux	_	_
+3	voort	voort	ADV	ADV	_	2	advmod	_	_
+4	om	om	ADP	ADP	_	5	case	_	_
+5	'n	'n	DET	DET	_	6	det	_	_
+6	toonaangewende	toonaangewende	ADJ	ADJ	_	7	amod	_	_
+7	rol	rol	NOUN	NOUN	_	8	nmod	_	_
+8	te	speel	VERB	VERB	_	2	ccomp	_	_
+9	speel	in	ADP	ADP	_	10	case	_	_
+10	in	kontinentale	ADJ	ADJ	_	11	amod	_	_
+11	kontinentale	poging	NOUN	NOUN	_	8	nmod	_	_
+12	pogings	en	CCONJ	CCONJ	_	13	cc	_	_
+13	om	na	ADP	ADP	_	14	case	_	_
+14	die	eenheid	NOUN	NOUN	_	11	nmod	_	_
+15	Afrika	te	PART	PART	_	16	mark	_	_
+16	Unie	streef	VERB	VERB	_	8	ccomp	_	_
+17	en	.	PUNCT	PUNCT	_	1	punct	_	_
+18	sy	_	_	_	_	1	dep	_	_
+19	organe	_	_	_	_	1	dep	_	_
+20	te	_	_	_	_	1	dep	_	_
+21	versterk	_	_	_	_	1	dep	_	_
+22	en	_	_	_	_	1	dep	_	_
+23	na	_	_	_	_	1	dep	_	_
+24	eenheid	_	_	_	_	1	dep	_	_
+25	te	_	_	_	_	1	dep	_	_
+26	streef	_	_	_	_	1	dep	_	_
+27	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s300
+# text = Natuurlik moet ons ook toegee dat die grondherverdelingsprogram en die na-vestiging-ondersteuning vinniger en beter hanteer kon word.
+1	Natuurlik	_	_	_	_	0	root	_	_
+2	moet	_	_	_	_	1	dep	_	_
+3	ons	_	_	_	_	1	dep	_	_
+4	ook	_	_	_	_	1	dep	_	_
+5	toegee	_	_	_	_	1	dep	_	_
+6	dat	_	_	_	_	1	dep	_	_
+7	die	_	_	_	_	1	dep	_	_
+8	grondherverdelingsprogram	_	_	_	_	1	dep	_	_
+9	en	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	na-vestiging-ondersteuning	_	_	_	_	1	dep	_	_
+12	vinniger	_	_	_	_	1	dep	_	_
+13	en	_	_	_	_	1	dep	_	_
+14	beter	_	_	_	_	1	dep	_	_
+15	hanteer	_	_	_	_	1	dep	_	_
+16	kon	_	_	_	_	1	dep	_	_
+17	word	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s50
+# text = Die Regering moet vinniger, harder en slimmer werk.
+1	Die	Roep	RDET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	Regering	regering	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	moet	moet	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	vinniger	vinnig	ADJ	ADJ	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	3	xcomp	_	_
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	harder	hard	ADJ	ADJ	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	4	conj	_	_
+7	en	en	CCONJ	CCONJ	_	8	cc	_	_
+8	slimmer	slim	ADJ	ADJ	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	4	conj	_	_
+9	werk	_	_	_	_	3	dep	_	_
+10	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s283
+# text = As gedeeltelike bydraer tot die inkomste van die armes, is die teiken van een miljoen werksgeleenthede deur die Uitgebreide Openbare Werke-Program in 2008 bereik, 'n jaar vroeër as beoog in die 2004-verkiesingsmandaat.
+1	As	_	_	_	_	0	root	_	_
+2	gedeeltelike	_	_	_	_	1	dep	_	_
+3	bydraer	_	_	_	_	1	dep	_	_
+4	tot	_	_	_	_	1	dep	_	_
+5	die	_	_	_	_	1	dep	_	_
+6	inkomste	_	_	_	_	1	dep	_	_
+7	van	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	armes	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	is	_	_	_	_	1	dep	_	_
+12	die	_	_	_	_	1	dep	_	_
+13	teiken	_	_	_	_	1	dep	_	_
+14	van	_	_	_	_	1	dep	_	_
+15	een	_	_	_	_	1	dep	_	_
+16	miljoen	_	_	_	_	1	dep	_	_
+17	werksgeleenthede	_	_	_	_	1	dep	_	_
+18	deur	_	_	_	_	1	dep	_	_
+19	die	_	_	_	_	1	dep	_	_
+20	Uitgebreide	_	_	_	_	1	dep	_	_
+21	Openbare	_	_	_	_	1	dep	_	_
+22	Werke-Program	_	_	_	_	1	dep	_	_
+23	in	_	_	_	_	1	dep	_	_
+24	2008	_	_	_	_	1	dep	_	_
+25	bereik	_	_	_	_	1	dep	_	_
+26	,	_	_	_	_	1	dep	_	_
+27	'n	_	_	_	_	1	dep	_	_
+28	jaar	_	_	_	_	1	dep	_	_
+29	vroeër	_	_	_	_	1	dep	_	_
+30	as	_	_	_	_	1	dep	_	_
+31	beoog	_	_	_	_	1	dep	_	_
+32	in	_	_	_	_	1	dep	_	_
+33	die	_	_	_	_	1	dep	_	_
+34	2004-verkiesingsmandaat	_	_	_	_	1	dep	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s52
+# text = Ons bou 'n staat wat op effektiewe werkverrigting fokus.
+1	Ons	_	_	_	_	2	dep	_	_
+2	bou	VERB	_	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	'n	DET	_	_	Definite=Ind|PronType=Art	4	det	_	_
+4	staat	NOUN	_	_	Case=Nom|Gender=Com|Number=Sing	2	nsubj	_	_
+5	wat	ADV	_	_	_	6	advmod	_	_
+6	op	ADP	_	_	_	7	case	_	_
+7	effektiewe	ADJ	_	_	Case=Nom|Degree=Pos|Gender=Com|Number=Sing	8	amod	_	_
+8	werkverrigting	NOUN	_	_	Case=Nom|Gender=Com|Number=Sing	4	nmod	_	_
+9	fokus	VERB	_	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s360
+# text = Tweedens, sal ons openbaresektor-werkskeppingsprogramme uitbrei.
+1	Tweedens	_tweedens_	ADP	ADP	_	0	root	_	_
+2	,	sal	AUX	AUX	_	1	dep	_	_
+3	sal	ons	PRON	PRON	_	4	nsubj	_	_
+4	ons	openbaresektor-werkskeppingsprogramme	NOUN	NOUN	_	5	nmod	_	_
+5	openbaresektor-werkskeppingsprogramme	uitbrei	VERB	VERB	_	2	root	_	_
+6	uitbrei	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s51
+# text = Ons sal van die Uitvoerende Gesag en die Staatsdiens verwag om aan hierdie visie te voldoen.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	sal	sal	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	van	van	ADP	ADP	_	4	case	_	_
+4	die	die	DET	DET	Definite=Def|PronType=Art	5	det	_	_
+5	Uitvoerende	Gesag	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+6	Gesag	en	CCONJ	CCONJ	_	2	cc	_	_
+7	en	die	DET	DET	Definite=Def|PronType=Art	8	det	_	_
+8	die	_	_	_	_	2	dep	_	_
+9	Staatsdiens	verwag	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	_
+10	verwag	om	ADP	ADP	_	11	mark	_	_
+11	om	aan	ADP	ADP	_	12	case	_	_
+12	aan	hierdie	DET	DET	Definite=Def|PronType=Dem	13	det	_	_
+13	hierdie	visie	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	9	obj	_	_
+14	visie	te	PART	PART	_	15	mark	_	_
+15	te	voldoen	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	xcomp	_	_
+16	voldoen	.	PUNCT	PUNCT	_	2	punct	_	_
+17	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s252
+# text = Dit is presies hierdie swakheid wat verantwoordelik is vir die groot negatiewe saldo van die Lopende Rekening, veral in die tye toe ons hoër groei beleef het.
+1	Dit	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	presies	_	_	_	_	1	dep	_	_
+4	hierdie	_	_	_	_	1	dep	_	_
+5	swakheid	_	_	_	_	1	dep	_	_
+6	wat	_	_	_	_	1	dep	_	_
+7	verantwoordelik	_	_	_	_	1	dep	_	_
+8	is	_	_	_	_	1	dep	_	_
+9	vir	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	groot	_	_	_	_	1	dep	_	_
+12	negatiewe	_	_	_	_	1	dep	_	_
+13	saldo	_	_	_	_	1	dep	_	_
+14	van	_	_	_	_	1	dep	_	_
+15	die	_	_	_	_	1	dep	_	_
+16	Lopende	_	_	_	_	1	dep	_	_
+17	Rekening	_	_	_	_	1	dep	_	_
+18	,	_	_	_	_	1	dep	_	_
+19	veral	_	_	_	_	1	dep	_	_
+20	in	_	_	_	_	1	dep	_	_
+21	die	_	_	_	_	1	dep	_	_
+22	tye	_	_	_	_	1	dep	_	_
+23	toe	_	_	_	_	1	dep	_	_
+24	ons	_	_	_	_	1	dep	_	_
+25	hoër	_	_	_	_	1	dep	_	_
+26	groei	_	_	_	_	1	dep	_	_
+27	beleef	_	_	_	_	1	dep	_	_
+28	het	_	_	_	_	1	dep	_	_
+29	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s357
+# text = Eerstens sal die Regering aanhou met openbare beleggingsprojekte, waarvan die waarde vermeerder is na R690 biljoen oor die volgende drie jaar.
+1	Eerstens	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	die	_	_	_	_	1	dep	_	_
+4	Regering	_	_	_	_	1	dep	_	_
+5	aanhou	_	_	_	_	1	dep	_	_
+6	met	_	_	_	_	1	dep	_	_
+7	openbare	_	_	_	_	1	dep	_	_
+8	beleggingsprojekte	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	waarvan	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	waarde	_	_	_	_	1	dep	_	_
+13	vermeerder	_	_	_	_	1	dep	_	_
+14	is	_	_	_	_	1	dep	_	_
+15	na	_	_	_	_	1	dep	_	_
+16	R690	_	_	_	_	1	dep	_	_
+17	biljoen	_	_	_	_	1	dep	_	_
+18	oor	_	_	_	_	1	dep	_	_
+19	die	_	_	_	_	1	dep	_	_
+20	volgende	_	_	_	_	1	dep	_	_
+21	drie	_	_	_	_	1	dep	_	_
+22	jaar	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s12
+# text = Die nasie sal onthou dat ek tydens die 2009-Staatsrede aangekondig het dat die Uitgebreide Openbare Werke-program teen Desember 2009 500 000 werksgeleenthede sou skep.
+1	Die	_	_	_	_	0	root	_	_
+2	nasie	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	onthou	_	_	_	_	1	dep	_	_
+5	dat	_	_	_	_	1	dep	_	_
+6	ek	_	_	_	_	1	dep	_	_
+7	tydens	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	2009-Staatsrede	_	_	_	_	1	dep	_	_
+10	aangekondig	_	_	_	_	1	dep	_	_
+11	het	_	_	_	_	1	dep	_	_
+12	dat	_	_	_	_	1	dep	_	_
+13	die	_	_	_	_	1	dep	_	_
+14	Uitgebreide	_	_	_	_	1	dep	_	_
+15	Openbare	_	_	_	_	1	dep	_	_
+16	Werke-program	_	_	_	_	1	dep	_	_
+17	teen	_	_	_	_	1	dep	_	_
+18	Desember	_	_	_	_	1	dep	_	_
+19	2009	_	_	_	_	1	dep	_	_
+20	500	_	_	_	_	1	dep	_	_
+21	000	_	_	_	_	1	dep	_	_
+22	werksgeleenthede	_	_	_	_	1	dep	_	_
+23	sou	_	_	_	_	1	dep	_	_
+24	skep	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s102
+# text = Laat ons altyd gereed wees om die polisie van inligting oor misdaadaktiwiteite te voorsien.
+1	Laat	_	_	_	_	0	root	_	_
+2	ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+3	altyd	altyd	ADV	ADV	_	1	advmod	_	_
+4	gereed	gereed	ADJ	ADJ	_	1	advmod	_	_
+5	wees	wees	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	_
+6	om	om	ADP	ADP	_	7	case	_	_
+7	die	die	DET	DET	Definite=Def|PronType=Art	8	det	_	_
+8	polisie	polisie	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	nmod	_	_
+9	van	van	ADP	ADP	_	10	case	_	_
+10	inligting	inligting	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	oor	oor	ADP	ADP	_	12	case	_	_
+12	misdaadaktiwiteite	misdaadaktiwiteite	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+13	te	te	ADP	ADP	_	14	case	_	_
+14	voorsien	voorsien	VERB	VERB	VerbForm=Inf	12	acl	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s68
+# text = Ons sal werkboeke wat maklik is om te gebruik in al 11 tale aan studente voorsien.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	sal	sal	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	werkboeke	werkboek	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	2	dep	_	_
+4	wat	wat	SCONJ	SCONJ	_	5	mark	_	_
+5	maklik	maklik	ADJ	ADJ	_	3	amod	_	_
+6	is	is	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	om	om	ADP	ADP	_	8	case	_	_
+8	te	te	PART	PART	_	9	mark	_	_
+9	gebruik	gewerkboek	VERB	VERB	VerbForm=Inf	2	xcomp	_	_
+10	in	gewerkboek	VERB	VERB	VerbForm=Inf	9	compound:lvc	_	_
+11	al	in	ADP	ADP	_	12	case	_	_
+12	11	al	ADP	ADP	_	13	case	_	_
+13	tale	taal	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	9	obl	_	_
+14	aan	aan	ADP	ADP	_	15	case	_	_
+15	studente	student	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Plur	9	obl	_	_
+16	voorsien	voorsien	VERB	VERB	VerbForm=Inf	2	xcomp	_	_
+17	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s83
+# text = Nog 'n sleuteluitkoms is om 'n lang en gesonde lewe vir alle Suid-Afrikaners te verseker.
+1	Nog	_	_	_	_	0	root	_	_
+2	'n	_	_	_	_	1	dep	_	_
+3	sleuteluitkoms	_	_	_	_	1	dep	_	_
+4	is	_	_	_	_	1	dep	_	_
+5	om	_	_	_	_	1	dep	_	_
+6	'n	_	_	_	_	1	dep	_	_
+7	lang	_	_	_	_	1	dep	_	_
+8	en	_	_	_	_	1	dep	_	_
+9	gesonde	_	_	_	_	1	dep	_	_
+10	lewe	_	_	_	_	1	dep	_	_
+11	vir	_	_	_	_	1	dep	_	_
+12	alle	_	_	_	_	1	dep	_	_
+13	Suid-Afrikaners	_	_	_	_	1	dep	_	_
+14	te	_	_	_	_	1	dep	_	_
+15	verseker	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s390
+# text = 'n Spesiale woord van lof aan ons krieketspan wat die kruin van die wêreldranglys bereik het.
+1	'n	_	_	_	_	0	root	_	_
+2	Spesiale	_	_	_	_	1	dep	_	_
+3	woord	_	_	_	_	1	dep	_	_
+4	van	_	_	_	_	1	dep	_	_
+5	lof	_	_	_	_	1	dep	_	_
+6	aan	_	_	_	_	1	dep	_	_
+7	ons	_	_	_	_	1	dep	_	_
+8	krieketspan	_	_	_	_	1	dep	_	_
+9	wat	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	kruin	_	_	_	_	1	dep	_	_
+12	van	_	_	_	_	1	dep	_	_
+13	die	_	_	_	_	1	dep	_	_
+14	wêreldranglys	_	_	_	_	1	dep	_	_
+15	bereik	_	_	_	_	1	dep	_	_
+16	het	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s63
+# text = In ons 2010-program wil ons die vermoë van kinders om in die grondslagjare te lees, skryf en tel, verbeter.
+1	In	in	ADP	_	_	2	case	_	_
+2	ons	ons	PRON	_	_	3	nsubj	_	_
+3	2010-program	2010-program	NOUN	_	_	0	root	_	_
+4	wil	wil	AUX	_	_	3	aux	_	_
+5	ons	ons	PRON	_	_	3	nsubj	_	_
+6	die	die	DET	_	_	7	det	_	_
+7	vermoë	vermoë	NOUN	_	_	3	obj	_	_
+8	van	van	ADP	_	_	7	case	_	_
+9	kinders	kind	NOUN	_	_	8	nmod	_	_
+10	om	om	ADP	_	_	9	case	_	_
+11	in	in	ADP	_	_	10	case	_	_
+12	die	die	DET	_	_	13	det	_	_
+13	grondslagjare	grondslagjaar	NOUN	_	_	10	nmod	_	_
+14	te	te	PART	_	_	15	aux	_	_
+15	lees	lees	VERB	_	_	7	acl	_	_
+16	,	,	PUNCT	_	_	3	punct	_	_
+17	skryf	skryf	VERB	_	_	3	acl	_	_
+18	en	en	CCONJ	_	_	19	cc	_	_
+19	tel	tel	VERB	_	_	17	conj	_	_
+20	,	,	PUNCT	_	_	3	punct	_	_
+21	verbeter	verbeter	VERB	_	_	3	acl	_	_
+22	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s130
+# text = Tree vir tree sal ons dit maak, soos die spreekwoord lui, landsgenote, groot dinge begin met klein treetjies.
+1	Tree	vir	ADP	_	_	0	root	_	_
+2	vir	tree	NOUN	_	_	1	dep	_	_
+3	tree	sal	AUX	_	_	1	dep	_	_
+4	sal	ons	PRON	_	_	3	nsubj	_	_
+5	ons	dit	PRON	_	_	6	obj	_	_
+6	dit	maak	VERB	_	_	3	root	_	_
+7	maak	,	PUNCT	_	_	8	punct	_	_
+8	,	soos	ADV	_	_	6	advmod	_	_
+9	soos	die	DET	_	_	10	det	_	_
+10	die	spreekwoord	NOUN	_	_	8	nmod	_	_
+11	spreekwoord	lui	VERB	_	_	10	acl	_	_
+12	lui	,	PUNCT	_	_	13	punct	_	_
+13	,	landsgenote	NOUN	_	_	6	nsubj	_	_
+14	landsgenote	,	PUNCT	_	_	15	punct	_	_
+15	,	groot	ADJ	_	_	13	amod	_	_
+16	groot	ding	NOUN	_	_	15	nmod	_	_
+17	dinge	begin	VERB	_	_	16	acl	_	_
+18	begin	,	PUNCT	_	_	19	punct	_	_
+19	met	treetjie	NOUN	_	_	17	obj	_	_
+20	klein	.	PUNCT	_	_	6	punct	_	_
+21	treetjies	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s410
+# text = Hierdie inisiatiewe sal onderneem word ten einde die diepgrondige verhoudings wat ons binne die Suider Afrikaanse Doeane-Unie geniet. te versterk eerder as te verswak.
+1	Hierdie	_	_	_	_	0	root	_	_
+2	inisiatiewe	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	onderneem	_	_	_	_	1	dep	_	_
+5	word	_	_	_	_	1	dep	_	_
+6	ten	_	_	_	_	1	dep	_	_
+7	einde	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	diepgrondige	_	_	_	_	1	dep	_	_
+10	verhoudings	_	_	_	_	1	dep	_	_
+11	wat	_	_	_	_	1	dep	_	_
+12	ons	_	_	_	_	1	dep	_	_
+13	binne	_	_	_	_	1	dep	_	_
+14	die	_	_	_	_	1	dep	_	_
+15	Suider	_	_	_	_	1	dep	_	_
+16	Afrikaanse	_	_	_	_	1	dep	_	_
+17	Doeane-Unie	_	_	_	_	1	dep	_	_
+18	geniet	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+20	te	_	_	_	_	1	dep	_	_
+21	versterk	_	_	_	_	1	dep	_	_
+22	eerder	_	_	_	_	1	dep	_	_
+23	as	_	_	_	_	1	dep	_	_
+24	te	_	_	_	_	1	dep	_	_
+25	verswak	_	_	_	_	1	dep	_	_
+26	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s24
+# text = Die Regering sal dus nog nie sy ondersteuningsmaatreëls opskort nie.
+1	Die	_	_	_	_	0	root	_	_
+2	Regering	_	_	_	_	1	dep	_	_
+3	sal	_	_	_	_	1	dep	_	_
+4	dus	_	_	_	_	1	dep	_	_
+5	nog	_	_	_	_	1	dep	_	_
+6	nie	_	_	_	_	1	dep	_	_
+7	sy	_	_	_	_	1	dep	_	_
+8	ondersteuningsmaatreëls	_	_	_	_	1	dep	_	_
+9	opskort	_	_	_	_	1	dep	_	_
+10	nie	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s386
+# text = En ons glo, ná vyf agtereenvolgende oorwinnings, dat die nasionale sokkerspan nou met meer selfvertroue voorberei om bo verwagting te presteer!
+1	En	_	_	_	_	0	root	_	_
+2	ons	_	_	_	_	1	dep	_	_
+3	glo	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	ná	_	_	_	_	1	dep	_	_
+6	vyf	_	_	_	_	1	dep	_	_
+7	agtereenvolgende	_	_	_	_	1	dep	_	_
+8	oorwinnings	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	dat	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	nasionale	_	_	_	_	1	dep	_	_
+13	sokkerspan	_	_	_	_	1	dep	_	_
+14	nou	_	_	_	_	1	dep	_	_
+15	met	_	_	_	_	1	dep	_	_
+16	meer	_	_	_	_	1	dep	_	_
+17	selfvertroue	_	_	_	_	1	dep	_	_
+18	voorberei	_	_	_	_	1	dep	_	_
+19	om	_	_	_	_	1	dep	_	_
+20	bo	_	_	_	_	1	dep	_	_
+21	verwagting	_	_	_	_	1	dep	_	_
+22	te	_	_	_	_	1	dep	_	_
+23	presteer	_	_	_	_	1	dep	_	_
+24	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s147
+# text = Ons sal ons energie daarop toespits om die Nuwe Vennootskap vir Afrika se Ontwikkeling (Nepad) te laat herleef, as 'n strategie vir ekonomiese ontwikkeling op die vasteland.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	sal	sal	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ons	ons	PRON	PRON	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	_
+4	energie	energie	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+5	daarop	daarop	ADV	ADV	_	6	advmod	_	_
+6	toespits	toespits	VERB	VERB	VerbForm=Inf	2	xcomp	_	_
+7	om	om	ADP	ADP	_	8	case	_	_
+8	die	die	DET	DET	Definite=Def|PronType=Art	9	det	_	_
+9	Nuwe	Nuwe	ADJ	ADJ	_	10	amod	_	_
+10	Vennootskap	Vennootskap	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+11	vir	herleef	VERB	VERB	VerbForm=Inf	6	ccomp	_	_
+12	Afrika	,	PUNCT	PUNCT	_	14	punct	_	_
+13	se	as	SCONJ	SCONJ	_	14	mark	_	_
+14	Ontwikkeling	strategie	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	11	nmod	_	_
+15	(	voor	ADP	ADP	_	16	case	_	_
+16	Nepad	ekonomiese	ADJ	ADJ	_	17	amod	_	_
+17	)	ontwikkeling	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	14	nmod	_	_
+18	te	op	ADP	ADP	_	19	case	_	_
+19	laat	vasteland	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	17	nmod	_	_
+20	herleef	.	PUNCT	PUNCT	_	2	punct	_	_
+21	,	_	_	_	_	2	dep	_	_
+22	as	_	_	_	_	2	dep	_	_
+23	'n	_	_	_	_	2	dep	_	_
+24	strategie	_	_	_	_	2	dep	_	_
+25	vir	_	_	_	_	2	dep	_	_
+26	ekonomiese	_	_	_	_	2	dep	_	_
+27	ontwikkeling	_	_	_	_	2	dep	_	_
+28	op	_	_	_	_	2	dep	_	_
+29	die	_	_	_	_	2	dep	_	_
+30	vasteland	_	_	_	_	2	dep	_	_
+31	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s58
+# text = Die ministers wat vir 'n bepaalde uitkoms verantwoordelik is, sal 'n gedetailleerde leweringsooreenkoms met die president onderteken.
+1	Die	_	_	_	_	0	root	_	_
+2	ministers	_	_	_	_	1	dep	_	_
+3	wat	_	_	_	_	1	dep	_	_
+4	vir	_	_	_	_	1	dep	_	_
+5	'n	_	_	_	_	1	dep	_	_
+6	bepaalde	_	_	_	_	1	dep	_	_
+7	uitkoms	_	_	_	_	1	dep	_	_
+8	verantwoordelik	_	_	_	_	1	dep	_	_
+9	is	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	sal	_	_	_	_	1	dep	_	_
+12	'n	_	_	_	_	1	dep	_	_
+13	gedetailleerde	_	_	_	_	1	dep	_	_
+14	leweringsooreenkoms	_	_	_	_	1	dep	_	_
+15	met	_	_	_	_	1	dep	_	_
+16	die	_	_	_	_	1	dep	_	_
+17	president	_	_	_	_	1	dep	_	_
+18	onderteken	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s231
+# text = Dit word onder meer weerspieël deur wetgewing, reëls en regulasies vir sowel staatsamptenare as politieke ampsbekleërs, vennootskappe met die burgerlike gemeenskap en teenkorrupsie-blitslyne.
+1	Dit	dit	DET	DT	_	2	nsubj	_	_
+2	word	word	VERB	VBZ	_	0	root	_	_
+3	onder	onder	ADP	IN	_	4	case	_	_
+4	meer	meer	ADV	RB	_	2	advmod	_	_
+5	weerspieël	weerspieël	VERB	VB	_	2	advcl	_	_
+6	deur	deur	ADP	IN	_	5	case	_	_
+7	wetgewing	wetgewing	NOUN	NN	_	5	nmod	_	_
+8	,	,	PUNCT	,	_	2	punct	_	_
+9	reëls	reël	NOUN	NN	_	10	nmod	_	_
+10	en	en	CCONJ	CC	_	11	cc	_	_
+11	regulasies	regulasie	NOUN	NN	_	7	appos	_	_
+12	vir	vir	ADP	IN	_	13	case	_	_
+13	sowel	sowel	ADV	RB	_	11	advmod	_	_
+14	staatsamptenare	staatsamptenaar	NOUN	NN	_	13	nmod	_	_
+15	as	as	ADP	IN	_	16	case	_	_
+16	politieke	politiek	ADJ	JJ	_	14	nmod	_	_
+17	ampsbekleërs	ampsbekleër	NOUN	NN	_	15	nmod	_	_
+18	,	,	PUNCT	,	_	11	punct	_	_
+19	vennootskappe	vennootskap	NOUN	NN	_	2	dep	_	_
+20	met	met	ADP	IN	_	21	case	_	_
+21	die	die	DET	DT	_	19	nmod	_	_
+22	burgerlike	burgerlik	ADJ	JJ	_	23	amod	_	_
+23	gemeenskap	gemeenskap	NOUN	NN	_	20	nmod	_	_
+24	en	en	CCONJ	CC	_	25	cc	_	_
+25	teenkorrupsie-blitslyne	teenkorrupsie	NOUN	NN	_	23	conj	_	_
+26	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s306
+# text = Daar is daagliks, beide in arm en ryk buurte, vrees vir die moontlikheid van 'n gewelddadig aanval.
+1	Daar	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	daagliks	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	beide	_	_	_	_	1	dep	_	_
+6	in	_	_	_	_	1	dep	_	_
+7	arm	_	_	_	_	1	dep	_	_
+8	en	_	_	_	_	1	dep	_	_
+9	ryk	_	_	_	_	1	dep	_	_
+10	buurte	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	vrees	_	_	_	_	1	dep	_	_
+13	vir	_	_	_	_	1	dep	_	_
+14	die	_	_	_	_	1	dep	_	_
+15	moontlikheid	_	_	_	_	1	dep	_	_
+16	van	_	_	_	_	1	dep	_	_
+17	'n	_	_	_	_	1	dep	_	_
+18	gewelddadig	_	_	_	_	1	dep	_	_
+19	aanval	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s412
+# text = Ons sal altyd poog om samewerking met hierdie en ander lande te versterk ten einde die mensdom tot voordeel te strek.
+1	Ons	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	altyd	_	_	_	_	1	dep	_	_
+4	poog	_	_	_	_	1	dep	_	_
+5	om	_	_	_	_	1	dep	_	_
+6	samewerking	_	_	_	_	1	dep	_	_
+7	met	_	_	_	_	1	dep	_	_
+8	hierdie	_	_	_	_	1	dep	_	_
+9	en	_	_	_	_	1	dep	_	_
+10	ander	_	_	_	_	1	dep	_	_
+11	lande	_	_	_	_	1	dep	_	_
+12	te	_	_	_	_	1	dep	_	_
+13	versterk	_	_	_	_	1	dep	_	_
+14	ten	_	_	_	_	1	dep	_	_
+15	einde	_	_	_	_	1	dep	_	_
+16	die	_	_	_	_	1	dep	_	_
+17	mensdom	_	_	_	_	1	dep	_	_
+18	tot	_	_	_	_	1	dep	_	_
+19	voordeel	_	_	_	_	1	dep	_	_
+20	te	_	_	_	_	1	dep	_	_
+21	strek	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s129
+# text = Ons mikpunt is dat 60% van huishoudings in hierdie terreine teen 2014 uit eie produksie in hul voedselbehoeftes sal voorsien.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	mikpunt	mikpunt	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	is	is	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	dat	dat	SCONJ	SCONJ	_	2	dep	_	_
+5	60%	60%	NUM	NUM	NumType=Card	2	dep	_	_
+6	van	van	ADP	ADP	_	2	dep	_	_
+7	huishoudings	huishouding	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	2	dep	_	_
+8	in	tegen	ADP	ADP	_	2	dep	_	_
+9	hierdie	2014	NUM	NUM	NumType=Card	2	dep	_	_
+10	terreine	uit	ADP	ADP	_	2	dep	_	_
+11	teen	eie	DET	DET	Definite=Def|PronType=Art	12	det	_	_
+12	2014	produksie	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	uit	in	ADP	ADP	_	2	dep	_	_
+14	eie	hul	PRON	PRON	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod	_	_
+15	produksie	voedselbehoeftes	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	in	sal	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	aux	_	_
+17	hul	voorsien	VERB	VERB	VerbForm=Inf	2	csubj	_	_
+18	voedselbehoeftes	.	PUNCT	PUNCT	_	2	punct	_	_
+19	sal	_	_	_	_	2	dep	_	_
+20	voorsien	_	_	_	_	2	dep	_	_
+21	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s341
+# text = Ons uitdaging is om hierdie ideale om te skakel in programme en projekte wat doeltreffend geïmplementeer kan word.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	uitdaging	uitdaging	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	is	is	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	om	hierdie	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	hierdie	ideaal	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+6	ideale	om	ADP	ADP	_	7	case	_	_
+7	om	skakel	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	2	advcl	_	_
+8	te	in	ADP	ADP	_	9	case	_	_
+9	skakel	program	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	7	obl	_	_
+10	in	en	CCONJ	CCONJ	_	11	cc	_	_
+11	programme	projek	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	9	conj	_	_
+12	en	wat	PRON	PRON	PronType=Rel	13	nsubj	_	_
+13	projekte	doeltreffend	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+14	wat	geïmplementeer	VERB	VERB	Aspect=Perf|VerbForm=Part|Voice=Act	13	acl	_	_
+15	doeltreffend	kan	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+16	geïmplementeer	kan	AUX	AUX	_	15	aux	_	_
+17	kan	word	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+18	word	.	PUNCT	PUNCT	_	2	punct	_	_
+19	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s395
+# text = Ons het inderdaad gedurende die afgelope 15 jaar nie 'n kans laat verbygaan om te verseker dat Afrika die hernuwing beleef in wat eintlik die Afrika-eeu moes wees nie.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	inderdaad	inderdaad	ADV	ADV	_	4	advmod	_	_
+4	gedurende	gedurende	ADV	ADV	_	2	advmod	_	_
+5	die	die	DET	DET	Definite=Def|PronType=Art	6	det	_	_
+6	afgelope	afgelope	ADJ	ADJ	_	7	amod	_	_
+7	15	jaar	NOUN	NOUN	Number=Plur	4	nmod	_	_
+8	jaar	nie	PART	PART	Polarity=Neg	2	advmod	_	_
+9	nie	'n	DET	DET	Definite=Def|PronType=Art	10	det	_	_
+10	'n	kans	NOUN	NOUN	Number=Sing	2	obj	_	_
+11	kans	laat	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	laat	verbygaan	VERB	VERB	VerbForm=Inf	10	acl	_	_
+13	verbygaan	om	SCONJ	SCONJ	_	12	mark	_	_
+14	om	te	PART	PART	_	15	aux	_	_
+15	te	verseker	VERB	VERB	VerbForm=Inf	12	xcomp	_	_
+16	verseker	dat	SCONJ	SCONJ	_	17	mark	_	_
+17	dat	afrika	NOUN	NOUN	Number=Sing	15	advcl	_	_
+18	Afrika	die	DET	DET	Definite=Def|PronType=Art	19	det	_	_
+19	die	hernuwing	NOUN	NOUN	Number=Sing	17	nmod	_	_
+20	hernuwing	beleef	VERB	VERB	VerbForm=Inf	15	xcomp	_	_
+21	beleef	in	ADP	ADP	_	22	case	_	_
+22	in	wat	PRON	PRON	PronType=Rel	20	obl	_	_
+23	wat	eintlik	ADV	ADV	_	22	advmod	_	_
+24	eintlik	eeu	NOUN	NOUN	Number=Sing	22	nmod	_	_
+25	die	moet	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	Afrika-eeu	wees	VERB	VERB	VerbForm=Inf	22	acl	_	_
+27	moes	nie	PART	PART	Polarity=Neg	2	advmod	_	_
+28	wees	'n	DET	DET	Definite=Def|PronType=Art	29	det	_	_
+29	nie	kans	NOUN	NOUN	Number=Sing	2	obj	_	_
+30	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s144
+# text = Ons sal harder werk om Suid-Afrika se belange wêreldwyd te bevorder.
+1	Ons	ons	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	sal	sal	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	harder	harder	ADV	ADV	_	4	advmod	_	_
+4	werk	werk	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	_
+5	om	om	ADP	ADP	_	6	case	_	_
+6	Suid-Afrika	se	PROPN	PROPN	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	se	's	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+8	belange	belang	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	4	nmod	_	_
+9	wêreldwyd	wêreldwyd	ADV	ADV	_	10	advmod	_	_
+10	te	bevorder	VERB	VERB	Aspect=Perf|VerbForm=Inf	4	acl	_	_
+11	bevorder	.	PUNCT	PUNCT	_	2	punct	_	_
+12	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s296
+# text = Natuurlik weet ons dat die uitsakkoers, veral op sekondêre en tersiêre vlak, onaanvaarbaar hoog is, en dat die onderwysstelsel nog die nodige vaardighede moet voorsien wat deur die samelewing vereis word.
+1	Natuurlik	_natuurlik	ADV	ADV	_	0	root	_	_
+2	weet	weet	VERB	VERB	_	1	advmod	_	_
+3	ons	ons	PRON	PRON	_	2	nsubj	_	_
+4	dat	dat	SCONJ	SCONJ	_	5	mark	_	_
+5	die	die	DET	DET	_	6	det	_	_
+6	uitsakkoers	uitsakkoers	NOUN	NOUN	_	7	nmod	_	_
+7	,	,	PUNCT	PUNCT	_	1	punct	_	_
+8	veral	veral	ADV	ADV	_	9	advmod	_	_
+9	op	op	ADP	ADP	_	10	case	_	_
+10	sekondêre	sekondêre	NOUN	NOUN	_	11	nmod	_	_
+11	en	vlak	NOUN	NOUN	_	12	nmod	_	_
+12	tersiêre	,	PUNCT	PUNCT	_	1	punct	_	_
+13	vlak	onaanvaarbaar	ADJ	ADJ	_	1	dep	_	_
+14	,	hog	ADJ	ADJ	_	1	dep	_	_
+15	onaanvaarbaar	is	AUX	AUX	_	1	dep	_	_
+16	hoog	onderwysstelsel	NOUN	NOUN	_	17	nsubj	_	_
+17	is	nog	ADV	ADV	_	18	advmod	_	_
+18	,	moet	VERB	VERB	_	15	csubj	_	_
+19	en	ons	PRON	PRON	_	18	nsubj	_	_
+20	dat	die	DET	DET	_	21	det	_	_
+21	die	nodig	ADJ	ADJ	_	22	amod	_	_
+22	onderwysstelsel	vaardigheid	NOUN	NOUN	_	23	nmod	_	_
+23	nog	moet	VERB	VERB	_	18	conj	_	_
+24	die	voorsien	VERB	VERB	_	23	xcomp	_	_
+25	nodige	wat	PRON	PRON	_	26	nsubj	_	_
+26	vaardighede	deur	ADP	ADP	_	27	case	_	_
+27	moet	samelewing	NOUN	NOUN	_	28	nmod	_	_
+28	voorsien	vereis	VERB	VERB	_	24	xcomp	_	_
+29	wat	.	PUNCT	PUNCT	_	1	punct	_	_
+30	deur	_	_	_	_	1	dep	_	_
+31	die	_	_	_	_	1	dep	_	_
+32	samelewing	_	_	_	_	1	dep	_	_
+33	vereis	_	_	_	_	1	dep	_	_
+34	word	_	_	_	_	1	dep	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s234
+# text = Op die ou einde het die uitdagings net soveel met regulering te doen as wat dit met konsekwente toepassing te doen het.
+1	Op	die	ADP	ADP	Case=Loc	0	root	_	_
+2	die	ou	ADJ	ADJ	_	3	amod	_	_
+3	ou	einde	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	4	nmod	_	_
+4	einde	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	het	die	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	die	uitdaging	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+7	uitdagings	soveel	ADV	ADV	_	8	advmod	_	_
+8	net	uitdaging	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
+9	soveel	soveel	ADV	ADV	_	10	advmod	_	_
+10	met	soveel	ADV	ADV	_	11	advmod	_	_
+11	regulering	regulering	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+12	te	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	doen	regulering	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	as	soveel	ADV	ADV	_	15	advmod	_	_
+15	wat	soveel	ADV	ADV	_	16	advmod	_	_
+16	dit	konsekwente	ADJ	ADJ	_	17	amod	_	_
+17	met	toepassing	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+18	konsekwente	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	toepassing	toepassing	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+20	te	have	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	doen	have	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	het	het	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s402
+# text = Nou kan die heropbouwerk in erns begin, en Suid-Afrika is gereed om te help waar ons kan.
+1	Nou	_nou_	ADV	ADV	_	0	root	_	_
+2	kan	_kan_	AUX	AUX	_	1	aux	_	_
+3	die	_die_	DET	DET	_	4	det	_	_
+4	heropbouwerk	_heropbouwerk_	NOUN	NOUN	_	1	nsubj	_	_
+5	in	_in_	ADP	ADP	_	6	case	_	_
+6	erns	_erns_	ADV	ADV	_	4	advmod	_	_
+7	begin	_begin_	VERB	VERB	_	1	advcl	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	en	_en_	CCONJ	CCONJ	_	10	cc	_	_
+10	Suid-Afrika	_Suid-Afrika_	PROPN	PROPN	_	7	conj	_	_
+11	is	_is_	AUX	AUX	_	12	cop	_	_
+12	gereed	_gereed_	ADJ	ADJ	_	10	nsubj	_	_
+13	om	_om_	ADP	ADP	_	14	case	_	_
+14	te	help	VERB	VERB	_	12	advmod	_	_
+15	help	_waar_	ADV	ADV	_	16	case	_	_
+16	waar	_ons_	PRON	PRON	_	14	advmod	_	_
+17	ons	_kun_	AUX	AUX	_	18	aux	_	_
+18	kan	_kan_	VERB	VERB	_	14	advcl	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s134
+# text = Maar steeds verloor ons baie water deur lekkende pype en onvoldoende infrastruktuur.
+1	Maar	_	_	_	_	0	root	_	_
+2	steeds	_	_	_	_	1	dep	_	_
+3	verloor	_	_	_	_	1	dep	_	_
+4	ons	_	_	_	_	1	dep	_	_
+5	baie	_	_	_	_	1	dep	_	_
+6	water	_	_	_	_	1	dep	_	_
+7	deur	_	_	_	_	1	dep	_	_
+8	lekkende	_	_	_	_	1	dep	_	_
+9	pype	_	_	_	_	1	dep	_	_
+10	en	_	_	_	_	1	dep	_	_
+11	onvoldoende	_	_	_	_	1	dep	_	_
+12	infrastruktuur	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s41
+# text = Voorstelle sal ingedien word om die koste van die indiensneming van jonger werkers te subsidieer ten einde ondernemings aan te moedig om onervare personeel in diens te neem.
+1	Voorstelle	_	_	_	_	0	root	_	_
+2	sal	_	_	_	_	1	dep	_	_
+3	ingedien	_	_	_	_	1	dep	_	_
+4	word	_	_	_	_	1	dep	_	_
+5	om	_	_	_	_	1	dep	_	_
+6	die	_	_	_	_	1	dep	_	_
+7	koste	_	_	_	_	1	dep	_	_
+8	van	_	_	_	_	1	dep	_	_
+9	die	_	_	_	_	1	dep	_	_
+10	indiensneming	_	_	_	_	1	dep	_	_
+11	van	_	_	_	_	1	dep	_	_
+12	jonger	_	_	_	_	1	dep	_	_
+13	werkers	_	_	_	_	1	dep	_	_
+14	te	_	_	_	_	1	dep	_	_
+15	subsidieer	_	_	_	_	1	dep	_	_
+16	ten	_	_	_	_	1	dep	_	_
+17	einde	_	_	_	_	1	dep	_	_
+18	ondernemings	_	_	_	_	1	dep	_	_
+19	aan	_	_	_	_	1	dep	_	_
+20	te	_	_	_	_	1	dep	_	_
+21	moedig	_	_	_	_	1	dep	_	_
+22	om	_	_	_	_	1	dep	_	_
+23	onervare	_	_	_	_	1	dep	_	_
+24	personeel	_	_	_	_	1	dep	_	_
+25	in	_	_	_	_	1	dep	_	_
+26	diens	_	_	_	_	1	dep	_	_
+27	te	_	_	_	_	1	dep	_	_
+28	neem	_	_	_	_	1	dep	_	_
+29	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s8
+# text = Gedurende die volgende drie jaar sal 'n addisionele twee miljoen kinders uit arm gesinne en huishoudings tussen die ouderdom van 15 en 18 jaar, by die Kindersorgtoelaag baat vind.
+1	Gedurende	_	_	_	_	0	root	_	_
+2	die	_	_	_	_	1	dep	_	_
+3	volgende	_	_	_	_	1	dep	_	_
+4	drie	_	_	_	_	1	dep	_	_
+5	jaar	_	_	_	_	1	dep	_	_
+6	sal	_	_	_	_	1	dep	_	_
+7	'n	_	_	_	_	1	dep	_	_
+8	addisionele	_	_	_	_	1	dep	_	_
+9	twee	_	_	_	_	1	dep	_	_
+10	miljoen	_	_	_	_	1	dep	_	_
+11	kinders	_	_	_	_	1	dep	_	_
+12	uit	_	_	_	_	1	dep	_	_
+13	arm	_	_	_	_	1	dep	_	_
+14	gesinne	_	_	_	_	1	dep	_	_
+15	en	_	_	_	_	1	dep	_	_
+16	huishoudings	_	_	_	_	1	dep	_	_
+17	tussen	_	_	_	_	1	dep	_	_
+18	die	_	_	_	_	1	dep	_	_
+19	ouderdom	_	_	_	_	1	dep	_	_
+20	van	_	_	_	_	1	dep	_	_
+21	15	_	_	_	_	1	dep	_	_
+22	en	_	_	_	_	1	dep	_	_
+23	18	_	_	_	_	1	dep	_	_
+24	jaar	_	_	_	_	1	dep	_	_
+25	,	_	_	_	_	1	dep	_	_
+26	by	_	_	_	_	1	dep	_	_
+27	die	_	_	_	_	1	dep	_	_
+28	Kindersorgtoelaag	_	_	_	_	1	dep	_	_
+29	baat	_	_	_	_	1	dep	_	_
+30	vind	_	_	_	_	1	dep	_	_
+31	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s110
+# text = 'n Hele aantal sake het reeds aandag geniet.
+1	'n	_	_	_	_	5	dep	_	_
+2	Hele	ADJ	_	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	aantal	NOUN	_	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	sake	NOUN	_	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
+5	het	VERB	_	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	reeds	ADV	_	_	_	5	advmod	_	_
+7	aandag	VERB	_	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Inf	5	xcomp	_	_
+8	geniet	VERB	_	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	7	compound	_	_
+9	.	_	_	_	_	5	dep	_	_
+
+# sent_id = test-s78
+# text = Ons beplan dus om die opleiding van 16 tot 25-jarige persone te verbeter in verdere onderwys-en-opleidingsfasiliteite.
+1	Ons	beplan	VERB	_	_	2	advcl	_	_
+2	beplan	dus	ADV	_	_	0	root	_	_
+3	dus	om	ADP	_	_	2	dep	_	_
+4	om	die	DET	_	_	5	det	_	_
+5	die	opleiding	NOUN	_	_	3	nmod	_	_
+6	opleiding	van	ADP	_	_	2	dep	_	_
+7	van	16	NUM	_	_	8	nummod	_	_
+8	16	tot	ADP	_	_	9	case	_	_
+9	tot	25-jarige	ADJ	_	_	10	amod	_	_
+10	25-jarige	person	NOUN	_	_	6	nmod	_	_
+11	persone	te	ADP	_	_	12	case	_	_
+12	te	verbeter	VERB	_	_	5	advcl	_	_
+13	verbeter	in	ADP	_	_	2	dep	_	_
+14	in	verdere	ADJ	_	_	15	amod	_	_
+15	verdere	onderwys-en-opleidingsfasiliteite	NOUN	_	_	13	nmod	_	_
+16	onderwys-en-opleidingsfasiliteite	.	PUNCT	_	_	2	punct	_	_
+17	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s380
+# text = In ons eie land sal ons al hierdie dinge doen as deel van die proses om ons samelewing op 'n pad van hoër groei en ontwikkeling te plaas.
+1	In	_	_	_	_	0	root	_	_
+2	ons	_	_	_	_	1	dep	_	_
+3	eie	_	_	_	_	1	dep	_	_
+4	land	_	_	_	_	1	dep	_	_
+5	sal	_	_	_	_	1	dep	_	_
+6	ons	_	_	_	_	1	dep	_	_
+7	al	_	_	_	_	1	dep	_	_
+8	hierdie	_	_	_	_	1	dep	_	_
+9	dinge	_	_	_	_	1	dep	_	_
+10	doen	_	_	_	_	1	dep	_	_
+11	as	_	_	_	_	1	dep	_	_
+12	deel	_	_	_	_	1	dep	_	_
+13	van	_	_	_	_	1	dep	_	_
+14	die	_	_	_	_	1	dep	_	_
+15	proses	_	_	_	_	1	dep	_	_
+16	om	_	_	_	_	1	dep	_	_
+17	ons	_	_	_	_	1	dep	_	_
+18	samelewing	_	_	_	_	1	dep	_	_
+19	op	_	_	_	_	1	dep	_	_
+20	'n	_	_	_	_	1	dep	_	_
+21	pad	_	_	_	_	1	dep	_	_
+22	van	_	_	_	_	1	dep	_	_
+23	hoër	_	_	_	_	1	dep	_	_
+24	groei	_	_	_	_	1	dep	_	_
+25	en	_	_	_	_	1	dep	_	_
+26	ontwikkeling	_	_	_	_	1	dep	_	_
+27	te	_	_	_	_	1	dep	_	_
+28	plaas	_	_	_	_	1	dep	_	_
+29	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s210
+# text = 'n Groep moedige soldate het 40 jaar gelede weggebreek van NUSAS om die Suid-Afrikaanse Studente-organisasie (Saso) te stig.
+1	'n	_	_	_	_	0	root	_	_
+2	Groep	_	_	_	_	1	dep	_	_
+3	moedige	_	_	_	_	1	dep	_	_
+4	soldate	_	_	_	_	1	dep	_	_
+5	het	_	_	_	_	1	dep	_	_
+6	40	_	_	_	_	1	dep	_	_
+7	jaar	_	_	_	_	1	dep	_	_
+8	gelede	_	_	_	_	1	dep	_	_
+9	weggebreek	_	_	_	_	1	dep	_	_
+10	van	_	_	_	_	1	dep	_	_
+11	NUSAS	_	_	_	_	1	dep	_	_
+12	om	_	_	_	_	1	dep	_	_
+13	die	_	_	_	_	1	dep	_	_
+14	Suid-Afrikaanse	_	_	_	_	1	dep	_	_
+15	Studente-organisasie	_	_	_	_	1	dep	_	_
+16	(	_	_	_	_	1	dep	_	_
+17	Saso	_	_	_	_	1	dep	_	_
+18	)	_	_	_	_	1	dep	_	_
+19	te	_	_	_	_	1	dep	_	_
+20	stig	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s186
+# text = Kom ons koop almal betyds kaartjies sodat ons die wedstryde kan bywoon.
+1	Kom	_	_	_	_	0	root	_	_
+2	ons	_	_	_	_	1	dep	_	_
+3	koop	_	_	_	_	1	dep	_	_
+4	almal	_	_	_	_	1	dep	_	_
+5	betyds	_	_	_	_	1	dep	_	_
+6	kaartjies	_	_	_	_	1	dep	_	_
+7	sodat	_	_	_	_	1	dep	_	_
+8	ons	_	_	_	_	1	dep	_	_
+9	die	_	_	_	_	1	dep	_	_
+10	wedstryde	_	_	_	_	1	dep	_	_
+11	kan	_	_	_	_	1	dep	_	_
+12	bywoon	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s188
+# text = Gedurende my lewe het ek myself toegewy aan hierdie vryheidstryd van die mense van Afrika.
+1	Gedurende	_	_	_	_	0	root	_	_
+2	my	_	_	_	_	1	dep	_	_
+3	lewe	_	_	_	_	1	dep	_	_
+4	het	_	_	_	_	1	dep	_	_
+5	ek	_	_	_	_	1	dep	_	_
+6	myself	_	_	_	_	1	dep	_	_
+7	toegewy	_	_	_	_	1	dep	_	_
+8	aan	_	_	_	_	1	dep	_	_
+9	hierdie	_	_	_	_	1	dep	_	_
+10	vryheidstryd	_	_	_	_	1	dep	_	_
+11	van	_	_	_	_	1	dep	_	_
+12	die	_	_	_	_	1	dep	_	_
+13	mense	_	_	_	_	1	dep	_	_
+14	van	_	_	_	_	1	dep	_	_
+15	Afrika	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s316
+# text = Dit is te danke aan die transformasie wat hierdie instansies ondergaan het betreffende hul doktrines, gebaseer op 'n kultuur van menseregte, hul demografiese samestelling en hul stelsels vir aanspreeklikheid.
+1	Dit	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	te	_	_	_	_	1	dep	_	_
+4	danke	_	_	_	_	1	dep	_	_
+5	aan	_	_	_	_	1	dep	_	_
+6	die	_	_	_	_	1	dep	_	_
+7	transformasie	_	_	_	_	1	dep	_	_
+8	wat	_	_	_	_	1	dep	_	_
+9	hierdie	_	_	_	_	1	dep	_	_
+10	instansies	_	_	_	_	1	dep	_	_
+11	ondergaan	_	_	_	_	1	dep	_	_
+12	het	_	_	_	_	1	dep	_	_
+13	betreffende	_	_	_	_	1	dep	_	_
+14	hul	_	_	_	_	1	dep	_	_
+15	doktrines	_	_	_	_	1	dep	_	_
+16	,	_	_	_	_	1	dep	_	_
+17	gebaseer	_	_	_	_	1	dep	_	_
+18	op	_	_	_	_	1	dep	_	_
+19	'n	_	_	_	_	1	dep	_	_
+20	kultuur	_	_	_	_	1	dep	_	_
+21	van	_	_	_	_	1	dep	_	_
+22	menseregte	_	_	_	_	1	dep	_	_
+23	,	_	_	_	_	1	dep	_	_
+24	hul	_	_	_	_	1	dep	_	_
+25	demografiese	_	_	_	_	1	dep	_	_
+26	samestelling	_	_	_	_	1	dep	_	_
+27	en	_	_	_	_	1	dep	_	_
+28	hul	_	_	_	_	1	dep	_	_
+29	stelsels	_	_	_	_	1	dep	_	_
+30	vir	_	_	_	_	1	dep	_	_
+31	aanspreeklikheid	_	_	_	_	1	dep	_	_
+32	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s214
+# text = In dieselfde asem moet ons ook erkenning gee aan die oorlede Ephraim Mogale, die stigterspresident van die Kongres van Suid-Afrikaanse Studente (Cosas) en andere 30 jaar gelede.
+1	In	in	ADP	_	_	29	dep	_	_
+2	dieselfde	dieselfde	ADJ	_	_	29	dep	_	_
+3	asem	aan	ADP	_	_	29	dep	_	_
+4	moet	ook	ADV	_	_	29	dep	_	_
+5	ons	erkenning	NOUN	_	_	29	dep	_	_
+6	ook	gee	VERB	_	_	29	dep	_	_
+7	erkenning	aan	ADP	_	_	29	dep	_	_
+8	gee	die	DET	_	_	9	det	_	_
+9	aan	oorlede	ADJ	_	_	10	nmod	_	_
+10	die	Ephraim	PROPN	_	_	11	nmod	_	_
+11	oorlede	Mogale	PROPN	_	_	7	nmod	_	_
+12	Ephraim	,	PUNCT	_	_	29	dep	_	_
+13	Mogale	die	DET	_	_	29	dep	_	_
+14	,	stigterspresident	NOUN	_	_	29	dep	_	_
+15	die	van	ADP	_	_	16	case	_	_
+16	stigterspresident	die	DET	_	_	17	det	_	_
+17	van	Kongres	NOUN	_	_	18	nmod	_	_
+18	die	van	ADP	_	_	19	case	_	_
+19	Kongres	Suid-Afrikaanse	ADJ	_	_	20	nmod	_	_
+20	van	student	NOUN	_	_	21	nmod	_	_
+21	Suid-Afrikaanse	(Cosas)	SYM	_	_	14	appos	_	_
+22	Studente	,	PUNCT	_	_	23	punct	_	_
+23	(	en	CCONJ	_	_	24	cc	_	_
+24	Cosas	anders	ADV	_	_	25	advmod	_	_
+25	)	30	NUM	_	_	26	nummod	_	_
+26	en	jaar	NOUN	_	_	27	nmod	_	_
+27	andere	lede	VERB	_	_	28	advcl	_	_
+28	30	lede	ADJ	_	_	29	nmod	_	_
+29	jaar	.	PUNCT	_	_	0	root	_	_
+30	gelede	_	_	_	_	29	dep	_	_
+31	.	_	_	_	_	29	dep	_	_
+
+# sent_id = test-s116
+# text = Laat ons gedurende hierdie jaar van aksie saamwerk om plaaslike regering almal se besigheid te maak.
+1	Laat	laat	AUX	_	_	0	root	_	_
+2	ons	ons	PRON	_	_	1	nsubj	_	_
+3	gedurende	gedurende	ADV	_	_	1	advmod	_	_
+4	hierdie	hierdie	DET	_	_	5	det	_	_
+5	jaar	jaar	NOUN	_	_	3	obl	_	_
+6	van	van	ADP	_	_	5	case	_	_
+7	aksie	aksie	NOUN	_	_	5	compound	_	_
+8	saamwerk	saamwerk	VERB	_	_	1	advcl	_	_
+9	om	om	ADP	_	_	8	mark	_	_
+10	plaaslike	plaaslike	ADJ	_	_	11	amod	_	_
+11	regering	regering	NOUN	_	_	9	nmod	_	_
+12	almal	al	DET	_	_	13	det	_	_
+13	se	se	DET	_	_	11	nmod	_	_
+14	besigheid	besigheid	NOUN	_	_	9	nmod	_	_
+15	te	te	ADP	_	_	14	case	_	_
+16	maak	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s269
+# text = Die Regering is pynlik bewus daarvan dat volslae armoede nog steeds te wydverspreid in ons samelewing voorkom, en die vlak van ongelykheid is te hoog.
+1	Die	_	_	_	_	0	root	_	_
+2	Regering	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	pynlik	_	_	_	_	1	dep	_	_
+5	bewus	_	_	_	_	1	dep	_	_
+6	daarvan	_	_	_	_	1	dep	_	_
+7	dat	_	_	_	_	1	dep	_	_
+8	volslae	_	_	_	_	1	dep	_	_
+9	armoede	_	_	_	_	1	dep	_	_
+10	nog	_	_	_	_	1	dep	_	_
+11	steeds	_	_	_	_	1	dep	_	_
+12	te	_	_	_	_	1	dep	_	_
+13	wydverspreid	_	_	_	_	1	dep	_	_
+14	in	_	_	_	_	1	dep	_	_
+15	ons	_	_	_	_	1	dep	_	_
+16	samelewing	_	_	_	_	1	dep	_	_
+17	voorkom	_	_	_	_	1	dep	_	_
+18	,	_	_	_	_	1	dep	_	_
+19	en	_	_	_	_	1	dep	_	_
+20	die	_	_	_	_	1	dep	_	_
+21	vlak	_	_	_	_	1	dep	_	_
+22	van	_	_	_	_	1	dep	_	_
+23	ongelykheid	_	_	_	_	1	dep	_	_
+24	is	_	_	_	_	1	dep	_	_
+25	te	_	_	_	_	1	dep	_	_
+26	hoog	_	_	_	_	1	dep	_	_
+27	.	_	_	_	_	1	dep	_	_
+

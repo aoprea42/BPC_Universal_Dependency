@@ -1,0 +1,553 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CoNLL-U tree comparer</title>
+<style>
+:root{
+  --bg:#f6f7f9; --panel:#ffffff; --fg:#14181f; --muted:#667085; --line:#dde1e7;
+  --ok:#0f8f6e; --warn:#b7791f; --bad:#d6403b; --ref:#8a93a0; --accent:#2f5bd8; --sel:#e7edfd;
+  --okbg:#e3f4ee; --warnbg:#fbf0dc; --badbg:#fbe5e4;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#12151a; --panel:#1b1f26; --fg:#e8ebf0; --muted:#98a2b3; --line:#2c323c;
+    --ok:#3ccf9e; --warn:#e3a94a; --bad:#f06b66; --ref:#7d8794; --accent:#7f9cf5; --sel:#232c45;
+    --okbg:#173028; --warnbg:#3a2e17; --badbg:#3b1f1e;
+  }
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;display:flex;flex-direction:column}
+button,select,input{font:inherit;color:inherit}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:stretch;padding:12px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
+header h1{font-size:16px;font-weight:600;margin:0 8px 0 0;align-self:center;white-space:nowrap}
+.drop{display:flex;flex-direction:column;justify-content:center;min-width:210px;padding:6px 12px;border:1.5px dashed var(--line);border-radius:8px;cursor:pointer;transition:border-color .15s,background .15s}
+.drop:hover,.drop.over{border-color:var(--accent);background:var(--sel)}
+.drop b{font-weight:600}
+.drop span{color:var(--muted);font-size:12px}
+.drop.loaded{border-style:solid;border-color:var(--ok)}
+.drop input{display:none}
+.btn{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:6px 12px;cursor:pointer}
+.btn:hover:not(:disabled){border-color:var(--accent)}
+.btn:disabled{opacity:.4;cursor:default}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+#status{align-self:center;color:var(--muted);font-size:12px;flex:1;min-width:200px}
+#status.warn{color:var(--warn)}
+main{flex:1;display:flex;min-height:0}
+aside{width:300px;flex:none;border-right:1px solid var(--line);background:var(--panel);display:flex;flex-direction:column;min-height:0}
+.filters{padding:10px 12px;display:grid;gap:8px;border-bottom:1px solid var(--line)}
+.filters select,.filters input{width:100%;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg)}
+#count{font-size:12px;color:var(--muted)}
+#list{overflow:auto;flex:1}
+.item{display:block;width:100%;text-align:left;border:0;border-bottom:1px solid var(--line);background:transparent;padding:8px 12px;cursor:pointer;content-visibility:auto;contain-intrinsic-size:52px}
+.item:hover{background:var(--bg)}
+.item.cur{background:var(--sel);box-shadow:inset 3px 0 0 var(--accent)}
+.item .top{display:flex;justify-content:space-between;gap:8px;font-size:12px;color:var(--muted)}
+.item .txt{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:2px}
+.badge{font-size:11px;padding:1px 7px;border-radius:10px;font-variant-numeric:tabular-nums}
+.badge.ok{background:var(--okbg);color:var(--ok)}
+.badge.mid{background:var(--warnbg);color:var(--warn)}
+.badge.bad{background:var(--badbg);color:var(--bad)}
+section#view{flex:1;min-width:0;overflow:auto;padding:14px 18px 40px}
+.bar{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-bottom:12px}
+.bar label{display:inline-flex;gap:5px;align-items:center;cursor:pointer;white-space:nowrap}
+.bar input[type=number]{width:70px;padding:5px 6px;border:1px solid var(--line);border-radius:6px;background:var(--panel)}
+.bar select{padding:5px 6px;border:1px solid var(--line);border-radius:6px;background:var(--panel);max-width:260px}
+.pos{font-variant-numeric:tabular-nums;color:var(--muted);min-width:90px;text-align:center}
+.sp{flex:1}
+.chips{display:flex;flex-wrap:wrap;gap:6px 18px;margin:4px 0 10px;font-variant-numeric:tabular-nums}
+.chips div{display:flex;gap:6px;align-items:baseline}
+.chips .k{color:var(--muted);font-size:12px}
+.chips .v{font-weight:600}
+.chips.corpus .v{font-weight:500;color:var(--muted)}
+#sent{margin:6px 0 4px;font-size:16px}
+#meta{color:var(--muted);font-size:12px;margin-bottom:8px}
+#warns{display:flex;flex-direction:column;gap:4px;margin-bottom:8px}
+#warns div{background:var(--warnbg);color:var(--warn);padding:5px 10px;border-radius:6px;font-size:12.5px}
+#svgwrap{overflow:auto;border:1px solid var(--line);border-radius:10px;background:var(--panel);padding:4px}
+table{border-collapse:collapse;margin-top:16px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.5px;background:var(--panel);border:1px solid var(--line)}
+th,td{padding:4px 9px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap;vertical-align:top}
+th{font-family:system-ui,sans-serif;font-weight:600;font-size:12px;color:var(--muted);background:var(--bg)}
+td.bad{background:var(--badbg)}
+td.warn{background:var(--warnbg)}
+td .g{display:block;color:var(--muted);font-size:11.5px}
+td .p{color:var(--bad)}
+.empty{padding:60px 20px;text-align:center;color:var(--muted)}
+.empty h2{color:var(--fg);font-size:18px;margin:0 0 6px}
+kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 5px;font-size:11px;background:var(--panel)}
+button:focus-visible,select:focus-visible,input:focus-visible,.drop:focus-within{outline:2px solid var(--accent);outline-offset:1px}
+@media(max-width:820px){main{flex-direction:column}aside{width:100%;height:240px;border-right:0;border-bottom:1px solid var(--line)}}
+</style>
+</head>
+<body>
+<header>
+  <h1>CoNLL-U tree comparer</h1>
+  <label class="drop" id="dropGold" tabindex="-1"><b>Gold file</b><span id="goldLabel">Drop or click to choose .conllu</span><input type="file" id="goldInput" accept=".conllu,.conll,.txt,*/*"></label>
+  <label class="drop" id="dropPred"><b>Prediction file(s)</b><span id="predLabel">One or more model outputs</span><input type="file" id="predInput" multiple accept=".conllu,.conll,.txt,*/*"></label>
+  <button class="btn" id="demoBtn">Load demo</button>
+  <div id="status">Load a gold file and at least one prediction file.</div>
+</header>
+<main>
+  <aside>
+    <div class="filters">
+      <select id="filter" aria-label="Filter sentences">
+        <option value="all">All sentences</option>
+        <option value="err">Any parse error</option>
+        <option value="head">Wrong head</option>
+        <option value="label">Right head, wrong label</option>
+        <option value="tag">Tag, lemma or feature error</option>
+        <option value="perfect">Fully correct</option>
+        <option value="struct">Alignment problems</option>
+      </select>
+      <select id="sort" aria-label="Sort sentences">
+        <option value="orig">Original order</option>
+        <option value="worst">Lowest LAS first</option>
+        <option value="best">Highest LAS first</option>
+        <option value="most">Most errors first</option>
+      </select>
+      <input type="search" id="search" placeholder="Search text or sent_id" aria-label="Search sentences">
+      <div id="count"></div>
+    </div>
+    <div id="list"></div>
+  </aside>
+  <section id="view">
+    <div class="empty" id="empty"><h2>No trees loaded yet</h2><p>Choose a gold file and one or more prediction files, or load the demo.<br>Predictions can be full CoNLL-U or just the first 8 columns.</p></div>
+    <div id="content" hidden>
+      <div class="bar">
+        <button class="btn" id="prev" title="Previous (←)">Previous</button>
+        <div class="pos" id="pos"></div>
+        <button class="btn" id="next" title="Next (→)">Next</button>
+        <label>Go to # <input type="number" id="jump" min="1"></label>
+        <label id="modelWrap" hidden>Model <select id="model"></select></label>
+        <span class="sp"></span>
+        <label><input type="checkbox" id="optRef" checked> Reference arcs</label>
+        <label><input type="checkbox" id="optStrip" checked> Strip subtypes</label>
+        <label><input type="checkbox" id="optTable" checked> Token table</label>
+        <label>Zoom <input type="range" id="zoom" min="40" max="160" value="100"></label>
+        <button class="btn" id="fit">Fit width</button>
+        <button class="btn" id="export">Export SVG</button>
+      </div>
+      <div class="chips" id="chips"></div>
+      <div class="chips corpus" id="corpus"></div>
+      <div id="sent"></div>
+      <div id="meta"></div>
+      <div id="warns"></div>
+      <div id="svgwrap"></div>
+      <div id="tablewrap"></div>
+      <p style="color:var(--muted);font-size:12px;margin-top:14px">Keys: <kbd>←</kbd> <kbd>→</kbd> switch sentence, <kbd>Home</kbd> <kbd>End</kbd> first and last. Above the words: prediction (green correct, amber right head with wrong label, red wrong head). Below: reference.</p>
+    </div>
+  </section>
+</main>
+<script>
+"use strict";
+const $=id=>document.getElementById(id);
+const S={gold:[],models:[],mi:0,order:[],pos:0,zoom:1,strip:true,goldName:""};
+
+function parseConllu(text){
+  const sents=[];let cur=null;
+  const flush=()=>{if(cur&&cur.toks.length)sents.push(cur);cur=null};
+  for(const raw of text.replace(/\r/g,"").split("\n")){
+    const line=raw.replace(/\s+$/,"");
+    if(!line.trim()){flush();continue}
+    if(line[0]==="#"){
+      if(cur&&cur.toks.length)flush();
+      if(!cur)cur={meta:{},toks:[]};
+      const m=line.match(/^#\s*([^=]+?)\s*=\s*(.*)$/);
+      if(m)cur.meta[m[1].trim()]=m[2];
+      continue;
+    }
+    if(!cur)cur={meta:{},toks:[]};
+    let c=line.split("\t");
+    if(c.length<8)c=line.trim().split(/\s+/);
+    if(c.length<8||!/^\d+$/.test(c[0]))continue;
+    cur.toks.push({id:+c[0],form:c[1],lemma:c[2],upos:c[3],xpos:c[4],feats:c[5],
+      head:/^\d+$/.test(c[6])?+c[6]:null,deprel:c[7]});
+  }
+  flush();
+  return sents;
+}
+const baseRel=(r,strip)=>((strip?String(r).split(":")[0]:String(r))).toLowerCase();
+const normFeats=f=>(!f||f==="_")?"_":(f.split("|").map(s=>s.trim()).filter(s=>s&&s!=="_").sort().join("|")||"_");
+const sentText=g=>g.meta.text||g.toks.map(t=>t.form).join(" ");
+
+function compare(g,p,strip){
+  const n=g.toks.length,idPos=new Map(g.toks.map((t,i)=>[t.id,i]));
+  const pm=new Map();
+  if(p)for(const t of p.toks)if(!pm.has(t.id))pm.set(t.id,t);
+  const rows=[];
+  const c={upos:0,xpos:0,feats:0,lemma:0,uas:0,las:0};
+  let nErr=0,formMis=0,tagMis=0,headErr=0,labelErr=0,missing=0;
+  for(let i=0;i<n;i++){
+    const gt=g.toks[i],pt=pm.get(gt.id)||null;
+    const r={i,gt,pt,status:"missing"};
+    r.gHead=gt.head===0?-1:(idPos.has(gt.head)?idPos.get(gt.head):null);
+    if(pt){
+      const ph=pt.head;
+      r.pHead=ph===null?null:(ph===0?-1:(idPos.has(ph)&&ph!==pt.id?idPos.get(ph):null));
+      r.hok=ph===gt.head;
+      r.rok=baseRel(pt.deprel,strip)===baseRel(gt.deprel,strip);
+      r.uok=pt.upos.toUpperCase()===gt.upos.toUpperCase();
+      r.xok=pt.xpos===gt.xpos;
+      r.fok=normFeats(pt.feats)===normFeats(gt.feats);
+      r.lok=pt.lemma===gt.lemma;
+      r.formOk=pt.form===gt.form;
+      r.status=r.pHead===null&&ph!==gt.head?"badhead":(r.hok&&r.rok?"ok":(r.hok?"label":"head"));
+      if(r.hok)c.uas++;
+      if(r.hok&&r.rok)c.las++;
+      if(r.uok)c.upos++;if(r.xok)c.xpos++;if(r.fok)c.feats++;if(r.lok)c.lemma++;
+      if(!r.formOk)formMis++;
+      if(!(r.uok&&r.xok&&r.fok&&r.lok))tagMis++;
+      if(!r.hok)headErr++;else if(!r.rok)labelErr++;
+    }else{missing++}
+    if(r.status!=="ok")nErr++;
+    rows.push(r);
+  }
+  const pct=v=>100*v/n;
+  return {rows,n,nErr,formMis,tagMis,headErr,labelErr,missing,hasPred:!!p,
+    lenMis:p?p.toks.length!==n:true,
+    uas:pct(c.uas),las:pct(c.las),upos:pct(c.upos),xpos:pct(c.xpos),feats:pct(c.feats),lemma:pct(c.lemma),c};
+}
+
+function addModel(name,text){
+  const preds=parseConllu(text);
+  const gmap=new Map();
+  S.gold.forEach((g,i)=>{if(g.meta.sent_id)gmap.set(g.meta.sent_id,i)});
+  const aligned=new Array(S.gold.length).fill(null);
+  let unmatched=0,byId=0;
+  preds.forEach((p,k)=>{
+    const sid=p.meta.sent_id;
+    let idx=null;
+    if(sid&&gmap.has(sid)){idx=gmap.get(sid);byId++}
+    else if(k<S.gold.length&&aligned[k]===null)idx=k;
+    if(idx===null||aligned[idx])unmatched++;else aligned[idx]=p;
+  });
+  const missing=aligned.filter(x=>!x).length;
+  S.models.push({name,aligned,cmp:new Array(S.gold.length).fill(null),unmatched,byId,missing,total:preds.length,corpus:null});
+}
+function cmpOf(mi,i){
+  const m=S.models[mi];
+  if(!m.cmp[i])m.cmp[i]=compare(S.gold[i],m.aligned[i],S.strip);
+  return m.cmp[i];
+}
+function resetCmp(){for(const m of S.models){m.cmp=new Array(S.gold.length).fill(null);m.corpus=null}}
+function corpusOf(mi){
+  const m=S.models[mi];
+  if(m.corpus)return m.corpus;
+  let tok=0;const s={upos:0,xpos:0,feats:0,lemma:0,uas:0,las:0};
+  for(let i=0;i<S.gold.length;i++){
+    const c=cmpOf(mi,i);tok+=c.n;
+    for(const k in s)s[k]+=c.c[k];
+  }
+  const o={};for(const k in s)o[k]=tok?100*s[k]/tok:0;
+  o.tok=tok;o.sents=S.gold.length;
+  return m.corpus=o;
+}
+
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=v=>v.toFixed(1)+"%";
+const badgeCls=v=>v>=99.99?"ok":(v>=60?"mid":"bad");
+
+function filtered(){
+  const mi=S.mi,f=$("filter").value,q=$("search").value.trim().toLowerCase(),so=$("sort").value;
+  let ids=[];
+  for(let i=0;i<S.gold.length;i++){
+    const g=S.gold[i];
+    if(q&&!(sentText(g).toLowerCase().includes(q)||String(g.meta.sent_id||"").toLowerCase().includes(q)))continue;
+    const c=cmpOf(mi,i);
+    let ok=true;
+    if(f==="err")ok=c.nErr>0;
+    else if(f==="head")ok=c.headErr>0||c.missing>0;
+    else if(f==="label")ok=c.labelErr>0;
+    else if(f==="tag")ok=c.tagMis>0;
+    else if(f==="perfect")ok=c.nErr===0&&c.tagMis===0;
+    else if(f==="struct")ok=c.lenMis||c.formMis>0||!c.hasPred;
+    if(ok)ids.push(i);
+  }
+  if(so==="worst")ids.sort((a,b)=>cmpOf(mi,a).las-cmpOf(mi,b).las||a-b);
+  else if(so==="best")ids.sort((a,b)=>cmpOf(mi,b).las-cmpOf(mi,a).las||a-b);
+  else if(so==="most")ids.sort((a,b)=>cmpOf(mi,b).nErr-cmpOf(mi,a).nErr||a-b);
+  return ids;
+}
+
+function renderList(){
+  S.order=filtered();
+  const mi=S.mi;
+  $("count").textContent=S.order.length+" of "+S.gold.length+" sentences";
+  const frag=document.createDocumentFragment();
+  S.order.forEach((i,k)=>{
+    const g=S.gold[i],c=cmpOf(mi,i);
+    const b=document.createElement("button");
+    b.className="item";b.dataset.k=k;
+    b.innerHTML='<div class="top"><span>#'+(i+1)+(g.meta.sent_id?" · "+esc(String(g.meta.sent_id).slice(0,28)):"")+
+      '</span><span class="badge '+badgeCls(c.las)+'">LAS '+c.las.toFixed(0)+'%</span></div><div class="txt">'+esc(sentText(g))+'</div>';
+    b.onclick=()=>go(k);
+    frag.appendChild(b);
+  });
+  $("list").replaceChildren(frag);
+  if(S.pos>=S.order.length)S.pos=Math.max(0,S.order.length-1);
+}
+
+function go(k){
+  if(!S.order.length){renderView();return}
+  S.pos=Math.min(Math.max(0,k),S.order.length-1);
+  renderView();
+  const el=$("list").children[S.pos];
+  if(el){document.querySelectorAll(".item.cur").forEach(e=>e.classList.remove("cur"));el.classList.add("cur");el.scrollIntoView({block:"nearest"})}
+}
+
+function theme(){
+  const cs=getComputedStyle(document.documentElement),v=n=>cs.getPropertyValue(n).trim();
+  return {bg:v("--panel"),fg:v("--fg"),muted:v("--muted"),ok:v("--ok"),warn:v("--warn"),bad:v("--bad"),ref:v("--ref")};
+}
+let _ctx=null;
+function textW(s,weight){
+  _ctx=_ctx||document.createElement("canvas").getContext("2d");
+  _ctx.font=(weight||500)+" 15px system-ui,sans-serif";
+  return _ctx.measureText(s).width;
+}
+
+function layoutArcs(arcs){
+  const byHead=new Map();
+  for(const a of arcs){
+    a.span=a.h<0?0:Math.abs(a.d-a.h);
+    if(a.h>=0){if(!byHead.has(a.h))byHead.set(a.h,[]);byHead.get(a.h).push(a)}
+  }
+  for(const list of byHead.values()){
+    list.sort((a,b)=>a.span-b.span);
+    list.forEach((a,r)=>{a.rank=r});
+    const byPos=[...list].sort((a,b)=>a.d-b.d);
+    byPos.forEach((a,r)=>{a.off=(r-(byPos.length-1)/2)*7});
+  }
+  for(const a of arcs){
+    if(a.h<0)continue;
+    a.ry=16+34*Math.pow(a.span,0.62)+8*(a.rank||0)+(a.span<=3&&a.d%2===0?9:0);
+  }
+}
+
+function buildSvg(g,c,opts){
+  const T=theme(),n=g.toks.length;
+  const w=g.toks.map(t=>Math.max(56,textW(t.form,500)+22));
+  const xs=[];let x=34;
+  for(let i=0;i<n;i++){xs.push(x+w[i]/2);x+=w[i]}
+  const W=Math.max(640,x+34);
+  const pred=[],gold=[];
+  for(const r of c.rows){
+    if(r.pt&&(r.pHead!==null))pred.push({d:r.i,h:r.pHead,rel:baseRel(r.pt.deprel,S.strip),st:r.status});
+    if(r.gHead!==null)gold.push({d:r.i,h:r.gHead,rel:baseRel(r.gt.deprel,S.strip),st:"ref"});
+  }
+  layoutArcs(pred);layoutArcs(gold);
+  const hasRoot=pred.some(a=>a.h<0);
+  const hAbove=Math.max(70,...pred.map(a=>a.h<0?60:a.ry))+34;
+  const AY=hAbove,WORD=AY+22,ID=AY+38,UP=AY+57,GU=AY+73;
+  const RY=AY+(opts.ref?96:0);
+  const hBelow=opts.ref?Math.max(70,...gold.map(a=>a.h<0?60:a.ry))+36:0;
+  const H=RY+hBelow+10;
+  const col=st=>st==="ok"?T.ok:st==="label"?T.warn:st==="ref"?T.ref:T.bad;
+  const halo='paint-order="stroke" stroke="'+T.bg+'" stroke-width="3" stroke-linejoin="round"';
+  let o='<svg xmlns="http://www.w3.org/2000/svg" width="'+W*S.zoom+'" height="'+H*S.zoom+'" viewBox="0 0 '+W+' '+H+'" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif">';
+  o+='<defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>';
+  o+='<rect width="'+W+'" height="'+H+'" fill="'+T.bg+'"/>';
+  const drawArc=(a,above,y,dash)=>{
+    const color=col(a.st),sw=above?1.7:1.3,dd=dash?' stroke-dasharray="5 4"':'';
+    if(a.h<0){
+      const px=xs[a.d];
+      if(above)return '<line x1="'+px+'" y1="'+(y-60)+'" x2="'+px+'" y2="'+y+'" stroke="'+color+'" stroke-width="'+sw+'" marker-end="url(#ar)"/><text x="'+px+'" y="'+(y-66)+'" text-anchor="middle" font-size="12" fill="'+color+'" '+halo+'>'+esc(a.rel)+'</text>';
+      return '<line x1="'+px+'" y1="'+(y+60)+'" x2="'+px+'" y2="'+y+'" stroke="'+color+'" stroke-width="'+sw+'"'+dd+' marker-end="url(#ar)"/><text x="'+px+'" y="'+(y+76)+'" text-anchor="middle" font-size="12" fill="'+color+'">'+esc(a.rel)+'</text>';
+    }
+    const xd=xs[a.d],xh=xs[a.h]+(a.off||0),x1=Math.min(xd,xh),x2=Math.max(xd,xh);
+    const marker=xd>xh?"marker-end":"marker-start";
+    const ly=above?y-a.ry-5:y+a.ry+14;
+    return '<path d="M '+x1+' '+y+' A '+(x2-x1)/2+' '+a.ry+' 0 0 '+(above?1:0)+' '+x2+' '+y+'" fill="none" stroke="'+color+'" stroke-width="'+sw+'"'+dd+' '+marker+'="url(#ar)"/>'+
+      '<text x="'+(x1+x2)/2+'" y="'+ly+'" text-anchor="middle" font-size="12" fill="'+color+'" '+(above?halo:'')+'>'+esc(a.rel)+'</text>';
+  };
+  if(opts.ref)for(const a of gold)o+=drawArc(a,false,RY,true);
+  const rank={ok:0,label:1,head:2,badhead:2};
+  for(const a of [...pred].sort((p,q)=>rank[p.st]-rank[q.st]))o+=drawArc(a,true,AY,false);
+  for(const r of c.rows){
+    const px=xs[r.i];
+    o+='<text x="'+px+'" y="'+WORD+'" text-anchor="middle" font-size="15" font-weight="500" fill="'+T.fg+'">'+esc(r.gt.form)+'</text>';
+    if(r.pt&&!r.formOk)o+='<line x1="'+(px-w[r.i]/2+6)+'" x2="'+(px+w[r.i]/2-6)+'" y1="'+(WORD+4)+'" y2="'+(WORD+4)+'" stroke="'+T.warn+'" stroke-width="2"/>';
+    o+='<text x="'+px+'" y="'+ID+'" text-anchor="middle" font-size="11" fill="'+T.muted+'">'+r.gt.id+'</text>';
+    const pu=r.pt?r.pt.upos:"∅";
+    o+='<text x="'+px+'" y="'+UP+'" text-anchor="middle" font-size="12" fill="'+(r.pt&&r.uok?T.muted:T.bad)+'">'+esc(pu)+'</text>';
+    if(!r.pt||!r.uok)o+='<text x="'+px+'" y="'+GU+'" text-anchor="middle" font-size="11" fill="'+T.ref+'">'+esc(r.gt.upos)+'</text>';
+  }
+  o+='</svg>';
+  return o;
+}
+
+function cell(gv,pv,ok,warn){
+  if(pv===null)return '<td class="bad">∅</td>';
+  if(ok)return '<td>'+esc(gv)+'</td>';
+  return '<td class="'+(warn?"warn":"bad")+'"><span class="p">'+esc(pv)+'</span><span class="g">gold: '+esc(gv)+'</span></td>';
+}
+function buildTable(g,c){
+  let h='<table><thead><tr><th>ID</th><th>FORM</th><th>LEMMA</th><th>UPOS</th><th>XPOS</th><th>FEATS</th><th>HEAD</th><th>DEPREL</th></tr></thead><tbody>';
+  for(const r of c.rows){
+    const gt=r.gt,pt=r.pt,np=!pt;
+    h+='<tr><td>'+gt.id+'</td>'+
+      cell(gt.form,np?null:pt.form,np||r.formOk,true)+
+      cell(gt.lemma,np?null:pt.lemma,np||r.lok)+
+      cell(gt.upos,np?null:pt.upos,np||r.uok)+
+      cell(gt.xpos,np?null:pt.xpos,np||r.xok)+
+      cell(normFeats(gt.feats),np?null:normFeats(pt.feats),np||r.fok)+
+      cell(String(gt.head),np?null:String(pt.head),np||r.hok)+
+      cell(baseRel(gt.deprel,S.strip),np?null:baseRel(pt.deprel,S.strip),np||r.rok,np?false:r.hok)+'</tr>';
+  }
+  return h+'</tbody></table>';
+}
+
+function chip(k,v){return '<div><span class="k">'+k+'</span><span class="v">'+v+'</span></div>'}
+function renderView(){
+  const has=S.gold.length>0&&S.models.length>0;
+  $("empty").hidden=has;$("content").hidden=!has;
+  if(!has)return;
+  if(!S.order.length){
+    $("chips").innerHTML="";$("sent").textContent="No sentences match the current filter.";
+    $("meta").textContent="";$("warns").innerHTML="";$("svgwrap").innerHTML="";$("tablewrap").innerHTML="";
+    $("pos").textContent="0 / 0";$("prev").disabled=$("next").disabled=true;
+    renderCorpus();return;
+  }
+  const i=S.order[S.pos],g=S.gold[i],c=cmpOf(S.mi,i);
+  $("pos").textContent=(S.pos+1)+" / "+S.order.length;
+  $("prev").disabled=S.pos===0;$("next").disabled=S.pos===S.order.length-1;
+  $("jump").value=i+1;$("jump").max=S.gold.length;
+  $("chips").innerHTML=chip("UAS",fmt(c.uas))+chip("LAS",fmt(c.las))+chip("UPOS",fmt(c.upos))+chip("XPOS",fmt(c.xpos))+chip("UFeats",fmt(c.feats))+chip("Lemmas",fmt(c.lemma))+
+    chip("head errors",c.headErr)+chip("label-only errors",c.labelErr);
+  $("sent").textContent=sentText(g);
+  $("meta").textContent="#"+(i+1)+(g.meta.sent_id?"  ·  "+g.meta.sent_id:"")+"  ·  "+c.n+" words";
+  const w=[];
+  if(!c.hasPred)w.push("No prediction found for this sentence.");
+  else{
+    const p=S.models[S.mi].aligned[i];
+    if(c.lenMis)w.push("Prediction has "+p.toks.length+" rows, gold has "+c.n+".");
+    if(c.formMis)w.push(c.formMis+" row(s) have a FORM that differs from gold (underlined in amber). Columns may be shifted in the model output.");
+  }
+  $("warns").innerHTML=w.map(t=>"<div>"+esc(t)+"</div>").join("");
+  $("svgwrap").innerHTML=buildSvg(g,c,{ref:$("optRef").checked});
+  $("tablewrap").innerHTML=$("optTable").checked?buildTable(g,c):"";
+  renderCorpus();
+}
+function renderCorpus(){
+  const o=corpusOf(S.mi),m=S.models[S.mi];
+  $("corpus").innerHTML=chip("Corpus ("+o.sents+" sent, "+o.tok+" words)","")+chip("UAS",fmt(o.uas))+chip("LAS",fmt(o.las))+chip("UPOS",fmt(o.upos))+chip("XPOS",fmt(o.xpos))+chip("UFeats",fmt(o.feats))+chip("Lemmas",fmt(o.lemma))+
+    (m.missing?chip("sentences without prediction",m.missing):"");
+}
+
+function refreshAll(keep){
+  const cur=S.order[S.pos];
+  renderList();
+  const k=keep&&cur!==undefined?S.order.indexOf(cur):-1;
+  go(k>=0?k:0);
+}
+
+function setStatus(t,warn){const s=$("status");s.textContent=t;s.className=warn?"warn":""}
+function readFile(f){return new Promise((res,rej)=>{const r=new FileReader();r.onload=()=>res(r.result);r.onerror=rej;r.readAsText(f)})}
+async function loadGold(f){
+  const text=await readFile(f);
+  S.gold=parseConllu(text);S.goldName=f.name;
+  const old=S.models.map(m=>({name:m.name,text:m.text}));
+  S.models=[];
+  $("goldLabel").textContent=f.name+" · "+S.gold.length+" sentences";
+  $("dropGold").classList.add("loaded");
+  for(const m of old)addModel(m.name,m.text);
+  S.models.forEach((m,i)=>m.text=old[i].text);
+  finishLoad();
+}
+async function loadPreds(files){
+  if(!S.gold.length){setStatus("Load the gold file first.",true);return}
+  S.models=[];
+  for(const f of files){const t=await readFile(f);addModel(f.name,t);S.models[S.models.length-1].text=t}
+  $("predLabel").textContent=files.length+" file(s): "+[...files].map(f=>f.name).join(", ");
+  $("dropPred").classList.add("loaded");
+  finishLoad();
+}
+function finishLoad(){
+  if(!S.gold.length){setStatus("Gold file has no sentences.",true);return}
+  if(!S.models.length){setStatus(S.gold.length+" gold sentences loaded. Now choose prediction file(s).");return}
+  S.mi=Math.min(S.mi,S.models.length-1);
+  $("model").innerHTML=S.models.map((m,i)=>'<option value="'+i+'">'+esc(m.name)+'</option>').join("");
+  $("model").value=S.mi;
+  $("modelWrap").hidden=S.models.length<2;
+  const bad=S.models.filter(m=>m.missing||m.unmatched);
+  if(bad.length)setStatus(bad.map(m=>m.name+": "+m.missing+" gold sentence(s) without prediction, "+m.unmatched+" unmatched prediction(s)").join(" | "),true);
+  else setStatus(S.gold.length+" sentences, "+S.models.length+" model file(s). Aligned by sent_id where available, otherwise by order.");
+  S.pos=0;
+  refreshAll(false);
+}
+
+function rows2conllu(id,text,rows){
+  return "# sent_id = "+id+"\n# text = "+text+"\n"+rows.map((r,i)=>(i+1)+"\t"+r.join("\t")+"\t_\t_").join("\n")+"\n\n";
+}
+function loadDemo(){
+  const G1=[["At","at","ADP","IN","_",3,"case"],["that","that","DET","DT","PronType=Dem",3,"det"],["time","time","NOUN","NN","Number=Sing",13,"obl"],[",",",","PUNCT",",","_",13,"punct"],["the","the","DET","DT","Definite=Def",6,"det"],["gurus","guru","NOUN","NNS","Number=Plur",13,"nsubj"],["and","and","CCONJ","CC","_",8,"cc"],["geniuses","genius","NOUN","NNS","Number=Plur",6,"conj"],["of","of","ADP","IN","_",11,"case"],["Wall","Wall","PROPN","NNP","Number=Sing",11,"compound"],["Street","Street","PROPN","NNP","Number=Sing",6,"nmod"],["were","be","AUX","VBD","Mood=Ind|Tense=Past|VerbForm=Fin",13,"aux"],["predicting","predict","VERB","VBG","Tense=Pres|VerbForm=Part",0,"root"],["a","a","DET","DT","Definite=Ind",16,"det"],["250","250","NUM","CD","NumType=Card",16,"nummod"],["Dow","Dow","PROPN","NNP","Number=Sing",13,"obj"],["and","and","CCONJ","CC","_",18,"cc"],["many","many","PRON","NN","Number=Plur",13,"conj"],["were","be","AUX","VBD","Mood=Ind|Tense=Past|VerbForm=Fin",20,"aux"],["talking","talk","VERB","VBG","Tense=Pres|VerbForm=Part",13,"conj"],["openly","openly","ADV","RB","_",20,"advmod"],["about","about","ADP","IN","_",24,"case"],["the","the","DET","DT","Definite=Def",24,"det"],["end","end","NOUN","NN","Number=Sing",20,"obl"],["of","of","ADP","IN","_",26,"case"],["capitalism","capitalism","NOUN","NN","Number=Sing",24,"nmod"],[".",".","PUNCT",".","_",13,"punct"]];
+  const P1=[["At","At","ADP","IN","_",2,"case"],["that","that","PRON","DT","PronType=Dem",4,"obl"],["time","time","NOUN","NN","Number=Sing",2,"nmod"],[",","be","AUX","VBD","Mood=Ind|Tense=Past|VerbForm=Fin",0,"root"],["the","the","DET","DT","Definite=Def",6,"det"],["gurus","guru","NOUN","NNS","Number=Plur",4,"nsubj"],["and","and","CCONJ","CC","_",8,"cc"],["geniuses","genius","NOUN","NNS","Number=Plur",6,"conj"],["of","of","ADP","IN","_",10,"case"],["Wall","Wall","PROPN","NNP","Number=Sing",11,"nmod"],["Street","Street","PROPN","NNP","Number=Sing",6,"nmod"],["were","were","AUX","VBD","Mood=Ind|Tense=Past|VerbForm=Fin",4,"conj"],["predicting","predict","VERB","VBG","Tense=Pres|VerbForm=Part",12,"xcomp"],["a","a","DET","DT","Definite=Ind",15,"det"],["250","Dow","PROPN","NNP","Number=Sing",13,"nsubj"],["Dow","and","CCONJ","CC","_",17,"cc"],["and","many","PRON","PRP","Number=Plur",15,"conj"],["many","were","AUX","VBD","Mood=Ind|Tense=Past|VerbForm=Fin",4,"conj"],["were","talk","VERB","VBG","Tense=Pres|VerbForm=Part",18,"xcomp"],["talking","openly","ADV","RB","_",21,"advmod"],["openly","about","ADP","IN","_",19,"obl"],["about","the","DET","DT","Definite=Def",23,"det"],["the","end","NOUN","NN","Number=Sing",21,"nmod"],["end","of","ADP","IN","_",25,"case"],["of","capitalism","NOUN","NN","Number=Sing",23,"nmod"],["capitalism",".","PUNCT",".","_",4,"punct"],[".","_","_","_","_",4,"dep"]];
+  const G2=[["The","the","DET","DT","Definite=Def",2,"det"],["cat","cat","NOUN","NN","Number=Sing",3,"nsubj"],["sat","sit","VERB","VBD","Tense=Past",0,"root"],["on","on","ADP","IN","_",6,"case"],["the","the","DET","DT","Definite=Def",6,"det"],["mat","mat","NOUN","NN","Number=Sing",3,"obl"],[".",".","PUNCT",".","_",3,"punct"]];
+  const P2=G2.map(r=>r.slice());P2[3][5]=2;P2[5][5]=2;P2[5][6]="nmod";P2[2][1]="sat";
+  const G3=[["Dogs","dog","NOUN","NNS","Number=Plur",2,"nsubj"],["bark","bark","VERB","VBP","Tense=Pres",0,"root"],[".",".","PUNCT",".","_",2,"punct"]];
+  const gold=rows2conllu("demo-1","At that time, the gurus and geniuses of Wall Street were predicting a 250 Dow and many were talking openly about the end of capitalism.",G1)+rows2conllu("demo-2","The cat sat on the mat.",G2)+rows2conllu("demo-3","Dogs bark.",G3);
+  const pred=rows2conllu("demo-1","",P1)+rows2conllu("demo-2","",P2)+rows2conllu("demo-3","",G3);
+  S.gold=parseConllu(gold);S.goldName="demo_gold";S.models=[];
+  addModel("demo_model",pred);S.models[0].text=pred;
+  $("goldLabel").textContent="demo_gold · "+S.gold.length+" sentences";
+  $("predLabel").textContent="demo_model";
+  $("dropGold").classList.add("loaded");$("dropPred").classList.add("loaded");
+  S.mi=0;finishLoad();
+}
+
+function wireDrop(id,handler){
+  const z=$(id);
+  ["dragenter","dragover"].forEach(e=>z.addEventListener(e,ev=>{ev.preventDefault();z.classList.add("over")}));
+  ["dragleave","drop"].forEach(e=>z.addEventListener(e,ev=>{ev.preventDefault();z.classList.remove("over")}));
+  z.addEventListener("drop",ev=>{if(ev.dataTransfer.files.length)handler(ev.dataTransfer.files)});
+}
+wireDrop("dropGold",fs=>loadGold(fs[0]));
+wireDrop("dropPred",fs=>loadPreds(fs));
+$("goldInput").onchange=e=>{if(e.target.files[0])loadGold(e.target.files[0])};
+$("predInput").onchange=e=>{if(e.target.files.length)loadPreds(e.target.files)};
+$("demoBtn").onclick=loadDemo;
+$("prev").onclick=()=>go(S.pos-1);
+$("next").onclick=()=>go(S.pos+1);
+$("model").onchange=e=>{S.mi=+e.target.value;refreshAll(true)};
+$("filter").onchange=()=>{S.pos=0;refreshAll(false)};
+$("sort").onchange=()=>{S.pos=0;refreshAll(false)};
+let st=null;
+$("search").oninput=()=>{clearTimeout(st);st=setTimeout(()=>{S.pos=0;refreshAll(false)},180)};
+$("jump").onchange=e=>{
+  const n=+e.target.value-1;
+  if(!(n>=0&&n<S.gold.length))return;
+  let k=S.order.indexOf(n);
+  if(k<0){$("filter").value="all";$("search").value="";renderList();k=S.order.indexOf(n)}
+  go(k);
+};
+$("optRef").onchange=renderView;
+$("optTable").onchange=renderView;
+$("optStrip").onchange=e=>{S.strip=e.target.checked;resetCmp();refreshAll(true)};
+$("zoom").oninput=e=>{S.zoom=e.target.value/100;renderView()};
+$("fit").onclick=()=>{
+  const svg=$("svgwrap").querySelector("svg");if(!svg)return;
+  const vb=svg.viewBox.baseVal.width,avail=$("svgwrap").clientWidth-16;
+  S.zoom=Math.min(1.6,Math.max(0.4,avail/vb));
+  $("zoom").value=Math.round(S.zoom*100);renderView();
+};
+$("export").onclick=()=>{
+  const svg=$("svgwrap").querySelector("svg");if(!svg)return;
+  const blob=new Blob([svg.outerHTML],{type:"image/svg+xml"});
+  const a=document.createElement("a");a.href=URL.createObjectURL(blob);
+  a.download="sentence_"+(S.order[S.pos]+1)+".svg";a.click();URL.revokeObjectURL(a.href);
+};
+document.addEventListener("keydown",e=>{
+  if(["INPUT","SELECT","TEXTAREA"].includes(document.activeElement.tagName))return;
+  if(e.key==="ArrowRight"||e.key==="n"){go(S.pos+1)}
+  else if(e.key==="ArrowLeft"||e.key==="p"){go(S.pos-1)}
+  else if(e.key==="Home"){go(0)}
+  else if(e.key==="End"){go(S.order.length-1)}
+  else return;
+  e.preventDefault();
+});
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{if(S.models.length)renderView()});
+</script>
+</body>
+</html>

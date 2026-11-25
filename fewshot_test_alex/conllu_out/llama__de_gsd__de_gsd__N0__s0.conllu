@@ -1,0 +1,3726 @@
+# sent_id = test-s899
+# text = Rund die Hälfte der in dem US-Werk gefertigten Autos soll exportiert werden.
+1	Rund	rund	ADJ	ADJA	_	12	dep	_	_
+2	die	die	DET	ART	_	12	dep	_	_
+3	Hälfte	hälfte	NOUN	NN	_	12	dep	_	_
+4	der	der	DET	ART	_	3	det	_	_
+5	in	in	ADP	IN	_	12	dep	_	_
+6	dem	dem	DET	ART	_	5	det	_	_
+7	US	US	PROPN	NNP	_	5	nmod	_	_
+8	-	-Werk	NOUN	NN	_	7	nmod	_	_
+9	Werk	gefertigt	VERB	VBN	_	8	amod	_	_
+10	gefertigten	Auto	NOUN	NN	_	9	nsubj	_	_
+11	Autos	sollen	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	soll	exportieren	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_
+13	exportiert	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+14	werden	.	PUNCT	.	_	12	punct	_	_
+15	.	_	_	_	_	12	dep	_	_
+
+# sent_id = test-s455
+# text = Mehrere Kompanien der Bereitschaftspolizei CRS, ausgerüstet mit Schutzschilden und Tränengasgranaten marschierten auf.
+1	Mehrere	_	_	_	_	0	root	_	_
+2	Kompanien	_	_	_	_	1	dep	_	_
+3	der	_	_	_	_	1	dep	_	_
+4	Bereitschaftspolizei	_	_	_	_	1	dep	_	_
+5	CRS	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	ausgerüstet	_	_	_	_	1	dep	_	_
+8	mit	_	_	_	_	1	dep	_	_
+9	Schutzschilden	_	_	_	_	1	dep	_	_
+10	und	_	_	_	_	1	dep	_	_
+11	Tränengasgranaten	_	_	_	_	1	dep	_	_
+12	marschierten	_	_	_	_	1	dep	_	_
+13	auf	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s174
+# text = Hallo, lorenz - meier hat ein mit großen Mängeln ein Fernwärmesystem installiert.
+1	Hallo	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3	lorenz	_	_	_	_	1	dep	_	_
+4	-	_	_	_	_	1	dep	_	_
+5	meier	_	_	_	_	1	dep	_	_
+6	hat	_	_	_	_	1	dep	_	_
+7	ein	_	_	_	_	1	dep	_	_
+8	mit	_	_	_	_	1	dep	_	_
+9	großen	_	_	_	_	1	dep	_	_
+10	Mängeln	_	_	_	_	1	dep	_	_
+11	ein	_	_	_	_	1	dep	_	_
+12	Fernwärmesystem	_	_	_	_	1	dep	_	_
+13	installiert	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s638
+# text = Zehntausende Demonstranten trugen die Bahren der ``Märtyrer'' durch die Straßen der Zweimillionen-Stadt.
+1	Zehntausende	Zehntausend	NUM	NUM	_	2	nummod	_	_
+2	Demonstranten	Demonstrant	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	trugen	tragen	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	die	die	DET	DET	Case=Acc|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	Bahren	Bahr	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+6	der	der	DET	DET	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	``	Märtyrer	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	Märtyrer	durch	ADP	ADP	_	9	case	_	_
+9	''	die	DET	DET	Case=Acc|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	durch	Straße	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	3	obl	_	_
+11	die	der	DET	DET	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	Straßen	Zweimillion	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	der	-	PUNCT	PUNCT	_	10	punct	_	_
+14	Zweimillionen	Stadt	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	10	nmod	_	_
+15	-	.	PUNCT	PUNCT	_	3	punct	_	_
+16	Stadt	_	_	_	_	3	dep	_	_
+17	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s816
+# text = Izetbegovic zufrieden mit Konferenz in Dayton
+1	Izetbegovic	_	_	_	_	0	root	_	_
+2	zufrieden	_	_	_	_	1	dep	_	_
+3	mit	_	_	_	_	1	dep	_	_
+4	Konferenz	_	_	_	_	1	dep	_	_
+5	in	_	_	_	_	1	dep	_	_
+6	Dayton	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s618
+# text = ``Das Kartellamt ist grundsätzlich reaktiv'', argumentiert SPD-Experte Börnsen.
+1	``	Kartellamt	DET	ART	_	0	root	_	_
+2	Das	ist	AUX	VAFIN	_	1	dep	_	_
+3	Kartellamt	grundsätzlich	ADV	ADV	_	4	advmod	_	_
+4	ist	reaktiv	ADJ	ADJ	_	2	root	_	_
+5	grundsätzlich	'',	PUNCT	PUNCT	_	4	punct	_	_
+6	reaktiv	argumentieren	VERB	VVFIN	_	1	dep	_	_
+7	''	SPD-Experte	PROPN	NE	_	6	nsubj	_	_
+8	,	Börnsen	PROPN	NE	_	6	dobj	_	_
+9	argumentiert	.	PUNCT	PUNCT	_	6	punct	_	_
+10	SPD	_	_	_	_	1	dep	_	_
+11	-	_	_	_	_	1	dep	_	_
+12	Experte	_	_	_	_	1	dep	_	_
+13	Börnsen	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s272
+# text = Unsere "Versuchskaninchen" waren hochzufrieden und wollen das nächste Mal beim Kochkurs mit dabei sein.
+1	Unsere	Unser	DET	ART	Case=Gen|Gender=Fem|Number=Plur|PronType=Prs	2	det	_	_
+2	"	Versuchskaninchen	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+3	Versuchskaninchen	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	"	hochzufrieden	ADJ	JJ	Degree=Pos	3	advmod	_	_
+5	waren	und	CCONJ	KON	_	6	cc	_	_
+6	hochzufrieden	wollen	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	und	das	PRON	DT	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	wollen	nächste	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	das	Mal	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+10	nächste	bei	ADP	IN	_	11	case	_	_
+11	Mal	dem	DET	ART	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12-13	beim	_	_	_	_	_	_	_	_
+12	bei	Kochkurs	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
+13	dem	mit	ADP	IN	_	14	case	_	_
+14	Kochkurs	dabei	ADV	ADV	_	6	obl	_	_
+15	mit	seyn	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+16	dabei	.	PUNCT	$.	_	3	punct	_	_
+17	sein	_	_	_	_	3	dep	_	_
+18	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s154
+# text = Fuer ein 3-sterne hotel und fuer den Preis TOP.
+1	Fuer	_	_	_	_	0	root	_	_
+2	ein	_	_	_	_	1	dep	_	_
+3	3	_	_	_	_	1	dep	_	_
+4	-	_	_	_	_	1	dep	_	_
+5	sterne	_	_	_	_	1	dep	_	_
+6	hotel	_	_	_	_	1	dep	_	_
+7	und	_	_	_	_	1	dep	_	_
+8	fuer	_	_	_	_	1	dep	_	_
+9	den	_	_	_	_	1	dep	_	_
+10	Preis	_	_	_	_	1	dep	_	_
+11	TOP	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s234
+# text = Neben erstklassigem Unterricht kann man bei Burtaris Yoga erfahren, dass es möglich ist, auch im Kontext einer professionell geführten "Dienstleistung" den Regeln der Zwischenmenschlichkeit zu folgen und damit ein starkes Zeichen zu setzen.
+1	Neben	neben	ADP	_	Case=Prep	4	dep	_	_
+2	erstklassigem	erstklassig	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	3	amod	_	_
+3	Unterricht	Unterricht	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
+4	kann	können	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	man	man	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	bei	bei	ADP	_	_	7	case	_	_
+7	Burtaris	Burtaris	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	_
+8	Yoga	Yoga	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	_
+9	erfahren	erfahren	VERB	_	VerbForm=Part|Voice=Pass	4	xcomp	_	_
+10	,	es	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	11	nsubj	_	_
+11	dass	möglich	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	ccomp	_	_
+12	es	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+13	möglich	auch	ADV	_	_	14	advmod	_	_
+14	ist	dem	ADP	_	_	15	case	_	_
+15	,	Kontext	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	nmod	_	_
+16	auch	ein	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17-18	im	_	_	_	_	_	_	_	_
+17	in	professionell	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	15	nmod	_	_
+18	dem	geführen	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+19	Kontext	"Dienstleistung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+20	einer	"	PUNCT	_	_	19	punct	_	_
+21	professionell	dem	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	dep	_	_
+22	geführten	Regel	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	4	dep	_	_
+23	"	Zwischenmenschlichkeit	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	dep	_	_
+24	Dienstleistung	zu	ADP	_	_	4	dep	_	_
+25	"	folgen	VERB	_	VerbForm=Inf	4	dep	_	_
+26	den	und	CCONJ	_	_	27	cc	_	_
+27	Regeln	damit	ADV	_	_	25	conj	_	_
+28	der	ein	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	Zwischenmenschlichkeit	stark	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	30	amod	_	_
+30	zu	Zeichen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	27	obj	_	_
+31	folgen	setzen	VERB	_	VerbForm=Inf	30	acl	_	_
+32	und	.	PUNCT	_	_	4	punct	_	_
+33	damit	_	_	_	_	4	dep	_	_
+34	ein	_	_	_	_	4	dep	_	_
+35	starkes	_	_	_	_	4	dep	_	_
+36	Zeichen	_	_	_	_	4	dep	_	_
+37	zu	_	_	_	_	4	dep	_	_
+38	setzen	_	_	_	_	4	dep	_	_
+39	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s133
+# text = Eintritt ok, da man mit der Karte auch Zugang zum Wildpark hat.
+1	Eintritt	_	_	_	_	0	root	_	_
+2	ok	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	da	_	_	_	_	1	dep	_	_
+5	man	_	_	_	_	1	dep	_	_
+6	mit	_	_	_	_	1	dep	_	_
+7	der	_	_	_	_	1	dep	_	_
+8	Karte	_	_	_	_	1	dep	_	_
+9	auch	_	_	_	_	1	dep	_	_
+10	Zugang	_	_	_	_	1	dep	_	_
+11-12	zum	_	_	_	_	_	_	_	_
+11	zu	_	_	_	_	1	dep	_	_
+12	dem	_	_	_	_	1	dep	_	_
+13	Wildpark	_	_	_	_	1	dep	_	_
+14	hat	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s295
+# text = Zimmer sind vorsichtig ausgedrückt, schmuddelig, vor allem das Bad ist runtergewirtschaftet, schimmelige Deckenecken
+1	Zimmer	Zimmer	NOUN	NN	_	2	nmod:poss	_	_
+2	sind	sind	AUX	VAFIN	_	0	root	_	_
+3	vorsichtig	vorsichtig	ADJ	JJ	_	4	amod	_	_
+4	ausgedrückt	ausdrücken	VERB	VVPP	_	2	xcomp	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	schmuddelig	schmutzig	ADJ	JJ	_	4	amod	_	_
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	vor	vor	ADP	IN	_	9	case	_	_
+9	allem	allein	ADV	RB	_	2	advmod	_	_
+10	das	das	DET	DT	_	11	det	_	_
+11	Bad	Bad	NOUN	NN	_	4	nmod	_	_
+12	ist	sein	AUX	VAFIN	_	4	cop	_	_
+13	runtergewirtschaftet	runtergewirtschaftet	VERB	VVPP	_	4	advcl	_	_
+14	,	,	PUNCT	,	_	2	punct	_	_
+15	schimmelige	schimmelig	ADJ	JJ	_	16	amod	_	_
+16	Deckenecken	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s688
+# text = Als Reiseziel wurde Nord-Korea genannt.
+1	Als	als	SCONJ	_	_	2	case	_	_
+2	Reiseziel	Reiseziel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	Nord	-	ADP	_	Case=Dat	5	case	_	_
+5	-	Korea	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	_
+6	Korea	genannt	VERB	_	VerbForm=Part	3	xcomp	_	_
+7	genannt	.	PUNCT	_	_	3	punct	_	_
+8	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s741
+# text = Ecuador glaube nicht mehr an die Linke.
+1	Ecuador	Ecuador	NOUN	NN	_	0	root	_	_
+2	glaube	glauben	VERB	VVFIN	_	1	dep	_	_
+3	nicht	nicht	ADV	ADV	_	1	dep	_	_
+4	mehr	mehr	ADV	ADV	_	1	dep	_	_
+5	an	an	ADP	IN	_	1	dep	_	_
+6	die	die	DET	ART	_	7	det	_	_
+7	Linke	Linken	NOUN	NN	_	5	nmod	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s803
+# text = Drei afrikanische Asylbewerber, die in der Nacht zum Sonntag im ostsächsischen Zittau nach einer Messerstecherei festgenommen worden waren, haben offenbar in Notwehr gehandelt.
+1	Drei	3	NUM	NUM	NumType=Card	0	root	_	_
+2	afrikanische	afrikanisch	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	_
+3	Asylbewerber	Asylbewerber	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	2	nmod	_	_
+4	,	,	PUNCT	PUNCT	_	1	dep	_	_
+5	die	die	DET	DET	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	1	dep	_	_
+6	in	in	ADP	ADP	AdpType=Prep|Case=Acc	7	case	_	_
+7	der	Nacht	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	Nacht	zu	ADP	ADP	AdpType=Prep|Case=Dat	9	case	_	_
+9-10	zum	_	_	_	_	_	_	_	_
+9	zu	dem	DET	DET	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	dem	Sonntag	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	_
+11	Sonntag	in	ADP	ADP	AdpType=Prep|Case=Dat	12	case	_	_
+12-13	im	_	_	_	_	_	_	_	_
+12	in	dem	DET	DET	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	dem	ostsächsisch	ADJ	ADJ	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	ostsächsischen	Zittau	PROPN	PROPN	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	_
+15	Zittau	nach	ADP	ADP	AdpType=Prep|Case=Dat	1	dep	_	_
+16	nach	ein	DET	DET	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	17	det	_	_
+17	einer	Messerstecherei	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	15	nmod	_	_
+18	Messerstecherei	festnehmen	VERB	VERB	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	advcl	_	_
+19	festgenommen	werden	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+20	worden	,	PUNCT	PUNCT	_	21	punct	_	_
+21	waren	haben	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	,	offenbar	ADV	ADV	_	23	advmod	_	_
+23	haben	gehandeln	VERB	VERB	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	ccomp	_	_
+24	offenbar	in	ADP	ADP	AdpType=Prep|Case=Dat	25	case	_	_
+25	in	Notwehr	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	23	nmod	_	_
+26	Notwehr	.	PUNCT	PUNCT	_	1	punct	_	_
+27	gehandelt	_	_	_	_	1	dep	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s500
+# text = Die Regierung von Angola erhält von der Europäischen Gemeinschaft rund vier Millionen Mark zur Vorbereitung der für Ende 1992 geplanten freien Wahlen.
+1	Die	_	_	_	_	0	root	_	_
+2	Regierung	_	_	_	_	1	dep	_	_
+3	von	_	_	_	_	1	dep	_	_
+4	Angola	_	_	_	_	1	dep	_	_
+5	erhält	_	_	_	_	1	dep	_	_
+6	von	_	_	_	_	1	dep	_	_
+7	der	_	_	_	_	1	dep	_	_
+8	Europäischen	_	_	_	_	1	dep	_	_
+9	Gemeinschaft	_	_	_	_	1	dep	_	_
+10	rund	_	_	_	_	1	dep	_	_
+11	vier	_	_	_	_	1	dep	_	_
+12	Millionen	_	_	_	_	1	dep	_	_
+13	Mark	_	_	_	_	1	dep	_	_
+14-15	zur	_	_	_	_	_	_	_	_
+14	zu	_	_	_	_	1	dep	_	_
+15	der	_	_	_	_	1	dep	_	_
+16	Vorbereitung	_	_	_	_	1	dep	_	_
+17	der	_	_	_	_	1	dep	_	_
+18	für	_	_	_	_	1	dep	_	_
+19	Ende	_	_	_	_	1	dep	_	_
+20	1992	_	_	_	_	1	dep	_	_
+21	geplanten	_	_	_	_	1	dep	_	_
+22	freien	_	_	_	_	1	dep	_	_
+23	Wahlen	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s810
+# text = Hoffnung auf Ende der Lkw-Blockaden
+1	Hoffnung	hoffnung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	auf	auf	ADP	IN	_	1	dep	_	_
+3	Ende	ende	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	1	dep	_	_
+4	der	der	DET	DT	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Lkw	lkw	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+6	-	-	PUNCT	-	_	7	punct	_	_
+7	Blockaden	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s646
+# text = Würden die Deutschen den 8. Mai 1945 nicht als Kapitulation sondern als Tag der Befreiung begreifen, wäre diese Erkenntnis Allgemeingut.
+1	Würden	_	_	_	_	0	root	_	_
+2	die	_	_	_	_	1	dep	_	_
+3	Deutschen	_	_	_	_	1	dep	_	_
+4	den	_	_	_	_	1	dep	_	_
+5	8.	_	_	_	_	1	dep	_	_
+6	Mai	_	_	_	_	1	dep	_	_
+7	1945	_	_	_	_	1	dep	_	_
+8	nicht	_	_	_	_	1	dep	_	_
+9	als	_	_	_	_	1	dep	_	_
+10	Kapitulation	_	_	_	_	1	dep	_	_
+11	sondern	_	_	_	_	1	dep	_	_
+12	als	_	_	_	_	1	dep	_	_
+13	Tag	_	_	_	_	1	dep	_	_
+14	der	_	_	_	_	1	dep	_	_
+15	Befreiung	_	_	_	_	1	dep	_	_
+16	begreifen	_	_	_	_	1	dep	_	_
+17	,	_	_	_	_	1	dep	_	_
+18	wäre	_	_	_	_	1	dep	_	_
+19	diese	_	_	_	_	1	dep	_	_
+20	Erkenntnis	_	_	_	_	1	dep	_	_
+21	Allgemeingut	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s830
+# text = Wie bei der Polizei in Paris und London verlautete, wurde Benouis am Samstag mittag mit einem weiteren Verdächtigen in der Stadtmitte von London gefaßt.
+1	Wie	wie	ADV	_	_	0	root	_	_
+2	bei	bei	ADP	_	_	1	dep	_	_
+3	der	der	DET	_	_	4	det	_	_
+4	Polizei	Polizei	NOUN	_	_	2	nmod	_	_
+5	in	in	ADP	_	_	4	case	_	_
+6	Paris	Paris	PROPN	_	_	5	nmod	_	_
+7	und	und	CCONJ	_	_	8	cc	_	_
+8	London	London	PROPN	_	_	6	conj	_	_
+9	verlautete	verlauten	VERB	_	_	1	root	_	_
+10	,	werden	AUX	_	_	9	aux	_	_
+11	wurde	Benouis	PROPN	_	_	9	nsubj	_	_
+12	Benouis	an	ADP	_	_	11	case	_	_
+13-14	am	_	_	_	_	_	_	_	_
+13	an	dem	DET	_	_	14	det	_	_
+14	dem	Samstag	NOUN	_	_	12	nmod	_	_
+15	Samstag	mittag	NOUN	_	_	12	nmod	_	_
+16	mittag	mit	ADP	_	_	1	dep	_	_
+17	mit	ein	DET	_	_	18	det	_	_
+18	einem	weiter	ADJ	_	_	16	nmod	_	_
+19	weiteren	Verdächtiger	NOUN	_	_	17	nmod	_	_
+20	Verdächtigen	in	ADP	_	_	1	dep	_	_
+21	in	der	DET	_	_	22	det	_	_
+22	der	Stadtmitte	NOUN	_	_	20	nmod	_	_
+23	Stadtmitte	von	ADP	_	_	22	case	_	_
+24	von	London	PROPN	_	_	23	nmod	_	_
+25	London	gefassen	VERB	_	_	9	conj	_	_
+26	gefaßt	werden	AUX	_	_	25	aux	_	_
+27	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s647
+# text = Für die Bürger schafft das die einzige Möglichkeit, zu kontrollieren und nachzuvollzuehen, was die Politik will Frage.
+1	Für	das	ADP	ADP	Case=Gen|Number=Sing	0	root	_	_
+2	die	das	DET	DET	Case=Acc|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	Bürger	_	_	_	_	1	dep	_	_
+4	schafft	das	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+5	das	das	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	die	eine	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	einzige	_	_	_	_	1	dep	_	_
+8	Möglichkeit	,	PUNCT	PUNCT	_	9	punct	_	_
+9	,	kon	VERB	VERB	VerbForm=Inf	4	advcl	_	_
+10	zu	kon	VERB	VERB	VerbForm=Inf	9	xcomp	_	_
+11	kontrollieren	und	CCONJ	CCONJ	_	12	cc	_	_
+12	und	kon	VERB	VERB	VerbForm=Inf	10	conj	_	_
+13	nachzuvollzuehen	,	PUNCT	PUNCT	_	14	punct	_	_
+14	,	was	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	15	obj	_	_
+15	was	will	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	xcomp	_	_
+16	die	_	_	_	_	1	dep	_	_
+17	Politik	.	PUNCT	PUNCT	_	3	punct	_	_
+18	will	_	_	_	_	1	dep	_	_
+19	Frage	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s840
+# text = Ihr Auftauchen zerrte nicht nur an der Sozialstruktur und stellte Traditionen in Frage, sie untergrub auch die Machtbasis der Kaziken, einer Art ungewählter Ortsvorsteher, und all derjenigen, die Ämter in San Chamula inne haben.
+1	Ihr	_	_	_	_	0	root	_	_
+2	Auftauchen	_	_	_	_	1	dep	_	_
+3	zerrte	nur	ADV	ADV	_	1	advmod	_	_
+4	nicht	an	ADP	ADP	_	5	case	_	_
+5	nur	Sozialstruktur	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	1	nmod	_	_
+6	an	und	CCONJ	CCONJ	_	7	cc	_	_
+7	der	stellen	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	Sozialstruktur	Tradition	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	_
+9	und	in	ADP	ADP	_	10	case	_	_
+10	stellte	Frage	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+11	Traditionen	,	PUNCT	PUNCT	_	7	punct	_	_
+12	in	sie	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	Frage	untergraben	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+14	,	auch	ADV	ADV	_	13	advmod	_	_
+15	sie	die	DET	DET	Definite=Def|PronType=Art	16	det	_	_
+16	untergrub	Machtbasis	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+17	auch	der	DET	DET	Case=Gen|Definite=Def|PronType=Art	18	det	_	_
+18	die	Kaziken	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+19	Machtbasis	,	PUNCT	PUNCT	_	18	punct	_	_
+20	der	ein	DET	DET	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Kaziken	Art	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+22	,	ungewählt	ADJ	ADJ	Case=Gen|Degree=Pos|Number=Sing	21	amod	_	_
+23	einer	Ortsvorsteher	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	21	amod	_	_
+24	Art	,	PUNCT	PUNCT	_	23	punct	_	_
+25	ungewählter	und	CCONJ	CCONJ	_	26	cc	_	_
+26	Ortsvorsteher	all	DET	DET	_	27	det	_	_
+27	,	denjenige	PRON	PRON	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Tot	13	iobj	_	_
+28	und	,	PUNCT	PUNCT	_	27	punct	_	_
+29	all	der	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	30	det	_	_
+30	derjenigen	Amt	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	27	nmod	_	_
+31	,	in	ADP	ADP	_	32	case	_	_
+32	die	San	PROPN	PROPN	_	30	nmod	_	_
+33	Ämter	Chamula	PROPN	PROPN	_	32	fixed	_	_
+34	in	haben	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+35	San	.	PUNCT	PUNCT	_	34	punct	_	_
+36	Chamula	_	_	_	_	1	dep	_	_
+37	inne	_	_	_	_	1	dep	_	_
+38	haben	_	_	_	_	1	dep	_	_
+39	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s416
+# text = Zwei Geiseln seien nach Angaben der Entführer leicht erkrankt, würden aber behandelt, erklärte ein Behördensprecher.
+1	Zwei	_	_	_	_	0	root	_	_
+2	Geiseln	_	_	_	_	1	dep	_	_
+3	seien	_	_	_	_	1	dep	_	_
+4	nach	_	_	_	_	1	dep	_	_
+5	Angaben	_	_	_	_	1	dep	_	_
+6	der	_	_	_	_	1	dep	_	_
+7	Entführer	_	_	_	_	1	dep	_	_
+8	leicht	_	_	_	_	1	dep	_	_
+9	erkrankt	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	würden	_	_	_	_	1	dep	_	_
+12	aber	_	_	_	_	1	dep	_	_
+13	behandelt	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	erklärte	_	_	_	_	1	dep	_	_
+16	ein	_	_	_	_	1	dep	_	_
+17	Behördensprecher	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s158
+# text = Ganz im Gegenteil, die Brille war schlechter als vorher.
+1	Ganz	ganz	ADV	_	_	2	advmod	_	_
+2-3	im	_	_	_	_	_	_	_	_
+2	in	dem	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	dem	Gegenteil	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	Gegenteil	,	PUNCT	_	_	5	punct	_	_
+5	,	die	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	die	Brille	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+7	Brille	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+8	war	schlecht	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	schlechter	als	ADV	_	_	7	advmod	_	_
+10	als	vorher	ADV	_	_	9	advmod	_	_
+11	vorher	.	PUNCT	_	_	3	punct	_	_
+12	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s206
+# text = Insgesamt ist das R2 wirklich eine sehr schicke Lokalität, welche ich sehr gern besuche.
+1	Insgesamt	insgesamt	ADJ	ADJ	_	2	amod	_	_
+2	ist	sein	AUX	VAFIN	_	0	root	_	_
+3	das	das	DET	DT	_	4	det	_	_
+4	R2	R2	NOUN	NN	_	2	nsubj	_	_
+5	wirklich	wirklich	ADV	ADV	_	6	advmod	_	_
+6	eine	ein	DET	DT	_	7	det	_	_
+7	sehr	schick	ADJ	ADJ	_	4	amod	_	_
+8	schicke	Lokalität	NOUN	NN	_	4	nmod	_	_
+9	Lokalität	,	PUNCT	,	_	2	punct	_	_
+10	,	welcher	DET	DT	_	11	det	_	_
+11	welche	ich	PRON	PRON	_	12	nsubj	_	_
+12	ich	sehr	ADV	ADV	_	13	advmod	_	_
+13	sehr	gern	ADV	ADV	_	14	advmod	_	_
+14	gern	besuchen	VERB	VVFIN	_	2	ccomp	_	_
+15	besuche	.	PUNCT	.	_	2	punct	_	_
+16	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s318
+# text = "Staatssekretär im Bonner Ministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Wighard Härdtl, versuchte Ende Oktober in Rangun das Terrain für die Wiederaufnahme der 1988 unterbrochenen Hilfe zu erkunden."
+1	"	_	_	_	_	0	root	_	_
+2	Staatssekretär	_	_	_	_	1	dep	_	_
+3-4	im	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	1	dep	_	_
+4	dem	_	_	_	_	1	dep	_	_
+5	Bonner	_	_	_	_	1	dep	_	_
+6	Ministerium	_	_	_	_	1	dep	_	_
+7	für	_	_	_	_	1	dep	_	_
+8	wirtschaftliche	_	_	_	_	1	dep	_	_
+9	Zusammenarbeit	_	_	_	_	1	dep	_	_
+10	und	_	_	_	_	1	dep	_	_
+11	Entwicklung	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	Wighard	_	_	_	_	1	dep	_	_
+14	Härdtl	_	_	_	_	1	dep	_	_
+15	,	_	_	_	_	1	dep	_	_
+16	versuchte	_	_	_	_	1	dep	_	_
+17	Ende	_	_	_	_	1	dep	_	_
+18	Oktober	_	_	_	_	1	dep	_	_
+19	in	_	_	_	_	1	dep	_	_
+20	Rangun	_	_	_	_	1	dep	_	_
+21	das	_	_	_	_	1	dep	_	_
+22	Terrain	_	_	_	_	1	dep	_	_
+23	für	_	_	_	_	1	dep	_	_
+24	die	_	_	_	_	1	dep	_	_
+25	Wiederaufnahme	_	_	_	_	1	dep	_	_
+26	der	_	_	_	_	1	dep	_	_
+27	1988	_	_	_	_	1	dep	_	_
+28	unterbrochenen	_	_	_	_	1	dep	_	_
+29	Hilfe	_	_	_	_	1	dep	_	_
+30	zu	_	_	_	_	1	dep	_	_
+31	erkunden	_	_	_	_	1	dep	_	_
+32	.	_	_	_	_	1	dep	_	_
+33	"	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s819
+# text = Geigerin Erica Morini tot
+1	Geigerin	Geigerin	PROPN	PROPN	_	0	root	_	_
+2	Erica	Erica	PROPN	PROPN	_	1	flat:name	_	_
+3	Morini	Morini	PROPN	PROPN	_	1	flat:name	_	_
+4	tot	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s442
+# text = Die Islam-Konferenz als solche ``ist und bleibt unumstritten'', sagte Kinkel am Sonntag.
+1	Die	_	_	_	_	0	root	_	_
+2	Islam	_	_	_	_	1	dep	_	_
+3	-	_	_	_	_	1	dep	_	_
+4	Konferenz	_	_	_	_	1	dep	_	_
+5	als	_	_	_	_	1	dep	_	_
+6	solche	_	_	_	_	1	dep	_	_
+7	``	_	_	_	_	1	dep	_	_
+8	ist	_	_	_	_	1	dep	_	_
+9	und	_	_	_	_	1	dep	_	_
+10	bleibt	_	_	_	_	1	dep	_	_
+11	unumstritten	_	_	_	_	1	dep	_	_
+12	''	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	sagte	_	_	_	_	1	dep	_	_
+15	Kinkel	_	_	_	_	1	dep	_	_
+16-17	am	_	_	_	_	_	_	_	_
+16	an	_	_	_	_	1	dep	_	_
+17	dem	_	_	_	_	1	dep	_	_
+18	Sonntag	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s329
+# text = ``Alles, was die Aufmerksamkeit auf den Mund lenkt ist gut'', lautet ihr erstes Mode- und Schminkgebot.
+1	``	_	_	_	_	0	root	_	_
+2	Alles	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	was	_	_	_	_	1	dep	_	_
+5	die	_	_	_	_	1	dep	_	_
+6	Aufmerksamkeit	_	_	_	_	1	dep	_	_
+7	auf	_	_	_	_	1	dep	_	_
+8	den	_	_	_	_	1	dep	_	_
+9	Mund	_	_	_	_	1	dep	_	_
+10	lenkt	_	_	_	_	1	dep	_	_
+11	ist	_	_	_	_	1	dep	_	_
+12	gut	_	_	_	_	1	dep	_	_
+13	''	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	lautet	_	_	_	_	1	dep	_	_
+16	ihr	_	_	_	_	1	dep	_	_
+17	erstes	_	_	_	_	1	dep	_	_
+18	Mode	_	_	_	_	1	dep	_	_
+19	-	_	_	_	_	1	dep	_	_
+20	und	_	_	_	_	1	dep	_	_
+21	Schminkgebot	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s259
+# text = So muss das sein!
+1	So	so	ADV	ADV	_	0	root	_	_
+2	muss	muss	AUX	AUX	_	1	aux	_	_
+3	das	das	DET	DET	_	4	det	_	_
+4	sein	sein	AUX	AUX	_	2	aux	_	_
+5	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s418
+# text = Die Gesamtbetriebsratsvorsitzende Ingrid Lüllmann bestätigte, daß sich bei den abschließenden Gesprächen mit dem Vorstand an den wesentlichen Standpunkten beider Seiten nichts geändert habe, ``auch wenn sich hier und dort Spielräume'' ergeben hätten.
+1	Die	_	_	_	_	0	root	_	_
+2	Gesamtbetriebsratsvorsitzende	_	_	_	_	1	dep	_	_
+3	Ingrid	_	_	_	_	1	dep	_	_
+4	Lüllmann	_	_	_	_	1	dep	_	_
+5	bestätigte	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	daß	_	_	_	_	1	dep	_	_
+8	sich	_	_	_	_	1	dep	_	_
+9	bei	_	_	_	_	1	dep	_	_
+10	den	_	_	_	_	1	dep	_	_
+11	abschließenden	_	_	_	_	1	dep	_	_
+12	Gesprächen	_	_	_	_	1	dep	_	_
+13	mit	_	_	_	_	1	dep	_	_
+14	dem	_	_	_	_	1	dep	_	_
+15	Vorstand	_	_	_	_	1	dep	_	_
+16	an	_	_	_	_	1	dep	_	_
+17	den	_	_	_	_	1	dep	_	_
+18	wesentlichen	_	_	_	_	1	dep	_	_
+19	Standpunkten	_	_	_	_	1	dep	_	_
+20	beider	_	_	_	_	1	dep	_	_
+21	Seiten	_	_	_	_	1	dep	_	_
+22	nichts	_	_	_	_	1	dep	_	_
+23	geändert	_	_	_	_	1	dep	_	_
+24	habe	_	_	_	_	1	dep	_	_
+25	,	_	_	_	_	1	dep	_	_
+26	``	_	_	_	_	1	dep	_	_
+27	auch	_	_	_	_	1	dep	_	_
+28	wenn	_	_	_	_	1	dep	_	_
+29	sich	_	_	_	_	1	dep	_	_
+30	hier	_	_	_	_	1	dep	_	_
+31	und	_	_	_	_	1	dep	_	_
+32	dort	_	_	_	_	1	dep	_	_
+33	Spielräume	_	_	_	_	1	dep	_	_
+34	''	_	_	_	_	1	dep	_	_
+35	ergeben	_	_	_	_	1	dep	_	_
+36	hätten	_	_	_	_	1	dep	_	_
+37	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s671
+# text = RIO DE JANEIRO, 5. Juli (dpa).
+1	RIO	rio	NOUN	NN	_	0	root	_	_
+2	DE	JE	ADP	IN	_	1	dep	_	_
+3	JANEIRO	janeiro	NOUN	NN	_	1	dep	_	_
+4	,	,	PUNCT	,	_	1	dep	_	_
+5	5.	5.	NUM	CD	_	1	dep	_	_
+6	Juli	juli	NOUN	NN	_	1	dep	_	_
+7	(	(	PUNCT	(	_	1	dep	_	_
+8	dpa	dpa	PROPN	PROPN	_	1	dep	_	_
+9	)	)	PUNCT	)	_	8	punct	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s310
+# text = "Gemeinde lehnte den Antrag jedoch ab."
+1	"	Gemeinde	NOUN	NN	_	0	root	_	_
+2	Gemeinde	lehnen	VERB	VVFIN	_	1	dep	_	_
+3	lehnte	dem	DET	ART	Case=Acc|Gender=Masc|Number=Sing	4	det	_	_
+4	den	Antrag	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+5	Antrag	aber	ADV	ADV	_	2	advmod	_	_
+6	jedoch	ab	ADV	ADV	_	2	advmod	_	_
+7	ab	.	PUNCT	$.	_	2	punct	_	_
+8	.	_	_	_	_	1	dep	_	_
+9	"	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s772
+# text = Die beiden Parteien sind von der Regierung selbst gegründet und zu Beginn auch finanziert worden.
+1	Die	der	DET	ART	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	beiden	bei	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	Parteien	Partei	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+4	sind	sein	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	von	von	ADP	ADP	Case=Dat	6	case	_	_
+6	der	der	DET	DET	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Regierung	Regierung	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	_
+8	selbst	selbst	ADV	ADV	_	4	advmod	_	_
+9	gegründet	gegründen	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	_
+10	und	und	CCONJ	CCONJ	_	11	cc	_	_
+11	zu	zu	ADP	ADP	_	12	case	_	_
+12	Beginn	Beginn	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+13	auch	auch	ADV	ADV	_	14	advmod	_	_
+14	finanziert	finanziert	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	conj	_	_
+15	worden	werden	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+16	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s261
+# text = Sue und Andy sind sehr zuvorkommend und bemühen sich sehr um ihre Gäste.
+1	Sue	Sue	NOUN	NN	_	4	nsubj	_	_
+2	und	und	CCONJ	CC	_	4	cc	_	_
+3	Andy	Andy	NOUN	NN	_	4	conj	_	_
+4	sind	sind	AUX	VBZ	_	0	root	_	_
+5	sehr	sehr	ADV	ADV	_	6	advmod	_	_
+6	zuvorkommend	zuvorkommend	ADJ	JJ	_	4	amod	_	_
+7	und	und	CCONJ	CC	_	8	cc	_	_
+8	bemühen	bemühen	VERB	VVFIN	_	4	conj	_	_
+9	sich	sich	PRON	PRON	_	8	obj	_	_
+10	sehr	sehr	ADV	ADV	_	11	advmod	_	_
+11	um	um	ADP	IN	_	8	advmod	_	_
+12	ihre	um	ADP	IN	_	11	case	_	_
+13	Gäste	ihre	PRON	PRON	_	14	nmod	_	_
+14	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s829
+# text = Auch die Regierung in Estland wurde wegen einer Ausgrenzung der starken russischen Minderheit kritisiert.
+1	Auch	auch	ADV	_	_	2	advmod	_	_
+2	die	die	DET	_	_	3	det	_	_
+3	Regierung	regierung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	in	werden	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	Estland	in	ADP	_	_	6	case	_	_
+6	wurde	estland	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	_
+7	wegen	werden	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+8	einer	wegen	ADP	_	_	9	case	_	_
+9	Ausgrenzung	ein	DET	_	Case=Gen|Gender=Fem|Number=Sing	10	det	_	_
+10	der	ausgrenzung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	_
+11	starken	der	DET	_	Case=Gen|Gender=Masc|Number=Sing	12	det	_	_
+12	russischen	stark	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+13	Minderheit	russisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+14	kritisiert	minderheit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+15	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s270
+# text = Unkompliziert, schnell (innerhalb 2 Stunden) und günstig habe ich jetzt 4 neue Sommerreifen drauf (die waren sowieso runter).
+1	Unkompliziert	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3	schnell	_	_	_	_	1	dep	_	_
+4	(	_	_	_	_	1	dep	_	_
+5	innerhalb	_	_	_	_	1	dep	_	_
+6	2	_	_	_	_	1	dep	_	_
+7	Stunden	_	_	_	_	1	dep	_	_
+8	)	_	_	_	_	1	dep	_	_
+9	und	_	_	_	_	1	dep	_	_
+10	günstig	_	_	_	_	1	dep	_	_
+11	habe	_	_	_	_	1	dep	_	_
+12	ich	_	_	_	_	1	dep	_	_
+13	jetzt	_	_	_	_	1	dep	_	_
+14	4	_	_	_	_	1	dep	_	_
+15	neue	_	_	_	_	1	dep	_	_
+16	Sommerreifen	_	_	_	_	1	dep	_	_
+17	drauf	_	_	_	_	1	dep	_	_
+18	(	_	_	_	_	1	dep	_	_
+19	die	_	_	_	_	1	dep	_	_
+20	waren	_	_	_	_	1	dep	_	_
+21	sowieso	_	_	_	_	1	dep	_	_
+22	runter	_	_	_	_	1	dep	_	_
+23	)	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s690
+# text = Katholik zu Tode geprügelt
+1	Katholik	katholisch	ADJ	ADJ	_	0	root	_	_
+2	zu	zu	ADP	ADP	_	3	case	_	_
+3	Tode	tod	NOUN	NOUN	_	4	nmod	_	_
+4	geprügelt	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s293
+# text = Wir werden euch bestimmt wieder buchen.
+1	Wir	wir	PRON	PPER	_	2	nsubj	_	_
+2	werden	werden	AUX	VVFIN	_	0	root	_	_
+3	euch	euch	PRON	PPER	_	4	dobj	_	_
+4	bestimmt	bestimmt	ADV	ADV	_	2	xcomp	_	_
+5	wieder	wieder	ADV	ADV	_	6	advmod	_	_
+6	buchen	buchen	VERB	VVINF	_	4	xcomp	_	_
+7	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s459
+# text = Ein korrupter Richter in Brasilien hat nach Angaben eines hohen venezolanischen Beamten die Freilassung von drei brasilianischen Goldsuchern angeordnet, die wegen Mordes an mindestens 17 Indios zu lebenslanger Haft verurteilt worden waren.
+1	Ein	_	_	_	_	4	dep	_	_
+2	korrupter	korrupter	ADJ	JJ	_	3	amod	_	_
+3	Richter	Richter	NOUN	NN	_	4	nsubj	_	_
+4	in	haben	VERB	VBC	_	0	root	_	_
+5	Brasilien	nach	ADP	IN	_	6	case	_	_
+6	hat	Angabe	NOUN	NN	_	4	obl	_	_
+7	nach	ein	DET	DT	_	8	det	_	_
+8	Angaben	hoch	ADJ	JJ	_	9	amod	_	_
+9	eines	venezolanisch	ADJ	JJ	_	10	nmod:poss	_	_
+10	hohen	Beamter	NOUN	NN	_	6	nmod	_	_
+11	venezolanischen	die	DET	DT	_	12	det	_	_
+12	Beamten	Freilassung	NOUN	NN	_	14	nsubj	_	_
+13	die	angeordnen	VERB	VBN	_	14	compound:prt	_	_
+14	Freilassung	angeordnen	VERB	VBN	_	4	ccomp	_	_
+15	von	,	PUNCT	,	_	16	punct	_	_
+16	drei	die	DET	DT	_	17	det	_	_
+17	brasilianischen	drei	NUM	CD	_	18	nummod	_	_
+18	Goldsuchern	brasilianisch	ADJ	JJ	_	19	nmod:poss	_	_
+19	angeordnet	Goldsucher	NOUN	NN	_	14	obj	_	_
+20	,	angeordnen	VERB	VBN	_	14	compound:prt	_	_
+21	die	,	PUNCT	,	_	22	punct	_	_
+22	wegen	die	DET	DT	_	23	det	_	_
+23	Mordes	wegen	ADP	IN	_	24	case	_	_
+24	an	Mord	NOUN	NN	_	26	nmod	_	_
+25	mindestens	angeordnen	VERB	VBN	_	26	compound:prt	_	_
+26	17	angeordnen	VERB	VBN	_	14	obl	_	_
+27	Indios	,	PUNCT	,	_	28	punct	_	_
+28	zu	die	DET	DT	_	29	det	_	_
+29	lebenslanger	wegen	ADP	IN	_	30	case	_	_
+30	Haft	Mord	NOUN	NN	_	32	nmod	_	_
+31	verurteilt	angeordnen	VERB	VBN	_	32	compound:prt	_	_
+32	worden	angeordnen	VERB	VBN	_	14	obl	_	_
+33	waren	,	PUNCT	,	_	34	punct	_	_
+34	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s235
+# text = Neu und bereits ein sehr beliebter Ort.
+1	Neu	neu	ADJ	ADJA	_	2	amod	_	_
+2	und	und	CCONJ	_	_	3	cc	_	_
+3	bereits	bereit	ADV	_	_	4	advmod	_	_
+4	ein	ein	DET	_	_	5	det	_	_
+5	sehr	sehr	ADV	_	_	6	advmod	_	_
+6	beliebter	beliebt	ADJ	ADJA	_	7	amod	_	_
+7	Ort	Ort	NOUN	NN	_	0	root	_	_
+8	.	_	_	_	_	7	dep	_	_
+
+# sent_id = test-s4
+# text = "Bitte Termin im Internet machen."
+1	"	Bitte	INTJ	_	_	0	root	_	_
+2	Bitte	Termin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
+3	Termin	in	ADP	_	_	4	case	_	_
+4-5	im	_	_	_	_	_	_	_	_
+4	in	dem	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	dem	Internet	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
+6	Internet	machen	VERB	_	VerbForm=Inf	1	xcomp	_	_
+7	machen	.	PUNCT	_	_	1	punct	_	_
+8	.	_	_	_	_	1	dep	_	_
+9	"	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s619
+# text = Der Attentäter Yigal Amir betonte, er habe allein gehandelt.
+1	Der	_	_	_	_	0	root	_	_
+2	Attentäter	_	_	_	_	1	dep	_	_
+3	Yigal	_	_	_	_	1	dep	_	_
+4	Amir	_	_	_	_	1	dep	_	_
+5	betonte	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	er	_	_	_	_	1	dep	_	_
+8	habe	_	_	_	_	1	dep	_	_
+9	allein	_	_	_	_	1	dep	_	_
+10	gehandelt	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s339
+# text = Der Anstieg der Rohstoffpreise wird sich nach Einschätzung des Münchner Ifo-Instituts 1996 deutlich abschwächen.
+1	Der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Anstieg	anstieg	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	der	werden	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Rohstoffpreise	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	wird	rohstoffpreis	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+6	sich	werden	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+7	nach	sich	PRON	PRON	Person=3|PronType=Prs	8	expl	_	_
+8	Einschätzung	nach	ADP	ADP	AdpType=Prep	9	case	_	_
+9	des	einschätzung	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+10	Münchner	des	DET	ART	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Ifo	münchner	ADJ	ADJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	nmod	_	_
+12	-	ifo	PROPN	PROPN	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	Instituts	-	PUNCT	PUNCT	_	14	punct	_	_
+14	1996	institut	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	deutlich	1996	NUM	NUM	NumType=Card	16	nummod	_	_
+16	abschwächen	deutlich	ADV	ADV	_	3	advmod	_	_
+17	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s651
+# text = Bisher gibt es in ganz Ostdeutschland erst einige tausend ``Wiedereinrichter'', die wie Holm auf der einst zwangskollektivierten Scholle neu anfangen.
+1	Bisher	_	_	_	_	2	dep	_	_
+2	gibt	gibt	V	VERB	_	0	root	_	_
+3	es	es	PRON	PRON	_	2	nsubj	_	_
+4	in	in	ADP	ADP	_	5	case	_	_
+5	ganz	ganz	ADV	ADV	_	6	advmod	_	_
+6	Ostdeutschland	Ostdeutschland	NOUN	NOUN	_	7	nmod	_	_
+7	erst	erst	ADV	ADV	_	2	advmod	_	_
+8	einige	es	PRON	PRON	_	2	nsubj	_	_
+9	tausend	es	PRON	PRON	_	2	nsubj	_	_
+10	``	in	ADP	ADP	_	11	case	_	_
+11	Wiedereinrichter	ganz	ADV	ADV	_	12	advmod	_	_
+12	''	Ostdeutschland	NOUN	NOUN	_	13	nmod	_	_
+13	,	erst	ADV	ADV	_	2	advmod	_	_
+14	die	es	PRON	PRON	_	2	nsubj	_	_
+15	wie	in	ADP	ADP	_	16	case	_	_
+16	Holm	ganz	ADV	ADV	_	17	advmod	_	_
+17	auf	Ostdeutschland	NOUN	NOUN	_	18	nmod	_	_
+18	der	erst	ADV	ADV	_	2	advmod	_	_
+19	einst	es	PRON	PRON	_	2	nsubj	_	_
+20	zwangskollektivierten	in	ADP	ADP	_	21	case	_	_
+21	Scholle	ganz	ADV	ADV	_	22	advmod	_	_
+22	neu	Ostdeutschland	NOUN	NOUN	_	23	nmod	_	_
+23	anfangen	erst	ADV	ADV	_	2	advmod	_	_
+24	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s305
+# text = "Außenbezirken der Stadt kam es nach Militärangaben zu schweren Gefechten."
+1	"	außenbezirken	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur|PronType=Tot	4	dep	_	_
+2	Außenbezirken	der	DET	DT	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	1	det	_	_
+3	der	stadt	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nmod	_	_
+4	Stadt	kommen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	kam	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	es	nach	ADP	APPR	AdpType=Prep	7	case	_	_
+7	nach	militärangabe	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	4	obl	_	_
+8	Militärangaben	zu	ADP	APPR	AdpType=Prep	9	case	_	_
+9	zu	schwer	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	7	nmod	_	_
+10	schweren	gefecht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	9	nmod	_	_
+11	Gefechten	.	PUNCT	$.	_	4	punct	_	_
+12	.	_	_	_	_	4	dep	_	_
+13	"	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s145
+# text = Es würde uns sonst was fehlen.
+1	Es	es	PRON	PPER	_	0	root	_	_
+2	würde	würde	AUX	VVFIN	_	1	aux	_	_
+3	uns	uns	PRON	PPER	_	4	dobj	_	_
+4	sonst	sonst	ADV	ADV	_	1	advmod	_	_
+5	was	was	PRON	PDS	_	6	nsubj	_	_
+6	fehlen	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s621
+# text = Zwei Themen, die Perot immer wieder anspricht, Rezession und Bürokratie, machen ihnen besonders zu schaffen.
+1	Zwei	2	NUM	NUM	NumType=Card	0	root	_	_
+2	Themen	Thema	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+3	,	,	PUNCT	PUNCT	_	1	dep	_	_
+4	die	der	DET	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	1	dep	_	_
+5	Perot	Perot	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	_
+6	immer	immer	ADV	ADV	_	7	advmod	_	_
+7	wieder	wieder	ADV	ADV	_	5	advmod	_	_
+8	anspricht	ansprechen	VERB	VERB	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
+9	,	,	PUNCT	PUNCT	_	1	dep	_	_
+10	Rezession	Rezession	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	dep	_	_
+11	und	und	CCONJ	CCONJ	_	12	cc	_	_
+12	Bürokratie	Bürokratie	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	_
+13	,	,	PUNCT	PUNCT	_	14	punct	_	_
+14	machen	machen	VERB	VERB	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
+15	ihnen	ihm	PRON	PRON	Case=Dat|Number=Plur|Person=3|PronType=Prs	14	iobj	_	_
+16	besonders	besonders	ADV	ADV	_	14	advmod	_	_
+17	zu	zu	ADP	ADP	_	18	case	_	_
+18	schaffen	schaffen	VERB	VERB	Case=Dat|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Act	14	advcl	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s116
+# text = Diesen hätte ich auch einfach zu Hause zu mir nehmen können, da ich einen Termin hatte und dennoch warten musste.
+1	Diesen	dieser	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	hätte	haben	AUX	VMFIN	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+4	auch	auch	ADV	ADV	_	5	advmod	_	_
+5	einfach	einfach	ADV	ADV	_	3	advmod	_	_
+6	zu	zu	ADP	APPR	_	7	case	_	_
+7	Hause	Haus	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	3	nmod	_	_
+8	zu	zu	ADP	APPR	_	9	case	_	_
+9	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
+10	nehmen	können	AUX	VMFIN	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	können	nehmen	VERB	VVFIN	Aspect=Imp|VerbForm=Fin	3	advcl	_	_
+12	,	,	PUNCT	$	_	13	punct	_	_
+13	da	da	SCONJ	KON	_	11	mark	_	_
+14	ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+15	einen	ein	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Termin	Termin	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+17	hatte	haben	AUX	VMFIN	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	advcl	_	_
+18	und	und	CCONJ	KON	_	20	cc	_	_
+19	dennoch	dennoch	ADV	ADV	_	20	advmod	_	_
+20	warten	müssen	VERB	VVFIN	Aspect=Imp|VerbForm=Fin	17	advcl	_	_
+21	musste	müssen	AUX	VMFIN	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
+22	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s102
+# text = Die Beratung vorab war ebenfalls sehr hilfreich.
+1	Die	Die	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	0	root	_	_
+2	Beratung	Beratung	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	dep	_	_
+3	vorab	vorab	ADV	ADV	_	4	advmod	_	_
+4	war	werden	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	ebenfalls	sehr	ADV	ADV	_	6	advmod	_	_
+6	sehr	hilfreich	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+7	hilfreich	.	PUNCT	PUNCT	_	4	punct	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s565
+# text = ``Wir haben die faulste Regierung und den faulsten Ministerpräsidenten der Republik'', monierte Müller.
+1	``	haben	_	_	_	0	root	_	_
+2	Wir	die	_	_	_	1	dep	_	_
+3	haben	faulste	_	_	_	2	amod	_	_
+4	die	Regierung	_	_	_	3	amod	_	_
+5	faulste	und	_	_	_	4	case	_	_
+6	Regierung	den	_	_	_	5	case	_	_
+7	und	faulsten	_	_	_	6	amod	_	_
+8	den	Ministerpräsidenten	_	_	_	7	amod	_	_
+9	faulsten	der	_	_	_	8	case	_	_
+10	Ministerpräsidenten	Republik	_	_	_	9	case	_	_
+11	der	monierte	_	_	_	10	amod	_	_
+12	Republik	Müller	_	_	_	11	amod	_	_
+13	''	.	_	_	_	12	punct	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	monierte	_	_	_	_	1	dep	_	_
+16	Müller	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s939
+# text = Diese CDU-Taktik hatte Erfolg, zwei Drittel der BerlinerInnen teilten diese Einschätzung.
+1	Diese	Dieser	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	CDU	CDU	NOUN	PROPN	_	3	nmod	_	_
+3	-	Taktik	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	Taktik	haben	AUX	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	hatte	Erfolg	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
+6	Erfolg	,	PUNCT	PUNCT	_	7	punct	_	_
+7	,	zwei	NUM	NUM	NumType=Card	8	nummod	_	_
+8	zwei	Drittel	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	_
+9	Drittel	der	DET	ART	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	der	Berliner	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+11	BerlinerInnen	teilen	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+12	teilten	dieser	DET	ART	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
+13	diese	Einschätzung	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+14	Einschätzung	.	PUNCT	PUNCT	_	4	punct	_	_
+15	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s343
+# text = Die Aufgabe von Literatur sei es, durch diese Schicht zu den ursprünglichen Empfindungen hindurchzudringen und gleichzeitig die Distanz dazu zu beschreiben.
+1	Die	A	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Aufgabe	NOUN	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	von	VERB	VERB	SEI	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Literatur	ADP	ADP	IN	_	5	case	_	_
+5	sei	NOUN	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+6	es	VERB	VERB	SEI	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+7	,	PRON	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	dep	_	_
+8	durch	ADP	ADP	IN	_	9	case	_	_
+9	diese	DET	DET	DT	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	Schicht	NOUN	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	11	nmod	_	_
+11	zu	ADP	ADP	IN	_	12	case	_	_
+12	den	ADJ	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	_
+13	ursprünglichen	NOUN	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	14	nmod	_	_
+14	Empfindungen	VERB	VERB	VVPP	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	7	acl	_	_
+15	hindurchzudringen	CONJ	CONJ	CC	_	16	cc	_	_
+16	und	ADV	ADV	WRB	_	17	advmod	_	_
+17	gleichzeitig	DET	DET	DT	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	_
+18	die	NOUN	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	19	nmod	_	_
+19	Distanz	VERB	VERB	VVINF	Aspect=Imp|VerbForm=Inf|Voice=Act	14	conj	_	_
+20	dazu	_	_	_	_	3	dep	_	_
+21	zu	_	_	_	_	3	dep	_	_
+22	beschreiben	_	_	_	_	3	dep	_	_
+23	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s181
+# text = Ich gehe in regelmäßigen Abständen und es ist immer wieder gut.
+1	Ich	Ich	PRON	PPER	_	2	nsubj	_	_
+2	gehe	gehen	VERB	VVFIN	_	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	regelmäßigen	regelmäßig	ADJ	ADJA	_	2	advmod	_	_
+5	Abständen	Abstand	NOUN	NN	_	4	nmod	_	_
+6	und	und	CCONJ	KON	_	2	cc	_	_
+7	es	es	PRON	PPER	_	8	nsubj	_	_
+8	ist	sein	AUX	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	immer	immer	ADV	ADV	_	10	advmod	_	_
+10	wieder	wieder	ADV	ADV	_	8	advmod	_	_
+11	gut	gut	ADV	ADV	_	8	advmod	_	_
+12	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s282
+# text = Wer in einer angenehmen Atmosphäre und bei Sonne segeln oder segeln lernen möchte, der ist hier genau richtig.
+1	Wer	wer	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Int	19	dep	_	_
+2	in	in	ADP	_	AdpType=Prep	19	dep	_	_
+3	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	angenehmen	angenehm	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	Atmosphäre	Atmosphäre	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nmod	_	_
+6	und	und	CCONJ	_	_	7	cc	_	_
+7	bei	bei	ADP	_	AdpType=Prep	8	case	_	_
+8	Sonne	Sonne	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	conj	_	_
+9	segeln	segeln	VERB	_	VerbForm=Inf	19	dep	_	_
+10	oder	oder	CCONJ	_	_	9	cc	_	_
+11	segeln	segeln	VERB	_	VerbForm=Inf	9	conj	_	_
+12	lernen	lernen	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	möchte	möchte	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+14	,	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	15	nsubj	_	_
+15	der	hier	ADV	_	_	16	advmod	_	_
+16	ist	exakt	ADV	_	_	17	advmod	_	_
+17	hier	richtig	ADV	_	_	18	advmod	_	_
+18	genau	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	richtig	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+20	.	_	_	_	_	19	dep	_	_
+
+# sent_id = test-s222
+# text = Man hat sich wirklich um einen gekümmert und vom Preis her war es günstiger als bei den meisten.
+1	Man	man	NOUN	NN	_	0	root	_	_
+2	hat	haben	AUX	VAFIN	_	4	aux	_	_
+3	sich	sich	PRON	PRON	_	4	expl	_	_
+4	wirklich	ein	ADP	IN	_	1	case	_	_
+5	um	ein	DET	ART	_	6	det	_	_
+6	einen	kümmern	VERB	VVPP	_	4	compound	_	_
+7	gekümmert	und	CCONJ	CC	_	4	cc	_	_
+8	und	von	ADP	IN	_	10	case	_	_
+9-10	vom	_	_	_	_	_	_	_	_
+9	von	dem	DET	ART	_	10	det	_	_
+10	dem	Preis	NOUN	NN	_	7	nmod	_	_
+11	Preis	her	ADP	IN	_	10	case	_	_
+12	her	werden	AUX	VAFIN	_	13	aux	_	_
+13	war	günstig	ADJ	JJ	_	10	amod	_	_
+14	es	als	ADP	IN	_	1	dep	_	_
+15	günstiger	bei	ADP	IN	_	16	case	_	_
+16	als	den	DET	ART	_	17	det	_	_
+17	bei	mehrst	ADJ	JJ	_	18	nmod	_	_
+18	den	Preis	NOUN	NN	_	14	obl	_	_
+19	meisten	.	PUNCT	.	_	4	punct	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s693
+# text = Herausgegeben würden sie von dem Oxforder Historiker Norman Stone.
+1	Herausgegeben	herausgeben	VERB	_	_	0	root	_	_
+2	würden	werden	AUX	_	_	1	aux	_	_
+3	sie	sie	PRON	_	_	1	nsubj	_	_
+4	von	von	ADP	_	_	1	dep	_	_
+5	dem	dem	DET	_	_	6	det	_	_
+6	Oxforder	Oxford	NOUN	_	_	4	obl	_	_
+7	Historiker	Historiker	NOUN	_	_	6	compound	_	_
+8	Norman	Norman	PROPN	_	_	7	compound	_	_
+9	Stone	Stone	PROPN	_	_	8	compound	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s123
+# text = Eigentlich ganz gut für den preis, jedoch ungepflegtes ambiente und schön langsam wirklich überfüllt!
+1	Eigentlich	_	_	_	_	0	root	_	_
+2	ganz	_	_	_	_	1	dep	_	_
+3	gut	_	_	_	_	1	dep	_	_
+4	für	_	_	_	_	1	dep	_	_
+5	den	_	_	_	_	1	dep	_	_
+6	preis	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	jedoch	_	_	_	_	1	dep	_	_
+9	ungepflegtes	_	_	_	_	1	dep	_	_
+10	ambiente	_	_	_	_	1	dep	_	_
+11	und	_	_	_	_	1	dep	_	_
+12	schön	_	_	_	_	1	dep	_	_
+13	langsam	_	_	_	_	1	dep	_	_
+14	wirklich	_	_	_	_	1	dep	_	_
+15	überfüllt	_	_	_	_	1	dep	_	_
+16	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s642
+# text = Heitmeyer: Wir müssen unterscheiden zwischen eher offenen physischen Gewaltformen, die sich über männlich dominierte Gruppen in der Öffentlichkeit zeigen, und solchen, eher psychischen Gewaltformen, die als Einzelaktivität eher mit einem hohen Bildungsgrad verbunden sind.
+1	Heitmeyer	Heitmeyer	NOUN	NN	_	0	root	_	_
+2	:	:	PUNCT	:	_	1	punct	_	_
+3	Wir	Wir	PRON	PRON	_	4	nsubj	_	_
+4	müssen	müssen	AUX	VERB	_	1	cop	_	_
+5	unterscheiden	unter-scheiden	VERB	VERB	_	4	xcomp	_	_
+6	zwischen	zwischen	ADP	ADP	_	7	case	_	_
+7	eher	eher	ADV	ADV	_	5	advmod	_	_
+8	offenen	offen	ADJ	ADJ	_	9	amod	_	_
+9	physischen	physisch	ADJ	ADJ	_	10	amod	_	_
+10	Gewaltformen	Gewalt-form	NOUN	NOUN	_	5	obj	_	_
+11	,	,	PUNCT	,	_	5	punct	_	_
+12	die	die	DET	DET	_	13	det	_	_
+13	sich	sich	PRON	PRON	_	15	nsubj	_	_
+14	über	über	ADP	ADP	_	15	case	_	_
+15	männlich	öffentlichkeit	NOUN	NOUN	_	10	nmod	_	_
+16	dominierte	zeigen	VERB	VERB	_	15	acl	_	_
+17	Gruppen	,	PUNCT	,	_	5	punct	_	_
+18	in	und	CCONJ	CCONJ	_	5	cc	_	_
+19	der	solch	DET	DET	_	20	det	_	_
+20	Öffentlichkeit	eher	ADV	ADV	_	21	advmod	_	_
+21	zeigen	psychisch	ADJ	ADJ	_	22	amod	_	_
+22	,	Gewalt-form	NOUN	NOUN	_	5	obj	_	_
+23	und	,	PUNCT	,	_	5	punct	_	_
+24	solchen	die	DET	DET	_	25	det	_	_
+25	,	sich	PRON	PRON	_	27	nsubj	_	_
+26	eher	als	ADP	ADP	_	27	case	_	_
+27	psychischen	Einzelaktivität	NOUN	NOUN	_	22	nmod	_	_
+28	Gewaltformen	ehrer	ADV	ADV	_	27	advmod	_	_
+29	,	mit	ADP	ADP	_	30	case	_	_
+30	die	hoch	ADV	ADV	_	31	advmod	_	_
+31	als	Bildungsgrad	NOUN	NOUN	_	27	nmod	_	_
+32	Einzelaktivität	sind	AUX	VERB	_	27	cop	_	_
+33	eher	.	PUNCT	.	_	1	punct	_	_
+34	mit	_	_	_	_	1	dep	_	_
+35	einem	_	_	_	_	1	dep	_	_
+36	hohen	_	_	_	_	1	dep	_	_
+37	Bildungsgrad	_	_	_	_	1	dep	_	_
+38	verbunden	_	_	_	_	1	dep	_	_
+39	sind	_	_	_	_	1	dep	_	_
+40	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s227
+# text = Mein iPhone 3G fiel 300 m vom Apple - Store aufs Pflaster und wollte danach ein neues Glas.
+1	Mein	_	_	_	_	0	root	_	_
+2	iPhone	_	_	_	_	1	dep	_	_
+3	3G	_	_	_	_	1	dep	_	_
+4	fiel	_	_	_	_	1	dep	_	_
+5	300	_	_	_	_	1	dep	_	_
+6	m	_	_	_	_	1	dep	_	_
+7-8	vom	_	_	_	_	_	_	_	_
+7	von	_	_	_	_	1	dep	_	_
+8	dem	_	_	_	_	1	dep	_	_
+9	Apple	_	_	_	_	1	dep	_	_
+10	-	_	_	_	_	1	dep	_	_
+11	Store	_	_	_	_	1	dep	_	_
+12-13	aufs	_	_	_	_	_	_	_	_
+12	auf	_	_	_	_	1	dep	_	_
+13	das	_	_	_	_	1	dep	_	_
+14	Pflaster	_	_	_	_	1	dep	_	_
+15	und	_	_	_	_	1	dep	_	_
+16	wollte	_	_	_	_	1	dep	_	_
+17	danach	_	_	_	_	1	dep	_	_
+18	ein	_	_	_	_	1	dep	_	_
+19	neues	_	_	_	_	1	dep	_	_
+20	Glas	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s134
+# text = Ekelerregent und wahnsinning unerhört!!!!!!
+1	Ekelerregent	ekelerregent	ADJ	ADJ	_	0	root	_	_
+2	und	wund	CONJ	CCONJ	_	3	cc	_	_
+3	wahnsinning	wahnsinnig	ADJ	ADJ	_	1	conj	_	_
+4	unerhört	unerhört	ADJ	ADJ	_	1	conj	_	_
+5	!	!	PUNCT	PUNCT	_	1	punct	_	_
+6	!	!	PUNCT	PUNCT	_	1	punct	_	_
+7	!	!	PUNCT	PUNCT	_	1	punct	_	_
+8	!	!	PUNCT	PUNCT	_	1	punct	_	_
+9	!	!	PUNCT	PUNCT	_	1	punct	_	_
+10	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s194
+# text = Ich war sichtlich enttäuscht: der "XXL" - Laden nimmt sich nichts zu den kleineren Filialen (außer der lebenden Exemplare), die Mitarbeiter waren inkompetent, sofern sie überhaupt aufzufinden waren.
+1	Ich	_	_	_	_	0	root	_	_
+2	war	_	_	_	_	1	dep	_	_
+3	sichtlich	_	_	_	_	1	dep	_	_
+4	enttäuscht	_	_	_	_	1	dep	_	_
+5	:	_	_	_	_	1	dep	_	_
+6	der	_	_	_	_	1	dep	_	_
+7	"	_	_	_	_	1	dep	_	_
+8	XXL	_	_	_	_	1	dep	_	_
+9	"	_	_	_	_	1	dep	_	_
+10	-	_	_	_	_	1	dep	_	_
+11	Laden	_	_	_	_	1	dep	_	_
+12	nimmt	_	_	_	_	1	dep	_	_
+13	sich	_	_	_	_	1	dep	_	_
+14	nichts	_	_	_	_	1	dep	_	_
+15	zu	_	_	_	_	1	dep	_	_
+16	den	_	_	_	_	1	dep	_	_
+17	kleineren	_	_	_	_	1	dep	_	_
+18	Filialen	_	_	_	_	1	dep	_	_
+19	(	_	_	_	_	1	dep	_	_
+20	außer	_	_	_	_	1	dep	_	_
+21	der	_	_	_	_	1	dep	_	_
+22	lebenden	_	_	_	_	1	dep	_	_
+23	Exemplare	_	_	_	_	1	dep	_	_
+24	)	_	_	_	_	1	dep	_	_
+25	,	_	_	_	_	1	dep	_	_
+26	die	_	_	_	_	1	dep	_	_
+27	Mitarbeiter	_	_	_	_	1	dep	_	_
+28	waren	_	_	_	_	1	dep	_	_
+29	inkompetent	_	_	_	_	1	dep	_	_
+30	,	_	_	_	_	1	dep	_	_
+31	sofern	_	_	_	_	1	dep	_	_
+32	sie	_	_	_	_	1	dep	_	_
+33	überhaupt	_	_	_	_	1	dep	_	_
+34	aufzufinden	_	_	_	_	1	dep	_	_
+35	waren	_	_	_	_	1	dep	_	_
+36	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s949
+# text = An Gagen von Spitzenkünstlern gemessen, ist Mortiers Verdienst ohnedies eine Petitesse:
+1	An	An	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
+2	Gagen	Gage	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
+3	von	von	ADP	_	_	4	case	_	_
+4	Spitzenkünstlern	Spitzenkünstler	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	nmod	_	_
+5	gemessen	gemessen	VERB	_	_	2	acl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ist	ist	AUX	_	_	2	cop	_	_
+8	Mortiers	Mortier	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+9	Verdienst	Verdienst	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+10	ohnedies	ohnedies	ADV	_	_	7	advmod	_	_
+11	eine	ein	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Petitesse	Petitesse	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nmod	_	_
+13	:	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s78
+# text = Das nennt man Kundennähe...
+1	Das	das	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	nennt	nennen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	man	mann	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Kundennähe	Kundennähe	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nmod	_	_
+5	...	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s602
+# text = Der Tradition entsprechend haben beide Seiten Geschenke an Bord.
+1	Der	_	_	_	_	0	root	_	_
+2	Tradition	_	_	_	_	1	dep	_	_
+3	entsprechend	_	_	_	_	1	dep	_	_
+4	haben	_	_	_	_	1	dep	_	_
+5	beide	_	_	_	_	1	dep	_	_
+6	Seiten	_	_	_	_	1	dep	_	_
+7	Geschenke	_	_	_	_	1	dep	_	_
+8	an	_	_	_	_	1	dep	_	_
+9	Bord	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s401
+# text = Die externe Liberalisierung auf Weltmarktebene mußte aber zwangsläufig den Druck zur internen Liberalisierung beziehungsweise Deregulierung innerhalb der Nationalstaaten verstärken.
+1	Die	der	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	0	root	_	_
+2	externe	externe	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	dep	_	_
+3	Liberalisierung	Liberalisierung	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	dep	_	_
+4	auf	auf	ADP	ADP	AdpType=Prep	5	case	_	_
+5	Weltmarktebene	Weltmarktebene	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+6	mußte	müssen	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	aber	müssen	VERB	VERB	VerbForm=Inf	3	csubj	_	_
+8	zwangsläufig	aber	ADV	ADV	_	9	advmod	_	_
+9	den	zwangsläufig	ADV	ADV	_	7	advmod	_	_
+10	Druck	den	DET	DET	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11-12	zur	_	_	_	_	_	_	_	_
+11	zu	Druck	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+12	der	zu	ADP	ADP	AdpType=Prep	1	dep	_	_
+13	internen	der	DET	DET	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	1	dep	_	_
+14	Liberalisierung	intern	ADJ	ADJ	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	dep	_	_
+15	beziehungsweise	Liberalisierung	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	1	dep	_	_
+16	Deregulierung	beziehungsweise	CCONJ	CCONJ	_	17	cc	_	_
+17	innerhalb	Deregulierung	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	15	conj	_	_
+18	der	innerhalb	ADP	ADP	AdpType=Prep	19	case	_	_
+19	Nationalstaaten	der	DET	DET	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	verstärken	Nationalstaat	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s774
+# text = Einem Umstand, dem Wüstenrot-Geschäftsführer Otto Schäfer allerdings nicht zu große Bedeutung beigemessen haben möchte.
+1	Einem	_	_	_	_	0	root	_	_
+2	Umstand	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	dem	_	_	_	_	1	dep	_	_
+5	Wüstenrot	_	_	_	_	1	dep	_	_
+6	-	_	_	_	_	1	dep	_	_
+7	Geschäftsführer	_	_	_	_	1	dep	_	_
+8	Otto	_	_	_	_	1	dep	_	_
+9	Schäfer	_	_	_	_	1	dep	_	_
+10	allerdings	_	_	_	_	1	dep	_	_
+11	nicht	_	_	_	_	1	dep	_	_
+12	zu	_	_	_	_	1	dep	_	_
+13	große	_	_	_	_	1	dep	_	_
+14	Bedeutung	_	_	_	_	1	dep	_	_
+15	beigemessen	_	_	_	_	1	dep	_	_
+16	haben	_	_	_	_	1	dep	_	_
+17	möchte	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s478
+# text = Eine Nationalbühne wie das Burgtheater kann ein solches lokalbezogenes literarisches Segment herausstellen, auch darstellen.
+1	Eine	N	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	Nationalbühne	N	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	wie	V	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	das	DET	DET	DT	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Burgtheater	ADJ	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	kann	ADJ	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	ein	ADJ	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	nmod	_	_
+8	solches	N	PROPN	NN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+9	lokalbezogenes	V	VERB	VVFIN	Aspect=Perf|VerbForm=Fin	3	xcomp	_	_
+10	literarisches	,	PUNCT	,	_	11	punct	_	_
+11	Segment	det	DET	DT	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	12	det	_	_
+12	herausstellen	V	VERB	VVFIN	Aspect=Perf|VerbForm=Fin	9	conj	_	_
+13	,	.	PUNCT	.	_	3	punct	_	_
+14	auch	_	_	_	_	3	dep	_	_
+15	darstellen	_	_	_	_	3	dep	_	_
+16	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s617
+# text = ``Dies ist der bestmögliche Kompromiß'', sagte Gratschow am Samstag in Moskau.
+1	``	_	_	_	_	0	root	_	_
+2	Dies	_	_	_	_	1	dep	_	_
+3	ist	_	_	_	_	1	dep	_	_
+4	der	_	_	_	_	1	dep	_	_
+5	bestmögliche	_	_	_	_	1	dep	_	_
+6	Kompromiß	_	_	_	_	1	dep	_	_
+7	''	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	sagte	_	_	_	_	1	dep	_	_
+10	Gratschow	_	_	_	_	1	dep	_	_
+11-12	am	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	1	dep	_	_
+12	dem	_	_	_	_	1	dep	_	_
+13	Samstag	_	_	_	_	1	dep	_	_
+14	in	_	_	_	_	1	dep	_	_
+15	Moskau	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s168
+# text = Guter Markt mit großem Angebot.
+1	Guter	_gut_	ADJ	ADJ	_	2	amod	_	_
+2	Markt	_markt_	NOUN	NOUN	_	0	root	_	_
+3	mit	_mit_	ADP	ADP	_	4	case	_	_
+4	großem	_gross_	ADJ	ADJ	_	2	amod	_	_
+5	Angebot	_	_	_	_	2	dep	_	_
+6	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s226
+# text = Mein Fazit: Nie wieder diese Werkstatt!
+1	Mein	MEIN	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Fazit	FAZIT	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	:	:	PUNCT	:	_	2	punct	_	_
+4	Nie	nie	ADV	ADV	_	5	advmod	_	_
+5	wieder	wieder	ADV	ADV	_	6	advmod	_	_
+6	diese	dieser	DET	ART	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	Werkstatt	WERKSTATT	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+8	!	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s130
+# text = Eine schöne Erinnerung an Norden!
+1	Eine	sie	DET	ART	Art	0	root	_	_
+2	schöne	schön	ADJ	ADJ	Polarity=Pos|Pos=Pos	3	amod	_	_
+3	Erinnerung	erinnern	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	dobj	_	_
+4	an	an	ADP	ADP	AdpType=Prep	5	case	_	_
+5	Norden	Norden	PROPN	PROPN	Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	6	nmod	_	_
+6	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s817
+# text = 171 stimmten dagegen.
+1	171	_	_	_	_	0	root	_	_
+2	stimmten	_	_	_	_	1	dep	_	_
+3	dagegen	_	_	_	_	1	dep	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s946
+# text = 12. Demokratie lebt von einem konstruktiven Spannungsverhältnis zwischen Regierung und Opposition, wobei die Opposition immer zugleich auch potentiell die Regierung von morgen sein kann und muß.
+1	12.	demokratie	NOUN	NN	_	0	root	_	_
+2	Demokratie	leben	VERB	VVFIN	_	1	compound	_	_
+3	lebt	von	ADP	IN	_	1	dep	_	_
+4	von	ein	DET	ART	_	5	det	_	_
+5	einem	konstruktiv	ADJ	ADJA	_	6	amod	_	_
+6	konstruktiven	Spannungsverhältnis	NOUN	NN	_	3	nmod	_	_
+7	Spannungsverhältnis	zwischen	ADP	IN	_	8	case	_	_
+8	zwischen	Regierung	NOUN	NN	_	6	nmod	_	_
+9	Regierung	und	CCONJ	KON	_	7	cc	_	_
+10	und	Opposition	NOUN	NN	_	7	nmod	_	_
+11	Opposition	,	PUNCT	$	_	1	dep	_	_
+12	,	wobei	SCONJ	KON	_	1	dep	_	_
+13	wobei	die	DET	ART	_	1	dep	_	_
+14	die	Opposition	NOUN	NN	_	1	dep	_	_
+15	Opposition	immer	ADV	ADV	_	1	dep	_	_
+16	immer	zugleich	ADV	ADV	_	1	dep	_	_
+17	zugleich	auch	ADV	ADV	_	1	dep	_	_
+18	auch	potentiell	ADV	ADV	_	1	dep	_	_
+19	potentiell	der	DET	ART	_	20	det	_	_
+20	die	Regierung	NOUN	NN	_	21	nsubj	_	_
+21	Regierung	können	AUX	VVFIN	_	22	cop	_	_
+22	von	können	AUX	VVFIN	_	18	csubj	_	_
+23	morgen	und	CCONJ	KON	_	22	cc	_	_
+24	sein	müssen	AUX	VVFIN	_	22	ccomp	_	_
+25	kann	.	PUNCT	$.	_	22	punct	_	_
+26	und	_	_	_	_	1	dep	_	_
+27	muß	_	_	_	_	1	dep	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s379
+# text = ``Die ursprünglich vorgesehene Quote von 2500 ist 1995 nicht mehr zu erreichen.
+1	``	_	_	_	_	0	root	_	_
+2	Die	_	_	_	_	1	dep	_	_
+3	ursprünglich	_	_	_	_	1	dep	_	_
+4	vorgesehene	_	_	_	_	1	dep	_	_
+5	Quote	_	_	_	_	1	dep	_	_
+6	von	_	_	_	_	1	dep	_	_
+7	2500	_	_	_	_	1	dep	_	_
+8	ist	_	_	_	_	1	dep	_	_
+9	1995	_	_	_	_	1	dep	_	_
+10	nicht	_	_	_	_	1	dep	_	_
+11	mehr	_	_	_	_	1	dep	_	_
+12	zu	_	_	_	_	1	dep	_	_
+13	erreichen	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s164
+# text = Glas und Display austauschen kostet 99 Euro."
+1	Glas	_	_	_	_	0	root	_	_
+2	und	_	_	_	_	1	dep	_	_
+3	Display	_	_	_	_	1	dep	_	_
+4	austauschen	_	_	_	_	1	dep	_	_
+5	kostet	_	_	_	_	1	dep	_	_
+6	99	_	_	_	_	1	dep	_	_
+7	Euro	_	_	_	_	1	dep	_	_
+8	.	_	_	_	_	1	dep	_	_
+9	"	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s595
+# text = In Paris selbst nahmen zur gleichen Zeit rund tausend Studenten an einer Kundgebung im Quartier Latin teil.
+1	In	_	ADP	_	Case=Prep	2	case	_	_
+2	Paris	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	selbst	_	ADV	_	_	2	advmod	_	_
+4	nahmen	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	dep	_	_
+5-6	zur	_	_	_	_	_	_	_	_
+5	zu	_	ADP	_	_	6	case	_	_
+6	der	_	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	gleichen	_	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	Zeit	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	_
+9	rund	_	ADV	_	_	10	advmod	_	_
+10	tausend	_	NUM	_	Case=Nom|Gender=Masc|NumType=Card|Number=Plur	11	nummod	_	_
+11	Studenten	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+12	an	_	ADP	_	_	13	case	_	_
+13	einer	_	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Kundgebung	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	nmod	_	_
+15-16	im	_	_	_	_	_	_	_	_
+15	in	_	ADP	_	_	16	case	_	_
+16	dem	_	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
+17	Quartier	_	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	14	nmod	_	_
+18	Latin	_	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	17	compound	_	_
+19	teil	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
+20	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s42
+# text = Beim Kickboxen kommen dann selbstverständlich noch verschiedenste Tritt - Techniken dazu.
+1-2	Beim	_	_	_	_	_	_	_	_
+1	Bei	_	_	_	_	0	root	_	_
+2	dem	_	_	_	_	1	dep	_	_
+3	Kickboxen	_	_	_	_	1	dep	_	_
+4	kommen	_	_	_	_	1	dep	_	_
+5	dann	_	_	_	_	1	dep	_	_
+6	selbstverständlich	_	_	_	_	1	dep	_	_
+7	noch	_	_	_	_	1	dep	_	_
+8	verschiedenste	_	_	_	_	1	dep	_	_
+9	Tritt	_	_	_	_	1	dep	_	_
+10	-	_	_	_	_	1	dep	_	_
+11	Techniken	_	_	_	_	1	dep	_	_
+12	dazu	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s258
+# text = Sie sind keine selbstverliebten Künstler sondern super Dienstleister -- das gefällt uns.
+1	Sie	sie	PRON	PPER	_	2	nsubj	_	_
+2	sind	sind	AUX	VAFIN	_	0	root	_	_
+3	keine	kein	DET	ART	_	2	dep	_	_
+4	selbstverliebten	selbstverliebt	ADJ	ADJA	_	5	amod	_	_
+5	Künstler	Künstler	NOUN	NN	_	3	nmod	_	_
+6	sondern	sondern	CCONJ	KON	_	7	cc	_	_
+7	super	super	ADJ	ADJD	_	5	conj	_	_
+8	Dienstleister	Dienstleister	NOUN	NN	_	5	conj	_	_
+9	--	das	DET	ART	_	10	det	_	_
+10	das	gefällen	VERB	VVFIN	_	2	xcomp	_	_
+11	gefällt	unser	PRON	PPER	_	10	nsubj	_	_
+12	uns	uns	PRON	PPER	_	11	nmod	_	_
+13	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s629
+# text = So gut wie nichts in der Hand
+1	So	so	ADV	ADV	_	0	root	_	_
+2	gut	gut	ADV	ADV	_	3	advmod	_	_
+3	wie	wie	ADV	ADV	_	4	advmod	_	_
+4	nichts	nichts	ADV	ADV	_	5	advmod	_	_
+5	in	in	ADP	ADP	_	6	case	_	_
+6	der	der	DET	DET	_	7	det	_	_
+7	Hand	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s120
+# text = Duchsen war nur in gebückter Position möglich.
+1	Duchsen	duchsen	NOUN	NN	_	2	nsubj	_	_
+2	war	werben	AUX	VAFIN	_	0	root	_	_
+3	nur	nur	ADV	ADV	_	2	advmod	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	gebückter	gebückt	ADJ	JJ	_	2	obl	_	_
+6	Position	Position	NOUN	NN	_	5	nmod	_	_
+7	möglich	möglich	ADJ	JJ	_	2	advmod	_	_
+8	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s586
+# text = Bei einem Bombenanschlag sind am Samstag in der libanesischen Stadt Dschunije zwei Menschen ums Leben gekommen und drei weitere verletzt worden.
+1	Bei	bei	ADP	APR	_	0	root	_	_
+2	einem	BE	DET	ART	_	3	det	_	_
+3	Bombenanschlag	Bombenanschlag	NOUN	NN	_	1	nmod	_	_
+4	sind	sind	AUX	VAFIN	_	1	dep	_	_
+5-6	am	_	_	_	_	_	_	_	_
+5	an	an	ADP	APR	_	1	dep	_	_
+6	dem	dem	DET	ART	_	7	det	_	_
+7	Samstag	Samstag	NOUN	NN	_	5	nmod	_	_
+8	in	in	ADP	APR	_	1	dep	_	_
+9	der	der	DET	ART	_	10	det	_	_
+10	libanesischen	libanesisch	ADJ	ADJA	_	11	amod	_	_
+11	Stadt	Stadt	NOUN	NN	_	8	nmod	_	_
+12	Dschunije	Dschunije	PROPN	NNP	_	8	nmod	_	_
+13	zwei	zwei	NUM	NUM	_	1	dep	_	_
+14	Menschen	Mensch	NOUN	NN	_	1	dep	_	_
+15-16	ums	_	_	_	_	_	_	_	_
+15	um	um	ADP	APR	_	1	dep	_	_
+16	das	das	DET	ART	_	17	det	_	_
+17	Leben	Life	NOUN	NN	_	15	nmod	_	_
+18	gekommen	kommen	VERB	VVFIN	_	4	advcl	_	_
+19	und	und	CCONJ	KON	_	4	cc	_	_
+20	drei	drei	NUM	NUM	_	21	nummod	_	_
+21	weitere	weiter	ADJ	ADJA	_	22	nmod	_	_
+22	verletzt	verletzen	VERB	VVPP	_	18	conj	_	_
+23	worden	werden	AUX	VAFIN	_	22	aux	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s711
+# text = Werden Sie bockig.
+1	Werden	werden	VERB	_	_	0	root	_	_
+2	Sie	sie	PRON	_	_	1	nsubj	_	_
+3	bockig	_	_	_	_	1	dep	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s260
+# text = Sorry, dass sie 1 Woche und dann nochmals ganze 3 Stunden auf das Angebot warten mussten.
+1	Sorry	_	_	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	dass	_	SCONJ	_	_	4	mark	_	_
+4	sie	_	PRON	_	_	5	nsubj	_	_
+5	1	_	_	_	_	1	dep	_	_
+6	Woche	_	CCONJ	_	_	7	cc	_	_
+7	und	_	ADV	_	_	5	advmod	_	_
+8	dann	_	ADV	_	_	7	advmod	_	_
+9	nochmals	_	ADJ	_	_	10	amod	_	_
+10	ganze	_	_	_	_	1	dep	_	_
+11	3	_	_	_	_	1	dep	_	_
+12	Stunden	_	ADP	_	_	1	dep	_	_
+13	auf	_	DET	_	_	14	det	_	_
+14	das	_	NOUN	_	_	12	nmod	_	_
+15	Angebot	_	VERB	_	_	4	acl	_	_
+16	warten	_	AUX	_	_	15	aux	_	_
+17	mussten	_	PUNCT	_	_	1	punct	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s584
+# text = Im DGB herrscht nicht nur eitle Freude über den zweiten Zusammenschluß in der Geschichte der Dachorganisation.
+1-2	Im	_	_	_	_	_	_	_	_
+1	In	_	_	_	_	0	root	_	_
+2	dem	_	_	_	_	1	dep	_	_
+3	DGB	_	_	_	_	1	dep	_	_
+4	herrscht	_	_	_	_	1	dep	_	_
+5	nicht	_	_	_	_	1	dep	_	_
+6	nur	_	_	_	_	1	dep	_	_
+7	eitle	_	_	_	_	1	dep	_	_
+8	Freude	_	_	_	_	1	dep	_	_
+9	über	_	_	_	_	1	dep	_	_
+10	den	_	_	_	_	1	dep	_	_
+11	zweiten	_	_	_	_	1	dep	_	_
+12	Zusammenschluß	_	_	_	_	1	dep	_	_
+13	in	_	_	_	_	1	dep	_	_
+14	der	_	_	_	_	1	dep	_	_
+15	Geschichte	_	_	_	_	1	dep	_	_
+16	der	_	_	_	_	1	dep	_	_
+17	Dachorganisation	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s682
+# text = NÜRNBERG (dpa / vwd).
+1	NÜRNBERG	NÜRNBERG	NOUN	NN	_	0	root	_	_
+2	(	dpa	ADP	IN	_	1	case	_	_
+3	dpa	vwd	ADP	IN	_	1	case	_	_
+4	/	)	PUNCT	$	_	1	punct	_	_
+5	vwd	.	PUNCT	.	_	1	punct	_	_
+6	)	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s494
+# text = Daraus politische Konsequenzen zu ziehen, täte not, bevor der bosnische Bürgerkrieg doch noch in einen internationalen Konflikt umschlägt.
+1	Daraus	political	ADP	_	Case=Gen	2	case	_	_
+2	politische	political	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	Konsequenzen	consequence	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+4	zu	draw	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+5	ziehen	_	_	_	_	4	dep	_	_
+6	,	_	_	_	_	4	dep	_	_
+7	täte	_	_	_	_	4	dep	_	_
+8	not	_	_	_	_	4	dep	_	_
+9	,	_	_	_	_	4	dep	_	_
+10	bevor	_	_	_	_	4	dep	_	_
+11	der	_	_	_	_	4	dep	_	_
+12	bosnische	_	_	_	_	4	dep	_	_
+13	Bürgerkrieg	_	_	_	_	4	dep	_	_
+14	doch	_	_	_	_	4	dep	_	_
+15	noch	_	_	_	_	4	dep	_	_
+16	in	_	_	_	_	4	dep	_	_
+17	einen	_	_	_	_	4	dep	_	_
+18	internationalen	_	_	_	_	4	dep	_	_
+19	Konflikt	_	_	_	_	4	dep	_	_
+20	umschlägt	_	_	_	_	4	dep	_	_
+21	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s445
+# text = Boris Jelzin könne sich eine definitive Zusage im Moment aus innenpolitischen Gründen nicht leisten.
+1	Boris	_	_	_	_	0	root	_	_
+2	Jelzin	_	_	_	_	1	dep	_	_
+3	könne	_	_	_	_	1	dep	_	_
+4	sich	_	_	_	_	1	dep	_	_
+5	eine	_	_	_	_	1	dep	_	_
+6	definitive	_	_	_	_	1	dep	_	_
+7	Zusage	_	_	_	_	1	dep	_	_
+8-9	im	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	1	dep	_	_
+9	dem	_	_	_	_	1	dep	_	_
+10	Moment	_	_	_	_	1	dep	_	_
+11	aus	_	_	_	_	1	dep	_	_
+12	innenpolitischen	_	_	_	_	1	dep	_	_
+13	Gründen	_	_	_	_	1	dep	_	_
+14	nicht	_	_	_	_	1	dep	_	_
+15	leisten	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s428
+# text = Crazy Horse wurde am 5. September 1877 in Fort Robinson von einem Soldaten erstochen.
+1	Crazy	_	_	_	_	0	root	_	_
+2	Horse	werden	VERB	VBD	_	1	dep	_	_
+3	wurde	an	ADP	IN	_	1	dep	_	_
+4-5	am	_	_	_	_	_	_	_	_
+4	an	dem	DET	DT	_	1	dep	_	_
+5	dem	September	NOUN	NN	_	1	dep	_	_
+6	5.	5	NUM	CD	_	5	nummod	_	_
+7	September	.	PUNCT	.	_	4	punct	_	_
+8	1877	_	_	_	_	1	dep	_	_
+9	in	_	_	_	_	1	dep	_	_
+10	Fort	_	_	_	_	1	dep	_	_
+11	Robinson	_	_	_	_	1	dep	_	_
+12	von	_	_	_	_	1	dep	_	_
+13	einem	_	_	_	_	1	dep	_	_
+14	Soldaten	_	_	_	_	1	dep	_	_
+15	erstochen	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s83
+# text = Das Restaurant war sehr gut gefüllt, was mich sehr verwundert hat.
+1	Das	Das	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	Restaurant	Restaurant	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	war	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	sehr	gut	ADJ	JJ	Degree=Pos	0	root	_	_
+5	gut	gefüllt	ADJ	JJ	Degree=Pos	4	amod	_	_
+6	gefüllt	,	PUNCT	,	_	7	punct	_	_
+7	,	was	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	_
+8	was	mich	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	mich	sehr	ADV	RB	Degree=Pos	10	advmod	_	_
+10	sehr	verwundert	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	verwundert	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
+12	hat	sich	PRON	PRP	Case=Acc|Person=3|PronType=Prs	4	dep	_	_
+13	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s280
+# text = Weiß was er macht.
+1	Weiß	weiss	ADJ	ADJ	_	2	case	_	_
+2	was	was	PRON	PRON	_	3	nsubj	_	_
+3	er	er	PRON	PRON	_	4	nsubj	_	_
+4	macht	machen	VERB	VERB	_	0	root	_	_
+5	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s197
+# text = Ich wünsche ihnen weiterhin gutes Lesen und seien sie froh, dass man die Dienste ihres Arbeitgebers nicht im Internet bestellen kann.
+1	Ich	Ich	PRON	PPER	_	2	nsubj	_	_
+2	wünsche	wünschen	VERB	VVFIN	_	0	root	_	_
+3	ihnen	ihr	PRON	PPER	_	2	iobj	_	_
+4	weiterhin	weiterhin	ADV	ADV	_	2	advmod	_	_
+5	gutes	gut	ADJ	ADJA	_	6	amod	_	_
+6	Lesen	Lesen	NOUN	NN	_	2	dobj	_	_
+7	und	und	CCONJ	KON	_	2	cc	_	_
+8	seien	sein	AUX	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	sie	sie	PRON	PPER	_	8	nsubj	_	_
+10	froh	sie	PRON	PPER	_	11	nsubj	_	_
+11	,	froh	ADJ	ADJA	_	8	conj	_	_
+12	dass	dass	SCONJ	KON	_	2	dep	_	_
+13	man	man	PRON	PPER	_	2	dep	_	_
+14	die	die	DET	ART	Case=Acc|Gender=Fem|Number=Plur	15	det	_	_
+15	Dienste	Dienst	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	13	dobj	_	_
+16	ihres	ihre	DET	ART	Case=Gen|Gender=Masc|Number=Sing	17	det	_	_
+17	Arbeitgebers	Arbeitgeber	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	nicht	nicht	PART	PTKNEG	_	2	dep	_	_
+19-20	im	_	_	_	_	_	_	_	_
+19	in	in	ADP	APPR	_	20	case	_	_
+20	dem	dem	DET	ART	Case=Dat|Gender=Neut|Number=Sing	21	det	_	_
+21	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	18	obl	_	_
+22	bestellen	können	AUX	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	kann	die	DET	ART	Case=Acc|Gender=Fem|Number=Sing	24	det	_	_
+24	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s631
+# text = Auch nicht die Polizei.
+1	Auch	auch	ADV	_	_	0	root	_	_
+2	nicht	nicht	ADV	_	_	3	advmod	_	_
+3	die	die	DET	_	_	4	det	_	_
+4	Polizei	Polizei	NOUN	_	_	5	nsubj	_	_
+5	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s36
+# text = Aussage des Verkäufers in 15 minuten freigeschalten sein.
+1	Aussage	Aussage	NOUN	NN	_	7	dep	_	_
+2	des	des	DET	DT	Case=Gen|Number=Sing|PronType=Art	1	nmod	_	_
+3	Verkäufers	Verkäufer	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	in	in	ADP	IN	_	5	case	_	_
+5	15	15	NUM	CD	NumType=Card	6	nummod	_	_
+6	minuten	minute	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	7	nmod	_	_
+7	freigeschalten	freischalten	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_
+8	sein	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+9	.	_	_	_	_	7	dep	_	_
+
+# sent_id = test-s248
+# text = Schöner Park für Familien.
+1	Schöner	_	_	_	_	0	root	_	_
+2	Park	_	_	_	_	1	dep	_	_
+3	für	_	_	_	_	1	dep	_	_
+4	Familien	_	_	_	_	1	dep	_	_
+5	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s620
+# text = ``Die haben noch nicht unsere Neurose, sich immer streng unter Kontrolle haben zu müssen'', befindet der Lachspezialist.
+1	``	DET	_	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	2	nsubj	_	_
+2	Die	AUX	_	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	haben	ADV	_	_	_	2	advmod	_	_
+4	noch	ADV	_	_	_	2	advmod	_	_
+5	nicht	DET	_	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	unsere	NOUN	_	_	Case=Gen|Gender=Neut|Number=Sing	2	obj	_	_
+7	Neurose	_	_	_	_	2	dep	_	_
+8	,	PRON	_	_	Case=Acc|Person=3|PronType=Prs	2	dep	_	_
+9	sich	ADV	_	_	_	10	advmod	_	_
+10	immer	ADJ	_	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	streng	KONJ	_	_	_	12	case	_	_
+12	unter	NOUN	_	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+13	Kontrolle	AUX	_	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+14	haben	_	_	_	_	2	dep	_	_
+15	zu	AUX	_	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+16	müssen	_	_	_	_	2	dep	_	_
+17	''	_	_	_	_	2	dep	_	_
+18	,	VERB	_	_	Case=Nom|Gender=Neut|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+19	befindet	_	_	_	_	2	dep	_	_
+20	der	_	_	_	_	2	dep	_	_
+21	Lachspezialist	_	_	_	_	2	dep	_	_
+22	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s368
+# text = ``Das Damoklesschwert einer militärischen Intervention wird über den Serben hängen'', hieß es in der deutschen Delegation.
+1	``	Das	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	Das	Damoklesschwert	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	Damoklesschwert	hängen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	einer	über	ADP	APPR	Case=Acc	5	case	_	_
+5	militärischen	der	DET	ART	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Intervention	Delegation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	_
+7	wird	,	PUNCT	$	_	3	punct	_	_
+8	über	es	AUX	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+9	den	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	Serben	in	ADP	APPR	_	11	case	_	_
+11	hängen	der	DET	ART	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	''	Delegation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+13	,	.	PUNCT	$	_	3	punct	_	_
+14	hieß	_	_	_	_	3	dep	_	_
+15	es	_	_	_	_	3	dep	_	_
+16	in	_	_	_	_	3	dep	_	_
+17	der	_	_	_	_	3	dep	_	_
+18	deutschen	_	_	_	_	3	dep	_	_
+19	Delegation	_	_	_	_	3	dep	_	_
+20	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s245
+# text = Schließlich jedoch fanden wir die Rettung im "Schienfatt".
+1	Schließlich	_schließlich_	ADV	ADV	_	0	root	_	_
+2	jedoch	_hedoch_	ADV	ADV	_	1	dep	_	_
+3	fanden	_finden_	VERB	VERB	_	1	dep	_	_
+4	wir	_wir_	PRON	PRON	_	3	nsubj	_	_
+5	die	_die_	DET	DET	_	6	det	_	_
+6	Rettung	_Rettung_	NOUN	NOUN	_	3	obj	_	_
+7-8	im	_	_	_	_	_	_	_	_
+7	in	_in_	ADP	ADP	_	1	dep	_	_
+8	dem	_dem_	DET	DET	_	1	dep	_	_
+9	"	_	_	_	_	10	punct	_	_
+10	Schienfatt	_Schienfatt_	NOUN	NOUN	_	8	nmod	_	_
+11	"	_	_	_	_	10	punct	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s640
+# text = Die langen Gefängnisstrafen, Auspeitschungen und Hinrichtungen der ``Verderber auf Erden'' konnten jedenfalls die Unruhen nicht eindämmen.
+1	Die	der	DET	ART	Case=Nom|Gender=Fem|Number=Plur	16	dep	_	_
+2	langen	lang	ADJ	ADJ	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	16	dep	_	_
+3	Gefängnisstrafen	Gefängnisstrafe	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	16	dep	_	_
+4	,	Auspeitschung	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	16	dep	_	_
+5	Auspeitschungen	und	CCONJ	CCONJ	_	6	cc	_	_
+6	und	Hinrichtung	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	_
+7	Hinrichtungen	der	DET	ART	Case=Gen|Gender=Masc|Number=Plur	16	dep	_	_
+8	der	Verderber	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	16	dep	_	_
+9	``	auf	ADP	ADP	_	10	case	_	_
+10	Verderber	Erde	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	_
+11	auf	können	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	Erden	jedenfalls	ADV	ADV	_	13	advmod	_	_
+13	''	der	DET	ART	Case=Acc|Gender=Fem|Number=Sing	14	det	_	_
+14	konnten	Unruhe	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	15	nsubj	_	_
+15	jedenfalls	nicht	PART	PART	_	16	advmod	_	_
+16	die	eindämmen	VERB	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+17	Unruhen	.	PUNCT	PUNCT	_	16	punct	_	_
+18	nicht	_	_	_	_	16	dep	_	_
+19	eindämmen	_	_	_	_	16	dep	_	_
+20	.	_	_	_	_	16	dep	_	_
+
+# sent_id = test-s496
+# text = Der Präsident des US-Repräsentantenhauses, Newt Gingrich, will sich nicht als Kandidat seiner Republikanischen Partei für die Präsidentschaftswahl 1996 aufstellen lassen.
+1	Der	_	_	_	_	0	root	_	_
+2	Präsident	_	_	_	_	1	dep	_	_
+3	des	_	_	_	_	1	dep	_	_
+4	US	_	_	_	_	1	dep	_	_
+5	-	_	_	_	_	1	dep	_	_
+6	Repräsentantenhauses	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	Newt	_	_	_	_	1	dep	_	_
+9	Gingrich	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	will	_	_	_	_	1	dep	_	_
+12	sich	_	_	_	_	1	dep	_	_
+13	nicht	_	_	_	_	1	dep	_	_
+14	als	_	_	_	_	1	dep	_	_
+15	Kandidat	_	_	_	_	1	dep	_	_
+16	seiner	_	_	_	_	1	dep	_	_
+17	Republikanischen	_	_	_	_	1	dep	_	_
+18	Partei	_	_	_	_	1	dep	_	_
+19	für	_	_	_	_	1	dep	_	_
+20	die	_	_	_	_	1	dep	_	_
+21	Präsidentschaftswahl	_	_	_	_	1	dep	_	_
+22	1996	_	_	_	_	1	dep	_	_
+23	aufstellen	_	_	_	_	1	dep	_	_
+24	lassen	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s256
+# text = Sie ist einfach ein Profi und ich habe und werde sie jederzeit weiterempfehlen.
+1	Sie	_	_	_	_	0	root	_	_
+2	ist	_	_	_	_	1	dep	_	_
+3	einfach	_	_	_	_	1	dep	_	_
+4	ein	_	_	_	_	1	dep	_	_
+5	Profi	_	_	_	_	1	dep	_	_
+6	und	_	_	_	_	1	dep	_	_
+7	ich	_	_	_	_	1	dep	_	_
+8	habe	_	_	_	_	1	dep	_	_
+9	und	_	_	_	_	1	dep	_	_
+10	werde	_	_	_	_	1	dep	_	_
+11	sie	_	_	_	_	1	dep	_	_
+12	jederzeit	_	_	_	_	1	dep	_	_
+13	weiterempfehlen	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s583
+# text = Unter der Leitung von Ministerpräsident Fuad Maassum ist im nordirakischen Erbil die erste kurdische Regierung gebildet worden.
+1	Unter	unter	ADP	ADP	Case=Nom	9	dep	_	_
+2	der	der	DET	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	1	nmod	_	_
+3	Leitung	Leitung	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+4	von	von	ADP	ADP	Case=Gen	5	case	_	_
+5	Ministerpräsident	Ministerpräsident	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+6	Fuad	Fuad	PROPN	PROPN	_	5	nmod	_	_
+7	Maassum	Maassum	PROPN	PROPN	_	6	flat	_	_
+8	ist	sein	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9-10	im	_	_	_	_	_	_	_	_
+9	in	gebildet	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
+10	dem	weren	AUX	AUX	Aspect=Perf|VerbForm=Part	9	aux	_	_
+11	nordirakischen	dem	DET	DET	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+12	Erbil	nordirakisch	ADJ	ADJ	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	die	Erbil	PROPN	PROPN	_	9	nmod	_	_
+14	erste	die	DET	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	kurdische	erste	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	Regierung	Regierung	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+17	gebildet	gebildet	VERB	VERB	Aspect=Perf|VerbForm=Part	16	compound	_	_
+18	worden	weren	AUX	AUX	Aspect=Perf|VerbForm=Part	17	aux	_	_
+19	.	_	_	_	_	9	dep	_	_
+
+# sent_id = test-s787
+# text = Gespräche mit BASF über Demarkationsgebiete?
+1	Gespräche	Gespräch	NOUN	NN	_	0	root	_	_
+2	mit	mit	ADP	IN	_	3	case	_	_
+3	BASF	BASF	PROPN	NNP	_	1	obl	_	_
+4	über	über	ADP	IN	_	5	case	_	_
+5	Demarkationsgebiete	Demarkationsgebiet	NOUN	NN	_	1	obl	_	_
+6	?	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s923
+# text = Freilich können Symbole sich auch verschleißen, ebenso wie die bloße Konfrontation auf Dauer nicht ausreicht;
+1	Freilich	_	_	_	_	0	root	_	_
+2	können	_	_	_	_	1	dep	_	_
+3	Symbole	_	_	_	_	1	dep	_	_
+4	sich	_	_	_	_	1	dep	_	_
+5	auch	_	_	_	_	1	dep	_	_
+6	verschleißen	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	ebenso	_	_	_	_	1	dep	_	_
+9	wie	_	_	_	_	1	dep	_	_
+10	die	_	_	_	_	1	dep	_	_
+11	bloße	_	_	_	_	1	dep	_	_
+12	Konfrontation	_	_	_	_	1	dep	_	_
+13	auf	_	_	_	_	1	dep	_	_
+14	Dauer	_	_	_	_	1	dep	_	_
+15	nicht	_	_	_	_	1	dep	_	_
+16	ausreicht	_	_	_	_	1	dep	_	_
+17	;	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s633
+# text = Nachdem sich sein übereifriger Sportkumpel beharrlich weigerte, dem Gerempelten Schmerzensgeld und einen Ausgleich für den erlittenen Verdienstausfall zu zahlen, zog der Kikker vor Gericht -- und verlor.
+1	Nachdem	nachdem	ADV	ADV	_	0	root	_	_
+2	sich	sich	PRON	PRON	_	1	dep	_	_
+3	sein	sein	AUX	AUX	_	4	aux	_	_
+4	übereifriger	übereifrig	ADJ	ADJ	_	2	amod	_	_
+5	Sportkumpel	Sportkumpel	NOUN	NOUN	_	2	nmod	_	_
+6	beharrlich	beharrlich	ADV	ADV	_	5	amod	_	_
+7	weigerte	weigern	VERB	VERB	_	2	root	_	_
+8	,	dem	PRON	PRON	_	9	det	_	_
+9	dem	Gerempelt	NOUN	NOUN	_	7	obj	_	_
+10	Gerempelten	Schmerzensgeld	NOUN	NOUN	_	9	nmod	_	_
+11	Schmerzensgeld	und	CCONJ	CCONJ	_	7	cc	_	_
+12	und	ein	DET	DET	_	13	det	_	_
+13	einen	Ausgleich	NOUN	NOUN	_	7	obj	_	_
+14	Ausgleich	für	ADP	ADP	_	13	case	_	_
+15	für	dem	PRON	PRON	_	16	det	_	_
+16	den	erlitten	ADJ	ADJ	_	13	nmod	_	_
+17	erlittenen	Verdienstausfall	NOUN	NOUN	_	16	nmod	_	_
+18	Verdienstausfall	zu	ADP	ADP	_	17	case	_	_
+19	zu	zahlen	VERB	VERB	_	7	advcl	_	_
+20	zahlen	ziehen	VERB	VERB	_	7	root	_	_
+21	,	vor	ADP	ADP	_	20	case	_	_
+22	zog	Gericht	NOUN	NOUN	_	20	obl	_	_
+23	der	--	PUNCT	PUNCT	_	20	punct	_	_
+24	Kikker	und	CCONJ	CCONJ	_	7	cc	_	_
+25	vor	verlieren	VERB	VERB	_	7	conj	_	_
+26	Gericht	.	PUNCT	PUNCT	_	7	punct	_	_
+27	--	_	_	_	_	1	dep	_	_
+28	und	_	_	_	_	1	dep	_	_
+29	verlor	_	_	_	_	1	dep	_	_
+30	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s146
+# text = F4M -- eine moderne Band, die sehr genau auf Kundenwünsche eingehen kann.
+1	F4M	_	_	_	_	0	root	_	_
+2	--	_	_	_	_	1	dep	_	_
+3	eine	_	_	_	_	1	dep	_	_
+4	moderne	_	_	_	_	1	dep	_	_
+5	Band	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	die	_	_	_	_	1	dep	_	_
+8	sehr	_	_	_	_	1	dep	_	_
+9	genau	_	_	_	_	1	dep	_	_
+10	auf	_	_	_	_	1	dep	_	_
+11	Kundenwünsche	_	_	_	_	1	dep	_	_
+12	eingehen	_	_	_	_	1	dep	_	_
+13	kann	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s209
+# text = Jeder ist hier wirklich willkommen.
+1	Jeder	jeder	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hier	hier	ADV	ADV	_	2	advmod	_	_
+4	wirklich	wirklich	ADV	ADV	_	2	advmod	_	_
+5	willkommen	willkommen	ADJ	ADJ	Degree=Pos	2	xcomp	_	_
+6	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s242
+# text = PS Ich fahr gezz Auto.....
+1	PS	PS	PUNCT	_	_	0	root	_	_
+2	Ich	Ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	fahr	fahren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	cop	_	_
+4	gezz	gezogen	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	_
+5	Auto	Auto	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+6	.....	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s180
+# text = Ich fühlte mich sehr gut beraten und bin mit der Leistung sehr zufrieden.
+1	Ich	Ich	PRON	PPER	_	2	nsubj	_	_
+2	fühlte	fühlen	VERB	VVFIN	_	0	root	_	_
+3	mich	mich	PRON	PPER	_	2	obj	_	_
+4	sehr	sehr	ADV	ADV	_	2	advmod	_	_
+5	gut	gut	ADJ	ADJA	_	2	advmod	_	_
+6	beraten	beraten	VERB	VVPP	_	2	xcomp	_	_
+7	und	und	CCONJ	KON	_	2	cc	_	_
+8	bin	binden	VERB	VVFIN	_	2	conj	_	_
+9	mit	mit	ADP	APPR	_	10	case	_	_
+10	der	der	DET	ART	_	11	det	_	_
+11	Leistung	Leistung	NOUN	NN	_	8	obj	_	_
+12	sehr	sehr	ADV	ADV	_	8	advmod	_	_
+13	zufrieden	zufrieden	ADJ	ADJA	_	8	advmod	_	_
+14	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s309
+# text = "Gasthöfe und Pensionen verfügen über 1200 Betten --:"
+1	"	_Gasthöfe_	NOUN	NN	_	0	root	_	_
+2	Gasthöfe	_und_	CCONJ	CC	_	3	cc	_	_
+3	und	_Pensionen_	NOUN	NN	_	1	conj	_	_
+4	Pensionen	_verfügen_	VERB	VVFIN	_	1	dep	_	_
+5	verfügen	_über_	ADP	APPR	_	1	dep	_	_
+6	über	_1200_	NUM	CARD	_	7	nummod	_	_
+7	1200	_Betten_	NOUN	NN	_	5	obj	_	_
+8	Betten	_--_	PUNCT	$	_	9	punct	_	_
+9	--	_:	PUNCT	$	_	4	punct	_	_
+10	:	_	_	_	_	1	dep	_	_
+11	"	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s668
+# text = ``Während die Regierung sich und das Land von der Apartheid befreit hat'', hieß es in dem Dokument, ``hat der ANC sich noch immer nicht dem demokratischen politischen Wettbewerb angepaßt.''
+1	``	da	ADP	ADP	Case=Prep|Gender=Neut|Number=Sing	0	root	_	_
+2	Während	die	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	die	Regierung	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	Regierung	sich	PRON	PRON	Case=Acc|Person=3|PronType=Prs	5	nmod:poss	_	_
+5	sich	und	CCONJ	CCONJ	_	3	conj	_	_
+6	und	das	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	das	Land	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+8	Land	von	ADP	ADP	_	9	case	_	_
+9	von	der	DET	DET	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	der	Apartheid	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+11	Apartheid	haben	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	befreit	sich	PRON	PRON	Case=Acc|Person=3|PronType=Prs	13	nmod:poss	_	_
+13	hat	und	CCONJ	CCONJ	_	3	conj	_	_
+14	''	das	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	15	det	_	_
+15	,	Land	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+16	hieß	von	ADP	ADP	_	17	case	_	_
+17	es	der	DET	DET	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	in	Apartheid	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+19	dem	haben	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	Dokument	sich	PRON	PRON	Case=Acc|Person=3|PronType=Prs	21	nmod:poss	_	_
+21	,	und	CCONJ	CCONJ	_	3	conj	_	_
+22	``	das	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	23	det	_	_
+23	hat	Land	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+24	der	von	ADP	ADP	_	25	case	_	_
+25	ANC	der	DET	DET	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	sich	Apartheid	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+27	noch	haben	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
+28	immer	sich	PRON	PRON	Case=Acc|Person=3|PronType=Prs	29	nmod:poss	_	_
+29	nicht	und	CCONJ	CCONJ	_	3	conj	_	_
+30	dem	das	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	31	det	_	_
+31	demokratischen	Land	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	29	nsubj	_	_
+32	politischen	von	ADP	ADP	_	33	case	_	_
+33	Wettbewerb	der	DET	DET	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	angepaßt	Apartheid	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	_
+35	.	_	_	_	_	1	dep	_	_
+36	''	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s264
+# text = Toll, mein Name steht auf dem großen Display.
+1	Toll	_toll	ADJ	_	_	2	advmod	_	_
+2	,	_mein	DET	_	_	3	det	_	_
+3	mein	_name	NOUN	_	_	4	nsubj	_	_
+4	Name	_stehen	VERB	_	_	0	root	_	_
+5	steht	_	PUNCT	_	_	4	punct	_	_
+6	auf	_	ADP	_	_	7	case	_	_
+7	dem	_groß	ADJ	_	_	8	amod	_	_
+8	großen	_display	NOUN	_	_	9	obl	_	_
+9	Display	_	PUNCT	_	_	4	punct	_	_
+10	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s799
+# text = Der ``Lettische Rubel'' soll am 12. Juli erstmals ausgegeben werden.
+1	Der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	``	Lettisch	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	Lettische	Rubel	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	Rubel	sollen	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	''	an	ADP	ADP	AdpType=Prep	6	case	_	_
+6	soll	dem	DET	DET	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7-8	am	_	_	_	_	_	_	_	_
+7	an	Juli	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
+8	dem	erstmals	ADV	ADV	_	4	advmod	_	_
+9	12.	ausgeben	VERB	VERB	VerbForm=Inf	4	xcomp	_	_
+10	Juli	werden	AUX	AUX	VerbForm=Inf	9	aux	_	_
+11	erstmals	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+12	ausgegeben	_	_	_	_	4	dep	_	_
+13	werden	_	_	_	_	4	dep	_	_
+14	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s352
+# text = Im Blickpunkt: Die Kurilen-Inseln
+1-2	Im	_	_	_	_	_	_	_	_
+1	In	dem	DET	ART	_	2	det	_	_
+2	dem	Blickpunkt	NOUN	NN	_	3	compound	_	_
+3	Blickpunkt	:	PUNCT	:	_	0	root	_	_
+4	:	Die	DET	ART	_	5	det	_	_
+5	Die	Kurilen	NOUN	NN	_	2	compound	_	_
+6	Kurilen	Inseln	NOUN	NN	_	5	nmod	_	_
+7	-	Inseln	NOUN	NN	_	5	nmod	_	_
+8	Inseln	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s915
+# text = Verpackungsverordnung
+1	Verpackungsverordnung	_	_	_	_	0	root	_	_
+
+# sent_id = test-s458
+# text = Außerdem können sie ihren Kunden künftig auch das ``Bagger-Anschlußprogramm'', die von Komatsu produzierten Abräumfahrzeuge, anbieten.
+1	Außerdem	außerdem	ADV	_	_	0	root	_	_
+2	können	können	AUX	_	_	1	dep	_	_
+3	sie	sie	PRON	_	_	1	dep	_	_
+4	ihren	dem	DET	_	_	1	dep	_	_
+5	Kunden	Kunde	NOUN	_	_	1	dep	_	_
+6	künftig	künftig	ADV	_	_	1	dep	_	_
+7	auch	auch	ADV	_	_	1	dep	_	_
+8	das	das	DET	_	_	1	dep	_	_
+9	``	``	PUNCT	_	_	8	punct	_	_
+10	Bagger	Bagger	NOUN	_	_	9	appos	_	_
+11	-	-Anschlußprogramm	NOUN	_	_	10	compound	_	_
+12	Anschlußprogramm	''	PUNCT	_	_	11	punct	_	_
+13	''	,	PUNCT	_	_	1	dep	_	_
+14	,	die	DET	_	_	1	dep	_	_
+15	die	von	ADP	_	_	16	case	_	_
+16	von	Komatsu	PROPN	_	_	17	nmod	_	_
+17	Komatsu	produzieren	VERB	_	_	18	acl	_	_
+18	produzierten	Abräumfahrzeuge	NOUN	_	_	14	nmod	_	_
+19	Abräumfahrzeuge	,	PUNCT	_	_	20	punct	_	_
+20	,	anbieten	VERB	_	_	1	root	_	_
+21	anbieten	.	PUNCT	_	_	20	punct	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s389
+# text = Bis Ende des Jahres soll aber alles unter Dach und Fach sein.
+1	Bis	Bis	ADP	$	Case=Nom|Number=Sing	0	root	_	_
+2	Ende	Ende	NOUN	Nomen	Case=Dat|Gender=Neut|Number=Sing	1	dep	_	_
+3	des	des	DET	Artikel	Case=Gen|Gender=Neut|Number=Sing	2	det	_	_
+4	Jahres	Jahr	NOUN	Nomen	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	soll	sollen	AUX	Finale	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	dep	_	_
+6	aber	aber	ADV	Adverb	_	1	dep	_	_
+7	alles	alle	NOUN	Nomen	Case=Acc|Gender=Neut|Number=Plur	1	dep	_	_
+8	unter	unter	ADP	Präposition	_	1	dep	_	_
+9	Dach	Dach	NOUN	Nomen	Case=Dat|Gender=Neut|Number=Sing	1	dep	_	_
+10	und	und	CCONJ	Koordinationspartikel	_	11	cc	_	_
+11	Fach	Fach	NOUN	Nomen	Case=Dat|Gender=Neut|Number=Sing	9	conj	_	_
+12	sein	sein	AUX	Finale	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s6
+# text = (Bei den Damen und Herren des besagten Mobilfunkanbieters bin ich im Gegensatz dazu bisher ausschließlich auf arrogante Unkenntnis gestossen).
+1	(	_	_	_	_	0	root	_	_
+2	Bei	_	_	_	_	1	dep	_	_
+3	den	_	_	_	_	1	dep	_	_
+4	Damen	_	_	_	_	1	dep	_	_
+5	und	_	_	_	_	1	dep	_	_
+6	Herren	_	_	_	_	1	dep	_	_
+7	des	_	_	_	_	1	dep	_	_
+8	besagten	_	_	_	_	1	dep	_	_
+9	Mobilfunkanbieters	_	_	_	_	1	dep	_	_
+10	bin	_	_	_	_	1	dep	_	_
+11	ich	_	_	_	_	1	dep	_	_
+12-13	im	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	1	dep	_	_
+13	dem	_	_	_	_	1	dep	_	_
+14	Gegensatz	_	_	_	_	1	dep	_	_
+15	dazu	_	_	_	_	1	dep	_	_
+16	bisher	_	_	_	_	1	dep	_	_
+17	ausschließlich	_	_	_	_	1	dep	_	_
+18	auf	_	_	_	_	1	dep	_	_
+19	arrogante	_	_	_	_	1	dep	_	_
+20	Unkenntnis	_	_	_	_	1	dep	_	_
+21	gestossen	_	_	_	_	1	dep	_	_
+22	)	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s839
+# text = Religion und Machtkämpfe führen in San Juan Chamula zur Vertreibung
+1	Religion	_	_	_	_	0	root	_	_
+2	und	_	_	_	_	1	dep	_	_
+3	Machtkämpfe	_	_	_	_	1	dep	_	_
+4	führen	_	_	_	_	1	dep	_	_
+5	in	_	_	_	_	1	dep	_	_
+6	San	_	_	_	_	1	dep	_	_
+7	Juan	_	_	_	_	1	dep	_	_
+8	Chamula	_	_	_	_	1	dep	_	_
+9-10	zur	_	_	_	_	_	_	_	_
+9	zu	_	_	_	_	1	dep	_	_
+10	der	_	_	_	_	1	dep	_	_
+11	Vertreibung	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s801
+# text = Viele Kleinaktionäre wollen zudem die Höhe ihrer Abfindung gerichtlich festlegen lassen.
+1	Viele	_	_	_	_	0	root	_	_
+2	Kleinaktionäre	_	_	_	_	1	dep	_	_
+3	wollen	_	_	_	_	1	dep	_	_
+4	zudem	_	_	_	_	1	dep	_	_
+5	die	_	_	_	_	1	dep	_	_
+6	Höhe	_	_	_	_	1	dep	_	_
+7	ihrer	_	_	_	_	1	dep	_	_
+8	Abfindung	_	_	_	_	1	dep	_	_
+9	gerichtlich	_	_	_	_	1	dep	_	_
+10	festlegen	_	_	_	_	1	dep	_	_
+11	lassen	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s101
+# text = Die Auswahl auf der Karte war zwar nicht allzu groß, aber wir haben trotzdem ein passendes Gericht gefunden, was auch sehr lecker war.
+1	Die	der	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Auswahl	Auswahl	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	auf	werden	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	der	zwar	ADV	ADV	_	5	advmod	_	_
+5	Karte	nicht	PART	PART	_	3	advmod	_	_
+6	war	allzu	ADV	ADV	_	7	advmod	_	_
+7	zwar	groß	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+8	nicht	,	PUNCT	PUNCT	_	3	punct	_	_
+9	allzu	auch	ADV	ADV	_	10	advmod	_	_
+10	groß	wir	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+11	,	haben	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	aber	trotzdem	ADV	ADV	_	11	advmod	_	_
+13	wir	ein	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+14	haben	passend	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	nmod	_	_
+15	trotzdem	Gericht	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+16	ein	,	PUNCT	PUNCT	_	11	punct	_	_
+17	passendes	was	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	dep	_	_
+18	Gericht	auch	ADV	ADV	_	19	advmod	_	_
+19	gefunden	sehr	ADV	ADV	_	20	advmod	_	_
+20	,	lecker	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	acl	_	_
+21	was	werden	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	_
+22	auch	.	PUNCT	PUNCT	_	3	punct	_	_
+23	sehr	_	_	_	_	3	dep	_	_
+24	lecker	_	_	_	_	3	dep	_	_
+25	war	_	_	_	_	3	dep	_	_
+26	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s847
+# text = ``Ich bin Köchin und biete mich an, ich kann wenigstens eine gute Suppe kochen.''
+1	``	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	Ich	sein	AUX	VMFIN	Case=Nom|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bin	Köchin	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	Köchin	und	CCONJ	KON	_	5	cc	_	_
+5	und	bieten	VERB	VVFIN	Case=Nom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	biete	mich	PRON	PPER	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
+7	mich	an	ADV	ADV	_	5	advmod	_	_
+8	an	,	PUNCT	PUN	_	9	punct	_	_
+9	,	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	conj	_	_
+10	ich	können	AUX	VMFIN	Case=Nom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+11	kann	wenigstens	ADV	ADV	_	9	advmod	_	_
+12	wenigstens	ein	DET	ART	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	eine	gut	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	obj	_	_
+14	gute	Suppe	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	_
+15	Suppe	kochen	VERB	VVINF	Case=Acc|VerbForm=Inf	9	xcomp	_	_
+16	kochen	.	PUNCT	PUN	_	2	punct	_	_
+17	.	_	_	_	_	2	dep	_	_
+18	''	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s296
+# text = Zimmer stank, dank der darunterliegenden Kücke eines Restaurants, permanent nach Friteusenfett
+1	Zimmer	Zimmer	NOUN	NN	_	2	nmod	_	_
+2	stank	stinken	VERB	VVFIN	_	0	root	_	_
+3	,	dank	NOUN	NN	_	2	case	_	_
+4	dank	der	DET	ART	_	5	det	_	_
+5	der	darunterliegen	ADJ	ADJA	_	3	amod	_	_
+6	darunterliegenden	ein	DET	ART	_	7	det	_	_
+7	Kücke	Restaurant	NOUN	NN	_	3	nmod	_	_
+8	eines	,	PUNCT	$	_	2	punct	_	_
+9	Restaurants	permanent	ADV	ADV	_	2	advmod	_	_
+10	,	nach	ADP	APPR	_	11	case	_	_
+11	permanent	Friteusenfett	NOUN	NN	_	9	nmod	_	_
+12	nach	.	PUNCT	$	_	2	punct	_	_
+13	Friteusenfett	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s90
+# text = Dem Park fehlt eine Spitzenattraktion / ein Highlight, wie eine Achterbahn mit Katapultstart und Überschlägen.
+1	Dem	PART	ADP	_	Case=Dat|Number=Plur|PronType=Art	2	case	_	_
+2	Park	NOUN	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	3	nmod	_	_
+3	fehlt	VERB	VERB	VVFIN	Case=Nom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	eine	DET	DET	ART	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Spitzenattraktion	NOUN	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	/	SYM	SYM	$	_	7	punct	_	_
+7	ein	DET	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	Highlight	NOUN	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	obj	_	_
+9	,	_	_	_	_	3	dep	_	_
+10	wie	ADV	ADV	WRB	_	11	advmod	_	_
+11	eine	DET	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Achterbahn	NOUN	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+13	mit	_	_	_	_	3	dep	_	_
+14	Katapultstart	NOUN	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	12	nmod	_	_
+15	und	ADV	ADV	WRB	_	16	advmod	_	_
+16	Überschlägen	NOUN	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	12	nmod	_	_
+17	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s680
+# text = Die ersten 1000 Bäume zum Andenken an die getöteten Sportler sollen am 4. September gepflanzt werden.
+1	Die	der	DET	ART	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	0	root	_	_
+2	ersten	erst	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	_
+3	1000	1000	NUM	NUM	NumType=Card	4	nummod	_	_
+4	Bäume	Baum	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	nmod	_	_
+5-6	zum	_	_	_	_	_	_	_	_
+5	zu	zu	ADP	ADP	_	6	case	_	_
+6	dem	dem	PRON	PRON	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	_
+7	Andenken	Andenken	NOUN	NOUN	Case=Dat|Gender=Neut|Number=Sing	8	nmod	_	_
+8	an	an	ADP	ADP	_	9	case	_	_
+9	die	die	PRON	PRON	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	getöteten	getöten	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	_
+11	Sportler	Sportler	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	_
+12	sollen	sollen	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13-14	am	_	_	_	_	_	_	_	_
+13	an	an	ADP	ADP	_	14	case	_	_
+14	dem	dem	PRON	PRON	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	15	det	_	_
+15	4.	4.	NUM	NUM	NumType=Card	16	nummod	_	_
+16	September	September	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	17	nmod	_	_
+17	gepflanzt	gepflanzen	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	amod	_	_
+18	werden	werden	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s917
+# text = Die von einem Datenbankproblem vorübergehend lahmgelegte Frankfurter Aktienbörse hat zum Wochenbeginn etwas schwächer geschlossen.
+1	Die	die	DET	ART	_	0	root	_	_
+2	von	von	ADP	ADP	_	1	dep	_	_
+3	einem	ein	DET	ART	_	4	det	_	_
+4	Datenbankproblem	Datenbankproblem	NOUN	NOUN	_	2	nmod	_	_
+5	vorübergehend	vorübergehend	ADV	ADV	_	4	advmod	_	_
+6	lahmgelegte	lahmlegen	VERB	VERB	_	4	compound	_	_
+7	Frankfurter	Frankfurt	NOUN	NOUN	_	8	nmod	_	_
+8	Aktienbörse	Aktienbörse	NOUN	NOUN	_	6	nsubj	_	_
+9	hat	haben	AUX	AUX	_	6	aux	_	_
+10-11	zum	_	_	_	_	_	_	_	_
+10	zu	zu	ADP	ADP	_	1	dep	_	_
+11	dem	dem	DET	ART	_	1	dep	_	_
+12	Wochenbeginn	Wochenbeginn	NOUN	NOUN	_	11	nmod	_	_
+13	etwas	einige	ADJ	ADJ	_	12	amod	_	_
+14	schwächer	schwach	ADJ	ADJ	_	12	amod	_	_
+15	geschlossen	geschlossen	VERB	VERB	_	12	root	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s93
+# text = Der Besuch lohnt sich!
+1	Der	Besuch	NN	NN	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	Besuch	sich	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	lohnt	_	PRON	PRON	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	sich	_	PUNCT	PUNCT	_	2	punct	_	_
+5	!	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s198
+# text = Ich wurde superfreundlich begrüßt, die Beratung war 1a mit Sternchen und meine Haare an gewissen Stellen sind nun dauerhaft entfernt.
+1	Ich	ich	PRON	PPER	_	2	nsubj	_	_
+2	wurde	werden	VERB	VVFIN	_	0	root	_	_
+3	superfreundlich	superfreundlich	ADJ	ADJA	_	2	advmod	_	_
+4	begrüßt	begrüßen	VERB	VVPP	_	2	obj	_	_
+5	,	,	PUNCT	$	_	6	punct	_	_
+6	die	die	DET	ART	_	7	det	_	_
+7	Beratung	Beratung	NOUN	NN	_	8	nsubj	_	_
+8	war	werden	VERB	VVFIN	_	2	conj	_	_
+9	1a	1a	NUM	NUM	_	8	obj	_	_
+10	mit	mit	ADP	APPR	_	11	case	_	_
+11	Sternchen	Sternchen	NOUN	NN	_	9	obl	_	_
+12	und	und	CCONJ	KON	_	14	cc	_	_
+13	meine	mein	PRON	PPER	_	14	nsubj	_	_
+14	Haare	Haar	NOUN	NN	_	8	conj	_	_
+15	an	an	ADP	APPR	_	16	case	_	_
+16	gewissen	gewiss	ADJ	ADJA	_	14	obl	_	_
+17	Stellen	Stelle	NOUN	NN	_	16	nmod	_	_
+18	sind	sind	VERB	VVFIN	_	2	conj	_	_
+19	nun	nun	ADV	ADV	_	18	advmod	_	_
+20	dauerhaft	dauerhaft	ADV	ADV	_	18	advmod	_	_
+21	entfernt	entsorgen	VERB	VVPP	_	18	obj	_	_
+22	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s178
+# text = Heute, nach 3 Tagen geht es.
+1	Heute	heute	ADV	ADV	_	4	advmod	_	_
+2	,	nach	ADP	ADP	_	3	case	_	_
+3	nach	tag	NUM	NUM	NumType=Ord|Plur=Plur	1	amod	_	_
+4	3	es	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Tagen	es	PRON	PRON	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	geht	3	ADP	ADP	_	5	case	_	_
+7	es	3	NUM	NUM	NumType=Card	6	nummod	_	_
+8	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s62
+# text = Danke Rosemarie! :-)
+1	Danke	thank	V	VERB	_	0	root	_	_
+2	Rosemarie	Rosemarie	NOUN	NOUN	_	1	nsubj	_	_
+3	!	!	PUNCT	PUNCT	_	1	punct	_	_
+4	:-)	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s752
+# text = Du weißt noch gar nicht, wo du bist und was noch alles auf dich wartet!''
+1	Du	du	PRON	PPER	_	2	nsubj	_	_
+2	weißt	weisen	VERB	VVFIN	_	0	root	_	_
+3	noch	noch	ADV	ADV	_	2	advmod	_	_
+4	gar	gar	ADV	ADV	_	3	advmod	_	_
+5	nicht	nicht	ADV	ADV	_	3	advmod	_	_
+6	,	,	PUNCT	PUNCT	_	2	punct	_	_
+7	wo	wo	ADV	ADV	_	8	case	_	_
+8	du	bist	VERB	VVFIN	_	2	obj	_	_
+9	bist	und	CCONJ	CONJ	_	2	cc	_	_
+10	und	was	PRON	PPER	_	2	dep	_	_
+11	was	noch	ADV	ADV	_	2	dep	_	_
+12	noch	alle	ADJ	ADJA	_	13	amod	_	_
+13	alles	auf	ADP	APPR	_	14	case	_	_
+14	auf	dich	PRON	PPER	_	11	obj	_	_
+15	dich	warten	VERB	VVFIN	_	2	conj	_	_
+16	wartet	!	PUNCT	PUNCT	_	2	punct	_	_
+17	!	_	_	_	_	2	dep	_	_
+18	''	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s125
+# text = Ein netter Gruß aus der Werkstatt für einen Kunden, der sich nicht übers Ohr hauen lassen will?
+1	Ein	netter	ADJ	ADJ	_	0	root	_	_
+2	netter	_	_	_	_	1	dep	_	_
+3	Gruß	gruß	NOUN	NOUN	_	2	nmod	_	_
+4	aus	aus	ADP	ADP	_	3	case	_	_
+5	der	der	DET	DET	_	6	det	_	_
+6	Werkstatt	werkstatt	NOUN	NOUN	_	7	nmod	_	_
+7	für	werkstatt	NOUN	NOUN	_	2	nmod	_	_
+8	einen	für	ADP	ADP	_	7	case	_	_
+9	Kunden	ein	DET	DET	_	10	det	_	_
+10	,	kunde	NOUN	NOUN	_	8	nmod	_	_
+11	der	,	PUNCT	PUNCT	_	1	dep	_	_
+12	sich	der	DET	DET	_	1	dep	_	_
+13	nicht	sich	PRON	PRON	_	1	dep	_	_
+14-15	übers	_	_	_	_	_	_	_	_
+14	über	nicht	ADV	ADV	_	1	dep	_	_
+15	das	über	ADP	ADP	_	1	dep	_	_
+16	Ohr	das	DET	DET	_	17	det	_	_
+17	hauen	ohr	NOUN	NOUN	_	15	nmod	_	_
+18	lassen	hauen	VERB	VERB	_	17	case	_	_
+19	will	lassen	VERB	VERB	_	18	aux	_	_
+20	?	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s279
+# text = Warum die wieder aufmachen durften ist mir ein Rätsel!
+1	Warum	_	_	_	_	0	root	_	_
+2	die	_	_	_	_	1	dep	_	_
+3	wieder	_	_	_	_	1	dep	_	_
+4	aufmachen	_	_	_	_	1	dep	_	_
+5	durften	_	_	_	_	1	dep	_	_
+6	ist	_	_	_	_	1	dep	_	_
+7	mir	_	_	_	_	1	dep	_	_
+8	ein	_	_	_	_	1	dep	_	_
+9	Rätsel	_	_	_	_	1	dep	_	_
+10	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s439
+# text = Das Interesse sei eben ``ganz schön dünne, wenn mal was in Asien ist''.
+1	Das	der	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	Interesse	Interesse	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	sei	sein	AUX	VB	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	eben	eben	ADV	ADV	_	3	advmod	_	_
+5	``	ganz	ADV	ADV	_	6	advmod	_	_
+6	ganz	schön	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	schön	dünne	ADJ	JJ	Degree=Pos	2	amod	_	_
+8	dünne	,	PUNCT	,	_	3	dep	_	_
+9	,	wenn	SCONJ	IN	_	3	dep	_	_
+10	wenn	mal	ADV	ADV	_	3	dep	_	_
+11	mal	was	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	dep	_	_
+12	was	in	ADP	IN	_	13	case	_	_
+13	in	Asien	PROPN	NNP	Case=Dat|Gender=Neut|Number=Sing	11	nmod	_	_
+14	Asien	sein	AUX	VB	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+15	ist	''	PUNCT	"	_	11	punct	_	_
+16	''	,	PUNCT	,	_	17	punct	_	_
+17	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s108
+# text = Die Mängel hat er zwar zugegeben jedoch nicht behoben.
+1	Die	_	_	_	_	2	dep	_	_
+2	Mängel	NOUN	_	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	hat	VERB	_	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+4	er	PRON	_	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	zwar	ADV	_	_	_	3	advmod	_	_
+6	zugegeben	VERB	_	_	Aspect=Perf|VerbForm=Part	3	xcomp	_	_
+7	jedoch	ADV	_	_	_	6	advmod	_	_
+8	nicht	ADV	_	_	_	6	advmod	_	_
+9	behoben	VERB	_	_	Aspect=Perf|VerbForm=Part	6	xcomp	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s779
+# text = Aus Andeutungen, Gesprächen und Denkmodellen schließt die Organisation, daß bis Ende 1999 insgesamt 58 500 Arbeitsplätze zur Disposition stehen.
+1	Aus	_	ADP	_	Case=Gen	2	case	_	_
+2	Andeutungen	_	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	Gesprächen	_	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	5	nmod	_	_
+5	und	_	CCONJ	_	_	6	cc	_	_
+6	Denkmodellen	_	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	7	nmod	_	_
+7	schließt	_	PUNCT	_	_	8	punct	_	_
+8	die	_	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Organisation	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+10	,	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	daß	_	PUNCT	_	_	12	punct	_	_
+12	bis	_	SCONJ	_	_	10	mark	_	_
+13	Ende	_	ADP	_	_	10	dep	_	_
+14	1999	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	dep	_	_
+15	insgesamt	_	NUM	_	NumType=Card	10	dep	_	_
+16	58	_	ADV	_	_	10	dep	_	_
+17	500	_	NUM	_	NumType=Card	10	dep	_	_
+18	Arbeitsplätze	_	NUM	_	NumType=Card	10	dep	_	_
+19-20	zur	_	_	_	_	_	_	_	_
+19	zu	_	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	dep	_	_
+20	der	_	ADP	_	_	21	case	_	_
+21	Disposition	_	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	stehen	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	19	nmod	_	_
+23	.	_	_	_	_	10	dep	_	_
+
+# sent_id = test-s267
+# text = Trotzdem muß ich warten -- "nehmen Sie doch noch mal Platz."
+1	Trotzdem	trotzdem	ADV	_	_	2	advmod	_	_
+2	muß	müssen	AUX	_	_	3	aux	_	_
+3	ich	ich	PRON	_	_	4	nsubj	_	_
+4	warten	warten	VERB	_	_	0	root	_	_
+5	--	nehmen	VERB	_	_	4	advcl	_	_
+6	"	doch	ADV	_	_	5	advmod	_	_
+7	nehmen	mal	ADV	_	_	5	advmod	_	_
+8	Sie	Platz	NOUN	_	_	5	obj	_	_
+9	doch	.	PUNCT	_	_	4	punct	_	_
+10	noch	_	_	_	_	4	dep	_	_
+11	mal	_	_	_	_	4	dep	_	_
+12	Platz	_	_	_	_	4	dep	_	_
+13	.	_	_	_	_	4	dep	_	_
+14	"	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s874
+# text = Die Insassen jubelten: ``Rabin ist tot!
+1	Die	_	_	_	_	0	root	_	_
+2	Insassen	_	_	_	_	1	dep	_	_
+3	jubelten	_	_	_	_	1	dep	_	_
+4	:	_	_	_	_	1	dep	_	_
+5	``	_	_	_	_	1	dep	_	_
+6	Rabin	_	_	_	_	1	dep	_	_
+7	ist	_	_	_	_	1	dep	_	_
+8	tot	_	_	_	_	1	dep	_	_
+9	!	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s532
+# text = Der Sturm in der Ostsee hat an die Strände Mecklenburg-Vorpommerns scharfe Flak-Granaten und Panzerfäuste gespült.
+1	Der	_	_	_	_	0	root	_	_
+2	Sturm	_	_	_	_	1	dep	_	_
+3	in	_	_	_	_	1	dep	_	_
+4	der	_	_	_	_	1	dep	_	_
+5	Ostsee	_	_	_	_	1	dep	_	_
+6	hat	_	_	_	_	1	dep	_	_
+7	an	_	_	_	_	1	dep	_	_
+8	die	_	_	_	_	1	dep	_	_
+9	Strände	_	_	_	_	1	dep	_	_
+10	Mecklenburg	_	_	_	_	1	dep	_	_
+11	-	_	_	_	_	1	dep	_	_
+12	Vorpommerns	_	_	_	_	1	dep	_	_
+13	scharfe	_	_	_	_	1	dep	_	_
+14	Flak	_	_	_	_	1	dep	_	_
+15	-	_	_	_	_	1	dep	_	_
+16	Granaten	_	_	_	_	1	dep	_	_
+17	und	_	_	_	_	1	dep	_	_
+18	Panzerfäuste	_	_	_	_	1	dep	_	_
+19	gespült	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s758
+# text = Dort stieg der Auftragseingang von März zu April zwar um 7,5 Prozent.
+1	Dort	dort	ADV	_	_	2	advmod	_	_
+2	stieg	stiegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	der	der	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Auftragseingang	Auftragseingang	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	von	von	ADP	_	_	6	case	_	_
+6	März	März	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	_
+7	zu	zu	ADP	_	_	8	case	_	_
+8	April	April	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	_
+9	zwar	zwar	ADV	_	_	2	advmod	_	_
+10	um	um	ADP	_	_	11	case	_	_
+11	7,5	7,5	NUM	_	NumType=Card	2	advmod	_	_
+12	Prozent	Prozent	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nmod	_	_
+13	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s370
+# text = Die Delegierten folgten außerdem der Empfehlung des Landesausschusses, über einige Anträge für einen Gang in die Opposition erst auf dem nächsten Parteitag, der für Mitte Dezember vorgesehen ist, abzustimmen.
+1	Die	_	_	_	_	0	root	_	_
+2	Delegierten	_	_	_	_	1	dep	_	_
+3	folgten	_	_	_	_	1	dep	_	_
+4	außerdem	_	_	_	_	1	dep	_	_
+5	der	_	_	_	_	1	dep	_	_
+6	Empfehlung	_	_	_	_	1	dep	_	_
+7	des	_	_	_	_	1	dep	_	_
+8	Landesausschusses	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	über	_	_	_	_	1	dep	_	_
+11	einige	_	_	_	_	1	dep	_	_
+12	Anträge	_	_	_	_	1	dep	_	_
+13	für	_	_	_	_	1	dep	_	_
+14	einen	_	_	_	_	1	dep	_	_
+15	Gang	_	_	_	_	1	dep	_	_
+16	in	_	_	_	_	1	dep	_	_
+17	die	_	_	_	_	1	dep	_	_
+18	Opposition	_	_	_	_	1	dep	_	_
+19	erst	_	_	_	_	1	dep	_	_
+20	auf	_	_	_	_	1	dep	_	_
+21	dem	_	_	_	_	1	dep	_	_
+22	nächsten	_	_	_	_	1	dep	_	_
+23	Parteitag	_	_	_	_	1	dep	_	_
+24	,	_	_	_	_	1	dep	_	_
+25	der	_	_	_	_	1	dep	_	_
+26	für	_	_	_	_	1	dep	_	_
+27	Mitte	_	_	_	_	1	dep	_	_
+28	Dezember	_	_	_	_	1	dep	_	_
+29	vorgesehen	_	_	_	_	1	dep	_	_
+30	ist	_	_	_	_	1	dep	_	_
+31	,	_	_	_	_	1	dep	_	_
+32	abzustimmen	_	_	_	_	1	dep	_	_
+33	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s126
+# text = Ein sauberer Park für die ganze Familie.
+1	Ein	ein	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
+2	sauberer	sauber	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	dep	_	_
+3	Park	Park	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	_
+4	für	für	ADP	ADP	_	1	dep	_	_
+5	die	die	DET	DET	Case=Acc|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	ganze	ganze	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Familie	Familie	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s720
+# text = Auch im Westen Bosnien-Herzegowinas dauerten die Kämpfe um die Stadt Trebinje an.
+1	Auch	_	_	_	_	0	root	_	_
+2-3	im	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	1	dep	_	_
+3	dem	_	_	_	_	1	dep	_	_
+4	Westen	_	_	_	_	1	dep	_	_
+5	Bosnien	_	_	_	_	1	dep	_	_
+6	-	_	_	_	_	1	dep	_	_
+7	Herzegowinas	_	_	_	_	1	dep	_	_
+8	dauerten	_	_	_	_	1	dep	_	_
+9	die	_	_	_	_	1	dep	_	_
+10	Kämpfe	_	_	_	_	1	dep	_	_
+11	um	_	_	_	_	1	dep	_	_
+12	die	_	_	_	_	1	dep	_	_
+13	Stadt	_	_	_	_	1	dep	_	_
+14	Trebinje	_	_	_	_	1	dep	_	_
+15	an	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s702
+# text = die Behörden seiner 1983 einseitig ausgerufenen ``Türkischen Republik Nordzypern'' geben nun eilig Besitzzertifikate für das 1974 besetzte und jetzt teils von türkischen Zyprioten, teils von in Nordzypern angesiedelten Festlandstürken bewirtschaftete Land aus.
+1	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Behörden	Behörde	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	seiner	seine	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	1983	1983	NUM	NUM	NumType=Card	2	nmod	_	_
+5	einseitig	einseitig	ADV	ADV	_	6	advmod	_	_
+6	ausgerufenen	ausgeben	VERB	VERB	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+7	``	``	PUNCT	PUNCT	_	8	punct	_	_
+8	Türkischen	Türke	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	Republik	Republik	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	Nordzypern	"	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	''	''	PUNCT	PUNCT	_	6	punct	_	_
+12	geben	geben	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
+13	nun	nun	ADV	ADV	_	14	advmod	_	_
+14	eilig	eilig	ADV	ADV	_	12	advmod	_	_
+15	Besitzzertifikate	Besitzzertifikat	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
+16	für	für	ADP	ADP	_	17	case	_	_
+17	das	das	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
+18	1974	1974	NUM	NUM	NumType=Card	15	nmod	_	_
+19	besetzte	besetzen	VERB	VERB	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	18	acl	_	_
+20	und	und	CCONJ	CCONJ	_	21	cc	_	_
+21	jetzt	heute	ADV	ADV	_	19	conj	_	_
+22	teils	teils	ADV	ADV	_	2	dep	_	_
+23	von	von	ADP	ADP	_	24	case	_	_
+24	türkischen	türkisch	ADJ	ADJ	Case=Dat|Gender=Masc|Number=Plur	25	nmod	_	_
+25	Zyprioten	Zypriote	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Plur	22	nmod	_	_
+26	,	,	PUNCT	PUNCT	_	27	punct	_	_
+27	teils	teils	ADV	ADV	_	23	conj	_	_
+28	von	von	ADP	ADP	_	29	case	_	_
+29	in	in	ADP	ADP	_	30	case	_	_
+30	Nordzypern	Nordzypern	PROPN	PROPN	Case=Dat|Gender=Fem|Number=Sing	27	nmod	_	_
+31	angesiedelten	angesiedeln	VERB	VERB	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	30	acl	_	_
+32	Festlandstürken	Festlandstürke	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Plur	30	nmod	_	_
+33	bewirtschaftete	bewirtschaften	VERB	VERB	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	32	acl	_	_
+34	Land	Land	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	33	nsubj	_	_
+35	aus	aus	ADP	ADP	_	36	case	_	_
+36	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s521
+# text = SPD solle sich doch bitte, auch in Schwerin, ``in der Sache profilieren --'' sowohl gegenüber der CDU als auch in die andere Richtung:
+1	SPD	spd	NOUN	NN	_	4	nsubj	_	_
+2	solle	sollen	AUX	VVFIN	_	4	aux	_	_
+3	sich	doch	ADV	ADV	_	4	advmod	_	_
+4	doch	pd	ADV	ADV	_	0	root	_	_
+5	bitte	bitten	VERB	VVIMP	_	4	advmod	_	_
+6	,	,	PUNCT	$	_	7	punct	_	_
+7	auch	auch	ADV	ADV	_	5	advmod	_	_
+8	in	in	ADP	IN	_	9	case	_	_
+9	Schwerin	Schwerin	PROPN	NE	_	7	obl	_	_
+10	,	,	PUNCT	$	_	11	punct	_	_
+11	``	``	PUNCT	``	_	4	punct	_	_
+12	in	in	ADP	IN	_	4	dep	_	_
+13	der	der	DET	ART	_	14	det	_	_
+14	Sache	Sache	NOUN	NN	_	12	nmod	_	_
+15	profilieren	profilieren	VERB	VVINF	_	4	advmod	_	_
+16	--	--	PUNCT	--	_	11	punct	_	_
+17	''	sowohl	ADV	ADV	_	4	dep	_	_
+18	sowohl	gegenüber	ADP	IN	_	19	case	_	_
+19	gegenüber	CDU	PROPN	NE	_	17	obl	_	_
+20	der	als	CCONJ	KON	_	21	cc	_	_
+21	CDU	also	ADV	ADV	_	17	conj	_	_
+22	als	in	ADP	IN	_	4	dep	_	_
+23	auch	der	DET	ART	_	24	det	_	_
+24	in	anderen	ADJ	ADJA	_	22	nmod	_	_
+25	die	Richtung	NOUN	NN	_	23	nmod	_	_
+26	andere	:	PUNCT	$	_	4	punct	_	_
+27	Richtung	_	_	_	_	4	dep	_	_
+28	:	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s531
+# text = Wenige Stunden später wurde in Belfast ein Katholik angeschossen und schwer verletzt.
+1	Wenige	hoch	ADJ	ADJ	_	2	amod	_	_
+2	Stunden	später	NOUN	NOUN	_	3	nmod	_	_
+3	später	werden	VERB	VERB	_	0	root	_	_
+4	wurde	in	ADP	ADP	_	5	case	_	_
+5	in	Belfast	PROPN	PROPN	_	3	obl	_	_
+6	Belfast	ein	DET	DET	_	7	det	_	_
+7	ein	Katholik	NOUN	NOUN	_	8	nsubj	_	_
+8	Katholik	angeschossen	VERB	VERB	_	3	ccomp	_	_
+9	angeschossen	und	CCONJ	CCONJ	_	3	cc	_	_
+10	und	schwer	ADJ	ADJ	_	11	amod	_	_
+11	schwer	verletzt	VERB	VERB	_	8	conj	_	_
+12	verletzt	.	PUNCT	PUNCT	_	3	punct	_	_
+13	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s61
+# text = Dank ihm sind unsere Rechtsstreitigkeiten positiv verlaufen.
+1	Dank	_	_	_	_	0	root	_	_
+2	ihm	_	_	_	_	1	dep	_	_
+3	sind	_	_	_	_	1	dep	_	_
+4	unsere	_	_	_	_	1	dep	_	_
+5	Rechtsstreitigkeiten	_	_	_	_	1	dep	_	_
+6	positiv	_	_	_	_	1	dep	_	_
+7	verlaufen	_	_	_	_	1	dep	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s19
+# text = Am Abend war weder der Tisch noch eine sinnvolle Alternative reserviert...
+1-2	Am	_	_	_	_	_	_	_	_
+1	An	_	_	_	_	3	dep	_	_
+2	dem	Abend	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	_
+3	Abend	werden	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	war	needer	ADV	ADV	_	3	advmod	_	_
+5	weder	Tisch	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	der	noch	ADV	ADV	_	3	advmod	_	_
+7	Tisch	ein	DET	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	noch	sinnvoll	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	eine	Alternative	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	_
+10	sinnvolle	reservieren	VERB	VERB	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	_
+11	Alternative	...	PUNCT	PUNCT	_	3	punct	_	_
+12	reserviert	_	_	_	_	3	dep	_	_
+13	...	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s743
+# text = Ausländische Experten wurden aufgerufen, bei der Schadensbeseitigung zu helfen.
+1	Ausländische	_Ausländisch_	ADJ	ADJ	_	2	nmod	_	_
+2	Experten	Experte	NOUN	NOUN	_	3	nsubj	_	_
+3	wurden	werden	AUX	AUX	_	4	aux	_	_
+4	aufgerufen	aufrufen	VERB	VERB	_	0	root	_	_
+5	,	bei	ADP	ADP	_	6	case	_	_
+6	bei	der	DET	DET	_	7	det	_	_
+7	der	Schaden	NOUN	NOUN	_	8	nmod	_	_
+8	Schadensbeseitigung	beseitigen	VERB	VERB	_	4	advcl	_	_
+9	zu	helfen	VERB	VERB	_	8	obj	_	_
+10	helfen	_	_	_	_	4	dep	_	_
+11	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s593
+# text = Mit Neid verfolgen die Gewerkschaften den verbissenen Ernst der Bemühungen, um die ``Stabilitätskriterien'' für die geplante Währungsunion einzuhalten.
+1	Mit	_	_	_	_	0	root	_	_
+2	Neid	_	_	_	_	1	dep	_	_
+3	verfolgen	_	_	_	_	1	dep	_	_
+4	die	_	_	_	_	1	dep	_	_
+5	Gewerkschaften	_	_	_	_	1	dep	_	_
+6	den	_	_	_	_	1	dep	_	_
+7	verbissenen	_	_	_	_	1	dep	_	_
+8	Ernst	_	_	_	_	1	dep	_	_
+9	der	_	_	_	_	1	dep	_	_
+10	Bemühungen	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	um	_	_	_	_	1	dep	_	_
+13	die	_	_	_	_	1	dep	_	_
+14	``	_	_	_	_	1	dep	_	_
+15	Stabilitätskriterien	_	_	_	_	1	dep	_	_
+16	''	_	_	_	_	1	dep	_	_
+17	für	_	_	_	_	1	dep	_	_
+18	die	_	_	_	_	1	dep	_	_
+19	geplante	_	_	_	_	1	dep	_	_
+20	Währungsunion	_	_	_	_	1	dep	_	_
+21	einzuhalten	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s672
+# text = Rappe sprach sich dafür aus, daß nicht nur Arbeitgeber und Arbeitnehmer, sondern auch Selbständige und Beamte die Pflegeversicherung mitfinanzieren sollten.
+1	Rappe	sprach	SICH	dat	Case=Dat|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+2	sprach	_	_	_	_	1	dep	_	_
+3	sich	_	_	_	_	1	dep	_	_
+4	dafür	_	_	_	_	1	dep	_	_
+5	aus	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	daß	_	_	_	_	1	dep	_	_
+8	nicht	Arbeitgeber	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+9	nur	_	_	_	_	1	dep	_	_
+10	Arbeitgeber	Arbeitnehmer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	conj	_	_
+11	und	_	_	_	_	1	dep	_	_
+12	Arbeitnehmer	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	sondern	_	_	_	_	1	dep	_	_
+15	auch	_	_	_	_	1	dep	_	_
+16	Selbständige	_	_	_	_	1	dep	_	_
+17	und	_	_	_	_	1	dep	_	_
+18	Beamte	_	_	_	_	1	dep	_	_
+19	die	_	_	_	_	1	dep	_	_
+20	Pflegeversicherung	_	_	_	_	1	dep	_	_
+21	mitfinanzieren	_	_	_	_	1	dep	_	_
+22	sollten	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s195
+# text = Ich wechsle da immer ein bisschen durch.
+1	Ich	ich	PRON	PPER	_	2	nsubj	_	_
+2	wechsle	wechseln	VERB	VVFIN	_	0	root	_	_
+3	da	da	ADV	ADV	_	2	advmod	_	_
+4	immer	immer	ADV	ADV	_	2	advmod	_	_
+5	ein	ein	DET	ART	_	6	det	_	_
+6	bisschen	bisschen	NOUN	NN	_	2	obj	_	_
+7	durch	_	_	_	_	2	dep	_	_
+8	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s649
+# text = Die Agrarbetriebe zwischen Elbe und Oder aber stecken tief in der Krise.
+1	Die	der	DET	ART	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+2	Agrarbetriebe	agrarbetrieb	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	1	dep	_	_
+3	zwischen	elbe	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	Elbe	elbe	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+5	und	und	CCONJ	CCONJ	_	6	cc	_	_
+6	Oder	oder	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
+7	aber	aber	ADV	ADV	_	1	dep	_	_
+8	stecken	stecken	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	dep	_	_
+9	tief	tief	ADV	ADV	_	10	advmod	_	_
+10	in	in	ADP	ADP	_	11	case	_	_
+11	der	der	DET	DET	Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	_
+12	Krise	Krise	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	11	nmod	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s484
+# text = Islamische Opposition fordert Dialog
+1	Islamische	Islamisch	ADJ	ADJ	_	2	amod	_	_
+2	Opposition	Opposition	NOUN	NOUN	_	3	nmod	_	_
+3	fordert	fordern	VERB	VERB	_	0	root	_	_
+4	Dialog	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s681
+# text = Ifo: Konjunktur springt in Westeuropa 1993 an
+1	Ifo	Ifo	NOUN	NN	_	4	nsubj	_	_
+2	:	:	PUNCT	:	_	1	punct	_	_
+3	Konjunktur	Konjunktur	NOUN	NN	_	4	nsubj	_	_
+4	springt	springen	VERB	VVFIN	_	0	root	_	_
+5	in	in	ADP	IN	_	6	case	_	_
+6	Westeuropa	Westeuropa	PROPN	NE	_	4	obl	_	_
+7	1993	1993	NUM	NN	_	6	nummod	_	_
+8	an	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s867
+# text = Keine Zeile, die nicht verdreht, verstümmelt, zerstört würde.
+1	Keine	_	_	_	_	0	root	_	_
+2	Zeile	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	die	_	_	_	_	1	dep	_	_
+5	nicht	_	_	_	_	1	dep	_	_
+6	verdreht	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	verstümmelt	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	zerstört	_	_	_	_	1	dep	_	_
+11	würde	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s959
+# text = Und hormonhaltige Präparate können unerwünschte Wirkungen haben.
+1	Und	_	_	_	_	0	root	_	_
+2	hormonhaltige	_	_	_	_	1	dep	_	_
+3	Präparate	_	_	_	_	1	dep	_	_
+4	können	_	_	_	_	1	dep	_	_
+5	unerwünschte	_	_	_	_	1	dep	_	_
+6	Wirkungen	_	_	_	_	1	dep	_	_
+7	haben	_	_	_	_	1	dep	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s846
+# text = Ja, man hat mich mal außer Gefecht gesetzt.
+1	Ja	ja	ADV	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+5	mich	mich	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	dep	_	_
+6	mal	mal	ADV	_	_	7	advmod	_	_
+7	außer	außer	ADP	_	_	8	case	_	_
+8	Gefecht	Gefecht	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	_
+9	gesetzt	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s612
+# text = Auch Japan ist dort erst erschienen, nachdem Kohl persönlich in Tokio darum gebeten hatte.
+1	Auch	Ja	ADV	ADV	_	2	advmod	_	_
+2	Japan	Japan	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dort	dort	ADV	ADV	_	5	advmod	_	_
+5	erst	erscheinen	VERB	VVPP	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+6	erschienen	,	PUNCT	,	_	7	punct	_	_
+7	,	nachdem	ADV	ADV	_	5	advmod	_	_
+8	nachdem	Kohl	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	Kohl	personlich	ADV	ADV	_	7	advmod	_	_
+10	persönlich	in	ADP	IN	_	11	case	_	_
+11	in	Tokio	PROPN	NNP	Case=Dat|Gender=Neut|Number=Sing	9	nmod	_	_
+12	Tokio	darum	ADV	ADV	_	13	advmod	_	_
+13	darum	geben	VERB	VVPP	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+14	gebeten	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+15	hatte	.	PUNCT	.	_	3	punct	_	_
+16	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s539
+# text = Der US-Handelsbeauftragte Mickey Kantor äußerte sich über das bisherige Ergebnis zufrieden:
+1	Der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	US	US	PROPN	PROPN	_	3	nmod	_	_
+3	-	Handelsbeauftragte	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	Handelsbeauftragte	sich	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Mickey	sich	PRON	PRON	Case=Acc,Dat|Person=3|PronType=Prs	4	expl:pv	_	_
+6	Kantor	über	ADP	ADP	_	7	case	_	_
+7	äußerte	das	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	sich	bisherig	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	über	Ergebnis	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+10	das	zufrieden	ADV	ADV	_	4	advmod	_	_
+11	bisherige	:	PUNCT	PUNCT	_	4	punct	_	_
+12	Ergebnis	_	_	_	_	4	dep	_	_
+13	zufrieden	_	_	_	_	4	dep	_	_
+14	:	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s290
+# text = Wir kommen immer wieder.
+1	Wir	we	PRON	PPER	_	2	nsubj	_	_
+2	kommen	kommen	VERB	VVFIN	_	0	root	_	_
+3	immer	immer	ADV	ADV	_	2	advmod	_	_
+4	wieder	wieder	ADV	ADV	_	2	advmod	_	_
+5	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s377
+# text = Die Leute brauchen doch auch privat ein Dach über dem Kopf.
+1	Die	der	DET	ART	Case=Nom|Gender=Fem|Number=Plur	2	det	_	_
+2	Leute	Leute	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	brauchen	brauchen	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	doch	doch	ADV	ADV	_	3	advmod	_	_
+5	auch	auch	ADV	ADV	_	3	advmod	_	_
+6	privat	privat	ADV	ADV	_	3	advmod	_	_
+7	ein	ein	DET	ART	Case=Acc|Gender=Neut|Number=Sing	8	det	_	_
+8	Dach	Dach	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+9	über	über	ADP	ADP	_	10	case	_	_
+10	dem	dem	DET	ART	Case=Dat|Gender=Neut|Number=Sing	11	det	_	_
+11	Kopf	Kopf	NOUN	NOUN	Case=Dat|Gender=Neut|Number=Sing	8	nmod	_	_
+12	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s609
+# text = Eine Verwaltung der ökonomischen Krise ist nicht ihre Lösung.
+1	Eine	_	_	_	_	2	dep	_	_
+2	Verwaltung	_	_	NOUN	_	0	root	_	_
+3	der	_	_	DET	_	4	det	_	_
+4	ökonomischen	_	_	ADJ	_	2	amod	_	_
+5	Krise	_	_	_	_	2	dep	_	_
+6	ist	_	_	_	_	2	dep	_	_
+7	nicht	_	_	_	_	2	dep	_	_
+8	ihre	_	_	_	_	2	dep	_	_
+9	Lösung	_	_	_	_	2	dep	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s555
+# text = Keine Wahlmöglichkeit besteht zunächst beim Übergang von einer Ausbildung in ein festes Arbeitsverhältnis oder bei einem Wechsel im gleichen Unternehmen.
+1	Keine	_	_	_	_	0	root	_	_
+2	Wahlmöglichkeit	_	_	_	_	1	dep	_	_
+3	besteht	_	_	_	_	1	dep	_	_
+4	zunächst	_	_	_	_	1	dep	_	_
+5-6	beim	_	_	_	_	_	_	_	_
+5	bei	_	_	_	_	1	dep	_	_
+6	dem	_	_	_	_	1	dep	_	_
+7	Übergang	_	_	_	_	1	dep	_	_
+8	von	_	_	_	_	1	dep	_	_
+9	einer	_	_	_	_	1	dep	_	_
+10	Ausbildung	_	_	_	_	1	dep	_	_
+11	in	_	_	_	_	1	dep	_	_
+12	ein	_	_	_	_	1	dep	_	_
+13	festes	_	_	_	_	1	dep	_	_
+14	Arbeitsverhältnis	_	_	_	_	1	dep	_	_
+15	oder	_	_	_	_	1	dep	_	_
+16	bei	_	_	_	_	1	dep	_	_
+17	einem	_	_	_	_	1	dep	_	_
+18	Wechsel	_	_	_	_	1	dep	_	_
+19-20	im	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	1	dep	_	_
+20	dem	_	_	_	_	1	dep	_	_
+21	gleichen	_	_	_	_	1	dep	_	_
+22	Unternehmen	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s537
+# text = Sie unterstützt deshalb die in Gaza und im Westjordanland geplanten neun Industrieparks.
+1	Sie	sie	PRON	PPER	_	2	nsubj	_	_
+2	unterstützt	unterstützen	VERB	VVFIN	_	0	root	_	_
+3	deshalb	deshalb	ADV	ADV	_	2	advmod	_	_
+4	die	die	DET	ART	_	5	det	_	_
+5	in	in	ADP	IN	_	6	case	_	_
+6	Gaza	Gaza	PROPN	NE	_	7	nmod	_	_
+7	und	und	CCONJ	KON	_	2	conj	_	_
+8-9	im	_	_	_	_	_	_	_	_
+8	in	in	ADP	IN	_	9	case	_	_
+9	dem	dem	DET	ART	_	10	det	_	_
+10	Westjordanland	Westjordanland	PROPN	NE	_	11	nmod	_	_
+11	geplanten	geplant	ADJ	ADJA	_	12	amod	_	_
+12	neun	Industriepark	NOUN	NN	_	2	obj	_	_
+13	Industrieparks	_	_	_	_	2	dep	_	_
+14	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s558
+# text = Immer wenn es Druck gab, hat das Theater auch Gegendruck entwickelt und ist zu sich selbst gekommen.
+1	Immer	immer	ADV	_	_	2	advmod	_	_
+2	wenn	es	CONJ	_	_	0	root	_	_
+3	es	gab	VERB	_	_	2	advcl	_	_
+4	Druck	geben	VERB	_	_	3	advcl	_	_
+5	gab	das	DET	_	_	6	det	_	_
+6	,	Theater	NOUN	_	_	4	nsubj	_	_
+7	hat	auch	ADV	_	_	6	advmod	_	_
+8	das	gegendruck	NOUN	_	_	6	nmod	_	_
+9	Theater	entwickeln	VERB	_	_	6	acl	_	_
+10	auch	und	CCONJ	_	_	6	cc	_	_
+11	Gegendruck	sein	AUX	_	_	6	cop	_	_
+12	entwickelt	zu	ADP	_	_	13	case	_	_
+13	und	sich	PRON	_	_	14	nmod	_	_
+14	ist	selbst	ADJ	_	_	6	nmod	_	_
+15	zu	kommen	VERB	_	_	6	acl	_	_
+16	sich	.	PUNCT	_	_	2	punct	_	_
+17	selbst	_	_	_	_	2	dep	_	_
+18	gekommen	_	_	_	_	2	dep	_	_
+19	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s121
+# text = Ebenfalls die überwiegend guten Bewertungen hier überraschen mich.
+1	Ebenfalls	ebenfalls	ADV	_	_	0	root	_	_
+2	die	die	DET	_	_	1	dep	_	_
+3	überwiegend	überwiegend	ADV	_	_	1	dep	_	_
+4	guten	gut	ADJ	_	_	1	dep	_	_
+5	Bewertungen	Bewertung	NOUN	_	_	1	dep	_	_
+6	hier	hier	ADV	_	_	1	dep	_	_
+7	überraschen	überraschen	VERB	_	_	1	dep	_	_
+8	mich	mich	PRON	_	_	7	obj	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s548
+# text = Sein Vertrag läuft offiziell bis zum 31. Dezember 1992.
+1	Sein	sein	VERB	_	_	0	root	_	_
+2	Vertrag	Vertrag	NOUN	_	_	1	obj	_	_
+3	läuft	läuft	VERB	_	_	2	acl	_	_
+4	offiziell	offiziell	ADV	_	_	3	advmod	_	_
+5	bis	bis	ADP	_	_	1	dep	_	_
+6-7	zum	_	_	_	_	_	_	_	_
+6	zu	dem	DET	_	_	7	det	_	_
+7	dem	31	NUM	_	_	8	nummod	_	_
+8	31.	Dezember	NOUN	_	_	5	obl	_	_
+9	Dezember	1992	NUM	_	_	8	nummod	_	_
+10	1992	.	PUNCT	_	_	1	punct	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s807
+# text = Das alte deutsche Universitätsideal, die von Humboldt beschworene ``Gemeinschaft von Lehrenden und Lernenden'' könne dann im Aufbaustudium ``wieder auferstehen''.
+1	Das	der	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	alte	alt	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	deutsche	deutsch	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	Universitätsideal	Universitätsideal	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	,	,	PUNCT	PUNCT	_	4	dep	_	_
+6	die	die	DET	DET	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	4	dep	_	_
+7	von	von	ADP	ADP	AdpType=Prep	8	case	_	_
+8	Humboldt	Humboldt	PROPN	PROPN	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	beschworene	beschwören	VERB	VERB	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+10	``	``	PUNCT	PUNCT	_	11	punct	_	_
+11	Gemeinschaft	Gemeinschaft	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+12	von	von	ADP	ADP	AdpType=Prep	13	case	_	_
+13	Lehrenden	Lehrer	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Plur	11	nmod	_	_
+14	und	und	CCONJ	CCONJ	_	15	cc	_	_
+15	Lernenden	Lerner	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Plur	13	conj	_	_
+16	''	''	PUNCT	PUNCT	_	11	punct	_	_
+17	könne	können	VERB	VERB	Case=Nom|Gender=Neut|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
+18	dann	dann	ADV	ADV	_	19	advmod	_	_
+19-20	im	_	_	_	_	_	_	_	_
+19	in	da	ADV	ADV	_	17	advmod	_	_
+20	dem	in	ADP	ADP	AdpType=Prep	21	case	_	_
+21	Aufbaustudium	dem	DET	DET	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	22	det	_	_
+22	``	Aufbaustudium	NOUN	NOUN	Case=Dat|Gender=Neut|Number=Sing	17	nmod	_	_
+23	wieder	``	PUNCT	PUNCT	_	24	punct	_	_
+24	auferstehen	wieder	ADV	ADV	_	25	advmod	_	_
+25	''	auferstehen	VERB	VERB	Case=Nom|Gender=Neut|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl	_	_
+26	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s811
+# text = Nördlich von Paris blockierten Bauern wegen der EG-Agrarbeschlüsse die Zugverbindung nach Amiens.
+1	Nördlich	_	_	_	_	0	root	_	_
+2	von	_	_	_	_	1	dep	_	_
+3	Paris	_	_	_	_	1	dep	_	_
+4	blockierten	_	_	_	_	1	dep	_	_
+5	Bauern	_	_	_	_	1	dep	_	_
+6	wegen	_	_	_	_	1	dep	_	_
+7	der	_	_	_	_	1	dep	_	_
+8	EG	_	_	_	_	1	dep	_	_
+9	-	_	_	_	_	1	dep	_	_
+10	Agrarbeschlüsse	_	_	_	_	1	dep	_	_
+11	die	_	_	_	_	1	dep	_	_
+12	Zugverbindung	_	_	_	_	1	dep	_	_
+13	nach	_	_	_	_	1	dep	_	_
+14	Amiens	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s299
+# text = Zum zusammensitzen mit Freunden wie geschaffen.
+1-2	Zum	_	_	_	_	_	_	_	_
+1	Zu	dem	ADP	ADP	Case=Dat|Number=Sing	2	case	_	_
+2	dem	sitzen	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	zusammensitzen	mit	ADP	ADP	_	4	case	_	_
+4	mit	freund	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	_
+5	Freunden	wie	ADV	ADV	_	6	advmod	_	_
+6	wie	machen	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	_
+7	geschaffen	_	_	_	_	2	dep	_	_
+8	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s144
+# text = Es lässt sich nur spekulieren, was mit dem Kühlwasser passiert ist.
+1	Es	Es	PRON	PPER	_	2	nsubj	_	_
+2	lässt	sich	VERB	VAFIN	_	0	root	_	_
+3	sich	sich	PRON	PRON	_	2	expl	_	_
+4	nur	nur	ADV	ADV	_	2	advmod	_	_
+5	spekulieren	spekulieren	VERB	VVPP	_	2	obj	_	_
+6	,	was	PRON	PRON	_	2	dep	_	_
+7	was	mit	ADP	APPR	_	2	dep	_	_
+8	mit	dem	DET	ART	_	9	det	_	_
+9	dem	Kühlwasser	NOUN	NN	_	7	obl	_	_
+10	Kühlwasser	passieren	VERB	VVPP	_	9	acl	_	_
+11	passiert	sein	AUX	VAFIN	_	10	aux	_	_
+12	ist	.	PUNCT	.	_	2	punct	_	_
+13	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s607
+# text = Das hat der Partei genutzt.
+1	Das	das	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Partei	Partei	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	genutzt	_	_	_	_	4	dep	_	_
+6	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s660
+# text = Von den Banken gelang es während der vergangenen Monate, rund drei Dutzend zu veräußern.
+1	Von	_	_	_	_	0	root	_	_
+2	den	_	_	_	_	1	dep	_	_
+3	Banken	_	_	_	_	1	dep	_	_
+4	gelang	_	_	_	_	1	dep	_	_
+5	es	_	_	_	_	1	dep	_	_
+6	während	_	_	_	_	1	dep	_	_
+7	der	_	_	_	_	1	dep	_	_
+8	vergangenen	_	_	_	_	1	dep	_	_
+9	Monate	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	rund	_	_	_	_	1	dep	_	_
+12	drei	_	_	_	_	1	dep	_	_
+13	Dutzend	_	_	_	_	1	dep	_	_
+14	zu	_	_	_	_	1	dep	_	_
+15	veräußern	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s419
+# text = Geschäfte, Restaurants und ein Fünf-Sterne-Hotel von Steigenberger feierten kürzlich Richtfest.
+1	Geschäfte	Geschäft	NOUN	NN	_	0	root	_	_
+2	,	Restaurant	NOUN	NN	_	1	dep	_	_
+3	Restaurants	und	CCONJ	CC	_	1	dep	_	_
+4	und	ein	DET	DT	_	1	dep	_	_
+5	ein	Fünf	NUM	NUM	_	6	nummod	_	_
+6	Fünf	Sterne	NOUN	NN	_	7	nmod:poss	_	_
+7	-	Hotel	NOUN	NN	_	4	nmod:poss	_	_
+8	Sterne	von	ADP	IN	_	9	case	_	_
+9	-	Steigenberger	PROPN	PROPN	_	7	nmod	_	_
+10	Hotel	feier	VERB	VVFIN	_	1	dep	_	_
+11	von	kürzlich	ADV	ADV	_	10	advmod	_	_
+12	Steigenberger	Richtfest	NOUN	NN	_	10	obj	_	_
+13	feierten	.	PUNCT	.	_	10	punct	_	_
+14	kürzlich	_	_	_	_	1	dep	_	_
+15	Richtfest	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s118
+# text = Doch es gibt Momente, da scheint der Wurm drin zu sein.
+1	Doch	doch	ADV	_	_	2	advmod	_	_
+2	es	es	PRON	_	_	3	nsubj	_	_
+3	gibt	gibt	VERB	_	_	0	root	_	_
+4	Momente	Moment	NOUN	_	_	3	obj	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	da	da	ADV	_	_	7	advmod	_	_
+7	scheint	scheinen	VERB	_	_	3	advcl	_	_
+8	der	der	DET	_	_	9	det	_	_
+9	Wurm	Wurm	NOUN	_	_	7	obj	_	_
+10	drin	drin	ADV	_	_	9	advmod	_	_
+11	zu	sein	AUX	_	_	7	aux	_	_
+12	sein	,	PUNCT	_	_	3	punct	_	_
+13	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s606
+# text = Die GAP ist viel zu teuer.
+1	Die	GAP	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	GAP	ist	IST	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ist	viel	ADV	ADV	_	4	advmod	_	_
+4	viel	zu	ADP	ADP	_	2	case	_	_
+5	zu	teuer	ADJ	ADJ	Degree=Pos	4	amod	_	_
+6	teuer	.	PUNCT	PUNCT	_	2	punct	_	_
+7	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s156
+# text = Für uns das letzte Mal in diesem Laden.
+1	Für	'für'	ADP	ADP	Case=Gen|Number=Sing	2	case	_	_
+2	uns	'unsere'	DET	DET	Case=Gen|Gender=Fem|Number=Sing|PronType=Prs	3	det	_	_
+3	das	'letzte'	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	letzte	'mal'	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	Mal	'in'	ADP	ADP	Case=Dat|Number=Sing	6	case	_	_
+6	in	'dieser'	DET	DET	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	diesem	'laden'	NOUN	NOUN	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
+8	Laden	'.'	PUNCT	PUNCT	_	4	punct	_	_
+9	.	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s924
+# text = Die Miesmuschelfischerei ist dabei ein ständiger Zankapfel zwischen Ökologie und Ökonomie.
+1	Die	der	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Miesmuschelfischerei	Miesmuschelfischerei	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	ist	sein	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dabei	dabei	ADV	ADV	_	3	advmod	_	_
+5	ein	ein	DET	DET	Definite=Ind|PronType=Art	6	det	_	_
+6	ständiger	Zankapfel	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+7	Zankapfel	zwischen	ADP	ADP	_	8	case	_	_
+8	zwischen	Ökologie	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+9	Ökologie	und	CCONJ	CCONJ	_	10	cc	_	_
+10	und	Ökonomie	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	8	conj	_	_
+11	Ökonomie	.	PUNCT	PUNCT	_	3	punct	_	_
+12	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s155
+# text = Für den Monatsbeitrag kann man dann an allen angebotenen Kursen (täglich mehrere Kurse, auch Samstag und Sonntag) teilnehmen.
+1	Für	dem	ADP	ADP	Case=Dat|Number=Sing	2	case	_	_
+2	den	Monatsbeitrag	NUM	NUM	Number=Sing	3	nummod	_	_
+3	Monatsbeitrag	können	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	kann	dann	ADV	ADV	_	3	advmod	_	_
+5	man	am	ADP	ADP	_	6	case	_	_
+6	dann	alle	DET	DET	Case=Dat|Number=Plur|PronType=Tot	7	det	_	_
+7	an	Kurs	PROPN	PROPN	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	8	nmod	_	_
+8	allen	_	_	_	_	3	dep	_	_
+9	angebotenen	mehrere	ADJ	ADJ	Case=Nom|Degree=Cmp|Number=Plur	10	amod	_	_
+10	Kursen	Kurs	PROPN	PROPN	Case=Nom|Number=Plur	8	appos	_	_
+11	(	,	PUNCT	PUNCT	_	12	punct	_	_
+12	täglich	SAMSTAG	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+13	mehrere	_	_	_	_	3	dep	_	_
+14	Kurse	SONNTAG	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+15	,	_	_	_	_	3	dep	_	_
+16	auch	)	PUNCT	PUNCT	_	8	punct	_	_
+17	Samstag	teilnehmen	VERB	VERB	VerbForm=Inf	3	xcomp	_	_
+18	und	.	PUNCT	PUNCT	_	3	punct	_	_
+19	Sonntag	_	_	_	_	3	dep	_	_
+20	)	_	_	_	_	3	dep	_	_
+21	teilnehmen	_	_	_	_	3	dep	_	_
+22	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s955
+# text = Kwasniewski wandte sich an den ehemals führenden Solidarnosc-Aktivisten und heutigen Wahldritten, Kuron:
+1	Kwasniewski	_	_	_	_	0	root	_	_
+2	wandte	_	_	_	_	1	dep	_	_
+3	sich	_	_	_	_	1	dep	_	_
+4	an	_	_	_	_	1	dep	_	_
+5	den	_	_	_	_	1	dep	_	_
+6	ehemals	_	_	_	_	1	dep	_	_
+7	führenden	_	_	_	_	1	dep	_	_
+8	Solidarnosc	_	_	_	_	1	dep	_	_
+9	-	_	_	_	_	1	dep	_	_
+10	Aktivisten	_	_	_	_	1	dep	_	_
+11	und	_	_	_	_	1	dep	_	_
+12	heutigen	_	_	_	_	1	dep	_	_
+13	Wahldritten	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	Kuron	_	_	_	_	1	dep	_	_
+16	:	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s441
+# text = Deutsche Investitionen in China, die nun stark anziehen, sind mehr als nur wünschenswert.
+1	Deutsche	Deutsch	ADJ	ADJA	_	2	amod	_	_
+2	Investitionen	Investition	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	China	China	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
+5	,	,	PUNCT	,	_	6	punct	_	_
+6	die	nun	ADV	ADV	_	7	advmod	_	_
+7	nun	stark	ADJ	ADJ	_	8	amod	_	_
+8	stark	anziehen	VERB	VVINF	VerbForm=Inf	2	acl	_	_
+9	anziehen	,	PUNCT	,	_	10	punct	_	_
+10	,	sind	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+11	sind	mehr	ADV	ADV	_	12	advmod	_	_
+12	mehr	als	ADP	IN	_	13	case	_	_
+13	als	wünschenswert	ADJ	ADJ	_	10	nmod	_	_
+14	nur	.	PUNCT	.	_	2	punct	_	_
+15	wünschenswert	_	_	_	_	2	dep	_	_
+16	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s157
+# text = Ganz große Klasse, besonders für Familien.
+1	Ganz	ganz	ADJ	ADJA	_	2	amod	_	_
+2	große	gross	NOUN	NN	_	3	nmod	_	_
+3	Klasse	Klasse	NOUN	NN	_	0	root	_	_
+4	,	besonders	ADV	ADV	_	3	advmod	_	_
+5	besonders	für	ADP	APPR	_	6	case	_	_
+6	für	Familie	NOUN	NN	_	3	nmod	_	_
+7	Familien	_	_	_	_	3	dep	_	_
+8	.	_	_	_	_	3	dep	_	_
+
+# sent_id = test-s386
+# text = Der Druck auf die Zimmerpreise bleibt unverändert groß:
+1	Der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Druck	druck	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	auf	auf	ADP	ADP	AdpType=Prep	4	case	_	_
+4	die	die	DET	DET	Case=Acc|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	Zimmerpreise	zimmerpreis	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	2	nmod	_	_
+6	bleibt	bleiben	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+7	unverändert	unverändert	ADV	ADV	Degree=Pos	6	advmod	_	_
+8	groß	groß	ADJ	ADJ	Degree=Pos	6	amod	_	_
+9	:	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s302
+# text = -- Präsident Bill Clinton sprach von einer ``verabscheuungswürdigen Tat'' und machte deutlich, daß die USA auf jeden Fall an der Präsenz in dem arabischen Land festhielten.
+1	--	--	PUNCT	_	_	0	root	_	_
+2	Präsident	Präsident	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	dep	_	_
+3	Bill	Bill	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+4	Clinton	Clinton	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	sprach	sprechen	VERB	VVFIN	Case=Nom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	dep	_	_
+6	von	von	ADP	IN	_	7	case	_	_
+7	einer	ein	DET	ART	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	``	Tat	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	_
+9	verabscheuungswürdigen	Tat	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	8	flat:name	_	_
+10	Tat	und	CCONJ	KON	_	11	cc	_	_
+11	''	machen	VERB	VVFIN	Case=Nom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+12	und	deutlich	ADV	ADV	_	13	advmod	_	_
+13	machte	dass	SCONJ	KON	_	11	advcl	_	_
+14	deutlich	die	DET	ART	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	,	USA	PROPN	NNP	Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	_
+16	daß	auf	ADP	IN	_	17	case	_	_
+17	die	jeder	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	18	det	_	_
+18	USA	Fall	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	15	nmod	_	_
+19	auf	an	ADP	IN	_	20	case	_	_
+20	jeden	der	DET	ART	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Fall	Präsenz	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	18	nmod	_	_
+22	an	in	ADP	IN	_	23	case	_	_
+23	der	dem	DET	ART	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	24	det	_	_
+24	Präsenz	arabisch	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	21	nmod	_	_
+25	in	Land	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	24	flat:name	_	_
+26	dem	.	PUNCT	$.	_	5	punct	_	_
+27	arabischen	_	_	_	_	1	dep	_	_
+28	Land	_	_	_	_	1	dep	_	_
+29	festhielten	_	_	_	_	1	dep	_	_
+30	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s322
+# text = Bis 1929 ist keine Schrift Bachtins unter seinem eigenen Namen erschienen.
+1	Bis	_	ADP	_	Case=Acc	11	dep	_	_
+2	1929	_	NUM	_	NumType=Card	11	dep	_	_
+3	ist	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	dep	_	_
+4	keine	_	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	11	dep	_	_
+5	Schrift	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	dep	_	_
+6	Bachtins	_	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	unter	_	ADP	_	Case=Gen	8	case	_	_
+8	seinem	_	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod	_	_
+9	eigenen	_	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
+10	Namen	_	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	erschienen	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+12	.	_	_	_	_	11	dep	_	_
+
+# sent_id = test-s734
+# text = Die Lagerhalle sei inzwischen versiegelt.
+1	Die	_	_	_	_	0	root	_	_
+2	Lagerhalle	_	_	_	_	1	dep	_	_
+3	sei	_	_	_	_	1	dep	_	_
+4	inzwischen	_	_	_	_	1	dep	_	_
+5	versiegelt	_	_	_	_	1	dep	_	_
+6	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s303
+# text = "Aber das Gericht hat dies nicht mit der Eindeutigkeit und der Klarheit getan, die wir uns gewünscht hätten'', sagte er."
+1	"	aber	ADV	_	_	2	advmod	_	_
+2	Aber	das	DET	_	_	3	det	_	_
+3	das	Gericht	NOUN	_	_	4	nsubj	_	_
+4	Gericht	haben	VERB	_	_	0	root	_	_
+5	hat	dies	PRON	_	_	4	obj	_	_
+6	dies	nicht	PART	_	_	4	advmod	_	_
+7	nicht	mit	ADP	_	_	4	dep	_	_
+8	mit	Einheit	NOUN	_	_	9	nmod	_	_
+9	der	Eindeutigkeit	NOUN	_	_	7	nmod	_	_
+10	Eindeutigkeit	und	CCONJ	_	_	9	cc	_	_
+11	und	der	DET	_	_	12	det	_	_
+12	der	Klarheit	NOUN	_	_	9	conj	_	_
+13	Klarheit	wer	PRON	_	_	12	nmod	_	_
+14	getan	wir	PRON	_	_	13	nmod	_	_
+15	,	sich	PRON	_	_	14	nmod	_	_
+16	die	gewünscht	VERB	_	_	13	xcomp	_	_
+17	wir	haben	AUX	_	_	16	aux	_	_
+18	uns	,	PUNCT	_	_	4	punct	_	_
+19	gewünscht	sagen	VERB	_	_	4	ccomp	_	_
+20	hätten	er	PRON	_	_	19	nsubj	_	_
+21	''	.	PUNCT	_	_	4	punct	_	_
+22	,	_	_	_	_	4	dep	_	_
+23	sagte	_	_	_	_	4	dep	_	_
+24	er	_	_	_	_	4	dep	_	_
+25	.	_	_	_	_	4	dep	_	_
+26	"	_	_	_	_	4	dep	_	_
+
+# sent_id = test-s615
+# text = ``Wir in der Wirtschaft lernen von eurer Erniedrigung und von euren Skandalen, daß wir noch mehr die Öffentlichkeit meiden müssen.
+1	``	_	_	_	_	0	root	_	_
+2	Wir	_	_	_	_	1	dep	_	_
+3	in	_	_	_	_	1	dep	_	_
+4	der	_	_	_	_	1	dep	_	_
+5	Wirtschaft	_	_	_	_	1	dep	_	_
+6	lernen	_	_	_	_	1	dep	_	_
+7	von	_	_	_	_	1	dep	_	_
+8	eurer	_	_	_	_	1	dep	_	_
+9	Erniedrigung	_	_	_	_	1	dep	_	_
+10	und	_	_	_	_	1	dep	_	_
+11	von	_	_	_	_	1	dep	_	_
+12	euren	_	_	_	_	1	dep	_	_
+13	Skandalen	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	daß	_	_	_	_	1	dep	_	_
+16	wir	_	_	_	_	1	dep	_	_
+17	noch	_	_	_	_	1	dep	_	_
+18	mehr	_	_	_	_	1	dep	_	_
+19	die	_	_	_	_	1	dep	_	_
+20	Öffentlichkeit	_	_	_	_	1	dep	_	_
+21	meiden	_	_	_	_	1	dep	_	_
+22	müssen	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s240
+# text = Perfekte Handwerksarbeit und eine schnelle Auftragsausführung.
+1	Perfekte	perfekt	ADJ	ADJ	_	2	amod	_	_
+2	Handwerksarbeit	Handwerksarbeit	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+3	und	und	CCONJ	CCONJ	_	4	cc	_	_
+4	eine	_	_	_	_	2	dep	_	_
+5	schnelle	.	PUNCT	PUNCT	_	2	punct	_	_
+6	Auftragsausführung	_	_	_	_	2	dep	_	_
+7	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s782
+# text = Der ums Überleben kämpfende dänische Versicherungskonzern Hafnia scheint vorerst gerettet zu sein.
+1	Der	der	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	dep	_	_
+2-3	ums	_	_	_	_	_	_	_	_
+2	um	um	ADP	ADP	AdpType=Prep	8	dep	_	_
+3	das	das	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	Überleben	Überleben	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	kämpfende	kämpfen	VERB	VERB	Aspect=Imp|Gender=Neut|Mood=Part|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advmod	_	_
+6	dänische	dänisch	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	Versicherungskonzern	Versicherungskonzern	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+8	Hafnia	scheinen	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	scheint	vorerst	ADV	ADV	_	8	advmod	_	_
+10	vorerst	gerettet	VERB	VERB	Aspect=Perf|Gender=Neut|Mood=Part|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advmod	_	_
+11	gerettet	zu	PART	PART	_	12	mark	_	_
+12	zu	sein	AUX	AUX	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+13	sein	.	PUNCT	PUNCT	_	8	punct	_	_
+14	.	_	_	_	_	8	dep	_	_
+
+# sent_id = test-s225
+# text = Mehrere kleine Schrauben waren nun nicht mehr mit einer Mutter festgezogen, sondern geklebt..
+1	Mehrere	klein	ADJ	ADJ	Case=Nom|NumForm=Word|NumType=Sing	0	root	_	_
+2	kleine	Schraube	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	1	dep	_	_
+3	Schrauben	sein	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	dep	_	_
+4	waren	nun	ADV	ADV	_	1	dep	_	_
+5	nun	nicht	PART	PART	_	1	dep	_	_
+6	nicht	mehr	ADV	ADV	_	1	dep	_	_
+7	mehr	mit	ADP	ADP	_	1	dep	_	_
+8	mit	ein	DET	DET	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	einer	Mutter	NOUN	NOUN	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	_
+10	Mutter	festgezogen	VERB	VERB	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	root	_	_
+11	festgezogen	sondern	CCONJ	CCONJ	_	12	cc	_	_
+12	,	geklebt	VERB	VERB	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	conj	_	_
+13	sondern	..	PUNCT	PUNCT	_	10	punct	_	_
+14	geklebt	_	_	_	_	1	dep	_	_
+15	..	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s74
+# text = Das ist leider keine Kundenorientierung und deshalb gibt es einen Kaktus für die Angestellten des Restaurants.
+1	Das	das	DET	ART	_	2	det	_	_
+2	ist	sein	AUX	VAFIN	_	0	root	_	_
+3	leider	leider	ADV	ADV	_	2	advmod	_	_
+4	keine	kein	DET	ART	_	5	det	_	_
+5	Kundenorientierung	Kundenorientierung	NOUN	NOUN	_	2	obj	_	_
+6	und	und	CCONJ	CCONJ	_	2	cc	_	_
+7	deshalb	deshalb	ADV	ADV	_	2	advmod	_	_
+8	gibt	geben	AUX	VAFIN	_	2	aux	_	_
+9	es	es	PRON	PRON	_	2	dep	_	_
+10	einen	ein	DET	ART	_	11	det	_	_
+11	Kaktus	Kaktus	NOUN	NOUN	_	9	obj	_	_
+12	für	für	ADP	ADP	_	14	case	_	_
+13	die	die	DET	ART	_	14	det	_	_
+14	Angestellten	Angestellte	NOUN	NOUN	_	11	nmod	_	_
+15	des	des	DET	ART	_	16	det	_	_
+16	Restaurants	Restaurant	NOUN	NOUN	_	14	nmod	_	_
+17	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s304
+# text = "älterer Häuser können dieses Recht ebenfalls für sich in Anspruch nehmen -- letztmals für 1998"
+1	"	älter	ADJ	ADJA	Case=Gen|Degree=Pos|Number=Sing	0	root	_	_
+2	älterer	Haus	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	1	dep	_	_
+3	Häuser	können	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	dep	_	_
+4	können	dieser	DET	DT	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	dieses	Recht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	3	dobj	_	_
+6	Recht	sich	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	_
+7	ebenfalls	sich	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	_
+8	für	in	ADP	IN	_	9	case	_	_
+9	sich	Anspruch	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	_
+10	in	nehmen	VERB	VVFIN	Aspect=Imp|VerbForm=Fin	3	aux	_	_
+11	Anspruch	--	PUNCT	$	_	1	dep	_	_
+12	nehmen	letztmal	ADV	ADV	_	1	dep	_	_
+13	--	für	ADP	IN	_	14	case	_	_
+14	letztmals	1998	NUM	NUM	NumType=Card	12	nmod	_	_
+15	für	_	PUNCT	$	_	3	punct	_	_
+16	1998	_	_	_	_	1	dep	_	_
+17	"	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s520
+# text = Die SPD-Abgeordneten Otto Schily und Friedhelm Julius Beucher nannten die Antworten ``lückenhaft und ausweichend''.
+1	Die	_	_	_	_	0	root	_	_
+2	SPD	-	_	_	_	1	case	_	_
+3	-	Abgeordnete	_	_	_	1	nmod	_	_
+4	Abgeordneten	Schily	_	_	_	3	nmod	_	_
+5	Otto	und	_	_	_	1	cc	_	_
+6	Schily	Friedhelm	_	_	_	5	nmod	_	_
+7	und	Julius	_	_	_	6	nmod	_	_
+8	Friedhelm	Beucher	_	_	_	7	nmod	_	_
+9	Julius	nennen	_	_	_	1	advcl	_	_
+10	Beucher	die	_	_	_	9	obj	_	_
+11	nannten	Antwort	_	_	_	10	nmod	_	_
+12	die	-	_	_	_	11	case	_	_
+13	Antworten	''	_	_	_	11	punct	_	_
+14	``	lückenhaft	_	_	_	11	amod	_	_
+15	lückenhaft	und	_	_	_	11	cc	_	_
+16	und	ausweichend	_	_	_	11	amod	_	_
+17	ausweichend	''	_	_	_	16	punct	_	_
+18	''	.	_	_	_	1	punct	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s300
+# text = Zusätzlich bekam man Kopfschmerzen nach einer kurzen Zeit.
+1	Zusätzlich	zusätzlich	ADP	ADP	_	2	case	_	_
+2	bekam	bekommen	VERB	VERB	_	0	root	_	_
+3	man	man	PRON	PRON	_	2	nsubj	_	_
+4	Kopfschmerzen	Kopfschmerz	NOUN	NOUN	_	2	obj	_	_
+5	nach	nach	ADP	ADP	_	6	case	_	_
+6	einer	kurz	ADJ	ADJ	_	4	amod	_	_
+7	kurzen	Zeit	NOUN	NOUN	_	5	nmod	_	_
+8	Zeit	.	PUNCT	PUNCT	_	2	punct	_	_
+9	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s331
+# text = 60 Alteigentümer kündigten damals ihre Mitgliedschaft in der LPG auf:
+1	60	kündigen	VERB	VVFIN	_	0	root	_	_
+2	Alteigentümer	damals	ADV	ADV	_	1	advmod	_	_
+3	kündigten	ihrer	DET	ART	Case=Dat|Gender=Fem|Number=Plur	4	det	_	_
+4	damals	Mitgliedschaft	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	1	obj	_	_
+5	ihre	auf	ADP	APPR	_	1	dep	_	_
+6	Mitgliedschaft	ihre	DET	ART	Case=Acc|Gender=Fem|Number=Plur	7	det	_	_
+7	in	Mitgliedschaft	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	5	obl	_	_
+8	der	.	PUNCT	$.	_	1	punct	_	_
+9	LPG	_	_	_	_	1	dep	_	_
+10	auf	_	_	_	_	1	dep	_	_
+11	:	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s790
+# text = Der Übereifer, der dabei in München immer wieder an den Tag gelegt wird, freilich nicht.
+1	Der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Übereifer	Übereifer	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	,	_	4	punct	_	_
+4	der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	dabei	dabei	ADV	ADV	_	2	advmod	_	_
+6	in	in	ADP	IN	_	7	case	_	_
+7	München	München	PROPN	NNP	Case=Dat|Gender=Masc|Number=Sing	5	advmod	_	_
+8	immer	immer	ADV	ADV	_	5	advmod	_	_
+9	wieder	wieder	ADV	ADV	_	5	advmod	_	_
+10	an	an	ADP	IN	_	11	case	_	_
+11	den	den	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Tag	Tag	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+13	gelegt	legen	VERB	VVPP	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	advmod	_	_
+14	wird	,	PUNCT	,	_	15	punct	_	_
+15	,	freilich	ADV	ADV	_	2	advmod	_	_
+16	freilich	nicht	PART	NEG	Polarity=Neg	17	advmod	_	_
+17	nicht	.	PUNCT	.	_	2	punct	_	_
+18	.	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s444
+# text = Wenige Jahre später beschrieb Daniel Bell die post-industrielle Gesellschaft durch Wissensarbeit, Ressourcenschonung und die Verschiebung der Arbeit vom Produktions- in den Dienstleistungssektor.
+1	Wenige	_	_	_	_	0	root	_	_
+2	Jahre	_	_	_	_	1	dep	_	_
+3	später	_	_	_	_	1	dep	_	_
+4	beschrieb	_	_	_	_	1	dep	_	_
+5	Daniel	_	_	_	_	1	dep	_	_
+6	Bell	_	_	_	_	1	dep	_	_
+7	die	_	_	_	_	1	dep	_	_
+8	post	_	_	_	_	1	dep	_	_
+9	-	_	_	_	_	1	dep	_	_
+10	industrielle	_	_	_	_	1	dep	_	_
+11	Gesellschaft	_	_	_	_	1	dep	_	_
+12	durch	_	_	_	_	1	dep	_	_
+13	Wissensarbeit	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	Ressourcenschonung	_	_	_	_	1	dep	_	_
+16	und	_	_	_	_	1	dep	_	_
+17	die	_	_	_	_	1	dep	_	_
+18	Verschiebung	_	_	_	_	1	dep	_	_
+19	der	_	_	_	_	1	dep	_	_
+20	Arbeit	_	_	_	_	1	dep	_	_
+21-22	vom	_	_	_	_	_	_	_	_
+21	von	_	_	_	_	1	dep	_	_
+22	dem	_	_	_	_	1	dep	_	_
+23	Produktions	_	_	_	_	1	dep	_	_
+24	-	_	_	_	_	1	dep	_	_
+25	in	_	_	_	_	1	dep	_	_
+26	den	_	_	_	_	1	dep	_	_
+27	Dienstleistungssektor	_	_	_	_	1	dep	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = test-s420
+# text = Deutsche Gesellschaft für Soziale Psychiatrie diskutierte langsame Fortschritte bei gemeindenaher Versorgung der Patienten
+1	Deutsche	German	ADJ	_	_	6	dep	_	_
+2	Gesellschaft	society	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+3	für	for	ADP	_	_	4	case	_	_
+4	Soziale	social	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nmod	_	_
+5	Psychiatrie	psychiatry	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nmod	_	_
+6	diskutierte	discussed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	langsame	slow	ADJ	_	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	8	amod	_	_
+8	Fortschritte	progress	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+9	bei	at	ADP	_	_	10	case	_	_
+10	gemeindenaher	community	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	11	nmod	_	_
+11	Versorgung	care	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+12	der	the	DET	_	Case=Gen|Gender=Fem|Number=Plur	13	det	_	_
+13	Patienten	_	_	_	_	6	dep	_	_
+
+# sent_id = test-s291
+# text = Wir standen fast alleine im Laden, keiner interessierte sich für das auffällig ratlose Verhalten der Kunden
+1	Wir	_wir_	PRON	PRON	_	2	nsubj	_	_
+2	standen	_stehen_	VERB	VERB	_	0	root	_	_
+3	fast	_fast_	ADV	ADV	_	2	advmod	_	_
+4	alleine	_allein_	ADV	ADV	_	2	advmod	_	_
+5-6	im	_	_	_	_	_	_	_	_
+5	in	_in_	ADP	ADP	_	6	case	_	_
+6	dem	_dem_	DET	DET	_	7	det	_	_
+7	Laden	_Laden_	NOUN	NOUN	_	2	obl	_	_
+8	,	_	_	_	_	2	dep	_	_
+9	keiner	_keiner_	DET	DET	_	10	det	_	_
+10	interessierte	_interessieren_	VERB	VERB	_	2	conj	_	_
+11	sich	_sich_	PRON	PRON	_	10	obj	_	_
+12	für	_für_	ADP	ADP	_	13	case	_	_
+13	das	_das_	DET	DET	_	14	det	_	_
+14	auffällig	_auffällig_	ADJ	ADJ	_	15	amod	_	_
+15	ratlose	_ratlos_	ADJ	ADJ	_	16	amod	_	_
+16	Verhalten	_Verhalten_	NOUN	NOUN	_	10	obl	_	_
+17	der	_der_	DET	DET	_	18	det	_	_
+18	Kunden	_	_	_	_	2	dep	_	_
+
+# sent_id = test-s491
+# text = Der PDS-Bundestagsgruppenchef Gysi kündigte an, er wolle bei seinem Treffen mit Lafontaine die Frage ansprechen, in welcher politischen Konstellation Veränderungen in Deutschland möglich seien.
+1	Der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	PDS	PDS	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	-	Bundestagsgruppenchef	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	Bundestagsgruppenchef	Gysi	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Gysi	kündigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	dep	_	_
+6	kündigte	an	ADP	IN	_	7	case	_	_
+7	an	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+8	,	wollen	AUX	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	dep	_	_
+9	er	bei	ADP	IN	_	3	dep	_	_
+10	wolle	seine	DET	ART	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	bei	Treffen	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	9	nmod	_	_
+12	seinem	mit	ADP	IN	_	13	case	_	_
+13	Treffen	Lafontaine	PROPN	NNP	Case=Dat|Gender=Masc|Number=Sing	11	nmod	_	_
+14	mit	die	DET	ART	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Lafontaine	Frage	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+16	die	ansprechen	VERB	VVINF	VerbForm=Inf	5	ccomp	_	_
+17	Frage	,	PUNCT	,	_	18	punct	_	_
+18	ansprechen	welcher	DET	WDT	PronType=Int,Rel	19	det	_	_
+19	,	politisch	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	in	Konstellation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	16	obl	_	_
+21	welcher	in	ADP	IN	_	22	case	_	_
+22	politischen	welcher	DET	WDT	PronType=Int,Rel	23	det	_	_
+23	Konstellation	politisch	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+24	Veränderungen	Veränderung	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	23	nmod	_	_
+25	in	sein	AUX	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	Deutschland	möglich	ADJ	ADJD	Degree=Pos|VerbForm=Part	23	acl	_	_
+27	möglich	.	PUNCT	.	_	5	punct	_	_
+28	seien	_	_	_	_	3	dep	_	_
+29	.	_	_	_	_	3	dep	_	_
+

@@ -1,0 +1,2881 @@
+# sent_id = email-enronsent28_01-0016
+# text = At that time, the gurus and geniuses of Wall Street were predicting a 250 Dow and many were talking openly about the end of capitalism.
+1	At	_	_	_	_	0	root	_	_
+2	that	_	_	_	_	1	dep	_	_
+3	time	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	the	_	_	_	_	1	dep	_	_
+6	gurus	_	_	_	_	1	dep	_	_
+7	and	_	_	_	_	1	dep	_	_
+8	geniuses	_	_	_	_	1	dep	_	_
+9	of	_	_	_	_	1	dep	_	_
+10	Wall	_	_	_	_	1	dep	_	_
+11	Street	_	_	_	_	1	dep	_	_
+12	were	_	_	_	_	1	dep	_	_
+13	predicting	_	_	_	_	1	dep	_	_
+14	a	_	_	_	_	1	dep	_	_
+15	250	_	_	_	_	1	dep	_	_
+16	Dow	_	_	_	_	1	dep	_	_
+17	and	_	_	_	_	1	dep	_	_
+18	many	_	_	_	_	1	dep	_	_
+19	were	_	_	_	_	1	dep	_	_
+20	talking	_	_	_	_	1	dep	_	_
+21	openly	_	_	_	_	1	dep	_	_
+22	about	_	_	_	_	1	dep	_	_
+23	the	_	_	_	_	1	dep	_	_
+24	end	_	_	_	_	1	dep	_	_
+25	of	_	_	_	_	1	dep	_	_
+26	capitalism	_	_	_	_	1	dep	_	_
+27	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-048201-0001
+# text = Very Mediocre donuts!
+1	Very	_	_	_	_	0	root	_	_
+2	Mediocre	_	_	_	_	1	dep	_	_
+3	donuts	_	_	_	_	1	dep	_	_
+4	!	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_02-0010
+# text = Please handle.
+1	Please	_	_	_	_	0	root	_	_
+2	handle	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0005
+# text = One of the pictures shows a flag that was found in Fallujah.
+1	One	_	_	_	_	0	root	_	_
+2	of	_	_	_	_	1	dep	_	_
+3	the	_	_	_	_	1	dep	_	_
+4	pictures	_	_	_	_	1	dep	_	_
+5	shows	_	_	_	_	1	dep	_	_
+6	a	_	_	_	_	1	dep	_	_
+7	flag	_	_	_	_	1	dep	_	_
+8	that	_	_	_	_	1	dep	_	_
+9	was	_	_	_	_	1	dep	_	_
+10	found	_	_	_	_	1	dep	_	_
+11	in	_	_	_	_	1	dep	_	_
+12	Fallujah	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-130216-0002
+# text = My house already feels fresh and good thanks to the Battery Park Pest I'm enjoying my time indoors much better.
+1	My	_	_	_	_	0	root	_	_
+2	house	_	_	_	_	1	dep	_	_
+3	already	_	_	_	_	1	dep	_	_
+4	feels	_	_	_	_	1	dep	_	_
+5	fresh	_	_	_	_	1	dep	_	_
+6	and	_	_	_	_	1	dep	_	_
+7	good	_	_	_	_	1	dep	_	_
+8	thanks	_	_	_	_	1	dep	_	_
+9	to	_	_	_	_	1	dep	_	_
+10	the	_	_	_	_	1	dep	_	_
+11	Battery	_	_	_	_	1	dep	_	_
+12	Park	_	_	_	_	1	dep	_	_
+13	Pest	_	_	_	_	1	dep	_	_
+14-15	I'm	_	_	_	_	_	_	_	_
+14	I	_	_	_	_	1	dep	_	_
+15	'm	_	_	_	_	1	dep	_	_
+16	enjoying	_	_	_	_	1	dep	_	_
+17	my	_	_	_	_	1	dep	_	_
+18	time	_	_	_	_	1	dep	_	_
+19	indoors	_	_	_	_	1	dep	_	_
+20	much	_	_	_	_	1	dep	_	_
+21	better	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0008
+# text = By September of that year the Dow had tumbled to 744.
+1	By	_	_	_	_	0	root	_	_
+2	September	_	_	_	_	1	dep	_	_
+3	of	_	_	_	_	1	dep	_	_
+4	that	_	_	_	_	1	dep	_	_
+5	year	_	_	_	_	1	dep	_	_
+6	the	_	_	_	_	1	dep	_	_
+7	Dow	_	_	_	_	1	dep	_	_
+8	had	_	_	_	_	1	dep	_	_
+9	tumbled	_	_	_	_	1	dep	_	_
+10	to	_	_	_	_	1	dep	_	_
+11	744	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-299524-0001
+# text = Quality has fallen over the years, but still the best go-to burger place on the East Bay.
+1	Quality	_	_	_	_	0	root	_	_
+2	has	_	_	_	_	1	dep	_	_
+3	fallen	_	_	_	_	1	dep	_	_
+4	over	_	_	_	_	1	dep	_	_
+5	the	_	_	_	_	1	dep	_	_
+6	years	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	but	_	_	_	_	1	dep	_	_
+9	still	_	_	_	_	1	dep	_	_
+10	the	_	_	_	_	1	dep	_	_
+11	best	_	_	_	_	1	dep	_	_
+12	go	_	_	_	_	1	dep	_	_
+13	-	_	_	_	_	1	dep	_	_
+14	to	_	_	_	_	1	dep	_	_
+15	burger	_	_	_	_	1	dep	_	_
+16	place	_	_	_	_	1	dep	_	_
+17	on	_	_	_	_	1	dep	_	_
+18	the	_	_	_	_	1	dep	_	_
+19	East	_	_	_	_	1	dep	_	_
+20	Bay	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-046500-0001
+# text = Mens and Boys Barbers, on the number 9 Bus route.
+1-2	Mens	_	_	_	_	_	_	_	_
+1	Men	_	_	_	_	0	root	_	_
+2	s	_	_	_	_	1	dep	_	_
+3	and	_	_	_	_	1	dep	_	_
+4	Boys	_	_	_	_	1	dep	_	_
+5	Barbers	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	on	_	_	_	_	1	dep	_	_
+8	the	_	_	_	_	1	dep	_	_
+9	number	_	_	_	_	1	dep	_	_
+10	9	_	_	_	_	1	dep	_	_
+11	Bus	_	_	_	_	1	dep	_	_
+12	route	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent36_01-0012
+# text = Thanks.
+1	Thanks	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106230959AAuYQ5Q_ans-0003
+# text = May seem a little silly, but, taking a long ride on the Metra system or the "L" system is a great way to see the city and sites without spending a fortune.
+1	May	_	_	_	_	0	root	_	_
+2	seem	_	_	_	_	1	dep	_	_
+3	a	_	_	_	_	1	dep	_	_
+4	little	_	_	_	_	1	dep	_	_
+5	silly	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	but	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	taking	_	_	_	_	1	dep	_	_
+10	a	_	_	_	_	1	dep	_	_
+11	long	_	_	_	_	1	dep	_	_
+12	ride	_	_	_	_	1	dep	_	_
+13	on	_	_	_	_	1	dep	_	_
+14	the	_	_	_	_	1	dep	_	_
+15	Metra	_	_	_	_	1	dep	_	_
+16	system	_	_	_	_	1	dep	_	_
+17	or	_	_	_	_	1	dep	_	_
+18	the	_	_	_	_	1	dep	_	_
+19	"	_	_	_	_	1	dep	_	_
+20	L	_	_	_	_	1	dep	_	_
+21	"	_	_	_	_	1	dep	_	_
+22	system	_	_	_	_	1	dep	_	_
+23	is	_	_	_	_	1	dep	_	_
+24	a	_	_	_	_	1	dep	_	_
+25	great	_	_	_	_	1	dep	_	_
+26	way	_	_	_	_	1	dep	_	_
+27	to	_	_	_	_	1	dep	_	_
+28	see	_	_	_	_	1	dep	_	_
+29	the	_	_	_	_	1	dep	_	_
+30	city	_	_	_	_	1	dep	_	_
+31	and	_	_	_	_	1	dep	_	_
+32	sites	_	_	_	_	1	dep	_	_
+33	without	_	_	_	_	1	dep	_	_
+34	spending	_	_	_	_	1	dep	_	_
+35	a	_	_	_	_	1	dep	_	_
+36	fortune	_	_	_	_	1	dep	_	_
+37	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-087368-0003
+# text = Clean store, friendly check-out staff up front.
+1	Clean	_	_	_	_	0	root	_	_
+2	store	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	friendly	_	_	_	_	1	dep	_	_
+5	check	_	_	_	_	1	dep	_	_
+6	-	_	_	_	_	1	dep	_	_
+7	out	_	_	_	_	1	dep	_	_
+8	staff	_	_	_	_	1	dep	_	_
+9	up	_	_	_	_	1	dep	_	_
+10	front	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0026
+# text = here is to getting back on track after thanksgiving
+1	here	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	to	_	_	_	_	1	dep	_	_
+4	getting	_	_	_	_	1	dep	_	_
+5	back	_	_	_	_	1	dep	_	_
+6	on	_	_	_	_	1	dep	_	_
+7	track	_	_	_	_	1	dep	_	_
+8	after	_	_	_	_	1	dep	_	_
+9	thanksgiving	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0023
+# text = Teco Tap 85.000 / HPL IFERC ; 20.000 / Enron
+1	Teco	_	_	_	_	0	root	_	_
+2	Tap	_	_	_	_	1	dep	_	_
+3	85.000	_	_	_	_	1	dep	_	_
+4	/	_	_	_	_	1	dep	_	_
+5	HPL	_	_	_	_	1	dep	_	_
+6	IFERC	_	_	_	_	1	dep	_	_
+7	;	_	_	_	_	1	dep	_	_
+8	20.000	_	_	_	_	1	dep	_	_
+9	/	_	_	_	_	1	dep	_	_
+10	Enron	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500-0002
+# text = Groups: alt.animals, alt.animals.cat, alt.animals.ethics.vegetarian, talk.politics.animals
+1	Groups	_	_	_	_	0	root	_	_
+2	:	_	_	_	_	1	dep	_	_
+3	alt.animals	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	alt.animals.cat	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	alt.animals.ethics.vegetarian	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	talk.politics.animals	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent18_02-0061
+# text = Al,
+1	Al	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108081519AAdHz5c_ans-0003
+# text = I like music very loud and with a lot of bass.
+1	I	_	_	_	_	0	root	_	_
+2	like	_	_	_	_	1	dep	_	_
+3	music	_	_	_	_	1	dep	_	_
+4	very	_	_	_	_	1	dep	_	_
+5	loud	_	_	_	_	1	dep	_	_
+6	and	_	_	_	_	1	dep	_	_
+7	with	_	_	_	_	1	dep	_	_
+8	a	_	_	_	_	1	dep	_	_
+9	lot	_	_	_	_	1	dep	_	_
+10	of	_	_	_	_	1	dep	_	_
+11	bass	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_GUHarryPotterReaders_75faa7d55aff9230_ENG_20050715_234000-0002
+# text = The story had brillant battle scenes, lovable heroes and villians, a compelling story line, and it left me dying for the next part of the series:) go to taleofterra.com to learn more aboout it
+1	The	_	_	_	_	0	root	_	_
+2	story	_	_	_	_	1	dep	_	_
+3	had	_	_	_	_	1	dep	_	_
+4	brillant	_	_	_	_	1	dep	_	_
+5	battle	_	_	_	_	1	dep	_	_
+6	scenes	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	lovable	_	_	_	_	1	dep	_	_
+9	heroes	_	_	_	_	1	dep	_	_
+10	and	_	_	_	_	1	dep	_	_
+11	villians	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	a	_	_	_	_	1	dep	_	_
+14	compelling	_	_	_	_	1	dep	_	_
+15	story	_	_	_	_	1	dep	_	_
+16	line	_	_	_	_	1	dep	_	_
+17	,	_	_	_	_	1	dep	_	_
+18	and	_	_	_	_	1	dep	_	_
+19	it	_	_	_	_	1	dep	_	_
+20	left	_	_	_	_	1	dep	_	_
+21	me	_	_	_	_	1	dep	_	_
+22	dying	_	_	_	_	1	dep	_	_
+23	for	_	_	_	_	1	dep	_	_
+24	the	_	_	_	_	1	dep	_	_
+25	next	_	_	_	_	1	dep	_	_
+26	part	_	_	_	_	1	dep	_	_
+27	of	_	_	_	_	1	dep	_	_
+28	the	_	_	_	_	1	dep	_	_
+29	series	_	_	_	_	1	dep	_	_
+30	:)	_	_	_	_	1	dep	_	_
+31	go	_	_	_	_	1	dep	_	_
+32	to	_	_	_	_	1	dep	_	_
+33	taleofterra.com	_	_	_	_	1	dep	_	_
+34	to	_	_	_	_	1	dep	_	_
+35	learn	_	_	_	_	1	dep	_	_
+36	more	_	_	_	_	1	dep	_	_
+37	aboout	_	_	_	_	1	dep	_	_
+38	it	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_02-0001
+# text = i was thinking somewhere that requires a jacket, like tony's.
+1	i	_	_	_	_	0	root	_	_
+2	was	_	_	_	_	1	dep	_	_
+3	thinking	_	_	_	_	1	dep	_	_
+4	somewhere	_	_	_	_	1	dep	_	_
+5	that	_	_	_	_	1	dep	_	_
+6	requires	_	_	_	_	1	dep	_	_
+7	a	_	_	_	_	1	dep	_	_
+8	jacket	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	like	_	_	_	_	1	dep	_	_
+11-12	tony's	_	_	_	_	_	_	_	_
+11	tony	_	_	_	_	1	dep	_	_
+12	's	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-346074-0002
+# text = Thanks Southland.
+1	Thanks	_	_	_	_	0	root	_	_
+2	Southland	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0015
+# text = 02/28/2001 04:41 PM
+1	02/28/2001	_	_	_	_	0	root	_	_
+2	04:41	_	_	_	_	1	dep	_	_
+3	PM	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-341750-0004
+# text = I felt as if I was in an over priced Olive Garden.
+1	I	_	_	_	_	0	root	_	_
+2	felt	_	_	_	_	1	dep	_	_
+3	as	_	_	_	_	1	dep	_	_
+4	if	_	_	_	_	1	dep	_	_
+5	I	_	_	_	_	1	dep	_	_
+6	was	_	_	_	_	1	dep	_	_
+7	in	_	_	_	_	1	dep	_	_
+8	an	_	_	_	_	1	dep	_	_
+9	over	_	_	_	_	1	dep	_	_
+10	priced	_	_	_	_	1	dep	_	_
+11	Olive	_	_	_	_	1	dep	_	_
+12	Garden	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0008
+# text = I am bringing two of my girlfriends from LJ.
+1	I	_	_	_	_	0	root	_	_
+2	am	_	_	_	_	1	dep	_	_
+3	bringing	_	_	_	_	1	dep	_	_
+4	two	_	_	_	_	1	dep	_	_
+5	of	_	_	_	_	1	dep	_	_
+6	my	_	_	_	_	1	dep	_	_
+7	girlfriends	_	_	_	_	1	dep	_	_
+8	from	_	_	_	_	1	dep	_	_
+9	LJ	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0016
+# text = Stacey Barclay Richardson Enron Net Works, LLC - Global Contracts Stacey.Richardson@enron.com (713) 853-0569 Office (713) 646-2495 Fax (713) 710-6084 Pager
+1	Stacey	_	_	_	_	0	root	_	_
+2	Barclay	_	_	_	_	1	dep	_	_
+3	Richardson	_	_	_	_	1	dep	_	_
+4	Enron	_	_	_	_	1	dep	_	_
+5	Net	_	_	_	_	1	dep	_	_
+6	Works	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	LLC	_	_	_	_	1	dep	_	_
+9	-	_	_	_	_	1	dep	_	_
+10	Global	_	_	_	_	1	dep	_	_
+11	Contracts	_	_	_	_	1	dep	_	_
+12	Stacey.Richardson@enron.com	_	_	_	_	1	dep	_	_
+13	(	_	_	_	_	1	dep	_	_
+14	713	_	_	_	_	1	dep	_	_
+15	)	_	_	_	_	1	dep	_	_
+16	853-0569	_	_	_	_	1	dep	_	_
+17	Office	_	_	_	_	1	dep	_	_
+18	(	_	_	_	_	1	dep	_	_
+19	713	_	_	_	_	1	dep	_	_
+20	)	_	_	_	_	1	dep	_	_
+21	646-2495	_	_	_	_	1	dep	_	_
+22	Fax	_	_	_	_	1	dep	_	_
+23	(	_	_	_	_	1	dep	_	_
+24	713	_	_	_	_	1	dep	_	_
+25	)	_	_	_	_	1	dep	_	_
+26	710-6084	_	_	_	_	1	dep	_	_
+27	Pager	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent21_02-0029
+# text = Thanks
+1	Thanks	_	_	_	_	0	root	_	_
+
+# sent_id = newsgroup-groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600-0015
+# text = --
+1	--	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-264993-0002
+# text = I schedule my weekly appointment here just to get a chance to lie comfortably on my tummy.
+1	I	_	_	_	_	0	root	_	_
+2	schedule	_	_	_	_	1	dep	_	_
+3	my	_	_	_	_	1	dep	_	_
+4	weekly	_	_	_	_	1	dep	_	_
+5	appointment	_	_	_	_	1	dep	_	_
+6	here	_	_	_	_	1	dep	_	_
+7	just	_	_	_	_	1	dep	_	_
+8	to	_	_	_	_	1	dep	_	_
+9	get	_	_	_	_	1	dep	_	_
+10	a	_	_	_	_	1	dep	_	_
+11	chance	_	_	_	_	1	dep	_	_
+12	to	_	_	_	_	1	dep	_	_
+13	lie	_	_	_	_	1	dep	_	_
+14	comfortably	_	_	_	_	1	dep	_	_
+15	on	_	_	_	_	1	dep	_	_
+16	my	_	_	_	_	1	dep	_	_
+17	tummy	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-374344-0005
+# text = Lest you be lame!!!
+1	Lest	_	_	_	_	0	root	_	_
+2	you	_	_	_	_	1	dep	_	_
+3	be	_	_	_	_	1	dep	_	_
+4	lame	_	_	_	_	1	dep	_	_
+5	!!!	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0034
+# text = - Alex Levine
+1	-	_	_	_	_	0	root	_	_
+2	Alex	_	_	_	_	1	dep	_	_
+3	Levine	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0037
+# text = Thank you.
+1	Thank	_	_	_	_	0	root	_	_
+2	you	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_04-0009
+# text = http://www.theadvocate.com/sports/story.asp?StoryID=16473
+1	http://www.theadvocate.com/sports/story.asp?StoryID=16473	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-302465-0003
+# text = The haircut was inexpensive and so were the salon services (eyebrows were cheap!).
+1	The	_	_	_	_	0	root	_	_
+2	haircut	_	_	_	_	1	dep	_	_
+3	was	_	_	_	_	1	dep	_	_
+4	inexpensive	_	_	_	_	1	dep	_	_
+5	and	_	_	_	_	1	dep	_	_
+6	so	_	_	_	_	1	dep	_	_
+7	were	_	_	_	_	1	dep	_	_
+8	the	_	_	_	_	1	dep	_	_
+9	salon	_	_	_	_	1	dep	_	_
+10	services	_	_	_	_	1	dep	_	_
+11	(	_	_	_	_	1	dep	_	_
+12	eyebrows	_	_	_	_	1	dep	_	_
+13	were	_	_	_	_	1	dep	_	_
+14	cheap	_	_	_	_	1	dep	_	_
+15	!	_	_	_	_	1	dep	_	_
+16	)	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108071652AA8GAZw_ans-0001
+# text = USPS Delivery in Auckland,NZ?
+1	USPS	_	_	_	_	0	root	_	_
+2	Delivery	_	_	_	_	1	dep	_	_
+3	in	_	_	_	_	1	dep	_	_
+4	Auckland	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	NZ	_	_	_	_	1	dep	_	_
+7	?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0013
+# text = Could one of you please email me a copy of the standard template you use for Enfolio gas purchase agreements?
+1	Could	_	_	_	_	0	root	_	_
+2	one	_	_	_	_	1	dep	_	_
+3	of	_	_	_	_	1	dep	_	_
+4	you	_	_	_	_	1	dep	_	_
+5	please	_	_	_	_	1	dep	_	_
+6	email	_	_	_	_	1	dep	_	_
+7	me	_	_	_	_	1	dep	_	_
+8	a	_	_	_	_	1	dep	_	_
+9	copy	_	_	_	_	1	dep	_	_
+10	of	_	_	_	_	1	dep	_	_
+11	the	_	_	_	_	1	dep	_	_
+12	standard	_	_	_	_	1	dep	_	_
+13	template	_	_	_	_	1	dep	_	_
+14	you	_	_	_	_	1	dep	_	_
+15	use	_	_	_	_	1	dep	_	_
+16	for	_	_	_	_	1	dep	_	_
+17	Enfolio	_	_	_	_	1	dep	_	_
+18	gas	_	_	_	_	1	dep	_	_
+19	purchase	_	_	_	_	1	dep	_	_
+20	agreements	_	_	_	_	1	dep	_	_
+21	?	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0006
+# text = On the next two pictures he took screenshots of two beheading video's.
+1	On	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	1	dep	_	_
+3	next	_	_	_	_	1	dep	_	_
+4	two	_	_	_	_	1	dep	_	_
+5	pictures	_	_	_	_	1	dep	_	_
+6	he	_	_	_	_	1	dep	_	_
+7	took	_	_	_	_	1	dep	_	_
+8	screenshots	_	_	_	_	1	dep	_	_
+9	of	_	_	_	_	1	dep	_	_
+10	two	_	_	_	_	1	dep	_	_
+11	beheading	_	_	_	_	1	dep	_	_
+12	video's	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0040
+# text = - REDLINE GPSA Guaranty.doc
+1	-	_	_	_	_	0	root	_	_
+2	REDLINE	_	_	_	_	1	dep	_	_
+3	GPSA	_	_	_	_	1	dep	_	_
+4	Guaranty.doc	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20110320195750AAkPbFG_ans-0008
+# text = Nacho Libre is suppose to be inspired in Mexicans, not in Argentineans.
+1	Nacho	_	_	_	_	0	root	_	_
+2	Libre	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	suppose	_	_	_	_	1	dep	_	_
+5	to	_	_	_	_	1	dep	_	_
+6	be	_	_	_	_	1	dep	_	_
+7	inspired	_	_	_	_	1	dep	_	_
+8	in	_	_	_	_	1	dep	_	_
+9	Mexicans	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	not	_	_	_	_	1	dep	_	_
+12	in	_	_	_	_	1	dep	_	_
+13	Argentineans	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20081218053636AA9vV0u_ans-0010
+# text = Goodluck!
+1	Good	_	_	_	_	0	root	_	_
+2	luck	_	_	_	_	1	dep	_	_
+3	!	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20090203211448AAoG2yX_ans-0003
+# text = Green Tea.
+1	Green	_	_	_	_	0	root	_	_
+2	Tea	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-211933-0002
+# text = Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area.
+1	Seth	_	_	_	_	0	root	_	_
+2	provides	_	_	_	_	1	dep	_	_
+3	deep	_	_	_	_	1	dep	_	_
+4	tissue	_	_	_	_	1	dep	_	_
+5	massage	_	_	_	_	1	dep	_	_
+6	which	_	_	_	_	1	dep	_	_
+7	has	_	_	_	_	1	dep	_	_
+8	significantly	_	_	_	_	1	dep	_	_
+9	reduced	_	_	_	_	1	dep	_	_
+10	the	_	_	_	_	1	dep	_	_
+11	pain	_	_	_	_	1	dep	_	_
+12	in	_	_	_	_	1	dep	_	_
+13	my	_	_	_	_	1	dep	_	_
+14	neck	_	_	_	_	1	dep	_	_
+15	and	_	_	_	_	1	dep	_	_
+16	shoulders	_	_	_	_	1	dep	_	_
+17	and	_	_	_	_	1	dep	_	_
+18	added	_	_	_	_	1	dep	_	_
+19	flexibility	_	_	_	_	1	dep	_	_
+20	and	_	_	_	_	1	dep	_	_
+21	movement	_	_	_	_	1	dep	_	_
+22	back	_	_	_	_	1	dep	_	_
+23	to	_	_	_	_	1	dep	_	_
+24	the	_	_	_	_	1	dep	_	_
+25	area	_	_	_	_	1	dep	_	_
+26	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107155815AA6LXXJ_ans-0007
+# text = NCL is a notch below either, in terms of quality and service.
+1	NCL	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	a	_	_	_	_	1	dep	_	_
+4	notch	_	_	_	_	1	dep	_	_
+5	below	_	_	_	_	1	dep	_	_
+6	either	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	in	_	_	_	_	1	dep	_	_
+9	terms	_	_	_	_	1	dep	_	_
+10	of	_	_	_	_	1	dep	_	_
+11	quality	_	_	_	_	1	dep	_	_
+12	and	_	_	_	_	1	dep	_	_
+13	service	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0024
+# text = LS HPL LSK IC 20.000 / Enron
+1	LS	_	_	_	_	0	root	_	_
+2	HPL	_	_	_	_	1	dep	_	_
+3	LSK	_	_	_	_	1	dep	_	_
+4	IC	_	_	_	_	1	dep	_	_
+5	20.000	_	_	_	_	1	dep	_	_
+6	/	_	_	_	_	1	dep	_	_
+7	Enron	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-025894-0002
+# text = I have eaten here several times and everytime the service is slower than slow.
+1	I	_	_	_	_	0	root	_	_
+2	have	_	_	_	_	1	dep	_	_
+3	eaten	_	_	_	_	1	dep	_	_
+4	here	_	_	_	_	1	dep	_	_
+5	several	_	_	_	_	1	dep	_	_
+6	times	_	_	_	_	1	dep	_	_
+7	and	_	_	_	_	1	dep	_	_
+8	every	_	_	_	_	1	dep	_	_
+9	time	_	_	_	_	1	dep	_	_
+10	the	_	_	_	_	1	dep	_	_
+11	service	_	_	_	_	1	dep	_	_
+12	is	_	_	_	_	1	dep	_	_
+13	slower	_	_	_	_	1	dep	_	_
+14	than	_	_	_	_	1	dep	_	_
+15	slow	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent21_01-0017
+# text = Kinder Morgan $ 3,500,000 $ 1,250,000
+1	Kinder	_	_	_	_	0	root	_	_
+2	Morgan	_	_	_	_	1	dep	_	_
+3	$	_	_	_	_	1	dep	_	_
+4	3,500,000	_	_	_	_	1	dep	_	_
+5	$	_	_	_	_	1	dep	_	_
+6	1,250,000	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0006
+# text = Amy:-)
+1	Amy	_	_	_	_	0	root	_	_
+2	:-)	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106130843AA7yj7U_ans-0004
+# text = Have no idea what kind of restaurant this is or where it is.
+1	Have	_	_	_	_	0	root	_	_
+2	no	_	_	_	_	1	dep	_	_
+3	idea	_	_	_	_	1	dep	_	_
+4	what	_	_	_	_	1	dep	_	_
+5	kind	_	_	_	_	1	dep	_	_
+6	of	_	_	_	_	1	dep	_	_
+7	restaurant	_	_	_	_	1	dep	_	_
+8	this	_	_	_	_	1	dep	_	_
+9	is	_	_	_	_	1	dep	_	_
+10	or	_	_	_	_	1	dep	_	_
+11	where	_	_	_	_	1	dep	_	_
+12	it	_	_	_	_	1	dep	_	_
+13	is	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-138110-0002
+# text = I had to get a permit here, it was cool
+1	I	_	_	_	_	0	root	_	_
+2	had	_	_	_	_	1	dep	_	_
+3	to	_	_	_	_	1	dep	_	_
+4	get	_	_	_	_	1	dep	_	_
+5	a	_	_	_	_	1	dep	_	_
+6	permit	_	_	_	_	1	dep	_	_
+7	here	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	it	_	_	_	_	1	dep	_	_
+10	was	_	_	_	_	1	dep	_	_
+11	cool	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106230959AAuYQ5Q_ans-0008
+# text = to make convo, it's short, so if things go great, you can
+1	to	_	_	_	_	0	root	_	_
+2	make	_	_	_	_	1	dep	_	_
+3	convo	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5-6	it's	_	_	_	_	_	_	_	_
+5	it	_	_	_	_	1	dep	_	_
+6	's	_	_	_	_	1	dep	_	_
+7	short	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	so	_	_	_	_	1	dep	_	_
+10	if	_	_	_	_	1	dep	_	_
+11	things	_	_	_	_	1	dep	_	_
+12	go	_	_	_	_	1	dep	_	_
+13	great	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	you	_	_	_	_	1	dep	_	_
+16	can	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700-0012
+# text = 81K Download
+1	81	_	_	_	_	0	root	_	_
+2	K	_	_	_	_	1	dep	_	_
+3	Download	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent18_02-0067
+# text = I hope that this would mean that you would remain involved at some level.
+1	I	_	_	_	_	0	root	_	_
+2	hope	_	_	_	_	1	dep	_	_
+3	that	_	_	_	_	1	dep	_	_
+4	this	_	_	_	_	1	dep	_	_
+5	would	_	_	_	_	1	dep	_	_
+6	mean	_	_	_	_	1	dep	_	_
+7	that	_	_	_	_	1	dep	_	_
+8	you	_	_	_	_	1	dep	_	_
+9	would	_	_	_	_	1	dep	_	_
+10	remain	_	_	_	_	1	dep	_	_
+11	involved	_	_	_	_	1	dep	_	_
+12	at	_	_	_	_	1	dep	_	_
+13	some	_	_	_	_	1	dep	_	_
+14	level	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20090801154222AA09uXV_ans-0002
+# text = I like shrimp,fried,grilled,or steamed.
+1	I	_	_	_	_	0	root	_	_
+2	like	_	_	_	_	1	dep	_	_
+3	shrimp	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	fried	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	grilled	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	or	_	_	_	_	1	dep	_	_
+10	steamed	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20090716131314AA4W9uJ_ans-0002
+# text = Not me sorry.
+1	Not	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	dep	_	_
+3	sorry	_	_	_	_	1	dep	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0034
+# text = ?
+1	?	_	_	_	_	0	root	_	_
+
+# sent_id = answers-20111104115933AA30CRJ_ans-0001
+# text = surprise romantic cheap date night san francisco?
+1	surprise	_	_	_	_	0	root	_	_
+2	romantic	_	_	_	_	1	dep	_	_
+3	cheap	_	_	_	_	1	dep	_	_
+4	date	_	_	_	_	1	dep	_	_
+5	night	_	_	_	_	1	dep	_	_
+6	san	_	_	_	_	1	dep	_	_
+7	francisco	_	_	_	_	1	dep	_	_
+8	?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_04-0017
+# text = why is enron blowing up?
+1	why	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	enron	_	_	_	_	1	dep	_	_
+4	blowing	_	_	_	_	1	dep	_	_
+5	up	_	_	_	_	1	dep	_	_
+6	?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent18_02-0056
+# text = (713) 853-7408
+1	(	_	_	_	_	0	root	_	_
+2	713	_	_	_	_	1	dep	_	_
+3	)	_	_	_	_	1	dep	_	_
+4	853-7408	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-002317-0001
+# text = telephone number
+1	telephone	_	_	_	_	0	root	_	_
+2	number	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108082432AAph0C0_ans-0001
+# text = I need creative art ideas?
+1	I	_	_	_	_	0	root	_	_
+2	need	_	_	_	_	1	dep	_	_
+3	creative	_	_	_	_	1	dep	_	_
+4	art	_	_	_	_	1	dep	_	_
+5	ideas	_	_	_	_	1	dep	_	_
+6	?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0013
+# text = A big rally then took the Dow (unconfirmed) to a record high of 1051 in January of '73, turning everyone bullish.
+1	A	_	_	_	_	0	root	_	_
+2	big	_	_	_	_	1	dep	_	_
+3	rally	_	_	_	_	1	dep	_	_
+4	then	_	_	_	_	1	dep	_	_
+5	took	_	_	_	_	1	dep	_	_
+6	the	_	_	_	_	1	dep	_	_
+7	Dow	_	_	_	_	1	dep	_	_
+8	(	_	_	_	_	1	dep	_	_
+9	unconfirmed	_	_	_	_	1	dep	_	_
+10	)	_	_	_	_	1	dep	_	_
+11	to	_	_	_	_	1	dep	_	_
+12	a	_	_	_	_	1	dep	_	_
+13	record	_	_	_	_	1	dep	_	_
+14	high	_	_	_	_	1	dep	_	_
+15	of	_	_	_	_	1	dep	_	_
+16	1051	_	_	_	_	1	dep	_	_
+17	in	_	_	_	_	1	dep	_	_
+18	January	_	_	_	_	1	dep	_	_
+19	of	_	_	_	_	1	dep	_	_
+20	'73	_	_	_	_	1	dep	_	_
+21	,	_	_	_	_	1	dep	_	_
+22	turning	_	_	_	_	1	dep	_	_
+23	everyone	_	_	_	_	1	dep	_	_
+24	bullish	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_04-0001
+# text = daily dose on enron -
+1	daily	_	_	_	_	0	root	_	_
+2	dose	_	_	_	_	1	dep	_	_
+3	on	_	_	_	_	1	dep	_	_
+4	enron	_	_	_	_	1	dep	_	_
+5	-	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_01-0015
+# text = Location: Houston, Texas USA
+1	Location	_	_	_	_	0	root	_	_
+2	:	_	_	_	_	1	dep	_	_
+3	Houston	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	Texas	_	_	_	_	1	dep	_	_
+6	USA	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107155845AAE3kCA_ans-0010
+# text = You'd find similar bands to them that are from the UK and US.
+1-2	You'd	_	_	_	_	_	_	_	_
+1	You	_	_	_	_	0	root	_	_
+2	'd	_	_	_	_	1	dep	_	_
+3	find	_	_	_	_	1	dep	_	_
+4	similar	_	_	_	_	1	dep	_	_
+5	bands	_	_	_	_	1	dep	_	_
+6	to	_	_	_	_	1	dep	_	_
+7	them	_	_	_	_	1	dep	_	_
+8	that	_	_	_	_	1	dep	_	_
+9	are	_	_	_	_	1	dep	_	_
+10	from	_	_	_	_	1	dep	_	_
+11	the	_	_	_	_	1	dep	_	_
+12	UK	_	_	_	_	1	dep	_	_
+13	and	_	_	_	_	1	dep	_	_
+14	US	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_jokecity_0566f0ba3b5f748f_ENG_20051125_240500-0002
+# text = In one class, he asks the students if anyone can give him an example of a "tragedy".
+1	In	_	_	_	_	0	root	_	_
+2	one	_	_	_	_	1	dep	_	_
+3	class	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	he	_	_	_	_	1	dep	_	_
+6	asks	_	_	_	_	1	dep	_	_
+7	the	_	_	_	_	1	dep	_	_
+8	students	_	_	_	_	1	dep	_	_
+9	if	_	_	_	_	1	dep	_	_
+10	anyone	_	_	_	_	1	dep	_	_
+11	can	_	_	_	_	1	dep	_	_
+12	give	_	_	_	_	1	dep	_	_
+13	him	_	_	_	_	1	dep	_	_
+14	an	_	_	_	_	1	dep	_	_
+15	example	_	_	_	_	1	dep	_	_
+16	of	_	_	_	_	1	dep	_	_
+17	a	_	_	_	_	1	dep	_	_
+18	"	_	_	_	_	1	dep	_	_
+19	tragedy	_	_	_	_	1	dep	_	_
+20	"	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108064636AAvIKDE_ans-0003
+# text = Their service is top-notch and I especially love the free French champagne served even in Economy.
+1	Their	_	_	_	_	0	root	_	_
+2	service	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	top	_	_	_	_	1	dep	_	_
+5	-	_	_	_	_	1	dep	_	_
+6	notch	_	_	_	_	1	dep	_	_
+7	and	_	_	_	_	1	dep	_	_
+8	I	_	_	_	_	1	dep	_	_
+9	especially	_	_	_	_	1	dep	_	_
+10	love	_	_	_	_	1	dep	_	_
+11	the	_	_	_	_	1	dep	_	_
+12	free	_	_	_	_	1	dep	_	_
+13	French	_	_	_	_	1	dep	_	_
+14	champagne	_	_	_	_	1	dep	_	_
+15	served	_	_	_	_	1	dep	_	_
+16	even	_	_	_	_	1	dep	_	_
+17	in	_	_	_	_	1	dep	_	_
+18	Economy	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0037
+# text = KEN
+1	KEN	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-192399-0003
+# text = Listened to my problem and took care of it.
+1	Listened	_	_	_	_	0	root	_	_
+2	to	_	_	_	_	1	dep	_	_
+3	my	_	_	_	_	1	dep	_	_
+4	problem	_	_	_	_	1	dep	_	_
+5	and	_	_	_	_	1	dep	_	_
+6	took	_	_	_	_	1	dep	_	_
+7	care	_	_	_	_	1	dep	_	_
+8	of	_	_	_	_	1	dep	_	_
+9	it	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-juancole.com_juancole_20041018060600_ENG_20041018_060600-0003
+# text = Abu Musab al-Zarqawi and his group are said to have been bitter rivals of al-Qaeda during the Afghan resistance days.
+1	Abu	_	_	_	_	0	root	_	_
+2	Musab	_	_	_	_	1	dep	_	_
+3	al	_	_	_	_	1	dep	_	_
+4	-	_	_	_	_	1	dep	_	_
+5	Zarqawi	_	_	_	_	1	dep	_	_
+6	and	_	_	_	_	1	dep	_	_
+7	his	_	_	_	_	1	dep	_	_
+8	group	_	_	_	_	1	dep	_	_
+9	are	_	_	_	_	1	dep	_	_
+10	said	_	_	_	_	1	dep	_	_
+11	to	_	_	_	_	1	dep	_	_
+12	have	_	_	_	_	1	dep	_	_
+13	been	_	_	_	_	1	dep	_	_
+14	bitter	_	_	_	_	1	dep	_	_
+15	rivals	_	_	_	_	1	dep	_	_
+16	of	_	_	_	_	1	dep	_	_
+17	al	_	_	_	_	1	dep	_	_
+18	-	_	_	_	_	1	dep	_	_
+19	Qaeda	_	_	_	_	1	dep	_	_
+20	during	_	_	_	_	1	dep	_	_
+21	the	_	_	_	_	1	dep	_	_
+22	Afghan	_	_	_	_	1	dep	_	_
+23	resistance	_	_	_	_	1	dep	_	_
+24	days	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0010
+# text = Stacey here is the Master draft we discussed.
+1	Stacey	_	_	_	_	0	root	_	_
+2	here	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	the	_	_	_	_	1	dep	_	_
+5	Master	_	_	_	_	1	dep	_	_
+6	draft	_	_	_	_	1	dep	_	_
+7	we	_	_	_	_	1	dep	_	_
+8	discussed	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-241108-0002
+# text = Horrible service.
+1	Horrible	_	_	_	_	0	root	_	_
+2	service	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108050147AAOkFgL_ans-0001
+# text = What's the best time to start a trip around the world?
+1-2	What's	_	_	_	_	_	_	_	_
+1	What	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	dep	_	_
+3	the	_	_	_	_	1	dep	_	_
+4	best	_	_	_	_	1	dep	_	_
+5	time	_	_	_	_	1	dep	_	_
+6	to	_	_	_	_	1	dep	_	_
+7	start	_	_	_	_	1	dep	_	_
+8	a	_	_	_	_	1	dep	_	_
+9	trip	_	_	_	_	1	dep	_	_
+10	around	_	_	_	_	1	dep	_	_
+11	the	_	_	_	_	1	dep	_	_
+12	world	_	_	_	_	1	dep	_	_
+13	?	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000-0010
+# text = But will diplomacy work?
+1	But	_	_	_	_	0	root	_	_
+2	will	_	_	_	_	1	dep	_	_
+3	diplomacy	_	_	_	_	1	dep	_	_
+4	work	_	_	_	_	1	dep	_	_
+5	?	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000-0011
+# text = Otherwise, hope to see you there!
+1	Otherwise	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3	hope	_	_	_	_	1	dep	_	_
+4	to	_	_	_	_	1	dep	_	_
+5	see	_	_	_	_	1	dep	_	_
+6	you	_	_	_	_	1	dep	_	_
+7	there	_	_	_	_	1	dep	_	_
+8	!	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106230959AAuYQ5Q_ans-0009
+# text = extend, and if you want to end it, you just say bye,
+1	extend	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3	and	_	_	_	_	1	dep	_	_
+4	if	_	_	_	_	1	dep	_	_
+5	you	_	_	_	_	1	dep	_	_
+6	want	_	_	_	_	1	dep	_	_
+7	to	_	_	_	_	1	dep	_	_
+8	end	_	_	_	_	1	dep	_	_
+9	it	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	you	_	_	_	_	1	dep	_	_
+12	just	_	_	_	_	1	dep	_	_
+13	say	_	_	_	_	1	dep	_	_
+14	bye	_	_	_	_	1	dep	_	_
+15	,	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-229100-0002
+# text = Love this place!!
+1	Love	_	_	_	_	0	root	_	_
+2	this	_	_	_	_	1	dep	_	_
+3	place	_	_	_	_	1	dep	_	_
+4	!!	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_04-0004
+# text = the economy is down and when enron collapses, the energy industry is going to be in a world of hurt.
+1	the	_	_	_	_	0	root	_	_
+2	economy	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	down	_	_	_	_	1	dep	_	_
+5	and	_	_	_	_	1	dep	_	_
+6	when	_	_	_	_	1	dep	_	_
+7	enron	_	_	_	_	1	dep	_	_
+8	collapses	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	the	_	_	_	_	1	dep	_	_
+11	energy	_	_	_	_	1	dep	_	_
+12	industry	_	_	_	_	1	dep	_	_
+13	is	_	_	_	_	1	dep	_	_
+14	going	_	_	_	_	1	dep	_	_
+15	to	_	_	_	_	1	dep	_	_
+16	be	_	_	_	_	1	dep	_	_
+17	in	_	_	_	_	1	dep	_	_
+18	a	_	_	_	_	1	dep	_	_
+19	world	_	_	_	_	1	dep	_	_
+20	of	_	_	_	_	1	dep	_	_
+21	hurt	_	_	_	_	1	dep	_	_
+22	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-290238-0001
+# text = Out of business?
+1	Out	_	_	_	_	0	root	_	_
+2	of	_	_	_	_	1	dep	_	_
+3	business	_	_	_	_	1	dep	_	_
+4	?	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108111112AAAjhoy_ans-0006
+# text = Call a vet would be a good idea with a sick dog
+1	Call	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	1	dep	_	_
+3	vet	_	_	_	_	1	dep	_	_
+4	would	_	_	_	_	1	dep	_	_
+5	be	_	_	_	_	1	dep	_	_
+6	a	_	_	_	_	1	dep	_	_
+7	good	_	_	_	_	1	dep	_	_
+8	idea	_	_	_	_	1	dep	_	_
+9	with	_	_	_	_	1	dep	_	_
+10	a	_	_	_	_	1	dep	_	_
+11	sick	_	_	_	_	1	dep	_	_
+12	dog	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_02-0009
+# text = I have asked Doug Daniels to prepare the settlement papers reflecting such an agreement.
+1	I	_	_	_	_	0	root	_	_
+2	have	_	_	_	_	1	dep	_	_
+3	asked	_	_	_	_	1	dep	_	_
+4	Doug	_	_	_	_	1	dep	_	_
+5	Daniels	_	_	_	_	1	dep	_	_
+6	to	_	_	_	_	1	dep	_	_
+7	prepare	_	_	_	_	1	dep	_	_
+8	the	_	_	_	_	1	dep	_	_
+9	settlement	_	_	_	_	1	dep	_	_
+10	papers	_	_	_	_	1	dep	_	_
+11	reflecting	_	_	_	_	1	dep	_	_
+12	such	_	_	_	_	1	dep	_	_
+13	an	_	_	_	_	1	dep	_	_
+14	agreement	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-223040-0001
+# text = I love this place lots of people to talk to and school is across the street!
+1	I	_	_	_	_	0	root	_	_
+2	love	_	_	_	_	1	dep	_	_
+3	this	_	_	_	_	1	dep	_	_
+4	place	_	_	_	_	1	dep	_	_
+5	lots	_	_	_	_	1	dep	_	_
+6	of	_	_	_	_	1	dep	_	_
+7	people	_	_	_	_	1	dep	_	_
+8	to	_	_	_	_	1	dep	_	_
+9	talk	_	_	_	_	1	dep	_	_
+10	to	_	_	_	_	1	dep	_	_
+11	and	_	_	_	_	1	dep	_	_
+12	school	_	_	_	_	1	dep	_	_
+13	is	_	_	_	_	1	dep	_	_
+14	across	_	_	_	_	1	dep	_	_
+15	the	_	_	_	_	1	dep	_	_
+16	street	_	_	_	_	1	dep	_	_
+17	!	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0041
+# text = Thank you though.
+1	Thank	_	_	_	_	0	root	_	_
+2	you	_	_	_	_	1	dep	_	_
+3	though	_	_	_	_	1	dep	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000-0007
+# text = It would be great if the person from CHANT who started this page would put up a short description of the campaign and a list to this group page on the Action Network site.
+1	It	_	_	_	_	0	root	_	_
+2	would	_	_	_	_	1	dep	_	_
+3	be	_	_	_	_	1	dep	_	_
+4	great	_	_	_	_	1	dep	_	_
+5	if	_	_	_	_	1	dep	_	_
+6	the	_	_	_	_	1	dep	_	_
+7	person	_	_	_	_	1	dep	_	_
+8	from	_	_	_	_	1	dep	_	_
+9	CHANT	_	_	_	_	1	dep	_	_
+10	who	_	_	_	_	1	dep	_	_
+11	started	_	_	_	_	1	dep	_	_
+12	this	_	_	_	_	1	dep	_	_
+13	page	_	_	_	_	1	dep	_	_
+14	would	_	_	_	_	1	dep	_	_
+15	put	_	_	_	_	1	dep	_	_
+16	up	_	_	_	_	1	dep	_	_
+17	a	_	_	_	_	1	dep	_	_
+18	short	_	_	_	_	1	dep	_	_
+19	description	_	_	_	_	1	dep	_	_
+20	of	_	_	_	_	1	dep	_	_
+21	the	_	_	_	_	1	dep	_	_
+22	campaign	_	_	_	_	1	dep	_	_
+23	and	_	_	_	_	1	dep	_	_
+24	a	_	_	_	_	1	dep	_	_
+25	list	_	_	_	_	1	dep	_	_
+26	to	_	_	_	_	1	dep	_	_
+27	this	_	_	_	_	1	dep	_	_
+28	group	_	_	_	_	1	dep	_	_
+29	page	_	_	_	_	1	dep	_	_
+30	on	_	_	_	_	1	dep	_	_
+31	the	_	_	_	_	1	dep	_	_
+32	Action	_	_	_	_	1	dep	_	_
+33	Network	_	_	_	_	1	dep	_	_
+34	site	_	_	_	_	1	dep	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107200249AAIyCy5_ans-0003
+# text = Michelangelo made the marble one but why did he do another if Donatello had already made one?
+1	Michelangelo	_	_	_	_	0	root	_	_
+2	made	_	_	_	_	1	dep	_	_
+3	the	_	_	_	_	1	dep	_	_
+4	marble	_	_	_	_	1	dep	_	_
+5	one	_	_	_	_	1	dep	_	_
+6	but	_	_	_	_	1	dep	_	_
+7	why	_	_	_	_	1	dep	_	_
+8	did	_	_	_	_	1	dep	_	_
+9	he	_	_	_	_	1	dep	_	_
+10	do	_	_	_	_	1	dep	_	_
+11	another	_	_	_	_	1	dep	_	_
+12	if	_	_	_	_	1	dep	_	_
+13	Donatello	_	_	_	_	1	dep	_	_
+14	had	_	_	_	_	1	dep	_	_
+15	already	_	_	_	_	1	dep	_	_
+16	made	_	_	_	_	1	dep	_	_
+17	one	_	_	_	_	1	dep	_	_
+18	?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent21_02-0037
+# text = EY4108.E PERFORMANCE 01-Feb-02 P 12,514,373 -$ 265,932
+1	EY4108.E	_	_	_	_	0	root	_	_
+2	PERFORMANCE	_	_	_	_	1	dep	_	_
+3	01-Feb-02	_	_	_	_	1	dep	_	_
+4	P	_	_	_	_	1	dep	_	_
+5	12,514,373	_	_	_	_	1	dep	_	_
+6	-	_	_	_	_	1	dep	_	_
+7	$	_	_	_	_	1	dep	_	_
+8	265,932	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_APassionforRats_207517af35c166ef_ENG_20050526_150700-0005
+# text = Cindy
+1	Cindy	_	_	_	_	0	root	_	_
+
+# sent_id = weblog-juancole.com_juancole_20041018060600_ENG_20041018_060600-0006
+# text = This consolidation is obviously a result of Bush's aggressive invasion of Iraq and of the botching of the aftermath.
+1	This	_	_	_	_	0	root	_	_
+2	consolidation	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	obviously	_	_	_	_	1	dep	_	_
+5	a	_	_	_	_	1	dep	_	_
+6	result	_	_	_	_	1	dep	_	_
+7	of	_	_	_	_	1	dep	_	_
+8-9	Bush's	_	_	_	_	_	_	_	_
+8	Bush	_	_	_	_	1	dep	_	_
+9	's	_	_	_	_	1	dep	_	_
+10	aggressive	_	_	_	_	1	dep	_	_
+11	invasion	_	_	_	_	1	dep	_	_
+12	of	_	_	_	_	1	dep	_	_
+13	Iraq	_	_	_	_	1	dep	_	_
+14	and	_	_	_	_	1	dep	_	_
+15	of	_	_	_	_	1	dep	_	_
+16	the	_	_	_	_	1	dep	_	_
+17	botching	_	_	_	_	1	dep	_	_
+18	of	_	_	_	_	1	dep	_	_
+19	the	_	_	_	_	1	dep	_	_
+20	aftermath	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-290238-0003
+# text = If you check RecWarehouse.com, they don't list this as a location.
+1	If	_	_	_	_	0	root	_	_
+2	you	_	_	_	_	1	dep	_	_
+3	check	_	_	_	_	1	dep	_	_
+4	RecWarehouse.com	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	they	_	_	_	_	1	dep	_	_
+7-8	don't	_	_	_	_	_	_	_	_
+7	do	_	_	_	_	1	dep	_	_
+8	n't	_	_	_	_	1	dep	_	_
+9	list	_	_	_	_	1	dep	_	_
+10	this	_	_	_	_	1	dep	_	_
+11	as	_	_	_	_	1	dep	_	_
+12	a	_	_	_	_	1	dep	_	_
+13	location	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-227515-0003
+# text = I have had several dentists in my life, but Dr. Deters is by far my favorite.
+1	I	_	_	_	_	0	root	_	_
+2	have	_	_	_	_	1	dep	_	_
+3	had	_	_	_	_	1	dep	_	_
+4	several	_	_	_	_	1	dep	_	_
+5	dentists	_	_	_	_	1	dep	_	_
+6	in	_	_	_	_	1	dep	_	_
+7	my	_	_	_	_	1	dep	_	_
+8	life	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	but	_	_	_	_	1	dep	_	_
+11	Dr.	_	_	_	_	1	dep	_	_
+12	Deters	_	_	_	_	1	dep	_	_
+13	is	_	_	_	_	1	dep	_	_
+14	by	_	_	_	_	1	dep	_	_
+15	far	_	_	_	_	1	dep	_	_
+16	my	_	_	_	_	1	dep	_	_
+17	favorite	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107082312AAPNaxb_ans-0007
+# text = It was pretty epic as I remember and would love to send my friend there.
+1	It	_	_	_	_	0	root	_	_
+2	was	_	_	_	_	1	dep	_	_
+3	pretty	_	_	_	_	1	dep	_	_
+4	epic	_	_	_	_	1	dep	_	_
+5	as	_	_	_	_	1	dep	_	_
+6	I	_	_	_	_	1	dep	_	_
+7	remember	_	_	_	_	1	dep	_	_
+8	and	_	_	_	_	1	dep	_	_
+9	would	_	_	_	_	1	dep	_	_
+10	love	_	_	_	_	1	dep	_	_
+11	to	_	_	_	_	1	dep	_	_
+12	send	_	_	_	_	1	dep	_	_
+13	my	_	_	_	_	1	dep	_	_
+14	friend	_	_	_	_	1	dep	_	_
+15	there	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108103704AAB0G7y_ans-0002
+# text = for the past few days she has been shivering and wont eat but she could walk now her hid legs are not working but she is back to her self .. what should i do .?
+1	for	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	1	dep	_	_
+3	past	_	_	_	_	1	dep	_	_
+4	few	_	_	_	_	1	dep	_	_
+5	days	_	_	_	_	1	dep	_	_
+6	she	_	_	_	_	1	dep	_	_
+7	has	_	_	_	_	1	dep	_	_
+8	been	_	_	_	_	1	dep	_	_
+9	shivering	_	_	_	_	1	dep	_	_
+10	and	_	_	_	_	1	dep	_	_
+11-12	wont	_	_	_	_	_	_	_	_
+11	wo	_	_	_	_	1	dep	_	_
+12	nt	_	_	_	_	1	dep	_	_
+13	eat	_	_	_	_	1	dep	_	_
+14	but	_	_	_	_	1	dep	_	_
+15	she	_	_	_	_	1	dep	_	_
+16	could	_	_	_	_	1	dep	_	_
+17	walk	_	_	_	_	1	dep	_	_
+18	now	_	_	_	_	1	dep	_	_
+19	her	_	_	_	_	1	dep	_	_
+20	hid	_	_	_	_	1	dep	_	_
+21	legs	_	_	_	_	1	dep	_	_
+22	are	_	_	_	_	1	dep	_	_
+23	not	_	_	_	_	1	dep	_	_
+24	working	_	_	_	_	1	dep	_	_
+25	but	_	_	_	_	1	dep	_	_
+26	she	_	_	_	_	1	dep	_	_
+27	is	_	_	_	_	1	dep	_	_
+28	back	_	_	_	_	1	dep	_	_
+29	to	_	_	_	_	1	dep	_	_
+30	her	_	_	_	_	1	dep	_	_
+31	self	_	_	_	_	1	dep	_	_
+32	..	_	_	_	_	1	dep	_	_
+33	what	_	_	_	_	1	dep	_	_
+34	should	_	_	_	_	1	dep	_	_
+35	i	_	_	_	_	1	dep	_	_
+36	do	_	_	_	_	1	dep	_	_
+37	.?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0064
+# text = Thanks
+1	Thanks	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-048201-0002
+# text = The Donuts were very over proofed, making them stale and bready.
+1	The	_	_	_	_	0	root	_	_
+2	Donuts	_	_	_	_	1	dep	_	_
+3	were	_	_	_	_	1	dep	_	_
+4	very	_	_	_	_	1	dep	_	_
+5	over	_	_	_	_	1	dep	_	_
+6	proofed	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	making	_	_	_	_	1	dep	_	_
+9	them	_	_	_	_	1	dep	_	_
+10	stale	_	_	_	_	1	dep	_	_
+11	and	_	_	_	_	1	dep	_	_
+12	bready	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0030
+# text = 11/15/2000 11:58 AM
+1	11/15/2000	_	_	_	_	0	root	_	_
+2	11:58	_	_	_	_	1	dep	_	_
+3	AM	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0050
+# text = Don't worry about avoiding temptation... as you grow older, it will avoid you.
+1-2	Don't	_	_	_	_	_	_	_	_
+1	Do	_	_	_	_	0	root	_	_
+2	n't	_	_	_	_	1	dep	_	_
+3	worry	_	_	_	_	1	dep	_	_
+4	about	_	_	_	_	1	dep	_	_
+5	avoiding	_	_	_	_	1	dep	_	_
+6	temptation	_	_	_	_	1	dep	_	_
+7	...	_	_	_	_	1	dep	_	_
+8	as	_	_	_	_	1	dep	_	_
+9	you	_	_	_	_	1	dep	_	_
+10	grow	_	_	_	_	1	dep	_	_
+11	older	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	it	_	_	_	_	1	dep	_	_
+14	will	_	_	_	_	1	dep	_	_
+15	avoid	_	_	_	_	1	dep	_	_
+16	you	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108071652AA8GAZw_ans-0007
+# text = i always thought theres no custom charges for gifts.
+1	i	_	_	_	_	0	root	_	_
+2	always	_	_	_	_	1	dep	_	_
+3	thought	_	_	_	_	1	dep	_	_
+4-5	theres	_	_	_	_	_	_	_	_
+4	there	_	_	_	_	1	dep	_	_
+5	s	_	_	_	_	1	dep	_	_
+6	no	_	_	_	_	1	dep	_	_
+7	custom	_	_	_	_	1	dep	_	_
+8	charges	_	_	_	_	1	dep	_	_
+9	for	_	_	_	_	1	dep	_	_
+10	gifts	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-118679-0002
+# text = Unfortunately, I've given it a couple of tries at different times and decided to stop going.
+1	Unfortunately	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3-4	I've	_	_	_	_	_	_	_	_
+3	I	_	_	_	_	1	dep	_	_
+4	've	_	_	_	_	1	dep	_	_
+5	given	_	_	_	_	1	dep	_	_
+6	it	_	_	_	_	1	dep	_	_
+7	a	_	_	_	_	1	dep	_	_
+8	couple	_	_	_	_	1	dep	_	_
+9	of	_	_	_	_	1	dep	_	_
+10	tries	_	_	_	_	1	dep	_	_
+11	at	_	_	_	_	1	dep	_	_
+12	different	_	_	_	_	1	dep	_	_
+13	times	_	_	_	_	1	dep	_	_
+14	and	_	_	_	_	1	dep	_	_
+15	decided	_	_	_	_	1	dep	_	_
+16	to	_	_	_	_	1	dep	_	_
+17	stop	_	_	_	_	1	dep	_	_
+18	going	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-028996-0003
+# text = I own a property management firm and need a contractor with the credentials that Farrell Electric has.
+1	I	_	_	_	_	0	root	_	_
+2	own	_	_	_	_	1	dep	_	_
+3	a	_	_	_	_	1	dep	_	_
+4	property	_	_	_	_	1	dep	_	_
+5	management	_	_	_	_	1	dep	_	_
+6	firm	_	_	_	_	1	dep	_	_
+7	and	_	_	_	_	1	dep	_	_
+8	need	_	_	_	_	1	dep	_	_
+9	a	_	_	_	_	1	dep	_	_
+10	contractor	_	_	_	_	1	dep	_	_
+11	with	_	_	_	_	1	dep	_	_
+12	the	_	_	_	_	1	dep	_	_
+13	credentials	_	_	_	_	1	dep	_	_
+14	that	_	_	_	_	1	dep	_	_
+15	Farrell	_	_	_	_	1	dep	_	_
+16	Electric	_	_	_	_	1	dep	_	_
+17	has	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653-0008
+# text = Remember that the Occupation is emphemeral."
+1	Remember	_	_	_	_	0	root	_	_
+2	that	_	_	_	_	1	dep	_	_
+3	the	_	_	_	_	1	dep	_	_
+4	Occupation	_	_	_	_	1	dep	_	_
+5	is	_	_	_	_	1	dep	_	_
+6	emphemeral	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+8	"	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_12-0003
+# text = that's fine, i don't want to see you either, i just need to make a cd.
+1-2	that's	_	_	_	_	_	_	_	_
+1	that	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	dep	_	_
+3	fine	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	i	_	_	_	_	1	dep	_	_
+6-7	don't	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	1	dep	_	_
+7	n't	_	_	_	_	1	dep	_	_
+8	want	_	_	_	_	1	dep	_	_
+9	to	_	_	_	_	1	dep	_	_
+10	see	_	_	_	_	1	dep	_	_
+11	you	_	_	_	_	1	dep	_	_
+12	either	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	i	_	_	_	_	1	dep	_	_
+15	just	_	_	_	_	1	dep	_	_
+16	need	_	_	_	_	1	dep	_	_
+17	to	_	_	_	_	1	dep	_	_
+18	make	_	_	_	_	1	dep	_	_
+19	a	_	_	_	_	1	dep	_	_
+20	cd	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-178726-0006
+# text = Clean and superb.
+1	Clean	_	_	_	_	0	root	_	_
+2	and	_	_	_	_	1	dep	_	_
+3	superb	_	_	_	_	1	dep	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_marketview_20060625150800_ENG_20060625_150800-0009
+# text = em ... no ... the Gates foundation mainly invests in medical research and education, that means donating now adds a tremendous value compared to donating in ten years.
+1	em	_	_	_	_	0	root	_	_
+2	...	_	_	_	_	1	dep	_	_
+3	no	_	_	_	_	1	dep	_	_
+4	...	_	_	_	_	1	dep	_	_
+5	the	_	_	_	_	1	dep	_	_
+6	Gates	_	_	_	_	1	dep	_	_
+7	foundation	_	_	_	_	1	dep	_	_
+8	mainly	_	_	_	_	1	dep	_	_
+9	invests	_	_	_	_	1	dep	_	_
+10	in	_	_	_	_	1	dep	_	_
+11	medical	_	_	_	_	1	dep	_	_
+12	research	_	_	_	_	1	dep	_	_
+13	and	_	_	_	_	1	dep	_	_
+14	education	_	_	_	_	1	dep	_	_
+15	,	_	_	_	_	1	dep	_	_
+16	that	_	_	_	_	1	dep	_	_
+17	means	_	_	_	_	1	dep	_	_
+18	donating	_	_	_	_	1	dep	_	_
+19	now	_	_	_	_	1	dep	_	_
+20	adds	_	_	_	_	1	dep	_	_
+21	a	_	_	_	_	1	dep	_	_
+22	tremendous	_	_	_	_	1	dep	_	_
+23	value	_	_	_	_	1	dep	_	_
+24	compared	_	_	_	_	1	dep	_	_
+25	to	_	_	_	_	1	dep	_	_
+26	donating	_	_	_	_	1	dep	_	_
+27	in	_	_	_	_	1	dep	_	_
+28	ten	_	_	_	_	1	dep	_	_
+29	years	_	_	_	_	1	dep	_	_
+30	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-254908-0001
+# text = I hired this company to unlock my car.
+1	I	_	_	_	_	0	root	_	_
+2	hired	_	_	_	_	1	dep	_	_
+3	this	_	_	_	_	1	dep	_	_
+4	company	_	_	_	_	1	dep	_	_
+5	to	_	_	_	_	1	dep	_	_
+6	unlock	_	_	_	_	1	dep	_	_
+7	my	_	_	_	_	1	dep	_	_
+8	car	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.cat_0f877e44e3521d27_ENG_20040131_084700-0003
+# text = We have updated our site to include a LOST and FOUND page and you can now join our branch and make a secure on-line donation to the charity.
+1	We	_	_	_	_	0	root	_	_
+2	have	_	_	_	_	1	dep	_	_
+3	updated	_	_	_	_	1	dep	_	_
+4	our	_	_	_	_	1	dep	_	_
+5	site	_	_	_	_	1	dep	_	_
+6	to	_	_	_	_	1	dep	_	_
+7	include	_	_	_	_	1	dep	_	_
+8	a	_	_	_	_	1	dep	_	_
+9	LOST	_	_	_	_	1	dep	_	_
+10	and	_	_	_	_	1	dep	_	_
+11	FOUND	_	_	_	_	1	dep	_	_
+12	page	_	_	_	_	1	dep	_	_
+13	and	_	_	_	_	1	dep	_	_
+14	you	_	_	_	_	1	dep	_	_
+15	can	_	_	_	_	1	dep	_	_
+16	now	_	_	_	_	1	dep	_	_
+17	join	_	_	_	_	1	dep	_	_
+18	our	_	_	_	_	1	dep	_	_
+19	branch	_	_	_	_	1	dep	_	_
+20	and	_	_	_	_	1	dep	_	_
+21	make	_	_	_	_	1	dep	_	_
+22	a	_	_	_	_	1	dep	_	_
+23	secure	_	_	_	_	1	dep	_	_
+24	on	_	_	_	_	1	dep	_	_
+25	-	_	_	_	_	1	dep	_	_
+26	line	_	_	_	_	1	dep	_	_
+27	donation	_	_	_	_	1	dep	_	_
+28	to	_	_	_	_	1	dep	_	_
+29	the	_	_	_	_	1	dep	_	_
+30	charity	_	_	_	_	1	dep	_	_
+31	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20090709103651AAwwZKx_ans-0002
+# text = Heck there must be at least 1 korean.
+1	Heck	_	_	_	_	0	root	_	_
+2	there	_	_	_	_	1	dep	_	_
+3	must	_	_	_	_	1	dep	_	_
+4	be	_	_	_	_	1	dep	_	_
+5	at	_	_	_	_	1	dep	_	_
+6	least	_	_	_	_	1	dep	_	_
+7	1	_	_	_	_	1	dep	_	_
+8	korean	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060629164800_ENG_20060629_164800-0006
+# text = SCALIA filed a dissenting opinion, in which THOMAS and ALITO joined.
+1	SCALIA	_	_	_	_	0	root	_	_
+2	filed	_	_	_	_	1	dep	_	_
+3	a	_	_	_	_	1	dep	_	_
+4	dissenting	_	_	_	_	1	dep	_	_
+5	opinion	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	in	_	_	_	_	1	dep	_	_
+8	which	_	_	_	_	1	dep	_	_
+9	THOMAS	_	_	_	_	1	dep	_	_
+10	and	_	_	_	_	1	dep	_	_
+11	ALITO	_	_	_	_	1	dep	_	_
+12	joined	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107211645AA391wC_ans-0002
+# text = Depends of what.
+1	Depends	_	_	_	_	0	root	_	_
+2	of	_	_	_	_	1	dep	_	_
+3	what	_	_	_	_	1	dep	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_01-0005
+# text = i can think of a few things
+1	i	_	_	_	_	0	root	_	_
+2	can	_	_	_	_	1	dep	_	_
+3	think	_	_	_	_	1	dep	_	_
+4	of	_	_	_	_	1	dep	_	_
+5	a	_	_	_	_	1	dep	_	_
+6	few	_	_	_	_	1	dep	_	_
+7	things	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-083563-0003
+# text = many thanks 2scompany...
+1	many	_	_	_	_	0	root	_	_
+2	thanks	_	_	_	_	1	dep	_	_
+3	2scompany	_	_	_	_	1	dep	_	_
+4	...	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107035344AAdi9dS_ans-0002
+# text = Well theres Mc.Donalds,Taco Bell,Burger King.....
+1	Well	_	_	_	_	0	root	_	_
+2-3	theres	_	_	_	_	_	_	_	_
+2	there	_	_	_	_	1	dep	_	_
+3	s	_	_	_	_	1	dep	_	_
+4-5	Mc.Donalds	_	_	_	_	_	_	_	_
+4	Mc.Donald	_	_	_	_	1	dep	_	_
+5	s	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	Taco	_	_	_	_	1	dep	_	_
+8	Bell	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	Burger	_	_	_	_	1	dep	_	_
+11	King	_	_	_	_	1	dep	_	_
+12	.....	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-299169-0002
+# text = Fried rice has NO flavor, it literally taste like water.
+1	Fried	_	_	_	_	0	root	_	_
+2	rice	_	_	_	_	1	dep	_	_
+3	has	_	_	_	_	1	dep	_	_
+4	NO	_	_	_	_	1	dep	_	_
+5	flavor	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	it	_	_	_	_	1	dep	_	_
+8	literally	_	_	_	_	1	dep	_	_
+9	taste	_	_	_	_	1	dep	_	_
+10	like	_	_	_	_	1	dep	_	_
+11	water	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-304759-0002
+# text = The architecture is simplz splendid.
+1	The	_	_	_	_	0	root	_	_
+2	architecture	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	simplz	_	_	_	_	1	dep	_	_
+5	splendid	_	_	_	_	1	dep	_	_
+6	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0016
+# text = The hijackers were obviously al-Qaeda, and no operational links between al-Qaeda and Iraq had ever been found).
+1	The	_	_	_	_	0	root	_	_
+2	hijackers	_	_	_	_	1	dep	_	_
+3	were	_	_	_	_	1	dep	_	_
+4	obviously	_	_	_	_	1	dep	_	_
+5	al	_	_	_	_	1	dep	_	_
+6	-	_	_	_	_	1	dep	_	_
+7	Qaeda	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	and	_	_	_	_	1	dep	_	_
+10	no	_	_	_	_	1	dep	_	_
+11	operational	_	_	_	_	1	dep	_	_
+12	links	_	_	_	_	1	dep	_	_
+13	between	_	_	_	_	1	dep	_	_
+14	al	_	_	_	_	1	dep	_	_
+15	-	_	_	_	_	1	dep	_	_
+16	Qaeda	_	_	_	_	1	dep	_	_
+17	and	_	_	_	_	1	dep	_	_
+18	Iraq	_	_	_	_	1	dep	_	_
+19	had	_	_	_	_	1	dep	_	_
+20	ever	_	_	_	_	1	dep	_	_
+21	been	_	_	_	_	1	dep	_	_
+22	found	_	_	_	_	1	dep	_	_
+23	)	_	_	_	_	1	dep	_	_
+24	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0046
+# text = 03/23/2001 12:24 PM
+1	03/23/2001	_	_	_	_	0	root	_	_
+2	12:24	_	_	_	_	1	dep	_	_
+3	PM	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106103415AAqdokn_ans-0006
+# text = idk ur choice
+1	idk	_	_	_	_	0	root	_	_
+2	ur	_	_	_	_	1	dep	_	_
+3	choice	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_hiddennook_1fd8f731ae7ffaa0_ENG_20050214_192900-0009
+# text = But it looks like Google isn't opening it's mouth about the reason behind the offer as Linux News reports:
+1	But	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	dep	_	_
+3	looks	_	_	_	_	1	dep	_	_
+4	like	_	_	_	_	1	dep	_	_
+5	Google	_	_	_	_	1	dep	_	_
+6-7	isn't	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	1	dep	_	_
+7	n't	_	_	_	_	1	dep	_	_
+8	opening	_	_	_	_	1	dep	_	_
+9	it's	_	_	_	_	1	dep	_	_
+10	mouth	_	_	_	_	1	dep	_	_
+11	about	_	_	_	_	1	dep	_	_
+12	the	_	_	_	_	1	dep	_	_
+13	reason	_	_	_	_	1	dep	_	_
+14	behind	_	_	_	_	1	dep	_	_
+15	the	_	_	_	_	1	dep	_	_
+16	offer	_	_	_	_	1	dep	_	_
+17	as	_	_	_	_	1	dep	_	_
+18	Linux	_	_	_	_	1	dep	_	_
+19	News	_	_	_	_	1	dep	_	_
+20	reports	_	_	_	_	1	dep	_	_
+21	:	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_02-0007
+# text = real nice.
+1	real	_	_	_	_	0	root	_	_
+2	nice	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0001
+# text = Email: n3td3v <xploita...@gmail.com>
+1	Email	_	_	_	_	0	root	_	_
+2	:	_	_	_	_	1	dep	_	_
+3	n3td3v	_	_	_	_	1	dep	_	_
+4	<	_	_	_	_	1	dep	_	_
+5	xploita...@gmail.com	_	_	_	_	1	dep	_	_
+6	>	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000-0013
+# text = He has denied this.
+1	He	_	_	_	_	0	root	_	_
+2	has	_	_	_	_	1	dep	_	_
+3	denied	_	_	_	_	1	dep	_	_
+4	this	_	_	_	_	1	dep	_	_
+5	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-200668-0001
+# text = kudos to Allentown Post Office staff
+1	kudos	_	_	_	_	0	root	_	_
+2	to	_	_	_	_	1	dep	_	_
+3	Allentown	_	_	_	_	1	dep	_	_
+4	Post	_	_	_	_	1	dep	_	_
+5	Office	_	_	_	_	1	dep	_	_
+6	staff	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0025
+# text = Debra Perlingiere
+1	Debra	_	_	_	_	0	root	_	_
+2	Perlingiere	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108074555AAFT8Aj_ans-0004
+# text = Or background stands
+1	Or	_	_	_	_	0	root	_	_
+2	background	_	_	_	_	1	dep	_	_
+3	stands	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_fineart_0339fc0ed4e53c5a_ENG_20050930_025500-0007
+# text = "Wei has given some virtuoso performances with brush and ink, often incorporating several different techniques into a single work," said Gordon S. Barrass, curator of the exhibition.
+1	"	_	_	_	_	0	root	_	_
+2	Wei	_	_	_	_	1	dep	_	_
+3	has	_	_	_	_	1	dep	_	_
+4	given	_	_	_	_	1	dep	_	_
+5	some	_	_	_	_	1	dep	_	_
+6	virtuoso	_	_	_	_	1	dep	_	_
+7	performances	_	_	_	_	1	dep	_	_
+8	with	_	_	_	_	1	dep	_	_
+9	brush	_	_	_	_	1	dep	_	_
+10	and	_	_	_	_	1	dep	_	_
+11	ink	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	often	_	_	_	_	1	dep	_	_
+14	incorporating	_	_	_	_	1	dep	_	_
+15	several	_	_	_	_	1	dep	_	_
+16	different	_	_	_	_	1	dep	_	_
+17	techniques	_	_	_	_	1	dep	_	_
+18	into	_	_	_	_	1	dep	_	_
+19	a	_	_	_	_	1	dep	_	_
+20	single	_	_	_	_	1	dep	_	_
+21	work	_	_	_	_	1	dep	_	_
+22	,	_	_	_	_	1	dep	_	_
+23	"	_	_	_	_	1	dep	_	_
+24	said	_	_	_	_	1	dep	_	_
+25	Gordon	_	_	_	_	1	dep	_	_
+26	S.	_	_	_	_	1	dep	_	_
+27	Barrass	_	_	_	_	1	dep	_	_
+28	,	_	_	_	_	1	dep	_	_
+29	curator	_	_	_	_	1	dep	_	_
+30	of	_	_	_	_	1	dep	_	_
+31	the	_	_	_	_	1	dep	_	_
+32	exhibition	_	_	_	_	1	dep	_	_
+33	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_01-0004
+# text = like what?
+1	like	_	_	_	_	0	root	_	_
+2	what	_	_	_	_	1	dep	_	_
+3	?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0025
+# text = don't they know we have better things to do
+1-2	don't	_	_	_	_	_	_	_	_
+1	do	_	_	_	_	0	root	_	_
+2	n't	_	_	_	_	1	dep	_	_
+3	they	_	_	_	_	1	dep	_	_
+4	know	_	_	_	_	1	dep	_	_
+5	we	_	_	_	_	1	dep	_	_
+6	have	_	_	_	_	1	dep	_	_
+7	better	_	_	_	_	1	dep	_	_
+8	things	_	_	_	_	1	dep	_	_
+9	to	_	_	_	_	1	dep	_	_
+10	do	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-169610-0001
+# text = house closing
+1	house	_	_	_	_	0	root	_	_
+2	closing	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_8TRACKGROUPFORCOOLPEOPLE_3b43577fb9121c9f_ENG_20050320_090500-0001
+# text = Play your CD's, 8-tracks, reel to reels, cassettes, vinyl 33/45's, and shellac 78's through this little integrated amp, you'll get a big eye opener !
+1	Play	_	_	_	_	0	root	_	_
+2	your	_	_	_	_	1	dep	_	_
+3	CD's	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	8	_	_	_	_	1	dep	_	_
+6	-	_	_	_	_	1	dep	_	_
+7	tracks	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	reel	_	_	_	_	1	dep	_	_
+10	to	_	_	_	_	1	dep	_	_
+11	reels	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	cassettes	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	vinyl	_	_	_	_	1	dep	_	_
+16	33	_	_	_	_	1	dep	_	_
+17	/	_	_	_	_	1	dep	_	_
+18	45's	_	_	_	_	1	dep	_	_
+19	,	_	_	_	_	1	dep	_	_
+20	and	_	_	_	_	1	dep	_	_
+21	shellac	_	_	_	_	1	dep	_	_
+22	78's	_	_	_	_	1	dep	_	_
+23	through	_	_	_	_	1	dep	_	_
+24	this	_	_	_	_	1	dep	_	_
+25	little	_	_	_	_	1	dep	_	_
+26	integrated	_	_	_	_	1	dep	_	_
+27	amp	_	_	_	_	1	dep	_	_
+28	,	_	_	_	_	1	dep	_	_
+29-30	you'll	_	_	_	_	_	_	_	_
+29	you	_	_	_	_	1	dep	_	_
+30	'll	_	_	_	_	1	dep	_	_
+31	get	_	_	_	_	1	dep	_	_
+32	a	_	_	_	_	1	dep	_	_
+33	big	_	_	_	_	1	dep	_	_
+34	eye	_	_	_	_	1	dep	_	_
+35	opener	_	_	_	_	1	dep	_	_
+36	!	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-153921-0002
+# text = We order take out from here all the time and we are never disappointed.
+1	We	_	_	_	_	0	root	_	_
+2	order	_	_	_	_	1	dep	_	_
+3	take	_	_	_	_	1	dep	_	_
+4	out	_	_	_	_	1	dep	_	_
+5	from	_	_	_	_	1	dep	_	_
+6	here	_	_	_	_	1	dep	_	_
+7	all	_	_	_	_	1	dep	_	_
+8	the	_	_	_	_	1	dep	_	_
+9	time	_	_	_	_	1	dep	_	_
+10	and	_	_	_	_	1	dep	_	_
+11	we	_	_	_	_	1	dep	_	_
+12	are	_	_	_	_	1	dep	_	_
+13	never	_	_	_	_	1	dep	_	_
+14	disappointed	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent18_01-0001
+# text = Vince,
+1	Vince	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108071652AA8GAZw_ans-0003
+# text = They have been shipped using USPS Priority Mail International Parcels.
+1	They	_	_	_	_	0	root	_	_
+2	have	_	_	_	_	1	dep	_	_
+3	been	_	_	_	_	1	dep	_	_
+4	shipped	_	_	_	_	1	dep	_	_
+5	using	_	_	_	_	1	dep	_	_
+6	USPS	_	_	_	_	1	dep	_	_
+7	Priority	_	_	_	_	1	dep	_	_
+8	Mail	_	_	_	_	1	dep	_	_
+9	International	_	_	_	_	1	dep	_	_
+10	Parcels	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-251755-0005
+# text = She's the best!
+1-2	She's	_	_	_	_	_	_	_	_
+1	She	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	dep	_	_
+3	the	_	_	_	_	1	dep	_	_
+4	best	_	_	_	_	1	dep	_	_
+5	!	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent21_01-0004
+# text = Dear Mr. Lavorato:
+1	Dear	_	_	_	_	0	root	_	_
+2	Mr.	_	_	_	_	1	dep	_	_
+3	Lavorato	_	_	_	_	1	dep	_	_
+4	:	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20090605110621AA3jC62_ans-0001
+# text = What language is talked in Iguazu?
+1	What	_	_	_	_	0	root	_	_
+2	language	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	talked	_	_	_	_	1	dep	_	_
+5	in	_	_	_	_	1	dep	_	_
+6	Iguazu	_	_	_	_	1	dep	_	_
+7	?	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-235190-0002
+# text = Believe it or not, but the channel guide has been most helpful to my family members that visit and don't know where to start when it comes to watching satellite tv.
+1	Believe	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	dep	_	_
+3	or	_	_	_	_	1	dep	_	_
+4	not	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	but	_	_	_	_	1	dep	_	_
+7	the	_	_	_	_	1	dep	_	_
+8	channel	_	_	_	_	1	dep	_	_
+9	guide	_	_	_	_	1	dep	_	_
+10	has	_	_	_	_	1	dep	_	_
+11	been	_	_	_	_	1	dep	_	_
+12	most	_	_	_	_	1	dep	_	_
+13	helpful	_	_	_	_	1	dep	_	_
+14	to	_	_	_	_	1	dep	_	_
+15	my	_	_	_	_	1	dep	_	_
+16	family	_	_	_	_	1	dep	_	_
+17	members	_	_	_	_	1	dep	_	_
+18	that	_	_	_	_	1	dep	_	_
+19	visit	_	_	_	_	1	dep	_	_
+20	and	_	_	_	_	1	dep	_	_
+21-22	don't	_	_	_	_	_	_	_	_
+21	do	_	_	_	_	1	dep	_	_
+22	n't	_	_	_	_	1	dep	_	_
+23	know	_	_	_	_	1	dep	_	_
+24	where	_	_	_	_	1	dep	_	_
+25	to	_	_	_	_	1	dep	_	_
+26	start	_	_	_	_	1	dep	_	_
+27	when	_	_	_	_	1	dep	_	_
+28	it	_	_	_	_	1	dep	_	_
+29	comes	_	_	_	_	1	dep	_	_
+30	to	_	_	_	_	1	dep	_	_
+31	watching	_	_	_	_	1	dep	_	_
+32	satellite	_	_	_	_	1	dep	_	_
+33	tv	_	_	_	_	1	dep	_	_
+34	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_01-0035
+# text = not sure how much longer ene is going to be around and i'm checking out my options!
+1	not	_	_	_	_	0	root	_	_
+2	sure	_	_	_	_	1	dep	_	_
+3	how	_	_	_	_	1	dep	_	_
+4	much	_	_	_	_	1	dep	_	_
+5	longer	_	_	_	_	1	dep	_	_
+6	ene	_	_	_	_	1	dep	_	_
+7	is	_	_	_	_	1	dep	_	_
+8	going	_	_	_	_	1	dep	_	_
+9	to	_	_	_	_	1	dep	_	_
+10	be	_	_	_	_	1	dep	_	_
+11	around	_	_	_	_	1	dep	_	_
+12	and	_	_	_	_	1	dep	_	_
+13-14	i'm	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	1	dep	_	_
+14	'm	_	_	_	_	1	dep	_	_
+15	checking	_	_	_	_	1	dep	_	_
+16	out	_	_	_	_	1	dep	_	_
+17	my	_	_	_	_	1	dep	_	_
+18	options	_	_	_	_	1	dep	_	_
+19	!	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700-0007
+# text = --
+1	--	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-283903-0001
+# text = very reasonable prices.
+1	very	_	_	_	_	0	root	_	_
+2	reasonable	_	_	_	_	1	dep	_	_
+3	prices	_	_	_	_	1	dep	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106130843AA7yj7U_ans-0006
+# text = Or more if you have drinks.
+1	Or	_	_	_	_	0	root	_	_
+2	more	_	_	_	_	1	dep	_	_
+3	if	_	_	_	_	1	dep	_	_
+4	you	_	_	_	_	1	dep	_	_
+5	have	_	_	_	_	1	dep	_	_
+6	drinks	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0020
+# text = great, we look forward to seeing you.
+1	great	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3	we	_	_	_	_	1	dep	_	_
+4	look	_	_	_	_	1	dep	_	_
+5	forward	_	_	_	_	1	dep	_	_
+6	to	_	_	_	_	1	dep	_	_
+7	seeing	_	_	_	_	1	dep	_	_
+8	you	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0031
+# text = - Zsa Zsa Gabor
+1	-	_	_	_	_	0	root	_	_
+2	Zsa	_	_	_	_	1	dep	_	_
+3	Zsa	_	_	_	_	1	dep	_	_
+4	Gabor	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600-0011
+# text = They want to use LTS to tie into NASA's vision for Space Exploration, and seem pleased that the White House is moving in that direction.
+1	They	_	_	_	_	0	root	_	_
+2	want	_	_	_	_	1	dep	_	_
+3	to	_	_	_	_	1	dep	_	_
+4	use	_	_	_	_	1	dep	_	_
+5	LTS	_	_	_	_	1	dep	_	_
+6	to	_	_	_	_	1	dep	_	_
+7	tie	_	_	_	_	1	dep	_	_
+8	into	_	_	_	_	1	dep	_	_
+9-10	NASA's	_	_	_	_	_	_	_	_
+9	NASA	_	_	_	_	1	dep	_	_
+10	's	_	_	_	_	1	dep	_	_
+11	vision	_	_	_	_	1	dep	_	_
+12	for	_	_	_	_	1	dep	_	_
+13	Space	_	_	_	_	1	dep	_	_
+14	Exploration	_	_	_	_	1	dep	_	_
+15	,	_	_	_	_	1	dep	_	_
+16	and	_	_	_	_	1	dep	_	_
+17	seem	_	_	_	_	1	dep	_	_
+18	pleased	_	_	_	_	1	dep	_	_
+19	that	_	_	_	_	1	dep	_	_
+20	the	_	_	_	_	1	dep	_	_
+21	White	_	_	_	_	1	dep	_	_
+22	House	_	_	_	_	1	dep	_	_
+23	is	_	_	_	_	1	dep	_	_
+24	moving	_	_	_	_	1	dep	_	_
+25	in	_	_	_	_	1	dep	_	_
+26	that	_	_	_	_	1	dep	_	_
+27	direction	_	_	_	_	1	dep	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106103415AAqdokn_ans-0009
+# text = Hackney's has a great burger formula that started about 80 years ago.
+1-2	Hackney's	_	_	_	_	_	_	_	_
+1	Hackney	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	dep	_	_
+3	has	_	_	_	_	1	dep	_	_
+4	a	_	_	_	_	1	dep	_	_
+5	great	_	_	_	_	1	dep	_	_
+6	burger	_	_	_	_	1	dep	_	_
+7	formula	_	_	_	_	1	dep	_	_
+8	that	_	_	_	_	1	dep	_	_
+9	started	_	_	_	_	1	dep	_	_
+10	about	_	_	_	_	1	dep	_	_
+11	80	_	_	_	_	1	dep	_	_
+12	years	_	_	_	_	1	dep	_	_
+13	ago	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0019
+# text = I'm free any day but Tuesday.
+1-2	I'm	_	_	_	_	_	_	_	_
+1	I	_	_	_	_	0	root	_	_
+2	'm	_	_	_	_	1	dep	_	_
+3	free	_	_	_	_	1	dep	_	_
+4	any	_	_	_	_	1	dep	_	_
+5	day	_	_	_	_	1	dep	_	_
+6	but	_	_	_	_	1	dep	_	_
+7	Tuesday	_	_	_	_	1	dep	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_01-0032
+# text = Give me a few days, and I'll be in touch.
+1	Give	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	dep	_	_
+3	a	_	_	_	_	1	dep	_	_
+4	few	_	_	_	_	1	dep	_	_
+5	days	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	and	_	_	_	_	1	dep	_	_
+8-9	I'll	_	_	_	_	_	_	_	_
+8	I	_	_	_	_	1	dep	_	_
+9	'll	_	_	_	_	1	dep	_	_
+10	be	_	_	_	_	1	dep	_	_
+11	in	_	_	_	_	1	dep	_	_
+12	touch	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108071652AA8GAZw_ans-0002
+# text = I have ordered Bose Headfones worth 300USD.
+1	I	_	_	_	_	0	root	_	_
+2	have	_	_	_	_	1	dep	_	_
+3	ordered	_	_	_	_	1	dep	_	_
+4	Bose	_	_	_	_	1	dep	_	_
+5	Headfones	_	_	_	_	1	dep	_	_
+6	worth	_	_	_	_	1	dep	_	_
+7	300	_	_	_	_	1	dep	_	_
+8	USD	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106022931AAwpqXm_ans-0010
+# text = Yes, I have usually voted National.
+1	Yes	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3	I	_	_	_	_	1	dep	_	_
+4	have	_	_	_	_	1	dep	_	_
+5	usually	_	_	_	_	1	dep	_	_
+6	voted	_	_	_	_	1	dep	_	_
+7	National	_	_	_	_	1	dep	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107082312AAPNaxb_ans-0005
+# text = Four guys around a large square open hibachi cook your food, and when it's finished a server brings it to your table.
+1	Four	_	_	_	_	0	root	_	_
+2	guys	_	_	_	_	1	dep	_	_
+3	around	_	_	_	_	1	dep	_	_
+4	a	_	_	_	_	1	dep	_	_
+5	large	_	_	_	_	1	dep	_	_
+6	square	_	_	_	_	1	dep	_	_
+7	open	_	_	_	_	1	dep	_	_
+8	hibachi	_	_	_	_	1	dep	_	_
+9	cook	_	_	_	_	1	dep	_	_
+10	your	_	_	_	_	1	dep	_	_
+11	food	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	and	_	_	_	_	1	dep	_	_
+14	when	_	_	_	_	1	dep	_	_
+15-16	it's	_	_	_	_	_	_	_	_
+15	it	_	_	_	_	1	dep	_	_
+16	's	_	_	_	_	1	dep	_	_
+17	finished	_	_	_	_	1	dep	_	_
+18	a	_	_	_	_	1	dep	_	_
+19	server	_	_	_	_	1	dep	_	_
+20	brings	_	_	_	_	1	dep	_	_
+21	it	_	_	_	_	1	dep	_	_
+22	to	_	_	_	_	1	dep	_	_
+23	your	_	_	_	_	1	dep	_	_
+24	table	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-118668-0004
+# text = The setting feels like a Sushi bar in NYC; small, cozy, but with flair.
+1	The	_	_	_	_	0	root	_	_
+2	setting	_	_	_	_	1	dep	_	_
+3	feels	_	_	_	_	1	dep	_	_
+4	like	_	_	_	_	1	dep	_	_
+5	a	_	_	_	_	1	dep	_	_
+6	Sushi	_	_	_	_	1	dep	_	_
+7	bar	_	_	_	_	1	dep	_	_
+8	in	_	_	_	_	1	dep	_	_
+9	NYC	_	_	_	_	1	dep	_	_
+10	;	_	_	_	_	1	dep	_	_
+11	small	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	cozy	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	but	_	_	_	_	1	dep	_	_
+16	with	_	_	_	_	1	dep	_	_
+17	flair	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0040
+# text = The gods weren't with us on that one.
+1	The	_	_	_	_	0	root	_	_
+2	gods	_	_	_	_	1	dep	_	_
+3-4	weren't	_	_	_	_	_	_	_	_
+3	were	_	_	_	_	1	dep	_	_
+4	n't	_	_	_	_	1	dep	_	_
+5	with	_	_	_	_	1	dep	_	_
+6	us	_	_	_	_	1	dep	_	_
+7	on	_	_	_	_	1	dep	_	_
+8	that	_	_	_	_	1	dep	_	_
+9	one	_	_	_	_	1	dep	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-219984-0001
+# text = never response the phone call
+1	never	_	_	_	_	0	root	_	_
+2	response	_	_	_	_	1	dep	_	_
+3	the	_	_	_	_	1	dep	_	_
+4	phone	_	_	_	_	1	dep	_	_
+5	call	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0030
+# text = Would love for you to join us.
+1	Would	_	_	_	_	0	root	_	_
+2	love	_	_	_	_	1	dep	_	_
+3	for	_	_	_	_	1	dep	_	_
+4	you	_	_	_	_	1	dep	_	_
+5	to	_	_	_	_	1	dep	_	_
+6	join	_	_	_	_	1	dep	_	_
+7	us	_	_	_	_	1	dep	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-369608-0002
+# text = I worked with Sam Mones who took great care of me.
+1	I	_	_	_	_	0	root	_	_
+2	worked	_	_	_	_	1	dep	_	_
+3	with	_	_	_	_	1	dep	_	_
+4	Sam	_	_	_	_	1	dep	_	_
+5	Mones	_	_	_	_	1	dep	_	_
+6	who	_	_	_	_	1	dep	_	_
+7	took	_	_	_	_	1	dep	_	_
+8	great	_	_	_	_	1	dep	_	_
+9	care	_	_	_	_	1	dep	_	_
+10	of	_	_	_	_	1	dep	_	_
+11	me	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_02-0012
+# text = 06/12/2000 10:20 AM
+1	06/12/2000	_	_	_	_	0	root	_	_
+2	10:20	_	_	_	_	1	dep	_	_
+3	AM	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0040
+# text = Enron's working gas will be reduced by 420,588MMBTU.
+1-2	Enron's	_	_	_	_	_	_	_	_
+1	Enron	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	dep	_	_
+3	working	_	_	_	_	1	dep	_	_
+4	gas	_	_	_	_	1	dep	_	_
+5	will	_	_	_	_	1	dep	_	_
+6	be	_	_	_	_	1	dep	_	_
+7	reduced	_	_	_	_	1	dep	_	_
+8	by	_	_	_	_	1	dep	_	_
+9	420,588	_	_	_	_	1	dep	_	_
+10	MMBTU	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.cat_0f877e44e3521d27_ENG_20040131_084700-0001
+# text = Email: "Ian"<ian.gilb...@btinternet.com>
+1	Email	_	_	_	_	0	root	_	_
+2	:	_	_	_	_	1	dep	_	_
+3	"	_	_	_	_	1	dep	_	_
+4	Ian	_	_	_	_	1	dep	_	_
+5	"	_	_	_	_	1	dep	_	_
+6	<	_	_	_	_	1	dep	_	_
+7	ian.gilb...@btinternet.com	_	_	_	_	1	dep	_	_
+8	>	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106103415AAqdokn_ans-0018
+# text = http://www.flickr.com/photos/jellybeanjill13/532522805/
+1	http://www.flickr.com/photos/jellybeanjill13/532522805/	_	_	_	_	0	root	_	_
+
+# sent_id = email-enronsent18_02-0029
+# text = Hi Kevin,
+1	Hi	_	_	_	_	0	root	_	_
+2	Kevin	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-216281-0007
+# text = thanks Rich
+1	thanks	_	_	_	_	0	root	_	_
+2	Rich	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_02-0019
+# text = I am on board.
+1	I	_	_	_	_	0	root	_	_
+2	am	_	_	_	_	1	dep	_	_
+3	on	_	_	_	_	1	dep	_	_
+4	board	_	_	_	_	1	dep	_	_
+5	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0036
+# text = Today is good 12:30 ?
+1	Today	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	good	_	_	_	_	1	dep	_	_
+4	12:30	_	_	_	_	1	dep	_	_
+5	?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent21_02-0042
+# text = As seen below,
+1	As	_	_	_	_	0	root	_	_
+2	seen	_	_	_	_	1	dep	_	_
+3	below	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-035993-0001
+# text = They have fresh flowers, lasted a long while in the vase, and the two ladies at the shop know the business well.
+1	They	_	_	_	_	0	root	_	_
+2	have	_	_	_	_	1	dep	_	_
+3	fresh	_	_	_	_	1	dep	_	_
+4	flowers	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	lasted	_	_	_	_	1	dep	_	_
+7	a	_	_	_	_	1	dep	_	_
+8	long	_	_	_	_	1	dep	_	_
+9	while	_	_	_	_	1	dep	_	_
+10	in	_	_	_	_	1	dep	_	_
+11	the	_	_	_	_	1	dep	_	_
+12	vase	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	and	_	_	_	_	1	dep	_	_
+15	the	_	_	_	_	1	dep	_	_
+16	two	_	_	_	_	1	dep	_	_
+17	ladies	_	_	_	_	1	dep	_	_
+18	at	_	_	_	_	1	dep	_	_
+19	the	_	_	_	_	1	dep	_	_
+20	shop	_	_	_	_	1	dep	_	_
+21	know	_	_	_	_	1	dep	_	_
+22	the	_	_	_	_	1	dep	_	_
+23	business	_	_	_	_	1	dep	_	_
+24	well	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0011
+# text = But I was not pleased to read the description in the catalog: "No good in a bed, but fine against a wall."
+1	But	_	_	_	_	0	root	_	_
+2	I	_	_	_	_	1	dep	_	_
+3	was	_	_	_	_	1	dep	_	_
+4	not	_	_	_	_	1	dep	_	_
+5	pleased	_	_	_	_	1	dep	_	_
+6	to	_	_	_	_	1	dep	_	_
+7	read	_	_	_	_	1	dep	_	_
+8	the	_	_	_	_	1	dep	_	_
+9	description	_	_	_	_	1	dep	_	_
+10	in	_	_	_	_	1	dep	_	_
+11	the	_	_	_	_	1	dep	_	_
+12	catalog	_	_	_	_	1	dep	_	_
+13	:	_	_	_	_	1	dep	_	_
+14	"	_	_	_	_	1	dep	_	_
+15	No	_	_	_	_	1	dep	_	_
+16	good	_	_	_	_	1	dep	_	_
+17	in	_	_	_	_	1	dep	_	_
+18	a	_	_	_	_	1	dep	_	_
+19	bed	_	_	_	_	1	dep	_	_
+20	,	_	_	_	_	1	dep	_	_
+21	but	_	_	_	_	1	dep	_	_
+22	fine	_	_	_	_	1	dep	_	_
+23	against	_	_	_	_	1	dep	_	_
+24	a	_	_	_	_	1	dep	_	_
+25	wall	_	_	_	_	1	dep	_	_
+26	.	_	_	_	_	1	dep	_	_
+27	"	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108090345AAQiffR_ans-0004
+# text = Thank you (:
+1	Thank	_	_	_	_	0	root	_	_
+2	you	_	_	_	_	1	dep	_	_
+3	(:	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0028
+# text = FYI,
+1	FYI	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.cat_003362349f033873_ENG_20040712_077100-0015
+# text = http://www.newsfeeds.com - The #1 Newsgroup Service in the World!
+1	http://www.newsfeeds.com	_	_	_	_	0	root	_	_
+2	-	_	_	_	_	1	dep	_	_
+3	The	_	_	_	_	1	dep	_	_
+4	#	_	_	_	_	1	dep	_	_
+5	1	_	_	_	_	1	dep	_	_
+6	Newsgroup	_	_	_	_	1	dep	_	_
+7	Service	_	_	_	_	1	dep	_	_
+8	in	_	_	_	_	1	dep	_	_
+9	the	_	_	_	_	1	dep	_	_
+10	World	_	_	_	_	1	dep	_	_
+11	!	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.bears_07e0e03c803ffdbd_ENG_20040217_113500-0005
+# text = People love to buy these cute cuddly little animals for gifts and collectables.
+1	People	_	_	_	_	0	root	_	_
+2	love	_	_	_	_	1	dep	_	_
+3	to	_	_	_	_	1	dep	_	_
+4	buy	_	_	_	_	1	dep	_	_
+5	these	_	_	_	_	1	dep	_	_
+6	cute	_	_	_	_	1	dep	_	_
+7	cuddly	_	_	_	_	1	dep	_	_
+8	little	_	_	_	_	1	dep	_	_
+9	animals	_	_	_	_	1	dep	_	_
+10	for	_	_	_	_	1	dep	_	_
+11	gifts	_	_	_	_	1	dep	_	_
+12	and	_	_	_	_	1	dep	_	_
+13	collectables	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-038523-0001
+# text = Friendly service.
+1	Friendly	_	_	_	_	0	root	_	_
+2	service	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-011806-0002
+# text = Sheer contrast to getting it done at karol bagh which is done under the wooden plank
+1	Sheer	_	_	_	_	0	root	_	_
+2	contrast	_	_	_	_	1	dep	_	_
+3	to	_	_	_	_	1	dep	_	_
+4	getting	_	_	_	_	1	dep	_	_
+5	it	_	_	_	_	1	dep	_	_
+6	done	_	_	_	_	1	dep	_	_
+7	at	_	_	_	_	1	dep	_	_
+8	karol	_	_	_	_	1	dep	_	_
+9	bagh	_	_	_	_	1	dep	_	_
+10	which	_	_	_	_	1	dep	_	_
+11	is	_	_	_	_	1	dep	_	_
+12	done	_	_	_	_	1	dep	_	_
+13	under	_	_	_	_	1	dep	_	_
+14	the	_	_	_	_	1	dep	_	_
+15	wooden	_	_	_	_	1	dep	_	_
+16	plank	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0017
+# text = Today is good 12:30 ?
+1	Today	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	dep	_	_
+3	good	_	_	_	_	1	dep	_	_
+4	12:30	_	_	_	_	1	dep	_	_
+5	?	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_fineart_0339fc0ed4e53c5a_ENG_20050930_025500-0010
+# text = In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.
+1	In	_	_	_	_	0	root	_	_
+2-3	Wei's	_	_	_	_	_	_	_	_
+2	Wei	_	_	_	_	1	dep	_	_
+3	's	_	_	_	_	1	dep	_	_
+4	art	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	a	_	_	_	_	1	dep	_	_
+7	logician	_	_	_	_	1	dep	_	_
+8	could	_	_	_	_	1	dep	_	_
+9	see	_	_	_	_	1	dep	_	_
+10	mathematical	_	_	_	_	1	dep	_	_
+11	logic	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	a	_	_	_	_	1	dep	_	_
+14	cellist	_	_	_	_	1	dep	_	_
+15	could	_	_	_	_	1	dep	_	_
+16	see	_	_	_	_	1	dep	_	_
+17	a	_	_	_	_	1	dep	_	_
+18	ripple	_	_	_	_	1	dep	_	_
+19	of	_	_	_	_	1	dep	_	_
+20	nine	_	_	_	_	1	dep	_	_
+21	bass	_	_	_	_	1	dep	_	_
+22	notes	_	_	_	_	1	dep	_	_
+23	,	_	_	_	_	1	dep	_	_
+24	a	_	_	_	_	1	dep	_	_
+25	country	_	_	_	_	1	dep	_	_
+26	girl	_	_	_	_	1	dep	_	_
+27	could	_	_	_	_	1	dep	_	_
+28	see	_	_	_	_	1	dep	_	_
+29	straw	_	_	_	_	1	dep	_	_
+30	,	_	_	_	_	1	dep	_	_
+31	and	_	_	_	_	1	dep	_	_
+32	Harry	_	_	_	_	1	dep	_	_
+33	Potter	_	_	_	_	1	dep	_	_
+34	could	_	_	_	_	1	dep	_	_
+35	see	_	_	_	_	1	dep	_	_
+36	two	_	_	_	_	1	dep	_	_
+37	accompanied	_	_	_	_	1	dep	_	_
+38	green	_	_	_	_	1	dep	_	_
+39	blazes	_	_	_	_	1	dep	_	_
+40	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-025894-0001
+# text = Average food and deathly slow service
+1	Average	_	_	_	_	0	root	_	_
+2	food	_	_	_	_	1	dep	_	_
+3	and	_	_	_	_	1	dep	_	_
+4	deathly	_	_	_	_	1	dep	_	_
+5	slow	_	_	_	_	1	dep	_	_
+6	service	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-294978-0002
+# text = It's a fine place, I'm just a little mystified about the Michelin star.
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	_	_	_	_	0	root	_	_
+2	's	_	_	_	_	1	dep	_	_
+3	a	_	_	_	_	1	dep	_	_
+4	fine	_	_	_	_	1	dep	_	_
+5	place	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7-8	I'm	_	_	_	_	_	_	_	_
+7	I	_	_	_	_	1	dep	_	_
+8	'm	_	_	_	_	1	dep	_	_
+9	just	_	_	_	_	1	dep	_	_
+10	a	_	_	_	_	1	dep	_	_
+11	little	_	_	_	_	1	dep	_	_
+12	mystified	_	_	_	_	1	dep	_	_
+13	about	_	_	_	_	1	dep	_	_
+14	the	_	_	_	_	1	dep	_	_
+15	Michelin	_	_	_	_	1	dep	_	_
+16	star	_	_	_	_	1	dep	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-227515-0001
+# text = BEST DENTIST EVER -
+1	BEST	_	_	_	_	0	root	_	_
+2	DENTIST	_	_	_	_	1	dep	_	_
+3	EVER	_	_	_	_	1	dep	_	_
+4	-	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0014
+# text = But by December of '73 the Dow had collapsed to 788.
+1	But	_	_	_	_	0	root	_	_
+2	by	_	_	_	_	1	dep	_	_
+3	December	_	_	_	_	1	dep	_	_
+4	of	_	_	_	_	1	dep	_	_
+5	'73	_	_	_	_	1	dep	_	_
+6	the	_	_	_	_	1	dep	_	_
+7	Dow	_	_	_	_	1	dep	_	_
+8	had	_	_	_	_	1	dep	_	_
+9	collapsed	_	_	_	_	1	dep	_	_
+10	to	_	_	_	_	1	dep	_	_
+11	788	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_02-0008
+# text = Thought that you might be interested.
+1	Thought	_	_	_	_	0	root	_	_
+2	that	_	_	_	_	1	dep	_	_
+3	you	_	_	_	_	1	dep	_	_
+4	might	_	_	_	_	1	dep	_	_
+5	be	_	_	_	_	1	dep	_	_
+6	interested	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_jokecity_0566f0ba3b5f748f_ENG_20051125_240500-0008
+# text = The room is silent, none of the other children volunteer.
+1	The	_	_	_	_	0	root	_	_
+2	room	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	silent	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	none	_	_	_	_	1	dep	_	_
+7	of	_	_	_	_	1	dep	_	_
+8	the	_	_	_	_	1	dep	_	_
+9	other	_	_	_	_	1	dep	_	_
+10	children	_	_	_	_	1	dep	_	_
+11	volunteer	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-217747-0002
+# text = "Thank you so much for the superior job well done.
+1	"	_	_	_	_	0	root	_	_
+2	Thank	_	_	_	_	1	dep	_	_
+3	you	_	_	_	_	1	dep	_	_
+4	so	_	_	_	_	1	dep	_	_
+5	much	_	_	_	_	1	dep	_	_
+6	for	_	_	_	_	1	dep	_	_
+7	the	_	_	_	_	1	dep	_	_
+8	superior	_	_	_	_	1	dep	_	_
+9	job	_	_	_	_	1	dep	_	_
+10	well	_	_	_	_	1	dep	_	_
+11	done	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-124492-0001
+# text = Great product, great service!!!
+1	Great	_	_	_	_	0	root	_	_
+2	product	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	great	_	_	_	_	1	dep	_	_
+5	service	_	_	_	_	1	dep	_	_
+6	!!!	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108044917AALAHtc_ans-0001
+# text = how much does it cost to join world resorts international?
+1	how	_	_	_	_	0	root	_	_
+2	much	_	_	_	_	1	dep	_	_
+3	does	_	_	_	_	1	dep	_	_
+4	it	_	_	_	_	1	dep	_	_
+5	cost	_	_	_	_	1	dep	_	_
+6	to	_	_	_	_	1	dep	_	_
+7	join	_	_	_	_	1	dep	_	_
+8	world	_	_	_	_	1	dep	_	_
+9	resorts	_	_	_	_	1	dep	_	_
+10	international	_	_	_	_	1	dep	_	_
+11	?	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107211645AA391wC_ans-0004
+# text = If you mean fluid ounces, 20, as opposed to the 16 in America.
+1	If	_	_	_	_	0	root	_	_
+2	you	_	_	_	_	1	dep	_	_
+3	mean	_	_	_	_	1	dep	_	_
+4	fluid	_	_	_	_	1	dep	_	_
+5	ounces	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	20	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	as	_	_	_	_	1	dep	_	_
+10	opposed	_	_	_	_	1	dep	_	_
+11	to	_	_	_	_	1	dep	_	_
+12	the	_	_	_	_	1	dep	_	_
+13	16	_	_	_	_	1	dep	_	_
+14	in	_	_	_	_	1	dep	_	_
+15	America	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0035
+# text = We will forward the draft of that guaranty to you later today.
+1	We	_	_	_	_	0	root	_	_
+2	will	_	_	_	_	1	dep	_	_
+3	forward	_	_	_	_	1	dep	_	_
+4	the	_	_	_	_	1	dep	_	_
+5	draft	_	_	_	_	1	dep	_	_
+6	of	_	_	_	_	1	dep	_	_
+7	that	_	_	_	_	1	dep	_	_
+8	guaranty	_	_	_	_	1	dep	_	_
+9	to	_	_	_	_	1	dep	_	_
+10	you	_	_	_	_	1	dep	_	_
+11	later	_	_	_	_	1	dep	_	_
+12	today	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108074555AAFT8Aj_ans-0007
+# text = thumbs down???
+1	thumbs	_	_	_	_	0	root	_	_
+2	down	_	_	_	_	1	dep	_	_
+3	???	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107221352AAlIioO_ans-0004
+# text = American Food, Soul Food, Mexican, Italian, and Chinese are the options.
+1	American	_	_	_	_	0	root	_	_
+2	Food	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	Soul	_	_	_	_	1	dep	_	_
+5	Food	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	Mexican	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	Italian	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	and	_	_	_	_	1	dep	_	_
+12	Chinese	_	_	_	_	1	dep	_	_
+13	are	_	_	_	_	1	dep	_	_
+14	the	_	_	_	_	1	dep	_	_
+15	options	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-384229-0001
+# text = great tmobile service
+1	great	_	_	_	_	0	root	_	_
+2	tmobile	_	_	_	_	1	dep	_	_
+3	service	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0006
+# text = I understand the imminent cold weather is making things crazy, so now may not be the best time to be in your way.
+1	I	_	_	_	_	0	root	_	_
+2	understand	_	_	_	_	1	dep	_	_
+3	the	_	_	_	_	1	dep	_	_
+4	imminent	_	_	_	_	1	dep	_	_
+5	cold	_	_	_	_	1	dep	_	_
+6	weather	_	_	_	_	1	dep	_	_
+7	is	_	_	_	_	1	dep	_	_
+8	making	_	_	_	_	1	dep	_	_
+9	things	_	_	_	_	1	dep	_	_
+10	crazy	_	_	_	_	1	dep	_	_
+11	,	_	_	_	_	1	dep	_	_
+12	so	_	_	_	_	1	dep	_	_
+13	now	_	_	_	_	1	dep	_	_
+14	may	_	_	_	_	1	dep	_	_
+15	not	_	_	_	_	1	dep	_	_
+16	be	_	_	_	_	1	dep	_	_
+17	the	_	_	_	_	1	dep	_	_
+18	best	_	_	_	_	1	dep	_	_
+19	time	_	_	_	_	1	dep	_	_
+20	to	_	_	_	_	1	dep	_	_
+21	be	_	_	_	_	1	dep	_	_
+22	in	_	_	_	_	1	dep	_	_
+23	your	_	_	_	_	1	dep	_	_
+24	way	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111103205154AAOod9K_ans-0005
+# text = Any suggestions would be really helpful, thanks!
+1	Any	_	_	_	_	0	root	_	_
+2	suggestions	_	_	_	_	1	dep	_	_
+3	would	_	_	_	_	1	dep	_	_
+4	be	_	_	_	_	1	dep	_	_
+5	really	_	_	_	_	1	dep	_	_
+6	helpful	_	_	_	_	1	dep	_	_
+7	,	_	_	_	_	1	dep	_	_
+8	thanks	_	_	_	_	1	dep	_	_
+9	!	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108074455AAiMwmn_ans-0003
+# text = the camera only begins to work again when i take out the battery and put it back in.
+1	the	_	_	_	_	0	root	_	_
+2	camera	_	_	_	_	1	dep	_	_
+3	only	_	_	_	_	1	dep	_	_
+4	begins	_	_	_	_	1	dep	_	_
+5	to	_	_	_	_	1	dep	_	_
+6	work	_	_	_	_	1	dep	_	_
+7	again	_	_	_	_	1	dep	_	_
+8	when	_	_	_	_	1	dep	_	_
+9	i	_	_	_	_	1	dep	_	_
+10	take	_	_	_	_	1	dep	_	_
+11	out	_	_	_	_	1	dep	_	_
+12	the	_	_	_	_	1	dep	_	_
+13	battery	_	_	_	_	1	dep	_	_
+14	and	_	_	_	_	1	dep	_	_
+15	put	_	_	_	_	1	dep	_	_
+16	it	_	_	_	_	1	dep	_	_
+17	back	_	_	_	_	1	dep	_	_
+18	in	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0007
+# text = Choose the news and sport headlines you want - when you want them, all in one daily e-mail
+1	Choose	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	1	dep	_	_
+3	news	_	_	_	_	1	dep	_	_
+4	and	_	_	_	_	1	dep	_	_
+5	sport	_	_	_	_	1	dep	_	_
+6	headlines	_	_	_	_	1	dep	_	_
+7	you	_	_	_	_	1	dep	_	_
+8	want	_	_	_	_	1	dep	_	_
+9	-	_	_	_	_	1	dep	_	_
+10	when	_	_	_	_	1	dep	_	_
+11	you	_	_	_	_	1	dep	_	_
+12	want	_	_	_	_	1	dep	_	_
+13	them	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	all	_	_	_	_	1	dep	_	_
+16	in	_	_	_	_	1	dep	_	_
+17	one	_	_	_	_	1	dep	_	_
+18	daily	_	_	_	_	1	dep	_	_
+19	e-mail	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-309258-0001
+# text = slow service
+1	slow	_	_	_	_	0	root	_	_
+2	service	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0010
+# text = Mike
+1	Mike	_	_	_	_	0	root	_	_
+
+# sent_id = email-enronsent32_01-0008
+# text = Mark E Haedicke
+1	Mark	_	_	_	_	0	root	_	_
+2	E	_	_	_	_	1	dep	_	_
+3	Haedicke	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-270889-0002
+# text = Superior work - always comes through when we need him.
+1	Superior	_	_	_	_	0	root	_	_
+2	work	_	_	_	_	1	dep	_	_
+3	-	_	_	_	_	1	dep	_	_
+4	always	_	_	_	_	1	dep	_	_
+5	comes	_	_	_	_	1	dep	_	_
+6	through	_	_	_	_	1	dep	_	_
+7	when	_	_	_	_	1	dep	_	_
+8	we	_	_	_	_	1	dep	_	_
+9	need	_	_	_	_	1	dep	_	_
+10	him	_	_	_	_	1	dep	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-329807-0004
+# text = Highly recommended.
+1	Highly	_	_	_	_	0	root	_	_
+2	recommended	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-283903-0002
+# text = quick in & out.
+1	quick	_	_	_	_	0	root	_	_
+2	in	_	_	_	_	1	dep	_	_
+3	&	_	_	_	_	1	dep	_	_
+4	out	_	_	_	_	1	dep	_	_
+5	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0025
+# text = August 13, 2000
+1	August	_	_	_	_	0	root	_	_
+2	13	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+4	2000	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_01-0013
+# text = Job ID: J12746KM
+1	Job	_	_	_	_	0	root	_	_
+2	ID	_	_	_	_	1	dep	_	_
+3	:	_	_	_	_	1	dep	_	_
+4	J12746KM	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-245928-0003
+# text = They are especially rude to women.
+1	They	_	_	_	_	0	root	_	_
+2	are	_	_	_	_	1	dep	_	_
+3	especially	_	_	_	_	1	dep	_	_
+4	rude	_	_	_	_	1	dep	_	_
+5	to	_	_	_	_	1	dep	_	_
+6	women	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108050147AAOkFgL_ans-0007
+# text = Airfare alone will be incredibly expensive so make sure you have the money and of course free time to take your time and have a great time.
+1	Airfare	_	_	_	_	0	root	_	_
+2	alone	_	_	_	_	1	dep	_	_
+3	will	_	_	_	_	1	dep	_	_
+4	be	_	_	_	_	1	dep	_	_
+5	incredibly	_	_	_	_	1	dep	_	_
+6	expensive	_	_	_	_	1	dep	_	_
+7	so	_	_	_	_	1	dep	_	_
+8	make	_	_	_	_	1	dep	_	_
+9	sure	_	_	_	_	1	dep	_	_
+10	you	_	_	_	_	1	dep	_	_
+11	have	_	_	_	_	1	dep	_	_
+12	the	_	_	_	_	1	dep	_	_
+13	money	_	_	_	_	1	dep	_	_
+14	and	_	_	_	_	1	dep	_	_
+15	of	_	_	_	_	1	dep	_	_
+16	course	_	_	_	_	1	dep	_	_
+17	free	_	_	_	_	1	dep	_	_
+18	time	_	_	_	_	1	dep	_	_
+19	to	_	_	_	_	1	dep	_	_
+20	take	_	_	_	_	1	dep	_	_
+21	your	_	_	_	_	1	dep	_	_
+22	time	_	_	_	_	1	dep	_	_
+23	and	_	_	_	_	1	dep	_	_
+24	have	_	_	_	_	1	dep	_	_
+25	a	_	_	_	_	1	dep	_	_
+26	great	_	_	_	_	1	dep	_	_
+27	time	_	_	_	_	1	dep	_	_
+28	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108084036AAh8Ws9_ans-0005
+# text = if the computer is completely shut off, the USB ports aren't getting power, so they won't charge your phone
+1	if	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	1	dep	_	_
+3	computer	_	_	_	_	1	dep	_	_
+4	is	_	_	_	_	1	dep	_	_
+5	completely	_	_	_	_	1	dep	_	_
+6	shut	_	_	_	_	1	dep	_	_
+7	off	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	the	_	_	_	_	1	dep	_	_
+10	USB	_	_	_	_	1	dep	_	_
+11	ports	_	_	_	_	1	dep	_	_
+12-13	aren't	_	_	_	_	_	_	_	_
+12	are	_	_	_	_	1	dep	_	_
+13	n't	_	_	_	_	1	dep	_	_
+14	getting	_	_	_	_	1	dep	_	_
+15	power	_	_	_	_	1	dep	_	_
+16	,	_	_	_	_	1	dep	_	_
+17	so	_	_	_	_	1	dep	_	_
+18	they	_	_	_	_	1	dep	_	_
+19-20	won't	_	_	_	_	_	_	_	_
+19	wo	_	_	_	_	1	dep	_	_
+20	n't	_	_	_	_	1	dep	_	_
+21	charge	_	_	_	_	1	dep	_	_
+22	your	_	_	_	_	1	dep	_	_
+23	phone	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0047
+# text = I am going to be the Senior Regulatory Counsel at ISO New England starting on April 9, 2001.
+1	I	_	_	_	_	0	root	_	_
+2	am	_	_	_	_	1	dep	_	_
+3	going	_	_	_	_	1	dep	_	_
+4	to	_	_	_	_	1	dep	_	_
+5	be	_	_	_	_	1	dep	_	_
+6	the	_	_	_	_	1	dep	_	_
+7	Senior	_	_	_	_	1	dep	_	_
+8	Regulatory	_	_	_	_	1	dep	_	_
+9	Counsel	_	_	_	_	1	dep	_	_
+10	at	_	_	_	_	1	dep	_	_
+11	ISO	_	_	_	_	1	dep	_	_
+12	New	_	_	_	_	1	dep	_	_
+13	England	_	_	_	_	1	dep	_	_
+14	starting	_	_	_	_	1	dep	_	_
+15	on	_	_	_	_	1	dep	_	_
+16	April	_	_	_	_	1	dep	_	_
+17	9	_	_	_	_	1	dep	_	_
+18	,	_	_	_	_	1	dep	_	_
+19	2001	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-206303-0003
+# text = Always professional and reliable, sessions are good fun and suitably challenging.
+1	Always	_	_	_	_	0	root	_	_
+2	professional	_	_	_	_	1	dep	_	_
+3	and	_	_	_	_	1	dep	_	_
+4	reliable	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	sessions	_	_	_	_	1	dep	_	_
+7	are	_	_	_	_	1	dep	_	_
+8	good	_	_	_	_	1	dep	_	_
+9	fun	_	_	_	_	1	dep	_	_
+10	and	_	_	_	_	1	dep	_	_
+11	suitably	_	_	_	_	1	dep	_	_
+12	challenging	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0018
+# text = "By all means, marry.
+1	"	_	_	_	_	0	root	_	_
+2	By	_	_	_	_	1	dep	_	_
+3	all	_	_	_	_	1	dep	_	_
+4	means	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	marry	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+

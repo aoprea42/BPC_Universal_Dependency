@@ -1,0 +1,4095 @@
+# sent_id = wiki_Sauschädelstöhln_14
+# text = Da Brauch söwa woa in Ostöstareich weit vabroadt, heitzdog wean de Hausschlochtungan söltana, deshoib gibts imma weniger Sauschädln, de gstuin werden kunntatn.
+# genre = wiki
+# dialect_group = unk (southcentral/south)
+# location = Styria
+# source = https://bar.wikipedia.org/wiki/Sausch%C3%A4delst%C3%B6hln
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Brauch	_	NOUN	_	_	8	nsubj	_	GermanLemma=Brauch
+3	söwa	_	DET	_	_	2	advmod	_	GermanLemma=selber
+4	woa	_	AUX	_	_	8	aux	_	GermanLemma=war
+5	in	_	ADP	_	_	6	case	_	GermanLemma=in
+6	Ostöstareich	_	PROPN	_	_	8	obl	_	GermanLemma=Ostösterreich
+7	weit	_	ADJ	_	_	8	advmod	_	GermanLemma=weit
+8	vabroadt	_	VERB	_	_	0	root	_	GermanLemma=verbreiten|SpaceAfter=No
+9	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+10	heitzdog	_	ADV	_	_	11	advmod	_	GermanLemma=heutzutage
+11	wean	_	VERB	_	_	8	parataxis	_	GermanLemma=werden
+12	de	_	DET	_	_	13	det	_	GermanLemma=die
+13	Hausschlochtungan	_	NOUN	_	_	11	nsubj	_	GermanLemma=Hausschlachtung
+14	söltana	_	ADJ	_	_	11	advmod	_	GermanLemma=selten|SpaceAfter=No
+15	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+16	deshoib	_	ADV	_	_	17	advmod	_	GermanLemma=deshalb
+17	gibt	_	VERB	_	_	11	advcl	_	GermanLemma=geben|SpaceAfter=No
+18	s	_	PRON	_	_	17	expl	_	GermanLemma=es
+19	imma	_	ADV	_	_	17	advmod	_	GermanLemma=immer
+20	weniger	_	ADJ	_	_	21	amod	_	GermanLemma=wenig
+21	Sauschädln	_	NOUN	_	_	17	obj	_	GermanLemma=Sauschädel|SpaceAfter=No
+22	,	_	PUNCT	_	_	24	punct	_	GermanLemma=,
+23	de	_	PRON	_	_	24	nsubj	_	GermanLemma=die
+24	gstuin	_	VERB	_	_	21	acl:relcl	_	GermanLemma=stehlen
+25	werden	_	AUX	_	_	24	aux:pass	_	GermanLemma=werden
+26	kunntatn	_	AUX	_	_	24	aux	_	GermanLemma=können|SpaceAfter=No
+27	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
+
+# sent_id = wiki_Minga_7
+# text = Minga is in da ganzen woid aa zwengs da Wiesn und am Hofbraihaus bekannt.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	Minga	_	PROPN	_	_	14	nsubj	_	GermanLemma=München
+2	is	_	AUX	_	_	14	cop	_	GermanLemma=sein
+3	in	_	ADP	_	_	6	case	_	GermanLemma=in
+4	da	_	DET	_	_	6	det	_	GermanLemma=die
+5	ganzen	_	ADJ	_	_	6	amod	_	GermanLemma=ganz
+6	woid	_	NOUN	_	_	14	obl	_	GermanLemma=Welt
+7	aa	_	ADV	_	_	14	advmod	_	GermanLemma=auch
+8	zwengs	_	ADP	_	_	10	case	_	GermanLemma=wegen
+9	da	_	DET	_	_	10	det	_	GermanLemma=der
+10	Wiesn	_	PROPN	_	_	14	obl	_	GermanLemma=Wiesn
+11	und	_	CCONJ	_	_	13	cc	_	GermanLemma=und
+12	am	_	DET	_	_	13	det	_	GermanLemma=das
+13	Hofbraihaus	_	NOUN	_	_	10	conj	_	GermanLemma=Hofbräuhaus
+14	bekannt	_	ADJ	_	_	0	root	_	GermanLemma=bekannt|SpaceAfter=No
+15	.	_	PUNCT	_	_	14	punct	_	GermanLemma=.
+
+# sent_id = wiki_Minga_32
+# text = Af Owaboarisch hoaßt ma d'Eihwohna vo Minga traditionej Mingara und Mingararin.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	Af	_	ADP	_	_	2	case	_	GermanLemma=auf
+2	Owaboarisch	_	NOUN	_	_	3	obl	_	GermanLemma=Oberbairisch
+3	hoaßt	_	VERB	_	_	0	root	_	GermanLemma=heißen
+4	ma	_	PRON	_	_	3	nsubj	_	GermanLemma=man
+5	d'	_	DET	_	_	6	det	_	GermanLemma=der|SpaceAfter=No
+6	Eihwohna	_	NOUN	_	_	3	obj	_	GermanLemma=Einwohner
+7	vo	_	ADP	_	_	8	case	_	GermanLemma=von
+8	Minga	_	PROPN	_	_	6	nmod	_	GermanLemma=München
+9	traditionej	_	ADV	_	_	3	advmod	_	GermanLemma=traditionell
+10	Mingara	_	NOUN	_	_	3	xcomp	_	GermanLemma=Münchner
+11	und	_	CCONJ	_	_	12	cc	_	GermanLemma=und
+12	Mingararin	_	NOUN	_	_	10	conj	_	GermanLemma=Münchnerin|SpaceAfter=No
+13	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+
+# sent_id = wiki_Kafää_14
+# text = Des Moiguad wiad mit Wossa und Zugga in da sog. "Jabana" (an bauchign Tonkruag) aufkocht und in klaanan Schoin serviat.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
+1	Des	_	DET	_	_	2	det	_	GermanLemma=das
+2	Moiguad	_	NOUN	_	_	19	nsubj:pass	_	GermanLemma=Malgut
+3	wiad	_	AUX	_	_	19	aux:pass	_	GermanLemma=werden
+4	mit	_	ADP	_	_	5	case	_	GermanLemma=mit
+5	Wossa	_	NOUN	_	_	19	obl	_	GermanLemma=Wasser
+6	und	_	CCONJ	_	_	7	cc	_	GermanLemma=und
+7	Zugga	_	NOUN	_	_	5	conj	_	GermanLemma=Zucker
+8	in	_	ADP	_	_	12	case	_	GermanLemma=in
+9	da	_	DET	_	_	12	det	_	GermanLemma=der
+10	sog.	_	ADJ	_	_	12	amod	_	GermanLemma=sogenannt
+11	"	_	PUNCT	_	_	12	punct	_	GermanLemma="|SpaceAfter=No
+12	Jabana	_	PROPN	_	_	19	obl	_	GermanLemma=Jabana|SpaceAfter=No
+13	"	_	PUNCT	_	_	12	punct	_	GermanLemma="
+14	(	_	PUNCT	_	_	17	punct	_	GermanLemma=(|SpaceAfter=No
+15	an	_	DET	_	_	17	det	_	GermanLemma=ein
+16	bauchign	_	ADJ	_	_	17	amod	_	GermanLemma=bauchig
+17	Tonkruag	_	NOUN	_	_	12	appos	_	GermanLemma=Tonkrug|SpaceAfter=No
+18	)	_	PUNCT	_	_	17	punct	_	GermanLemma=)
+19	aufkocht	_	VERB	_	_	0	root	_	GermanLemma=aufkochen
+20	und	_	CCONJ	_	_	24	cc	_	GermanLemma=und
+21	in	_	ADP	_	_	23	case	_	GermanLemma=in
+22	klaanan	_	ADJ	_	_	23	amod	_	GermanLemma=klein
+23	Schoin	_	NOUN	_	_	24	obl	_	GermanLemma=Schale
+24	serviat	_	VERB	_	_	19	conj	_	GermanLemma=servieren|SpaceAfter=No
+25	.	_	PUNCT	_	_	19	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_295
+# text = erinner mi moi in a viatl Stund das i bei da Nachbarin klingln muas
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
+3	moi	_	ADV	_	_	1	advmod	_	GermanLemma=mal
+4	in	_	ADP	_	_	7	case	_	GermanLemma=in
+5	a	_	DET	_	_	7	det	_	GermanLemma=eine
+6	viatl	_	ADJ	_	_	7	amod	_	GermanLemma=viertel
+7	Stund	_	NOUN	_	_	1	obl	_	GermanLemma=Stunde
+8	das	_	SCONJ	_	_	13	mark	_	GermanLemma=dass
+9	i	_	PRON	_	_	13	nsubj	_	GermanLemma=ich
+10	bei	_	ADP	_	_	12	case	_	GermanLemma=bei
+11	da	_	DET	_	_	12	det	_	GermanLemma=die
+12	Nachbarin	_	NOUN	_	_	13	obl	_	GermanLemma=Nachbarin
+13	klingln	_	VERB	_	_	1	ccomp	_	GermanLemma=klingen
+14	muas	_	AUX	_	_	13	aux	_	GermanLemma=müssen
+
+# sent_id = wiki_Dazzlwuam_33
+# text = Auf jedn Foi wean de aungeblichn Sichdungen im 20.Joahundat oiwai wenga und ma hod a niangs an archeologischn Bewais gfundn.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Dazzlwuam
+1	Auf	_	ADP	_	_	3	case	_	GermanLemma=auf
+2	jedn	_	DET	_	_	3	det	_	GermanLemma=jeder
+3	Foi	_	NOUN	_	_	4	obl	_	GermanLemma=Fall
+4	wean	_	VERB	_	_	0	root	_	GermanLemma=werden
+5	de	_	DET	_	_	7	det	_	GermanLemma=die
+6	aungeblichn	_	ADJ	_	_	7	amod	_	GermanLemma=angeblich
+7	Sichdungen	_	NOUN	_	_	4	nsubj	_	GermanLemma=Sichtung
+8-9	im	_	_	_	_	_	_	_	_
+8	i	_	ADP	_	_	11	case	_	GermanLemma=in
+9	m	_	DET	_	_	11	det	_	GermanLemma=das
+10	20.	_	ADJ	_	_	11	amod	_	GermanLemma=20.|SpaceAfter=No
+11	Joahundat	_	NOUN	_	_	4	obl	_	GermanLemma=Jahrhundert
+12	oiwai	_	ADV	_	_	4	advmod	_	GermanLemma=immer
+13	wenga	_	ADJ	_	_	4	amod	_	GermanLemma=wenig
+14	und	_	CCONJ	_	_	22	cc	_	GermanLemma=und
+15	ma	_	PRON	_	_	22	nsubj	_	GermanLemma=man
+16	hod	_	AUX	_	_	22	aux	_	GermanLemma=haben
+17	a	_	ADV	_	_	22	advmod	_	GermanLemma=auch
+18	niangs	_	ADV	_	_	22	advmod	_	GermanLemma=nirgends
+19	an	_	DET	_	_	21	det	_	GermanLemma=ein
+20	archeologischn	_	ADJ	_	_	21	amod	_	GermanLemma=archäologisch
+21	Bewais	_	NOUN	_	_	22	obj	_	GermanLemma=Beweis
+22	gfundn	_	VERB	_	_	4	conj	_	GermanLemma=finden|SpaceAfter=No
+23	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_2
+# text = Brauch i an Pulli?
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Brauch	_	VERB	_	_	0	root	_	GermanLemma=brauchen
+2	i	_	PRON	_	_	1	nsubj	_	GermanLemma=ich
+3	an	_	DET	_	_	4	det	_	GermanLemma=ein
+4	Pulli	_	NOUN	_	_	1	obj	_	GermanLemma=Pulli|SpaceAfter=No
+5	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
+
+# sent_id = wiki_J-Pop_3
+# text = Baim Inhajt geihds, waj in da westlichen Popmusik aa, maisdns um Liebe und Beziehungen.
+# genre = wiki
+# dialect_group = north
+# location = unk
+# source = https://bar.wikipedia.org/wiki/J-Pop
+1-2	Baim	_	_	_	_	_	_	_	_
+1	Bai	_	ADP	_	_	3	case	_	GermanLemma=bei
+2	m	_	DET	_	_	3	det	_	GermanLemma=der
+3	Inhajt	_	NOUN	_	_	4	obl	_	GermanLemma=Inhalt
+4	geihd	_	VERB	_	_	0	root	_	GermanLemma=gehen|SpaceAfter=No
+5	s	_	PRON	_	_	4	expl	_	GermanLemma=es|SpaceAfter=No
+6	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+7	waj	_	ADV	_	_	11	mark	_	GermanLemma=wie
+8	in	_	ADP	_	_	11	case	_	GermanLemma=in
+9	da	_	DET	_	_	11	det	_	GermanLemma=die
+10	westlichen	_	ADJ	_	_	11	amod	_	GermanLemma=westlich
+11	Popmusik	_	NOUN	_	_	4	obl	_	GermanLemma=Popmusik
+12	aa	_	ADV	_	_	11	advmod	_	GermanLemma=auch|SpaceAfter=No
+13	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+14	maisdns	_	ADV	_	_	4	advmod	_	GermanLemma=meistens
+15	um	_	ADP	_	_	16	case	_	GermanLemma=um
+16	Liebe	_	NOUN	_	_	4	obl	_	GermanLemma=Liebe
+17	und	_	CCONJ	_	_	18	cc	_	GermanLemma=und
+18	Beziehungen	_	NOUN	_	_	16	conj	_	GermanLemma=Beziehung|SpaceAfter=No
+19	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Adverb_44
+# text = Seine Rezepte san guad.
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Adverb)
+1	Seine	_	DET	_	_	2	det:poss	_	GermanLemma=sein
+2	Rezepte	_	NOUN	_	_	4	nsubj	_	GermanLemma=Rezept
+3	san	_	AUX	_	_	4	cop	_	GermanLemma=sein
+4	guad	_	ADJ	_	_	0	root	_	GermanLemma=gut|SpaceAfter=No
+5	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Bairische-Buechspraach_1
+# text = Des is iedz glaab i a ganz a ganz a wichtinge Sach - do ghead aa des "ö"-Thema (min "Össn") obn von USERNAME dazua.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:Bairische_Buechspraach
+1	Des	_	PRON	_	_	12	nsubj	_	GermanLemma=das
+2	is	_	AUX	_	_	12	cop	_	GermanLemma=sein
+3	iedz	_	ADV	_	_	12	advmod	_	GermanLemma=jetzt
+4	glaab	_	VERB	_	_	12	parataxis	_	GermanLemma=glauben
+5	i	_	PRON	_	_	4	nsubj	_	GermanLemma=ich
+6	a	_	DET	_	_	7	dep	_	GermanLemma=eine
+7	ganz	_	ADV	_	_	9	reparandum	_	GermanLemma=ganz
+8	a	_	DET	_	_	12	det	_	GermanLemma=eine
+9	ganz	_	ADV	_	_	11	advmod	_	GermanLemma=ganz
+10	a	_	DET	_	_	12	det	_	GermanLemma=eine
+11	wichtinge	_	ADJ	_	_	12	amod	_	CorrectForm=wichtige|GermanLemma=wichtig
+12	Sach	_	NOUN	_	_	0	root	_	GermanLemma=Sache
+13	-	_	PUNCT	_	_	15	punct	_	GermanLemma=-
+14	do	_	ADV	_	_	15	advmod	_	GermanLemma=doch
+15	ghead	_	VERB	_	_	12	parataxis	_	GermanLemma=gehören
+16	aa	_	ADV	_	_	15	advmod	_	GermanLemma=auch
+17	des	_	DET	_	_	18	det	_	GermanLemma=das
+18	"ö"-Thema	_	NOUN	_	_	15	nsubj	_	GermanLemma="ö"-Thema
+19	(	_	PUNCT	_	_	23	punct	_	GermanLemma=(|SpaceAfter=No
+20-21	min	_	_	_	_	_	_	_	_
+20	mi	_	ADP	_	_	23	case	_	GermanLemma=mit
+21	n	_	DET	_	_	23	det	_	GermanLemma=das
+22	"	_	PUNCT	_	_	23	punct	_	GermanLemma="|SpaceAfter=No
+23	Össn	_	NOUN	_	_	18	appos	_	GermanLemma=Essen|SpaceAfter=No
+24	"	_	PUNCT	_	_	23	punct	_	GermanLemma="|SpaceAfter=No
+25	)	_	PUNCT	_	_	23	punct	_	GermanLemma=)
+26	obn	_	ADV	_	_	15	advmod	_	GermanLemma=oben
+27	von	_	ADP	_	_	28	case	_	GermanLemma=von
+28	USERNAME	_	PROPN	_	_	15	obl	_	GermanLemma=USERNAME
+29	dazua	_	ADV	_	_	15	advmod	_	GermanLemma=dazu|SpaceAfter=No
+30	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Ödenburg_5
+# text = Den oan Famülineignam vahunzt ma ned.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:%C3%96denburg
+1	Den	_	DET	_	_	3	det	_	GermanLemma=der
+2	oan	_	DET	_	_	3	det	_	GermanLemma=ein
+3	Famülineignam	_	NOUN	_	_	4	obj	_	GermanLemma=Familienname
+4	vahunzt	_	VERB	_	_	0	root	_	GermanLemma=verhunzen
+5	ma	_	PRON	_	_	4	nsubj	_	GermanLemma=man
+6	ned	_	PART	_	_	4	advmod	_	GermanLemma=nicht|SpaceAfter=No
+7	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wiki_Age-of-Empires_6
+# text = Normalaweis fangd s'Spüll in da Altschdeinzeid oo.
+# genre = wiki
+# dialect_group = north
+# location = Upper Bavaria
+# source = https://bar.wikipedia.org/wiki/Age_of_Empires
+1	Normalaweis	_	ADV	_	_	2	advmod	_	GermanLemma=normalerweise
+2	fangd	_	VERB	_	_	0	root	_	GermanLemma=fangen
+3	s'	_	DET	_	_	4	det	_	GermanLemma=das|SpaceAfter=No
+4	Spüll	_	NOUN	_	_	2	nsubj	_	GermanLemma=Spiel
+5	in	_	ADP	_	_	7	case	_	GermanLemma=in
+6	da	_	DET	_	_	7	det	_	GermanLemma=die
+7	Altschdeinzeid	_	NOUN	_	_	2	obl	_	GermanLemma=Altsteinzeit
+8	oo	_	ADP	_	_	2	compound:prt	_	GermanLemma=an|SpaceAfter=No
+9	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Minga_43
+# text = Wos no dazua beitrogt, dass d'Mingara oft schlecht aufglegt waradn, is da Fön, dea wo si afs G'miat schlogt und a zum Schädlwäh fian ko.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	Wos	_	PRON	_	_	4	nsubj	_	GermanLemma=was
+2	no	_	ADV	_	_	4	advmod	_	GermanLemma=noch
+3	dazua	_	ADV	_	_	4	advmod	_	GermanLemma=dazu
+4	beitrogt	_	VERB	_	_	16	csubj	_	GermanLemma=beitragen|SpaceAfter=No
+5	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+6	dass	_	SCONJ	_	_	11	mark	_	GermanLemma=dass
+7	d'	_	DET	_	_	8	det	_	GermanLemma=der|SpaceAfter=No
+8	Mingara	_	NOUN	_	_	11	nsubj	_	GermanLemma=Münchner
+9	oft	_	ADV	_	_	11	advmod	_	GermanLemma=oft
+10	schlecht	_	ADV	_	_	11	advmod	_	GermanLemma=schlecht
+11	aufglegt	_	ADJ	_	_	4	ccomp	_	GermanLemma=aufgelegt
+12	waradn	_	AUX	_	_	11	cop	_	GermanLemma=sein|SpaceAfter=No
+13	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+14	is	_	AUX	_	_	16	cop	_	GermanLemma=sein
+15	da	_	DET	_	_	16	det	_	GermanLemma=der
+16	Fön	_	NOUN	_	_	0	root	_	GermanLemma=Föhn|SpaceAfter=No
+17	,	_	PUNCT	_	_	24	punct	_	GermanLemma=,
+18	dea	_	PRON	_	_	24	nsubj	_	GermanLemma=der
+19	wo	_	SCONJ	_	_	24	mark	_	GermanLemma=wo
+20	si	_	PRON	_	_	24	expl:pv	_	GermanLemma=sich
+21-22	afs	_	_	_	_	_	_	_	_
+21	af	_	ADP	_	_	23	case	_	GermanLemma=auf
+22	s	_	DET	_	_	23	det	_	GermanLemma=das
+23	G'miat	_	NOUN	_	_	24	obl	_	GermanLemma=Gemüt
+24	schlogt	_	VERB	_	_	16	acl:relcl	_	GermanLemma=schlagen
+25	und	_	CCONJ	_	_	30	cc	_	GermanLemma=und
+26	a	_	ADV	_	_	30	advmod	_	GermanLemma=auch
+27-28	zum	_	_	_	_	_	_	_	_
+27	zu	_	ADP	_	_	29	case	_	GermanLemma=zu
+28	m	_	DET	_	_	29	det	_	GermanLemma=das
+29	Schädlwäh	_	NOUN	_	_	30	obl	_	GermanLemma=Kopfweh
+30	fian	_	VERB	_	_	24	conj	_	GermanLemma=führen
+31	ko	_	AUX	_	_	30	aux	_	GermanLemma=können|SpaceAfter=No
+32	.	_	PUNCT	_	_	16	punct	_	GermanLemma=.
+
+# sent_id = wiki_Toppmkorsee_17
+# text = Oisdonn houd se d' Wirkung vom Zindpuifer gejtad gmocht und a Explosion houds Ungehaier umbroucht und Bevejkarung is vo ner grossn Sorg befrait woun.
+# genre = wiki
+# dialect_group = southcentral
+# location = Pongau
+# source = https://bar.wikipedia.org/wiki/Toppmkorsee
+1	Oisdonn	_	ADV	_	_	10	advmod	_	GermanLemma=alsdann
+2	houd	_	AUX	_	_	10	aux	_	GermanLemma=haben
+3	se	_	PRON	_	_	10	expl:pv	_	GermanLemma=sich
+4	d'	_	DET	_	_	5	det	_	GermanLemma=die
+5	Wirkung	_	NOUN	_	_	10	nsubj	_	GermanLemma=Wirkung
+6-7	vom	_	_	_	_	_	_	_	_
+6	vo	_	ADP	_	_	8	case	_	GermanLemma=von
+7	m	_	DET	_	_	8	det	_	GermanLemma=das
+8	Zindpuifer	_	NOUN	_	_	5	nmod	_	GermanLemma=Zündpulver
+9	gejtad	_	ADJ	_	_	10	xcomp	_	GermanLemma=geltend
+10	gmocht	_	VERB	_	_	0	root	_	GermanLemma=machen
+11	und	_	CCONJ	_	_	17	cc	_	GermanLemma=und
+12	a	_	DET	_	_	13	det	_	GermanLemma=eine
+13	Explosion	_	NOUN	_	_	17	nsubj	_	GermanLemma=Explosion
+14	houd	_	AUX	_	_	17	aux	_	GermanLemma=haben|SpaceAfter=No
+15	s	_	DET	_	_	16	det	_	GermanLemma=das
+16	Ungehaier	_	NOUN	_	_	17	obj	_	GermanLemma=Ungeheuer
+17	umbroucht	_	VERB	_	_	10	conj	_	GermanLemma=umbringen
+18	und	_	CCONJ	_	_	25	cc	_	GermanLemma=und
+19	Bevejkarung	_	NOUN	_	_	25	nsubj:pass	_	GermanLemma=Bevölkerung
+20	is	_	AUX	_	_	25	aux	_	GermanLemma=sein
+21	vo	_	ADP	_	_	24	case	_	GermanLemma=von
+22	ner	_	DET	_	_	24	det	_	GermanLemma=eine
+23	grossn	_	ADJ	_	_	24	amod	_	GermanLemma=groß
+24	Sorg	_	NOUN	_	_	25	obl	_	GermanLemma=Sorge
+25	befrait	_	VERB	_	_	10	conj	_	GermanLemma=befreien
+26	woun	_	AUX	_	_	25	aux:pass	_	GermanLemma=werden|SpaceAfter=No
+27	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-st_valid_51
+# text = Erstell an Erinnerung um speter zin Supermarkt zi gian
+# text_en = Set a reminder to go to the grocery store later
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	Erstell	_	VERB	_	_	0	root	_	GermanLemma=erstellen
+2	an	_	DET	_	_	3	det	_	GermanLemma=eine
+3	Erinnerung	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung
+4	um	_	ADP	_	_	10	mark	_	GermanLemma=um
+5	speter	_	ADJ	_	_	10	advmod	_	GermanLemma=später
+6-7	zin	_	_	_	_	_	_	_	_
+6	zi	_	ADP	_	_	8	case	_	GermanLemma=zu
+7	n	_	DET	_	_	8	det	_	GermanLemma=der
+8	Supermarkt	_	NOUN	_	_	10	obl	_	GermanLemma=Supermarkt
+9	zi	_	PART	_	_	10	mark	_	GermanLemma=zu
+10	gian	_	VERB	_	_	1	advcl	_	GermanLemma=gehen
+
+# sent_id = sid_de-ba_natural_13
+# text = dua "Dreh den Swag auf" von Moneyboy in mei Spotify-Playlist.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	dua	_	VERB	_	_	0	root	_	GermanLemma=tun
+2	"	_	PUNCT	_	_	3	punct	_	GermanLemma="|SpaceAfter=No
+3	Dreh	_	VERB	_	_	1	obj	_	GermanLemma=drehen
+4	den	_	DET	_	_	5	det	_	GermanLemma=der
+5	Swag	_	NOUN	_	_	3	obj	_	GermanLemma=Swag
+6	auf	_	ADP	_	_	3	compound:prt	_	GermanLemma=auf|SpaceAfter=No
+7	"	_	PUNCT	_	_	3	punct	_	GermanLemma="
+8	von	_	ADP	_	_	9	case	_	GermanLemma=von
+9	Moneyboy	_	PROPN	_	_	3	nmod	_	GermanLemma=Moneyboy
+10	in	_	ADP	_	_	12	case	_	GermanLemma=in
+11	mei	_	DET	_	_	12	det:poss	_	GermanLemma=meine
+12	Spotify-Playlist	_	NOUN	_	_	1	obl	_	GermanLemma=Spotify-Playlist|SpaceAfter=No
+13	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wikisource_Hansl-und-Gretl_35
+# text = De ganze Nocht durch sands ganga und wia's Friah wordn is, sand's wieda dahoam akemma.
+# genre = fiction
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Text:Hansl_und_Gretl
+1	De	_	DET	_	_	3	det	_	GermanLemma=die
+2	ganze	_	ADJ	_	_	3	amod	_	GermanLemma=ganz
+3	Nocht	_	NOUN	_	_	4	obl	_	GermanLemma=Nacht
+4	durch	_	ADV	_	_	6	advmod	_	GermanLemma=durch
+5	sands	_	AUX	_	_	6	aux	_	GermanLemma=sein
+6	ganga	_	VERB	_	_	0	root	_	GermanLemma=gehen
+7	und	_	CCONJ	_	_	18	cc	_	GermanLemma=und
+8	wia	_	SCONJ	_	_	11	mark	_	GermanLemma=wie|SpaceAfter=No
+9	's	_	PRON	_	_	11	expl	_	GermanLemma=es
+10	Friah	_	NOUN	_	_	11	obj	_	GermanLemma=Früh
+11	wordn	_	VERB	_	_	18	advcl	_	GermanLemma=werden
+12	is	_	AUX	_	_	11	aux	_	GermanLemma=sein|SpaceAfter=No
+13	,	_	PUNCT	_	_	18	punct	_	GermanLemma=,
+14	sand	_	AUX	_	_	18	aux	_	GermanLemma=sein|SpaceAfter=No
+15	's	_	PRON	_	_	18	nsubj	_	GermanLemma=sie
+16	wieda	_	ADV	_	_	18	advmod	_	GermanLemma=wieder
+17	dahoam	_	ADV	_	_	18	advmod	_	GermanLemma=daheim
+18	akemma	_	VERB	_	_	6	conj	_	GermanLemma=ankommen|SpaceAfter=No
+19	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = wiki_Brod_7
+# text = S feste Aissare vom Brod hassd Rindn, s Innare Schmoin.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Brod
+1	S	_	DET	_	_	3	det	_	GermanLemma=das
+2	feste	_	ADJ	_	_	3	amod	_	GermanLemma=fest
+3	Aissare	_	ADJ	_	_	7	nsubj	_	GermanLemma=Äußere
+4-5	vom	_	_	_	_	_	_	_	_
+4	vo	_	ADP	_	_	6	case	_	GermanLemma=von
+5	m	_	DET	_	_	6	det	_	GermanLemma=das
+6	Brod	_	NOUN	_	_	3	nmod	_	GermanLemma=Brot
+7	hassd	_	VERB	_	_	0	root	_	GermanLemma=heißen
+8	Rindn	_	NOUN	_	_	7	obj	_	GermanLemma=Rinde|SpaceAfter=No
+9	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+10	s	_	DET	_	_	11	det	_	GermanLemma=das
+11	Innare	_	ADJ	_	_	7	conj	_	GermanLemma=Innere
+12	Schmoin	_	NOUN	_	_	11	orphan	_	GermanLemma=Krume|SpaceAfter=No
+13	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_244
+# text = Weck mi morgn um sime ned auf
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Weck	_	VERB	_	_	0	root	_	GermanLemma=wecken
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
+3	morgn	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
+4	um	_	ADP	_	_	5	case	_	GermanLemma=um
+5	sime	_	NUM	_	_	1	obl	_	GermanLemma=sieben
+6	ned	_	PART	_	_	1	advmod	_	GermanLemma=nicht
+7	auf	_	ADP	_	_	1	compound:prt	_	GermanLemma=auf
+
+# sent_id = tatoeba_5184484
+# text = Vo de hob i no nie ane hergnumma.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5184484
+# author = brauchinet
+1	Vo	_	ADP	_	_	2	case	_	GermanLemma=von
+2	de	_	PRON	_	_	8	obl	_	GermanLemma=die
+3	hob	_	AUX	_	_	8	aux	_	GermanLemma=haben
+4	i	_	PRON	_	_	8	nsubj	_	GermanLemma=ich
+5	no	_	ADV	_	_	6	advmod	_	GermanLemma=noch
+6	nie	_	ADV	_	_	8	advmod	_	GermanLemma=nie
+7	ane	_	NUM	_	_	8	obj	_	GermanLemma=eine
+8	hergnumma	_	VERB	_	_	0	root	_	GermanLemma=hernehmen|SpaceAfter=No
+9	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_6196748
+# text = Du zahst beim Oabeitn gaunz sche an.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/6196748
+# author = brauchinet
+1	Du	_	PRON	_	_	2	nsubj	_	GermanLemma=du
+2	zahst	_	VERB	_	_	0	root	_	GermanLemma=ziehen
+3-4	beim	_	_	_	_	_	_	_	_
+3	bei	_	ADP	_	_	5	case	_	GermanLemma=bei
+4	m	_	DET	_	_	5	det	_	GermanLemma=das
+5	Oabeitn	_	NOUN	_	_	2	obl	_	GermanLemma=Arbeiten
+6	gaunz	_	ADV	_	_	7	advmod	_	GermanLemma=ganz
+7	sche	_	ADJ	_	_	2	advmod	_	GermanLemma=schön
+8	an	_	ADP	_	_	2	compound:prt	_	GermanLemma=an|SpaceAfter=No
+9	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-st_valid_242
+# text = I mecht gern die Geschichte 12 Soulful Nights of Christmas schaugn
+# text_en = I'd like to see the saga 12 Soulful Nights of Christmas
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	I	_	PRON	_	_	11	nsubj	_	GermanLemma=ich
+2	mecht	_	AUX	_	_	11	aux	_	GermanLemma=möchten
+3	gern	_	ADV	_	_	11	advmod	_	GermanLemma=gern
+4	die	_	DET	_	_	5	det	_	GermanLemma=die
+5	Geschichte	_	NOUN	_	_	11	obj	_	GermanLemma=Geschichte
+6	12	_	PROPN	_	_	5	appos	_	GermanLemma=12
+7	Soulful	_	PROPN	_	_	6	flat	_	GermanLemma=Soulful
+8	Nights	_	PROPN	_	_	6	flat	_	GermanLemma=Nights
+9	of	_	PROPN	_	_	6	flat	_	GermanLemma=of
+10	Christmas	_	PROPN	_	_	6	flat	_	GermanLemma=Christmas
+11	schaugn	_	VERB	_	_	0	root	_	GermanLemma=schauen
+
+# sent_id = wiki_Schneckn_30
+# text = Auf dar aan Seitn bringt da Fuaß in Schneck weida, duach des, dass ar a Kontraktionswöön schlogt.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Schneckn
+1	Auf	_	ADP	_	_	4	case	_	GermanLemma=auf
+2	dar	_	DET	_	_	4	det	_	GermanLemma=die
+3	aan	_	ADJ	_	_	4	amod	_	GermanLemma=eine
+4	Seitn	_	NOUN	_	_	5	obl	_	GermanLemma=Seite
+5	bringt	_	VERB	_	_	0	root	_	GermanLemma=bringen
+6	da	_	DET	_	_	7	det	_	GermanLemma=der
+7	Fuaß	_	NOUN	_	_	5	nsubj	_	GermanLemma=Fuß
+8	in	_	DET	_	_	9	det	_	GermanLemma=eine
+9	Schneck	_	NOUN	_	_	5	obj	_	GermanLemma=Schnecke
+10	weida	_	ADP	_	_	5	compound:prt	_	GermanLemma=weiter|SpaceAfter=No
+11	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
+12	duach	_	ADP	_	_	13	case	_	GermanLemma=durch
+13	des	_	PRON	_	_	5	obl	_	GermanLemma=das|SpaceAfter=No
+14	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
+15	dass	_	SCONJ	_	_	19	mark	_	GermanLemma=dass
+16	ar	_	PRON	_	_	19	nsubj	_	GermanLemma=er
+17	a	_	DET	_	_	18	det	_	GermanLemma=eine
+18	Kontraktionswöön	_	NOUN	_	_	19	obj	_	GermanLemma=Kontraktionswelle
+19	schlogt	_	VERB	_	_	13	ccomp	_	GermanLemma=schlagen|SpaceAfter=No
+20	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_21
+# text = I darat gearn an Disch im Steirawirt in Riad für 3 Leid resavieren
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	I	_	PRON	_	_	14	nsubj	_	GermanLemma=ich
+2	darat	_	AUX	_	_	14	aux	_	GermanLemma=tun
+3	gearn	_	ADV	_	_	14	advmod	_	GermanLemma=gern
+4	an	_	DET	_	_	5	det	_	GermanLemma=ein
+5	Disch	_	NOUN	_	_	14	obj	_	GermanLemma=Tisch
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	ADP	_	_	8	case	_	GermanLemma=in
+7	m	_	DET	_	_	8	det	_	GermanLemma=das
+8	Steirawirt	_	PROPN	_	_	5	nmod	_	GermanLemma=Steirawirt
+9	in	_	ADP	_	_	10	case	_	GermanLemma=in
+10	Riad	_	PROPN	_	_	8	nmod	_	GermanLemma=Ried
+11	für	_	ADP	_	_	13	case	_	GermanLemma=für
+12	3	_	NUM	_	_	13	nummod	_	GermanLemma=3
+13	Leid	_	NOUN	_	_	5	nmod	_	GermanLemma=Leute
+14	resavieren	_	VERB	_	_	0	root	_	GermanLemma=reservieren
+
+# sent_id = wiki_Fruchtschnittn_4
+# text = Nebn den reinen Fruchtschnittn gibts a Variationen denan Droad, Schogglad, Kafääh, Nussn, Honf, Gewiaze, Griantee und Marzipan beigmengt wiad.
+# genre = wiki
+# dialect_group = south
+# location = Carinthia
+# source = https://bar.wikipedia.org/wiki/Fruchtschnittn
+1	Nebn	_	ADP	_	_	4	case	_	GermanLemma=neben
+2	den	_	DET	_	_	4	det	_	GermanLemma=der
+3	reinen	_	ADJ	_	_	4	amod	_	GermanLemma=rein
+4	Fruchtschnittn	_	NOUN	_	_	5	obl	_	GermanLemma=Fruchtschnitte
+5	gibt	_	VERB	_	_	0	root	_	GermanLemma=geben|SpaceAfter=No
+6	s	_	PRON	_	_	5	expl	_	GermanLemma=es
+7	a	_	ADV	_	_	5	advmod	_	GermanLemma=ein
+8	Variationen	_	NOUN	_	_	5	obl	_	GermanLemma=Variation
+9	denan	_	PRON	_	_	25	obl:arg	_	GermanLemma=die
+10	Droad	_	NOUN	_	_	25	nsubj:pass	_	GermanLemma=Getreide|SpaceAfter=No
+11	,	_	PUNCT	_	_	12	punct	_	GermanLemma=,
+12	Schogglad	_	NOUN	_	_	10	conj	_	GermanLemma=Schokolade|SpaceAfter=No
+13	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
+14	Kafääh	_	NOUN	_	_	10	conj	_	GermanLemma=Kaffee|SpaceAfter=No
+15	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
+16	Nussn	_	NOUN	_	_	10	conj	_	GermanLemma=Nuss|SpaceAfter=No
+17	,	_	PUNCT	_	_	18	punct	_	GermanLemma=,
+18	Honf	_	NOUN	_	_	10	conj	_	GermanLemma=Hanf|SpaceAfter=No
+19	,	_	PUNCT	_	_	20	punct	_	GermanLemma=,
+20	Gewiaze	_	NOUN	_	_	10	conj	_	GermanLemma=Gewürz|SpaceAfter=No
+21	,	_	PUNCT	_	_	22	punct	_	GermanLemma=,
+22	Griantee	_	NOUN	_	_	10	conj	_	GermanLemma=Grüntee
+23	und	_	CCONJ	_	_	24	cc	_	GermanLemma=und
+24	Marzipan	_	NOUN	_	_	10	conj	_	GermanLemma=Marzipan
+25	beigmengt	_	VERB	_	_	8	acl:relcl	_	GermanLemma=beimengen
+26	wiad	_	AUX	_	_	25	aux:pass	_	GermanLemma=werden|SpaceAfter=No
+27	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = cairo_16
+# parallel_id = cairo/16
+# text = Da Bäda und d’Maria hom sie umarmt und san dann ausm Zimmer ganga.
+# text_en = Peter and Mary hugged each other and then left the room.
+# genre = grammar-examples
+# dialect_group = central
+# location = Upper Bavaria
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Bäda	_	PROPN	_	_	8	nsubj	_	GermanLemma=Peter
+3	und	_	CCONJ	_	_	5	cc	_	GermanLemma=und
+4	d’	_	DET	_	_	5	det	_	GermanLemma=die|SpaceAfter=No
+5	Maria	_	PROPN	_	_	2	conj	_	GermanLemma=Maria
+6	hom	_	AUX	_	_	8	aux	_	GermanLemma=haben
+7	sie	_	PRON	_	_	8	obj	_	GermanLemma=sich
+8	umarmt	_	VERB	_	_	0	root	_	GermanLemma=umarmen
+9	und	_	CCONJ	_	_	15	cc	_	GermanLemma=und
+10	san	_	AUX	_	_	15	aux	_	GermanLemma=sein
+11	dann	_	ADV	_	_	15	advmod	_	GermanLemma=dann
+12-13	ausm	_	_	_	_	_	_	_	_
+12	aus	_	ADP	_	_	14	case	_	GermanLemma=aus
+13	m	_	DET	_	_	14	det	_	GermanLemma=das
+14	Zimmer	_	NOUN	_	_	15	obl	_	GermanLemma=Zimmer
+15	ganga	_	VERB	_	_	8	conj	_	GermanLemma=gehen|SpaceAfter=No
+16	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_9226389
+# text = Waunst' dasaufst, bring i di um!
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/9226389
+# author = brauchinet
+1	Waunst'	_	ADV	_	_	2	advmod	_	GermanLemma=wenn
+2	dasaufst	_	VERB	_	_	4	advcl	_	GermanLemma=ertrinken|SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	GermanLemma=,
+4	bring	_	VERB	_	_	0	root	_	GermanLemma=bringen
+5	i	_	PRON	_	_	4	nsubj	_	GermanLemma=ich
+6	di	_	PRON	_	_	4	obj	_	GermanLemma=du
+7	um	_	ADP	_	_	4	compound:prt	_	GermanLemma=um|SpaceAfter=No
+8	!	_	PUNCT	_	_	4	punct	_	GermanLemma=!
+
+# sent_id = wiki_Schneckn_35
+# text = Im Eingeweidesogg san de gaunzn Innarein drinnat, da Mauntln mocht bei de Heislschneckn in Obschluß gegn de Mindung hii.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Schneckn
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	ADP	_	_	3	case	_	GermanLemma=in
+2	m	_	DET	_	_	3	det	_	GermanLemma=der
+3	Eingeweidesogg	_	NOUN	_	_	8	obl	_	GermanLemma=Eingeweidesack
+4	san	_	AUX	_	_	8	cop	_	GermanLemma=sein
+5	de	_	DET	_	_	7	det	_	GermanLemma=die
+6	gaunzn	_	ADJ	_	_	7	amod	_	GermanLemma=ganz
+7	Innarein	_	NOUN	_	_	8	nsubj	_	GermanLemma=Innerei
+8	drinnat	_	ADV	_	_	0	root	_	GermanLemma=drinnen|SpaceAfter=No
+9	,	_	PUNCT	_	_	12	punct	_	GermanLemma=,
+10	da	_	DET	_	_	11	det	_	GermanLemma=der
+11	Mauntln	_	NOUN	_	_	12	nsubj	_	GermanLemma=Mantel
+12	mocht	_	VERB	_	_	8	parataxis	_	GermanLemma=machen
+13	bei	_	ADP	_	_	15	case	_	GermanLemma=bei
+14	de	_	DET	_	_	15	det	_	GermanLemma=die
+15	Heislschneckn	_	NOUN	_	_	12	obl	_	GermanLemma=Gehäuseschnecke
+16	in	_	ADP	_	_	17	case	_	GermanLemma=ein
+17	Obschluß	_	NOUN	_	_	12	obj	_	GermanLemma=Abschluß
+18	gegn	_	ADP	_	_	20	case	_	GermanLemma=gegen
+19	de	_	DET	_	_	20	det	_	GermanLemma=die
+20	Mindung	_	NOUN	_	_	17	nmod	_	GermanLemma=Mündung
+21	hii	_	ADP	_	_	12	compound:prt	_	GermanLemma=hin|SpaceAfter=No
+22	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_48
+# text = Lösch mei Erinnerung, dass i an Patrick moang vo da Schui hoin muas.
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Lösch	_	VERB	_	_	0	root	_	GermanLemma=löschen
+2	mei	_	DET	_	_	3	det:poss	_	GermanLemma=meine
+3	Erinnerung	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung|SpaceAfter=No
+4	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
+5	dass	_	SCONJ	_	_	13	mark	_	GermanLemma=dass
+6	i	_	PRON	_	_	13	nsubj	_	GermanLemma=ich
+7	an	_	DET	_	_	8	det	_	GermanLemma=der
+8	Patrick	_	PROPN	_	_	13	obj	_	GermanLemma=Patrick
+9	moang	_	ADV	_	_	13	advmod	_	GermanLemma=morgen
+10	vo	_	ADP	_	_	12	case	_	GermanLemma=von
+11	da	_	DET	_	_	12	det	_	GermanLemma=die
+12	Schui	_	NOUN	_	_	13	obl	_	GermanLemma=Schule
+13	hoin	_	VERB	_	_	3	acl	_	GermanLemma=hohlen
+14	muas	_	AUX	_	_	13	aux	_	GermanLemma=müssen|SpaceAfter=No
+15	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wiki_Fiisch_2
+# text = Fiisch (dt.: Fisch, lateinisch : piscis) san Wiaweviecha, de wo im Wossa lem.
+# dialect_group = unk
+# location = unk
+# genre = wiki
+# source = https://bar.wikipedia.org/wiki/Fiisch
+1	Fiisch	_	NOUN	_	_	12	nsubj	_	GermanLemma=Fisch
+2	(	_	PUNCT	_	_	3	punct	_	GermanLemma=(|SpaceAfter=No
+3	dt.	_	ADJ	_	_	1	appos	_	GermanLemma=deutsch|SpaceAfter=No
+4	:	_	PUNCT	_	_	3	punct	_	GermanLemma=:
+5	Fisch	_	X	_	_	3	appos	_	GermanLemma=Fisch|SpaceAfter=No
+6	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+7	lateinisch	_	ADJ	_	_	3	conj	_	GermanLemma=lateinisch
+8	:	_	PUNCT	_	_	7	punct	_	GermanLemma=:
+9	piscis	_	X	_	_	7	appos	_	GermanLemma=piscis|SpaceAfter=No
+10	)	_	PUNCT	_	_	3	punct	_	GermanLemma=)
+11	san	_	AUX	_	_	12	cop	_	GermanLemma=sein
+12	Wiaweviecha	_	NOUN	_	_	0	root	_	GermanLemma=Wirbeltier|SpaceAfter=No
+13	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
+14	de	_	PRON	_	_	19	nsubj	_	GermanLemma=die
+15	wo	_	SCONJ	_	_	19	mark	_	GermanLemma=wo
+16-17	im	_	_	_	_	_	_	_	_
+16	i	_	ADP	_	_	18	case	_	GermanLemma=in
+17	m	_	DET	_	_	18	det	_	GermanLemma=das
+18	Wossa	_	NOUN	_	_	19	obl	_	GermanLemma=Wasser
+19	lem	_	VERB	_	_	12	acl:relcl	_	GermanLemma=leben|SpaceAfter=No
+20	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
+
+# sent_id = wiki_Pinzgau_9
+# text = Dia Bezirkshauptmohschouft is 1850 bis 1854 auf Soifejn unterbroucht gwein und is donn wiader nouch Zej am See kemm.
+# genre = wiki
+# dialect_group = southcentral
+# location = Pinzgau
+# source = https://bar.wikipedia.org/wiki/Pinzgau
+1	Dia	_	DET	_	_	2	det	_	GermanLemma=die
+2	Bezirkshauptmohschouft	_	NOUN	_	_	9	nsubj	_	GermanLemma=Bezirkshauptmannschaft
+3	is	_	AUX	_	_	9	aux	_	GermanLemma=sein
+4	1850	_	NUM	_	_	9	obl	_	GermanLemma=1850
+5	bis	_	ADP	_	_	6	case	_	GermanLemma=bis
+6	1854	_	NUM	_	_	4	nummod	_	GermanLemma=1854
+7	auf	_	ADP	_	_	8	case	_	GermanLemma=auf
+8	Soifejn	_	PROPN	_	_	9	obl	_	GermanLemma=Saalfelden
+9	unterbroucht	_	ADJ	_	_	0	root	_	GermanLemma=untergebracht
+10	gwein	_	AUX	_	_	9	cop	_	GermanLemma=sein
+11	und	_	CCONJ	_	_	20	cc	_	GermanLemma=und
+12	is	_	AUX	_	_	20	aux	_	GermanLemma=sein
+13	donn	_	ADV	_	_	20	advmod	_	GermanLemma=dann
+14	wiader	_	ADV	_	_	20	advmod	_	GermanLemma=wieder
+15	nouch	_	ADP	_	_	16	case	_	GermanLemma=nach
+16	Zej	_	PROPN	_	_	20	obl	_	GermanLemma=Zell
+17-18	am	_	_	_	_	_	_	_	_
+17	a	_	ADP	_	_	19	case	_	GermanLemma=an
+18	m	_	DET	_	_	19	det	_	GermanLemma=der
+19	See	_	NOUN	_	_	16	nmod	_	GermanLemma=See
+20	kemm	_	VERB	_	_	9	conj	_	GermanLemma=kommen|SpaceAfter=No
+21	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_278
+# text = stoi an Wecker in Schlummermodus
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	stoi	_	VERB	_	_	0	root	_	GermanLemma=stellen
+2	an	_	DET	_	_	3	det	_	GermanLemma=ein
+3	Wecker	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker
+4	in	_	ADP	_	_	5	case	_	GermanLemma=in
+5	Schlummermodus	_	NOUN	_	_	1	obl	_	GermanLemma=Schlummermodus
+
+# sent_id = sid_de-ba_natural_269
+# text = Wann geht mei Wecka morng
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Wann	_	ADV	_	_	2	advmod	_	GermanLemma=wann
+2	geht	_	VERB	_	_	0	root	_	GermanLemma=gehen
+3	mei	_	DET	_	_	4	det:poss	_	GermanLemma=mein
+4	Wecka	_	NOUN	_	_	2	nsubj	_	GermanLemma=Wecker
+5	morng	_	ADV	_	_	2	advmod	_	GermanLemma=morgen
+
+# sent_id = tatoeba_10673747-1
+# text = Do hot's di wieda amoi gscheid auf die Pappn ghaut!
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/10673747
+# author = brauchinet
+1	Do	_	ADV	_	_	11	advmod	_	GermanLemma=da
+2	hot	_	AUX	_	_	11	aux	_	GermanLemma=haben|SpaceAfter=No
+3	's	_	PRON	_	_	11	expl	_	GermanLemma=es
+4	di	_	PRON	_	_	11	obj	_	GermanLemma=du
+5	wieda	_	ADV	_	_	11	advmod	_	GermanLemma=wieder
+6	amoi	_	ADV	_	_	11	advmod	_	GermanLemma=einmal
+7	gscheid	_	ADV	_	_	11	advmod	_	GermanLemma=gescheit
+8	auf	_	ADP	_	_	10	case	_	GermanLemma=auf
+9	die	_	DET	_	_	10	det	_	GermanLemma=der
+10	Pappn	_	NOUN	_	_	11	obl	_	GermanLemma=Mund
+11	ghaut	_	VERB	_	_	0	root	_	GermanLemma=hauen|SpaceAfter=No
+12	!	_	PUNCT	_	_	11	punct	_	GermanLemma=!
+
+# sent_id = wikisample_Boarische-Grammatik-Präpositiona_60
+# text = I schau bån Fenster asse.
+# genre = grammar-examples
+# dialect_group = north
+# location = Western North Bavarian area
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pr%C3%A4positiona)
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	schau	_	VERB	_	_	0	root	_	GermanLemma=schauen
+3-4	bån	_	_	_	_	_	_	_	_
+3	bå	_	ADP	_	_	5	case	_	GermanLemma=bei
+4	n	_	DET	_	_	5	det	_	GermanLemma=das
+5	Fenster	_	NOUN	_	_	2	obl	_	GermanLemma=Fenster
+6	asse	_	ADP	_	_	2	compound:prt	_	GermanLemma=raus|SpaceAfter=No
+7	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5470327
+# text = Oans woaß i gwiss: ohne Dochzügi ist des Doch koa Zügidoch und ohne Turmzwüfi ist da Turm koa Zwüfiturm.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5470327
+# author = brauchinet
+1	Oans	_	DET	_	_	2	obj	_	GermanLemma=eins
+2	woaß	_	VERB	_	_	12	parataxis	_	GermanLemma=wissen
+3	i	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+4	gwiss	_	ADV	_	_	2	advmod	_	GermanLemma=gewiss|SpaceAfter=No
+5	:	_	PUNCT	_	_	2	punct	_	GermanLemma=:
+6	ohne	_	ADP	_	_	7	case	_	GermanLemma=ohne
+7	Dochzügi	_	NOUN	_	_	12	obl	_	GermanLemma=Dachziegel
+8	ist	_	AUX	_	_	12	cop	_	GermanLemma=sein
+9	des	_	DET	_	_	12	nsubj	_	GermanLemma=das
+10	Doch	_	ADV	_	_	12	advmod	_	GermanLemma=Dach
+11	koa	_	DET	_	_	12	det	_	GermanLemma=kein
+12	Zügidoch	_	NOUN	_	_	0	root	_	GermanLemma=Ziegeldach
+13	und	_	CCONJ	_	_	20	cc	_	GermanLemma=und
+14	ohne	_	ADP	_	_	15	case	_	GermanLemma=ohne
+15	Turmzwüfi	_	NOUN	_	_	20	obl	_	GermanLemma=Turmzwiebel
+16	ist	_	AUX	_	_	20	cop	_	GermanLemma=sein
+17	da	_	DET	_	_	18	det	_	GermanLemma=der
+18	Turm	_	NOUN	_	_	20	nsubj	_	GermanLemma=Turm
+19	koa	_	DET	_	_	20	det	_	GermanLemma=kein
+20	Zwüfiturm	_	NOUN	_	_	12	conj	_	GermanLemma=Zwiebelturm|SpaceAfter=No
+21	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Boarische-Umschrift_23
+# text = Wann i des zerscht kompiliern muas...
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
+1	Wann	_	SCONJ	_	_	5	mark	_	GermanLemma=wenn
+2	i	_	PRON	_	_	5	nsubj	_	GermanLemma=ich
+3	des	_	PRON	_	_	5	obj	_	GermanLemma=das
+4	zerscht	_	ADV	_	_	5	advmod	_	GermanLemma=zuerst
+5	kompiliern	_	VERB	_	_	0	root	_	GermanLemma=kompilieren
+6	muas	_	AUX	_	_	5	aux	_	GermanLemma=müssen|SpaceAfter=No
+7	...	_	PUNCT	_	_	5	punct	_	GermanLemma=...
+
+# sent_id = tatoeba_8925745
+# text = Da Thomas wirds ned richten.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/8925745
+# author = brauchinet
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Thomas	_	PROPN	_	_	6	nsubj	_	GermanLemma=Thomas
+3	wird	_	AUX	_	_	6	aux	_	GermanLemma=werden|SpaceAfter=No
+4	s	_	PRON	_	_	6	obj	_	GermanLemma=es
+5	ned	_	PART	_	_	6	advmod	_	GermanLemma=nicht
+6	richten	_	VERB	_	_	0	root	_	GermanLemma=richten|SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5467693
+# text = Heit is neamd in d'Hockn kemma.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5467693
+# author = brauchinet
+1	Heit	_	ADV	_	_	7	advmod	_	GermanLemma=heute
+2	is	_	AUX	_	_	7	aux	_	GermanLemma=sein
+3	neamd	_	PRON	_	_	7	nsubj	_	GermanLemma=niemand
+4	in	_	ADP	_	_	6	case	_	GermanLemma=in
+5	d'	_	DET	_	_	6	det	_	GermanLemma=die|SpaceAfter=No
+6	Hockn	_	NOUN	_	_	7	obl	_	GermanLemma=Arbeit
+7	kemma	_	VERB	_	_	0	root	_	GermanLemma=kommen|SpaceAfter=No
+8	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = wiki_Minga_57
+# text = Nacha is a wengal obe ganga, oba seitn Joar 2000 gehts wieda konstant auffe.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	Nacha	_	ADV	_	_	6	advmod	_	GermanLemma=nachher
+2	is	_	AUX	_	_	6	aux	_	GermanLemma=sein
+3	a	_	DET	_	_	5	advmod	_	GermanLemma=ein
+4	wengal	_	DET	_	_	3	fixed	_	GermanLemma=wenig
+5	obe	_	ADV	_	_	6	advmod	_	GermanLemma=runter
+6	ganga	_	VERB	_	_	0	root	_	GermanLemma=gehen|SpaceAfter=No
+7	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
+8	oba	_	CCONJ	_	_	13	cc	_	GermanLemma=aber
+9-10	seitn	_	_	_	_	_	_	_	_
+9	seit	_	ADP	_	_	11	case	_	GermanLemma=seit
+10	n	_	DET	_	_	11	det	_	GermanLemma=das
+11	Joar	_	NOUN	_	_	13	obl	_	GermanLemma=Jahr
+12	2000	_	NUM	_	_	11	nummod	_	GermanLemma=2000
+13	geht	_	VERB	_	_	6	conj	_	GermanLemma=gehen|SpaceAfter=No
+14	s	_	PRON	_	_	13	expl	_	GermanLemma=es
+15	wieda	_	ADV	_	_	13	advmod	_	GermanLemma=wieder
+16	konstant	_	ADV	_	_	13	advmod	_	GermanLemma=konstant
+17	auffe	_	ADP	_	_	13	compound:prt	_	GermanLemma=rauf|SpaceAfter=No
+18	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_77
+# text = wo und waun spüd "The whale" in minga
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	wo	_	ADV	_	_	4	advmod	_	GermanLemma=wo
+2	und	_	CCONJ	_	_	3	cc	_	GermanLemma=und
+3	waun	_	ADV	_	_	1	conj	_	GermanLemma=wann
+4	spüd	_	VERB	_	_	0	root	_	GermanLemma=spielen
+5	"	_	PUNCT	_	_	6	punct	_	GermanLemma="|SpaceAfter=No
+6	The	_	PROPN	_	_	4	nsubj	_	GermanLemma=The
+7	whale	_	PROPN	_	_	6	flat	_	GermanLemma=Whale|SpaceAfter=No
+8	"	_	PUNCT	_	_	6	punct	_	GermanLemma="
+9	in	_	ADP	_	_	10	case	_	GermanLemma=in
+10	minga	_	PROPN	_	_	4	obl	_	GermanLemma=München
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_21
+# text = I schaug amoi ob ma no eppas bessers eifoit oba "Zuagroaste/eibirgate Wörta" heart se fir mi vui z'harmlos o.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:Bsundaheitn_im_boarischn_Vokabular
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	schaug	_	VERB	_	_	0	root	_	GermanLemma=schauen
+3	amoi	_	ADV	_	_	2	advmod	_	GermanLemma=einmal
+4	ob	_	SCONJ	_	_	9	mark	_	GermanLemma=ob
+5	ma	_	PRON	_	_	9	nsubj	_	GermanLemma=man
+6	no	_	ADV	_	_	9	advmod	_	GermanLemma=noch
+7	eppas	_	PRON	_	_	9	obj	_	GermanLemma=etwas
+8	bessers	_	NOUN	_	_	7	appos	_	GermanLemma=gut
+9	eifoit	_	VERB	_	_	2	advcl	_	GermanLemma=einfallen
+10	oba	_	CCONJ	_	_	17	cc	_	GermanLemma=aber
+11	"	_	PUNCT	_	_	15	punct	_	GermanLemma="|SpaceAfter=No
+12	Zuagroaste	_	ADJ	_	_	15	amod	_	GermanLemma=zugereist|SpaceAfter=No
+13	/	_	PUNCT	_	_	14	punct	_	GermanLemma=/|SpaceAfter=No
+14	eibirgate	_	ADJ	_	_	12	conj	_	GermanLemma=eingebürgert
+15	Wörta	_	NOUN	_	_	17	nsubj	_	GermanLemma=Wort|SpaceAfter=No
+16	"	_	PUNCT	_	_	15	punct	_	GermanLemma="
+17	heart	_	VERB	_	_	2	conj	_	GermanLemma=hören
+18	se	_	PRON	_	_	17	expl:pv	_	GermanLemma=sich
+19	fir	_	ADP	_	_	20	case	_	GermanLemma=für
+20	mi	_	PRON	_	_	17	obl	_	GermanLemma=ich
+21	vui	_	ADV	_	_	23	advmod	_	GermanLemma=viel
+22	z'	_	ADV	_	_	23	advmod	_	GermanLemma=zu|SpaceAfter=No
+23	harmlos	_	ADJ	_	_	17	advmod	_	GermanLemma=harmlos
+24	o	_	ADP	_	_	17	compound:prt	_	GermanLemma=an|SpaceAfter=No
+25	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Obwaller_2
+# text = Obwaller is a tippisch Soizbuaga Nochnom, den wous a in Bayern und Tiroi gib.
+# genre = wiki
+# dialect_group = southcentral
+# location = Pinzgau
+# source = https://bar.wikipedia.org/wiki/Obwaller
+1	Obwaller	_	PROPN	_	_	6	nsubj	_	GermanLemma=Obwaller
+2	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
+3	a	_	DET	_	_	6	det	_	GermanLemma=ein
+4	tippisch	_	ADJ	_	_	5	advmod	_	GermanLemma=typisch
+5	Soizbuaga	_	ADJ	_	_	6	amod	_	GermanLemma=Salzburger
+6	Nochnom	_	NOUN	_	_	0	root	_	GermanLemma=Nachname|SpaceAfter=No
+7	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
+8	den	_	PRON	_	_	15	nsubj	_	GermanLemma=der
+9	wous	_	SCONJ	_	_	15	mark	_	GermanLemma=was
+10	a	_	ADV	_	_	15	advmod	_	GermanLemma=auch
+11	in	_	ADP	_	_	12	case	_	GermanLemma=in
+12	Bayern	_	PROPN	_	_	15	obl	_	GermanLemma=Bayern
+13	und	_	CCONJ	_	_	14	cc	_	GermanLemma=und
+14	Tiroi	_	PROPN	_	_	12	conj	_	GermanLemma=Tirol
+15	gib	_	VERB	_	_	6	acl:relcl	_	GermanLemma=geben|SpaceAfter=No
+16	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Konjunktiona_81
+# text = Wej's firte gwen han, han's hoamgånga.
+# genre = grammar-examples
+# dialect_group = north
+# location = Western North Bavarian area
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
+1	Wej	_	SCONJ	_	_	3	mark	_	GermanLemma=weil|SpaceAfter=No
+2	's	_	PRON	_	_	3	nsubj	_	GermanLemma=sie
+3	firte	_	ADJ	_	_	9	advcl	_	GermanLemma=fertig
+4	gwen	_	AUX	_	_	3	cop	_	GermanLemma=sein
+5	han	_	AUX	_	_	3	aux	_	GermanLemma=sein|SpaceAfter=No
+6	,	_	PUNCT	_	_	3	punct	_	GermanLemma=,
+7	han	_	AUX	_	_	9	aux	_	GermanLemma=sein|SpaceAfter=No
+8	's	_	PRON	_	_	9	nsubj	_	GermanLemma=sie
+9	hoamgånga	_	VERB	_	_	0	root	_	GermanLemma=heimgehen|SpaceAfter=No
+10	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
+
+# sent_id = wiki_Schneckn_21
+# text = Da Waachkeapa vo an Schneck zagt de glassische Dreideulung vo de Molluskn: Koobf, Fuaß und in Eingeweidesogg midn Mauntl.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Schneckn
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Waachkeapa	_	NOUN	_	_	6	nsubj	_	GermanLemma=Weichkörper
+3	vo	_	ADP	_	_	5	case	_	GermanLemma=von
+4	an	_	DET	_	_	5	det	_	GermanLemma=die
+5	Schneck	_	NOUN	_	_	2	nmod	_	GermanLemma=Schnecke
+6	zagt	_	VERB	_	_	0	root	_	GermanLemma=zeigen
+7	de	_	DET	_	_	9	det	_	GermanLemma=die
+8	glassische	_	ADJ	_	_	9	amod	_	GermanLemma=klassisch
+9	Dreideulung	_	NOUN	_	_	6	obj	_	GermanLemma=Dreiteilung
+10	vo	_	ADP	_	_	12	case	_	GermanLemma=von
+11	de	_	DET	_	_	12	det	_	GermanLemma=die
+12	Molluskn	_	PROPN	_	_	9	nmod	_	GermanLemma=Molluske|SpaceAfter=No
+13	:	_	PUNCT	_	_	14	punct	_	GermanLemma=:
+14	Koobf	_	NOUN	_	_	9	appos	_	GermanLemma=Kopf|SpaceAfter=No
+15	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
+16	Fuaß	_	NOUN	_	_	14	conj	_	GermanLemma=Fuß
+17	und	_	CCONJ	_	_	19	cc	_	GermanLemma=und
+18	in	_	DET	_	_	19	det	_	GermanLemma=ein
+19	Eingeweidesogg	_	NOUN	_	_	14	conj	_	GermanLemma=Eingeweidesack
+20-21	midn	_	_	_	_	_	_	_	_
+20	mid	_	ADP	_	_	22	case	_	GermanLemma=mit
+21	n	_	DET	_	_	22	det	_	GermanLemma=der
+22	Mauntl	_	NOUN	_	_	19	nmod	_	GermanLemma=Mantel|SpaceAfter=No
+23	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5798319
+# text = Deppn hätt i scho gnua gseng in mein Lebm, oba an soichanan wia'n Thomas no nia!
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5798319
+# author = brauchinet
+1	Deppn	_	NOUN	_	_	6	obj	_	GermanLemma=Depp
+2	hätt	_	AUX	_	_	6	aux	_	GermanLemma=haben
+3	i	_	PRON	_	_	6	nsubj	_	GermanLemma=ich
+4	scho	_	ADV	_	_	6	advmod	_	GermanLemma=schon
+5	gnua	_	ADV	_	_	6	advmod	_	GermanLemma=genug
+6	gseng	_	VERB	_	_	0	root	_	GermanLemma=sehen
+7	in	_	ADP	_	_	9	case	_	GermanLemma=in
+8	mein	_	DET	_	_	9	det	_	GermanLemma=mein
+9	Lebm	_	NOUN	_	_	6	obl	_	GermanLemma=Leben|SpaceAfter=No
+10	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
+11	oba	_	CCONJ	_	_	13	cc	_	GermanLemma=aber
+12	an	_	ADP	_	_	13	case	_	GermanLemma=ein
+13	soichanan	_	ADJ	_	_	6	xcomp	_	GermanLemma=solcher
+14-15	wia'n	_	_	_	_	_	_	_	_
+14	wia	_	ADP	_	_	16	case	_	GermanLemma=wie
+15	'n	_	DET	_	_	16	det	_	GermanLemma=der
+16	Thomas	_	PROPN	_	_	13	nmod	_	GermanLemma=Thomas
+17	no	_	ADV	_	_	13	advmod	_	GermanLemma=noch
+18	nia	_	PART	_	_	13	advmod	_	GermanLemma=nie|SpaceAfter=No
+19	!	_	PUNCT	_	_	13	punct	_	GermanLemma=!
+
+# sent_id = wikisample_Boarische-Grammatik-Adverb_43
+# text = Ea kaun guad kocha.
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Adverb)
+1	Ea	_	PRON	_	_	4	nsubj	_	GermanLemma=er
+2	kaun	_	AUX	_	_	4	aux	_	GermanLemma=können
+3	guad	_	ADJ	_	_	4	advmod	_	GermanLemma=gut
+4	kocha	_	VERB	_	_	0	root	_	GermanLemma=kochen|SpaceAfter=No
+5	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5191821
+# text = Passt eh ois bei eahm?
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5191821
+# author = brauchinet
+1	Passt	_	VERB	_	_	0	root	_	GermanLemma=passen
+2	eh	_	ADV	_	_	1	advmod	_	GermanLemma=eh
+3	ois	_	DET	_	_	1	nsubj	_	GermanLemma=alles
+4	bei	_	ADP	_	_	5	case	_	GermanLemma=bei
+5	eahm	_	PRON	_	_	1	obl	_	GermanLemma=er|SpaceAfter=No
+6	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
+
+# sent_id = sid_de-ba_natural_78
+# text = Lösch mein Wecka um 7.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Lösch	_	VERB	_	_	0	root	_	GermanLemma=löschen
+2	mein	_	DET	_	_	3	det:poss	_	GermanLemma=mein
+3	Wecka	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker
+4	um	_	ADP	_	_	5	case	_	GermanLemma=um
+5	7	_	NUM	_	_	3	nmod	_	GermanLemma=7|SpaceAfter=No
+6	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Pronomen_31
+# text = Dou is a Mo, der hout a Kotz.
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pronomen)
+1	Dou	_	ADV	_	_	0	root	_	GermanLemma=do
+2	is	_	AUX	_	_	1	cop	_	GermanLemma=sein
+3	a	_	DET	_	_	4	det	_	GermanLemma=ein
+4	Mo	_	NOUN	_	_	1	nsubj	_	GermanLemma=Mann|SpaceAfter=No
+5	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+6	der	_	PRON	_	_	7	nsubj	_	GermanLemma=der
+7	hout	_	VERB	_	_	4	acl:relcl	_	GermanLemma=haben
+8	a	_	DET	_	_	9	det	_	GermanLemma=eine
+9	Kotz	_	NOUN	_	_	7	obj	_	GermanLemma=Katze|SpaceAfter=No
+10	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wiki_Minga_55
+# text = 1933 is d'Bevejkarungszoi auf 840.000 ogstieng und 1957 af iwa a Million.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	1933	_	NUM	_	_	7	obl:arg	_	GermanLemma=1933
+2	is	_	AUX	_	_	7	aux	_	GermanLemma=sein
+3	d'	_	DET	_	_	4	det	_	GermanLemma=die|SpaceAfter=No
+4	Bevejkarungszoi	_	NOUN	_	_	7	nsubj	_	GermanLemma=Bevölkerungszahl
+5	auf	_	ADP	_	_	6	case	_	GermanLemma=auf
+6	840.000	_	NUM	_	_	7	obl	_	GermanLemma=840.000
+7	ogstieng	_	VERB	_	_	0	root	_	GermanLemma=ansteigen
+8	und	_	CCONJ	_	_	13	cc	_	GermanLemma=und
+9	1957	_	NUM	_	_	13	obl:arg	_	GermanLemma=1957
+10	af	_	ADP	_	_	13	case	_	GermanLemma=auf
+11	iwa	_	ADV	_	_	12	advmod	_	GermanLemma=über
+12	a	_	NUM	_	_	13	nummod	_	GermanLemma=eine
+13	Million	_	NOUN	_	_	7	conj	_	GermanLemma=Million|SpaceAfter=No
+14	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_95
+# text = Änder mein Wegga vo 5 auf 6.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Änder	_	VERB	_	_	0	root	_	GermanLemma=ändern
+2	mein	_	DET	_	_	3	det:poss	_	GermanLemma=mein
+3	Wegga	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker
+4	vo	_	ADP	_	_	5	case	_	GermanLemma=von
+5	5	_	NUM	_	_	1	obl	_	GermanLemma=5
+6	auf	_	ADP	_	_	7	case	_	GermanLemma=auf
+7	6	_	NUM	_	_	1	obl	_	GermanLemma=6|SpaceAfter=No
+8	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-st_valid_17
+# text = Änder in Wecker morgn friah af 6
+# text_en = Change tomorrow mornings alarm to 6 am.
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	Änder	_	VERB	_	_	0	root	_	GermanLemma=ändern
+2	in	_	DET	_	_	3	det	_	GermanLemma=der
+3	Wecker	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker
+4	morgn	_	ADV	_	_	5	advmod	_	GermanLemma=morgen
+5	friah	_	NOUN	_	_	3	nmod	_	GermanLemma=früh
+6	af	_	ADP	_	_	7	case	_	GermanLemma=auf
+7	6	_	NUM	_	_	1	obl	_	GermanLemma=6
+
+# sent_id = wiki_Fruchtschnittn_3
+# text = Je noch Sortn werdn übawiegnd Rosinan, Äpfl, diverse Bean (z.B. Himmba, Bromba, Schwoazba, Erdba, Ribisl etc.), Dottln, Orangn und Mangos verwendat.
+# genre = wiki
+# dialect_group = south
+# location = Carinthia
+# source = https://bar.wikipedia.org/wiki/Fruchtschnittn
+1	Je	_	ADV	_	_	3	advmod	_	GermanLemma=je
+2	noch	_	ADP	_	_	3	case	_	GermanLemma=nach
+3	Sortn	_	NOUN	_	_	32	obl	_	GermanLemma=Sorte
+4	werdn	_	AUX	_	_	32	aux	_	GermanLemma=werden
+5	übawiegnd	_	ADV	_	_	32	advmod	_	GermanLemma=überwiegend
+6	Rosinan	_	NOUN	_	_	32	nsubj	_	GermanLemma=Rosine|SpaceAfter=No
+7	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
+8	Äpfl	_	NOUN	_	_	6	conj	_	GermanLemma=Apfel|SpaceAfter=No
+9	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+10	diverse	_	ADJ	_	_	11	amod	_	GermanLemma=divers
+11	Bean	_	NOUN	_	_	6	conj	_	GermanLemma=Beere
+12	(	_	PUNCT	_	_	14	punct	_	GermanLemma=(|SpaceAfter=No
+13	z.	_	ADP	_	_	14	case	_	GermanLemma=zum|SpaceAfter=No
+14	B.	_	NOUN	_	_	11	appos	_	GermanLemma=Beispiel
+15	Himmba	_	NOUN	_	_	14	appos	_	GermanLemma=Himbeere|SpaceAfter=No
+16	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+17	Bromba	_	NOUN	_	_	15	conj	_	GermanLemma=Brombeere|SpaceAfter=No
+18	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
+19	Schwoazba	_	NOUN	_	_	15	conj	_	GermanLemma=Schwarzbeere|SpaceAfter=No
+20	,	_	PUNCT	_	_	21	punct	_	GermanLemma=,
+21	Erdba	_	NOUN	_	_	15	conj	_	GermanLemma=Erdbeere|SpaceAfter=No
+22	,	_	PUNCT	_	_	23	punct	_	GermanLemma=,
+23	Ribisl	_	NOUN	_	_	15	conj	_	GermanLemma=Johannisbeere
+24	etc.	_	NOUN	_	_	15	conj	_	GermanLemma=etc.|SpaceAfter=No
+25	)	_	PUNCT	_	_	14	punct	_	GermanLemma=)|SpaceAfter=No
+26	,	_	PUNCT	_	_	27	punct	_	GermanLemma=,
+27	Dottln	_	NOUN	_	_	6	conj	_	GermanLemma=Dattel|SpaceAfter=No
+28	,	_	PUNCT	_	_	29	punct	_	GermanLemma=,
+29	Orangn	_	NOUN	_	_	6	conj	_	GermanLemma=Orange
+30	und	_	CCONJ	_	_	31	cc	_	GermanLemma=und
+31	Mangos	_	NOUN	_	_	6	conj	_	GermanLemma=Mango
+32	verwendat	_	VERB	_	_	0	root	_	GermanLemma=verwenden|SpaceAfter=No
+33	.	_	PUNCT	_	_	32	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_64
+# text = Erinner mi eikaufa zum geh
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
+3	eikaufa	_	VERB	_	_	1	xcomp	_	GermanLemma=einkaufen
+4-5	zum	_	_	_	_	_	_	_	_
+4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
+5	m	_	DET	_	_	6	det	_	GermanLemma=das
+6	geh	_	NOUN	_	_	3	obl	_	GermanLemma=Gehen
+
+# sent_id = tatoeba_5206896
+# text = Wiaso kriagt vo am schoarfm Essn Schnackerlsteßn?
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5206896
+# author = brauchinet
+1	Wiaso	_	ADV	_	_	2	advmod	_	GermanLemma=wieso
+2	kriagt	_	VERB	_	_	0	root	_	GermanLemma=kriegen
+3	vo	_	ADP	_	_	6	case	_	GermanLemma=von
+4	am	_	DET	_	_	6	det	_	GermanLemma=das
+5	schoarfm	_	ADJ	_	_	6	amod	_	GermanLemma=scharf
+6	Essn	_	NOUN	_	_	2	obl	_	GermanLemma=Essen
+7	Schnackerlsteßn	_	NOUN	_	_	2	obj	_	GermanLemma=Schluckauf|SpaceAfter=No
+8	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
+
+# sent_id = wiki_Minga_23
+# text = D'gresste Ausdehnung vom Stodgebiet betrogt vo Noad noch Sid 20,7 km und vo Ost noch West 26,9 km.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	D'	_	DET	_	_	3	det	_	GermanLemma=die|SpaceAfter=No
+2	gresste	_	ADJ	_	_	3	amod	_	GermanLemma=groß
+3	Ausdehnung	_	NOUN	_	_	7	nsubj	_	GermanLemma=Ausdehnung
+4-5	vom	_	_	_	_	_	_	_	_
+4	vo	_	ADP	_	_	6	case	_	GermanLemma=von
+5	m	_	DET	_	_	6	det	_	GermanLemma=das
+6	Stodgebiet	_	NOUN	_	_	3	nmod	_	GermanLemma=Stadtgebiet
+7	betrogt	_	VERB	_	_	0	root	_	GermanLemma=betragen
+8	vo	_	ADP	_	_	9	case	_	GermanLemma=von
+9	Noad	_	NOUN	_	_	7	obl	_	GermanLemma=Nord
+10	noch	_	ADP	_	_	11	case	_	GermanLemma=nach
+11	Sid	_	NOUN	_	_	7	obl	_	GermanLemma=Süd
+12	20,7	_	NUM	_	_	13	nummod	_	GermanLemma=20,7
+13	km	_	NOUN	_	_	7	obj	_	GermanLemma=km
+14	und	_	CCONJ	_	_	20	cc	_	GermanLemma=und
+15	vo	_	ADP	_	_	16	case	_	GermanLemma=von
+16	Ost	_	NOUN	_	_	20	nmod	_	GermanLemma=Ost
+17	noch	_	ADP	_	_	18	case	_	GermanLemma=nach
+18	West	_	NOUN	_	_	20	nmod	_	GermanLemma=West
+19	26,9	_	NUM	_	_	20	nummod	_	GermanLemma=26,9
+20	km	_	NOUN	_	_	7	conj	_	GermanLemma=km|SpaceAfter=No
+21	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = wiki_Minga_6
+# text = Minga is aa da Vawoitungssitz vom Regiarungsbeziak Owabayern.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	Minga	_	PROPN	_	_	5	nsubj	_	GermanLemma=München
+2	is	_	AUX	_	_	5	cop	_	GermanLemma=sein
+3	aa	_	ADV	_	_	5	advmod	_	GermanLemma=auch
+4	da	_	DET	_	_	5	det	_	GermanLemma=der
+5	Vawoitungssitz	_	NOUN	_	_	0	root	_	GermanLemma=Verwaltungssitz
+6-7	vom	_	_	_	_	_	_	_	_
+6	vo	_	ADP	_	_	8	case	_	GermanLemma=von
+7	m	_	DET	_	_	8	det	_	GermanLemma=der
+8	Regiarungsbeziak	_	NOUN	_	_	5	nmod	_	GermanLemma=Regierungsbezirk
+9	Owabayern	_	PROPN	_	_	8	flat	_	GermanLemma=Oberbayern|SpaceAfter=No
+10	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = wiki_Haferltarock_44
+# text = Fia alle fümf Aung, de weja mea hod wej ogsogt gwen san, deafa se nomml a Fümferl nemma.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Fia	_	ADP	_	_	4	case	_	GermanLemma=für
+2	alle	_	DET	_	_	4	det	_	GermanLemma=alle
+3	fümf	_	NUM	_	_	4	nummod	_	GermanLemma=fünf
+4	Aung	_	NOUN	_	_	22	obl	_	GermanLemma=Auge|SpaceAfter=No
+5	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
+6	de	_	PRON	_	_	10	obj	_	GermanLemma=das
+7	wej	_	SCONJ	_	_	10	mark	_	GermanLemma=wo|SpaceAfter=No
+8	a	_	PRON	_	_	10	nsubj	_	GermanLemma=er
+9	mea	_	ADV	_	_	10	advmod	_	GermanLemma=mehr
+10	hod	_	VERB	_	_	4	acl:relcl	_	GermanLemma=haben
+11	wej	_	SCONJ	_	_	12	case	_	GermanLemma=wie
+12	ogsogt	_	VERB	_	_	10	obl	_	GermanLemma=ansagen
+13	gwen	_	AUX	_	_	12	aux:pass	_	GermanLemma=werden
+14	san	_	AUX	_	_	12	aux	_	GermanLemma=sein|SpaceAfter=No
+15	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
+16	deaf	_	AUX	_	_	22	aux	_	GermanLemma=dürfen|SpaceAfter=No
+17	a	_	PRON	_	_	22	nsubj	_	GermanLemma=er
+18	se	_	PRON	_	_	22	expl:pv	_	GermanLemma=sich
+19	nomml	_	ADV	_	_	22	advmod	_	GermanLemma=nochmal
+20	a	_	DET	_	_	21	det	_	GermanLemma=ein
+21	Fümferl	_	NOUN	_	_	22	obj	_	GermanLemma=Fünferl/5-Cent-Münze
+22	nemma	_	VERB	_	_	0	root	_	GermanLemma=nehmen|SpaceAfter=No
+23	.	_	PUNCT	_	_	22	punct	_	GermanLemma=.
+
+# sent_id = wiki_Kafää_27
+# text = Im 18. Joahundat hom de Hollända in Kafää noch Surinam brocht und de Franzosn noch Cayenne, Martinique bzw. Guadeloupe und de Portugiesen noch Brasilien.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	ADP	_	_	4	case	_	GermanLemma=in
+2	m	_	DET	_	_	4	det	_	GermanLemma=das
+3	18.	_	ADJ	_	_	4	amod	_	GermanLemma=18.
+4	Joahundat	_	NOUN	_	_	12	obl	_	GermanLemma=Jahrhundert
+5	hom	_	AUX	_	_	12	aux	_	GermanLemma=haben
+6	de	_	DET	_	_	7	det	_	GermanLemma=der
+7	Hollända	_	NOUN	_	_	12	nsubj	_	GermanLemma=Holländer
+8	in	_	DET	_	_	9	det	_	GermanLemma=der
+9	Kafää	_	NOUN	_	_	12	obj	_	GermanLemma=Kaffee
+10	noch	_	ADP	_	_	11	case	_	GermanLemma=nach
+11	Surinam	_	PROPN	_	_	12	obl	_	GermanLemma=Surinam
+12	brocht	_	VERB	_	_	0	root	_	GermanLemma=bringen
+13	und	_	CCONJ	_	_	15	cc	_	GermanLemma=und
+14	de	_	DET	_	_	15	det	_	GermanLemma=der
+15	Franzosn	_	NOUN	_	_	7	conj	_	GermanLemma=Franzose
+16	noch	_	ADP	_	_	17	case	_	GermanLemma=nach
+17	Cayenne	_	PROPN	_	_	15	orphan	_	GermanLemma=Cayenne|SpaceAfter=No
+18	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
+19	Martinique	_	PROPN	_	_	17	conj	_	GermanLemma=Martinique
+20	bzw.	_	CCONJ	_	_	21	cc	_	GermanLemma=beziehungsweise
+21	Guadeloupe	_	PROPN	_	_	17	conj	_	GermanLemma=Guadeloupe
+22	und	_	CCONJ	_	_	24	cc	_	GermanLemma=und
+23	de	_	DET	_	_	24	det	_	GermanLemma=der
+24	Portugiesen	_	NOUN	_	_	7	conj	_	GermanLemma=Portugiese
+25	noch	_	ADP	_	_	26	case	_	GermanLemma=nach
+26	Brasilien	_	PROPN	_	_	24	orphan	_	GermanLemma=Brasilien|SpaceAfter=No
+27	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_219
+# text = Spui moi a boa Oldies
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
+2	moi	_	PRON	_	_	1	obl:arg	_	GermanLemma=mal
+3	a	_	DET	_	_	5	det	_	GermanLemma=ein
+4	boa	_	ADJ	_	_	3	fixed	_	GermanLemma=paar
+5	Oldies	_	NOUN	_	_	1	obj	_	GermanLemma=Oldie
+
+# sent_id = wiki_Kafää_18
+# text = Um 1511 san in Mekka de easchtn Kafäähaisa entstaundn, de owa boid wieda gschlossn wuan san, weu da Kafää unta schwaara Strofaundrohung vabotn wuan is.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
+1	Um	_	ADP	_	_	2	case	_	GermanLemma=um
+2	1511	_	NUM	_	_	9	obl	_	GermanLemma=1511
+3	san	_	AUX	_	_	9	aux:pass	_	GermanLemma=sein
+4	in	_	ADP	_	_	5	case	_	GermanLemma=in
+5	Mekka	_	PROPN	_	_	9	obl	_	GermanLemma=Mekka
+6	de	_	DET	_	_	8	det	_	GermanLemma=das
+7	easchtn	_	ADJ	_	_	8	amod	_	GermanLemma=erstes
+8	Kafäähaisa	_	NOUN	_	_	9	nsubj:pass	_	GermanLemma=Kaffeehaus
+9	entstaundn	_	VERB	_	_	0	root	_	GermanLemma=entstehen|SpaceAfter=No
+10	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
+11	de	_	PRON	_	_	15	nsubj:pass	_	GermanLemma=die
+12	owa	_	ADV	_	_	15	advmod	_	GermanLemma=aber
+13	boid	_	ADV	_	_	15	advmod	_	GermanLemma=bald
+14	wieda	_	ADV	_	_	15	advmod	_	GermanLemma=wieder
+15	gschlossn	_	VERB	_	_	9	advcl:relcl	_	GermanLemma=schließen
+16	wuan	_	AUX	_	_	15	aux:pass	_	GermanLemma=werden
+17	san	_	AUX	_	_	15	aux	_	GermanLemma=sein|SpaceAfter=No
+18	,	_	PUNCT	_	_	25	punct	_	GermanLemma=,
+19	weu	_	SCONJ	_	_	25	mark	_	GermanLemma=weil
+20	da	_	DET	_	_	21	det	_	GermanLemma=der
+21	Kafää	_	NOUN	_	_	25	nsubj:pass	_	GermanLemma=Kaffee
+22	unta	_	ADP	_	_	24	case	_	GermanLemma=unter
+23	schwaara	_	ADJ	_	_	24	amod	_	GermanLemma=schwer
+24	Strofaundrohung	_	NOUN	_	_	25	obl	_	GermanLemma=Strafandrohung
+25	vabotn	_	VERB	_	_	15	advcl	_	GermanLemma=verbieten
+26	wuan	_	AUX	_	_	25	aux:pass	_	GermanLemma=werden
+27	is	_	AUX	_	_	25	aux	_	GermanLemma=sein|SpaceAfter=No
+28	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-st_valid_122
+# text = Soll i heint an Montel unlegn?
+# text_en = Should I wear a coat today
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	Soll	_	AUX	_	_	6	aux	_	GermanLemma=sollen
+2	i	_	PRON	_	_	6	nsubj	_	GermanLemma=ich
+3	heint	_	ADV	_	_	6	advmod	_	GermanLemma=heute
+4	an	_	DET	_	_	5	det	_	GermanLemma=ein
+5	Montel	_	NOUN	_	_	6	obj	_	GermanLemma=Mantel
+6	unlegn	_	VERB	_	_	0	root	_	GermanLemma=anlegen|SpaceAfter=No
+7	?	_	PUNCT	_	_	6	punct	_	GermanLemma=?
+
+# sent_id = sid_de-ba_natural_37
+# text = spui ebs vom Gabalier
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
+2	ebs	_	PRON	_	_	1	obj	_	GermanLemma=etwas
+3-4	vom	_	_	_	_	_	_	_	_
+3	vo	_	ADP	_	_	5	case	_	GermanLemma=von
+4	m	_	DET	_	_	5	det	_	GermanLemma=der
+5	Gabalier	_	PROPN	_	_	2	nmod	_	GermanLemma=Gabalier
+
+# sent_id = xsid_de-ba_test_75
+# text = Wia vui Erinnerungen hob i heid?
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Wia	_	ADV	_	_	2	advmod	_	GermanLemma=wie
+2	vui	_	DET	_	_	3	det	_	GermanLemma=viel
+3	Erinnerungen	_	NOUN	_	_	4	obj	_	GermanLemma=Erinnerung
+4	hob	_	VERB	_	_	0	root	_	GermanLemma=haben
+5	i	_	PRON	_	_	4	nsubj	_	GermanLemma=ich
+6	heid	_	ADV	_	_	4	advmod	_	GermanLemma=heute|SpaceAfter=No
+7	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
+
+# sent_id = wiki_Haferltarock_3
+# text = Trotzdem, dass's „Tarock“ hoißt, ghearts ned zu de Tarock-Variantn.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Trotzdem	_	ADV	_	_	10	advmod	_	GermanLemma=trotzdem|SpaceAfter=No
+2	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
+3	dass	_	SCONJ	_	_	8	mark	_	GermanLemma=dass|SpaceAfter=No
+4	's	_	PRON	_	_	8	expl	_	GermanLemma=es
+5	„	_	PUNCT	_	_	6	punct	_	GermanLemma=„|SpaceAfter=No
+6	Tarock	_	PROPN	_	_	8	obj	_	GermanLemma=Tarock|SpaceAfter=No
+7	“	_	PUNCT	_	_	6	punct	_	GermanLemma=“
+8	hoißt	_	VERB	_	_	10	advcl	_	GermanLemma=heißen|SpaceAfter=No
+9	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
+10	gheart	_	VERB	_	_	0	root	_	GermanLemma=gehören|SpaceAfter=No
+11	s	_	PRON	_	_	10	expl	_	GermanLemma=es
+12	ned	_	PART	_	_	10	advmod	_	GermanLemma=nicht
+13	zu	_	ADP	_	_	15	case	_	GermanLemma=zu
+14	de	_	DET	_	_	15	advmod	_	GermanLemma=die
+15	Tarock-Variantn	_	NOUN	_	_	10	obl	_	GermanLemma=Tarock-Variante|SpaceAfter=No
+16	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
+
+# sent_id = wikisource_Hansl-und-Gretl_13
+# text = Da Mondschei war häj und de weißn Kieslstoana hom gleicht wia laudda Gäjdstückerl.
+# genre = fiction
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Text:Hansl_und_Gretl
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Mondschei	_	NOUN	_	_	4	nsubj	_	GermanLemma=Mondschein
+3	war	_	AUX	_	_	4	cop	_	GermanLemma=sein
+4	häj	_	ADJ	_	_	0	root	_	GermanLemma=hell
+5	und	_	CCONJ	_	_	10	cc	_	GermanLemma=und
+6	de	_	DET	_	_	8	det	_	GermanLemma=der
+7	weißn	_	ADJ	_	_	8	amod	_	GermanLemma=weiß
+8	Kieslstoana	_	NOUN	_	_	10	nsubj	_	GermanLemma=Kieselstein
+9	hom	_	AUX	_	_	10	aux	_	GermanLemma=haben
+10	gleicht	_	VERB	_	_	4	conj	_	GermanLemma=leuchten
+11	wia	_	ADP	_	_	13	case	_	GermanLemma=wie
+12	laudda	_	ADJ	_	_	13	amod	_	GermanLemma=laut
+13	Gäjdstückerl	_	NOUN	_	_	10	obl	_	GermanLemma=Goldstück|SpaceAfter=No
+14	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-st_valid_1
+# text = Regnts heinte?
+# text_en = Is it going to rain today?
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	Regnts	_	VERB	_	_	0	root	_	GermanLemma=regnen
+2	heinte	_	ADV	_	_	1	advmod	_	GermanLemma=heute|SpaceAfter=No
+3	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
+
+# sent_id = sid_de-ba_natural_45
+# text = Gib dem dumma buach de minimale Anzahl an sterne
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Gib	_	VERB	_	_	0	root	_	GermanLemma=geben
+2	dem	_	DET	_	_	4	det	_	GermanLemma=das
+3	dumma	_	ADJ	_	_	4	amod	_	GermanLemma=dumm
+4	buach	_	NOUN	_	_	1	obl:arg	_	GermanLemma=Buch
+5	de	_	DET	_	_	7	det	_	GermanLemma=die
+6	minimale	_	ADJ	_	_	7	amod	_	GermanLemma=minimal
+7	Anzahl	_	NOUN	_	_	1	obj	_	GermanLemma=Anzahl
+8	an	_	ADP	_	_	9	case	_	GermanLemma=an
+9	sterne	_	NOUN	_	_	7	nmod	_	GermanLemma=Stern
+
+# sent_id = sid_de-ba_natural_4
+# text = Dua "bloody valentine" vo Maschine Gun Kelly zua meina Playlist.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Dua	_	VERB	_	_	0	root	_	GermanLemma=tun
+2	"	_	PUNCT	_	_	3	punct	_	GermanLemma="|SpaceAfter=No
+3	bloody	_	PROPN	_	_	1	obj	_	GermanLemma=bloody
+4	valentine	_	PROPN	_	_	3	flat	_	GermanLemma=valentine|SpaceAfter=No
+5	"	_	PUNCT	_	_	3	punct	_	GermanLemma="
+6	vo	_	ADP	_	_	7	case	_	GermanLemma=von
+7	Maschine	_	PROPN	_	_	3	nmod	_	GermanLemma=Maschine
+8	Gun	_	PROPN	_	_	7	flat	_	GermanLemma=Gun
+9	Kelly	_	PROPN	_	_	7	flat	_	GermanLemma=Kelly
+10	zua	_	ADP	_	_	12	case	_	GermanLemma=zu
+11	meina	_	DET	_	_	12	det	_	GermanLemma=meine
+12	Playlist	_	NOUN	_	_	1	obl	_	GermanLemma=Playlist|SpaceAfter=No
+13	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_55
+# text = Wia hoaß wirds heid?
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Wia	_	ADV	_	_	2	advmod	_	GermanLemma=wie
+2	hoaß	_	ADJ	_	_	3	xcomp	_	GermanLemma=heiß
+3	wird	_	VERB	_	_	0	root	_	GermanLemma=werden|SpaceAfter=No
+4	s	_	PRON	_	_	3	expl	_	GermanLemma=es
+5	heid	_	ADV	_	_	3	advmod	_	GermanLemma=heute|SpaceAfter=No
+6	?	_	PUNCT	_	_	3	punct	_	GermanLemma=?
+
+# sent_id = tatoeba_10476412
+# text = Des Buach is elendig fad; i bin imma nu beim erschtn Kapitel.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/10476412
+# author = brauchinet
+1	Des	_	DET	_	_	2	det	_	GermanLemma=das
+2	Buach	_	NOUN	_	_	5	nsubj	_	GermanLemma=Buch
+3	is	_	AUX	_	_	5	cop	_	GermanLemma=sein
+4	elendig	_	ADV	_	_	5	advmod	_	GermanLemma=elendig
+5	fad	_	ADJ	_	_	0	root	_	GermanLemma=langweilig|SpaceAfter=No
+6	;	_	PUNCT	_	_	14	punct	_	GermanLemma=;
+7	i	_	PRON	_	_	14	nsubj	_	GermanLemma=ich
+8	bin	_	AUX	_	_	14	cop	_	GermanLemma=sein
+9	imma	_	ADV	_	_	14	advmod	_	GermanLemma=immer
+10	nu	_	ADV	_	_	14	advmod	_	GermanLemma=noch
+11-12	beim	_	_	_	_	_	_	_	_
+11	bei	_	ADP	_	_	14	case	_	GermanLemma=beim
+12	m	_	DET	_	_	14	det	_	GermanLemma=das
+13	erschtn	_	ADJ	_	_	14	amod	_	GermanLemma=erste
+14	Kapitel	_	NOUN	_	_	5	parataxis	_	GermanLemma=Kapitel|SpaceAfter=No
+15	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_64
+# text = suach moi noch moneyboy
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	suach	_	VERB	_	_	0	root	_	GermanLemma=suchen
+2	moi	_	ADV	_	_	1	advmod	_	GermanLemma=mal
+3	noch	_	ADP	_	_	4	case	_	GermanLemma=nach
+4	moneyboy	_	PROPN	_	_	1	obl	_	GermanLemma=Moneyboy
+
+# sent_id = sid_de-ba_natural_302
+# text = wos war den am letzten Freidog um achte im Kalenda gstandn?
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	wos	_	PRON	_	_	13	nsubj	_	GermanLemma=was
+2	war	_	AUX	_	_	13	aux	_	GermanLemma=sein
+3	den	_	ADV	_	_	13	advmod	_	GermanLemma=denn
+4-5	am	_	_	_	_	_	_	_	_
+4	a	_	ADP	_	_	7	case	_	GermanLemma=an
+5	m	_	DET	_	_	7	det	_	GermanLemma=der
+6	letzten	_	ADJ	_	_	7	amod	_	GermanLemma=letzte
+7	Freidog	_	NOUN	_	_	13	obl	_	GermanLemma=Freitag
+8	um	_	ADP	_	_	9	case	_	GermanLemma=um
+9	achte	_	NUM	_	_	7	nmod	_	GermanLemma=acht
+10-11	im	_	_	_	_	_	_	_	_
+10	i	_	ADP	_	_	12	case	_	GermanLemma=in
+11	m	_	DET	_	_	12	det	_	GermanLemma=der
+12	Kalenda	_	NOUN	_	_	7	nmod	_	GermanLemma=Kalender
+13	gstandn	_	VERB	_	_	0	root	_	GermanLemma=stehen|SpaceAfter=No
+14	?	_	PUNCT	_	_	13	punct	_	GermanLemma=?
+
+# sent_id = wikisample_Boarische-Grammatik-Verbn_13
+# text = DanS a wengal zammrucka?
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Verbn)
+1	Dan	_	AUX	_	_	5	aux	_	GermanLemma=tun|SpaceAfter=No
+2	S	_	PRON	_	_	5	nsubj	_	GermanLemma=Sie
+3	a	_	DET	_	_	5	advmod	_	GermanLemma=ein
+4	wengal	_	ADV	_	_	3	fixed	_	GermanLemma=wennig
+5	zammrucka	_	VERB	_	_	0	root	_	GermanLemma=zusammenrücken|SpaceAfter=No
+6	?	_	PUNCT	_	_	5	punct	_	GermanLemma=?
+
+# sent_id = xsid_de-ba_test_31
+# text = Erwartet Disney World heid Gewitter?
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Erwartet	_	VERB	_	_	0	root	_	GermanLemma=erwarten
+2	Disney	_	PROPN	_	_	1	nsubj	_	GermanLemma=Disney
+3	World	_	PROPN	_	_	2	flat	_	GermanLemma=World
+4	heid	_	ADV	_	_	1	advmod	_	GermanLemma=heute
+5	Gewitter	_	NOUN	_	_	1	obj	_	GermanLemma=Gewitter|SpaceAfter=No
+6	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
+
+# sent_id = wiki_Schneckn_5
+# text = Nembei gibt’s aa no amphibische Fuaman.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Schneckn
+1	Nembei	_	ADV	_	_	2	advmod	_	GermanLemma=nebenbei
+2	gibt	_	VERB	_	_	0	root	_	GermanLemma=geben|SpaceAfter=No
+3	’s	_	PRON	_	_	2	expl	_	GermanLemma=es
+4	aa	_	ADV	_	_	2	advmod	_	GermanLemma=auch
+5	no	_	ADV	_	_	2	advmod	_	GermanLemma=noch
+6	amphibische	_	ADJ	_	_	7	amod	_	GermanLemma=amphibisch
+7	Fuaman	_	NOUN	_	_	2	obj	_	GermanLemma=Form|SpaceAfter=No
+8	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Minga_10
+# text = Minga liegt af da owaboarischn Hochebene, ebba 50 km neadli vo d'Oipm.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	Minga	_	PROPN	_	_	2	nsubj	_	GermanLemma=München
+2	liegt	_	VERB	_	_	0	root	_	GermanLemma=liegen
+3	af	_	ADP	_	_	6	case	_	GermanLemma=auf
+4	da	_	DET	_	_	6	det	_	GermanLemma=der
+5	owaboarischn	_	ADJ	_	_	6	amod	_	GermanLemma=oberbairisch
+6	Hochebene	_	NOUN	_	_	2	obl	_	GermanLemma=Hochebene|SpaceAfter=No
+7	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+8	ebba	_	ADP	_	_	9	case	_	GermanLemma=ungefähr
+9	50	_	NUM	_	_	10	nummod	_	GermanLemma=50
+10	km	_	NOUN	_	_	11	nmod	_	GermanLemma=km
+11	neadli	_	ADJ	_	_	2	advmod	_	GermanLemma=nördlich
+12	vo	_	ADP	_	_	14	case	_	GermanLemma=von
+13	d'	_	DET	_	_	14	det	_	GermanLemma=die|SpaceAfter=No
+14	Oipm	_	PROPN	_	_	11	nmod	_	GermanLemma=Alpen|SpaceAfter=No
+15	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Haferltarock_33
+# text = Wenn oana de ausgspuide Foa ned hod, moua an Trumpf spuin.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Wenn	_	SCONJ	_	_	7	mark	_	GermanLemma=wenn
+2	oana	_	DET	_	_	7	nsubj	_	GermanLemma=einer
+3	de	_	DET	_	_	5	det	_	GermanLemma=die
+4	ausgspuide	_	ADJ	_	_	5	amod	_	GermanLemma=ausgespielt
+5	Foa	_	NOUN	_	_	7	obj	_	GermanLemma=Farbe
+6	ned	_	PART	_	_	7	advmod	_	GermanLemma=nicht
+7	hod	_	VERB	_	_	13	advcl	_	GermanLemma=haben|SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+9	mou	_	AUX	_	_	13	aux	_	GermanLemma=müssen|SpaceAfter=No
+10	a	_	PRON	_	_	13	nsubj	_	GermanLemma=er
+11	an	_	DET	_	_	12	det	_	GermanLemma=ein
+12	Trumpf	_	NOUN	_	_	13	obj	_	GermanLemma=Trumpf
+13	spuin	_	VERB	_	_	0	root	_	GermanLemma=spielen|SpaceAfter=No
+14	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_79
+# text = Stei an Alarm für 30 Minutn
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Stei	_	VERB	_	_	0	root	_	GermanLemma=stellen
+2	an	_	DET	_	_	3	det	_	GermanLemma=der
+3	Alarm	_	NOUN	_	_	1	obj	_	GermanLemma=Alarm
+4	für	_	ADP	_	_	6	case	_	GermanLemma=für
+5	30	_	NUM	_	_	6	nummod	_	GermanLemma=30
+6	Minutn	_	NOUN	_	_	3	nmod	_	GermanLemma=Minute
+
+# sent_id = xsid_de-st_valid_129
+# text = lig die Temperatur heint untern Gefrierpunkt?
+# text_en = is it below freezing today?
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	lig	_	VERB	_	_	0	root	_	GermanLemma=liegen
+2	die	_	DET	_	_	3	det	_	GermanLemma=die
+3	Temperatur	_	NOUN	_	_	1	nsubj	_	GermanLemma=Temperatur
+4	heint	_	ADV	_	_	1	advmod	_	GermanLemma=heute
+5-6	untern	_	_	_	_	_	_	_	_
+5	unter	_	ADP	_	_	7	case	_	GermanLemma=unter
+6	n	_	DET	_	_	7	det	_	GermanLemma=der
+7	Gefrierpunkt	_	NOUN	_	_	1	obl	_	GermanLemma=Gefrierpunkt|SpaceAfter=No
+8	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
+
+# sent_id = wiki_Minga_34
+# text = Leid, d'wo vo aussauhoib keman und etz do wohna, hoaßt ma traditionej Zuagroaste.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	Leid	_	NOUN	_	_	13	obj	_	GermanLemma=Leute|SpaceAfter=No
+2	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+3	d'	_	PRON	_	_	7	nsubj	_	GermanLemma=die|SpaceAfter=No
+4	wo	_	SCONJ	_	_	7	mark	_	GermanLemma=wo
+5	vo	_	ADP	_	_	6	case	_	GermanLemma=von
+6	aussauhoib	_	ADV	_	_	7	obl	_	GermanLemma=außerhalb
+7	keman	_	VERB	_	_	1	acl:relcl	_	GermanLemma=kommen
+8	und	_	CCONJ	_	_	11	cc	_	GermanLemma=und
+9	etz	_	ADV	_	_	11	advmod	_	GermanLemma=jetzt
+10	do	_	ADV	_	_	11	advmod	_	GermanLemma=da
+11	wohna	_	VERB	_	_	7	conj	_	GermanLemma=wohnen|SpaceAfter=No
+12	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+13	hoaßt	_	VERB	_	_	0	root	_	GermanLemma=heißen
+14	ma	_	PRON	_	_	13	nsubj	_	GermanLemma=man
+15	traditionej	_	ADV	_	_	13	advmod	_	GermanLemma=traditionell
+16	Zuagroaste	_	NOUN	_	_	13	xcomp	_	GermanLemma=Zugereister|SpaceAfter=No
+17	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_29
+# text = Spui "bloody valentine" vo Machine Gun Kelly auf Spotify.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Spui	_	VERB	_	_	0	root	_	GermanLemma=spielen
+2	"	_	PUNCT	_	_	3	punct	_	GermanLemma="|SpaceAfter=No
+3	bloody	_	PROPN	_	_	1	obj	_	GermanLemma=bloody
+4	valentine	_	PROPN	_	_	3	flat	_	GermanLemma=valentine|SpaceAfter=No
+5	"	_	PUNCT	_	_	3	punct	_	GermanLemma="
+6	vo	_	ADP	_	_	7	case	_	GermanLemma=von
+7	Machine	_	PROPN	_	_	3	nmod	_	GermanLemma=Machine
+8	Gun	_	PROPN	_	_	7	flat	_	GermanLemma=Gun
+9	Kelly	_	PROPN	_	_	7	flat	_	GermanLemma=Kelly
+10	auf	_	ADP	_	_	11	case	_	GermanLemma=auf
+11	Spotify	_	PROPN	_	_	3	nmod	_	GermanLemma=Spotify|SpaceAfter=No
+12	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_7
+# text = I glaab ma mecht scho sogn, daß ma "Frikadelle", "Tschüß" ... bitte net in da boarischn Wiki benutzn soi weils ebm no koane eibirgatn boarischn Werta san.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:Bsundaheitn_im_boarischn_Vokabular
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	glaab	_	VERB	_	_	0	root	_	GermanLemma=glauben
+3	ma	_	PRON	_	_	6	nsubj	_	GermanLemma=man
+4	mecht	_	AUX	_	_	6	aux	_	GermanLemma=möchten
+5	scho	_	ADV	_	_	6	advmod	_	GermanLemma=schon
+6	sogn	_	VERB	_	_	2	ccomp	_	GermanLemma=sagen|SpaceAfter=No
+7	,	_	PUNCT	_	_	24	punct	_	GermanLemma=,
+8	daß	_	SCONJ	_	_	24	mark	_	GermanLemma=dass
+9	ma	_	PRON	_	_	24	nsubj	_	GermanLemma=man
+10	"	_	PUNCT	_	_	11	punct	_	GermanLemma="|SpaceAfter=No
+11	Frikadelle	_	NOUN	_	_	24	obj	_	GermanLemma=Frikadelle|SpaceAfter=No
+12	"	_	PUNCT	_	_	11	punct	_	GermanLemma="|SpaceAfter=No
+13	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
+14	"	_	PUNCT	_	_	15	punct	_	GermanLemma="|SpaceAfter=No
+15	Tschüß	_	NOUN	_	_	11	conj	_	GermanLemma=Tschüß|SpaceAfter=No
+16	"	_	PUNCT	_	_	15	punct	_	GermanLemma="
+17	...	_	PUNCT	_	_	11	punct	_	GermanLemma=...
+18	bitte	_	ADV	_	_	24	advmod	_	GermanLemma=bittweise
+19	net	_	PART	_	_	24	advmod	_	GermanLemma=nicht
+20	in	_	ADP	_	_	23	case	_	GermanLemma=in
+21	da	_	DET	_	_	23	det	_	GermanLemma=die
+22	boarischn	_	ADJ	_	_	23	amod	_	GermanLemma=bairisch
+23	Wiki	_	NOUN	_	_	24	obl	_	GermanLemma=Wiki
+24	benutzn	_	VERB	_	_	6	ccomp	_	GermanLemma=benutzen
+25	soi	_	AUX	_	_	24	aux	_	GermanLemma=sollen
+26	weil	_	SCONJ	_	_	33	mark	_	GermanLemma=weil|SpaceAfter=No
+27	s	_	PRON	_	_	33	nsubj	_	GermanLemma=es
+28	ebm	_	ADV	_	_	33	advmod	_	GermanLemma=eben
+29	no	_	ADV	_	_	33	advmod	_	GermanLemma=noch
+30	koane	_	DET	_	_	33	det	_	GermanLemma=kein
+31	eibirgatn	_	ADJ	_	_	33	amod	_	GermanLemma=eingebürgert
+32	boarischn	_	ADJ	_	_	33	amod	_	GermanLemma=bairisch
+33	Werta	_	NOUN	_	_	24	advcl	_	GermanLemma=Wort
+34	san	_	AUX	_	_	33	cop	_	GermanLemma=sein|SpaceAfter=No
+35	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Dazzlwuam_9
+# text = Waun a owa fu am faiadn Waundara, am Jaga oda an Wüdara aufgschaicht wiad, reagiad a oft agressif und greift au.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Dazzlwuam
+1	Waun	_	SCONJ	_	_	14	mark	_	GermanLemma=wenn
+2	a	_	PRON	_	_	14	nsubj:pass	_	GermanLemma=er
+3	owa	_	ADV	_	_	14	advmod	_	GermanLemma=aber
+4	fu	_	ADP	_	_	7	case	_	GermanLemma=von
+5	am	_	DET	_	_	7	det	_	GermanLemma=ein
+6	faiadn	_	ADJ	_	_	7	amod	_	GermanLemma=durchtrieben
+7	Waundara	_	NOUN	_	_	14	obl:agent	_	GermanLemma=Wanderer|SpaceAfter=No
+8	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
+9	am	_	DET	_	_	10	det	_	GermanLemma=ein
+10	Jaga	_	NOUN	_	_	7	conj	_	GermanLemma=Jäger
+11	oda	_	CCONJ	_	_	13	cc	_	GermanLemma=oder
+12	an	_	DET	_	_	13	det	_	GermanLemma=ein
+13	Wüdara	_	NOUN	_	_	7	conj	_	GermanLemma=Wilderer
+14	aufgschaicht	_	VERB	_	_	17	advcl	_	GermanLemma=aufscheuchen
+15	wiad	_	AUX	_	_	14	aux:pass	_	GermanLemma=werden|SpaceAfter=No
+16	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
+17	reagiad	_	VERB	_	_	0	root	_	GermanLemma=reagieren
+18	a	_	PRON	_	_	17	nsubj	_	GermanLemma=er
+19	oft	_	ADV	_	_	17	advmod	_	GermanLemma=oft
+20	agressif	_	ADJ	_	_	17	advmod	_	GermanLemma=agressiv
+21	und	_	CCONJ	_	_	22	cc	_	GermanLemma=und
+22	greift	_	VERB	_	_	17	conj	_	GermanLemma=greifen
+23	au	_	ADP	_	_	22	compound:prt	_	GermanLemma=an|SpaceAfter=No
+24	.	_	PUNCT	_	_	17	punct	_	GermanLemma=.
+
+# sent_id = wiki_Der-Zettelträger-Papp_11
+# text = Da Nestroy håt des Stückl zu ana zugkräftich'n Parodie auf's Theata umg'schrieben.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Der_Zetteltr%C3%A4ger_Papp
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Nestroy	_	PROPN	_	_	13	nsubj	_	GermanLemma=Nestroy
+3	håt	_	AUX	_	_	13	aux	_	GermanLemma=haben
+4	des	_	DET	_	_	5	det	_	GermanLemma=das
+5	Stückl	_	NOUN	_	_	13	obj	_	GermanLemma=Stück
+6	zu	_	ADP	_	_	9	case	_	GermanLemma=zu
+7	ana	_	DET	_	_	9	det	_	GermanLemma=eine
+8	zugkräftich'n	_	ADJ	_	_	9	amod	_	GermanLemma=zugkräftig
+9	Parodie	_	NOUN	_	_	13	obl	_	GermanLemma=Parodie
+10-11	auf's	_	_	_	_	_	_	_	_
+10	auf	_	ADP	_	_	12	case	_	GermanLemma=auf
+11	's	_	DET	_	_	12	det	_	GermanLemma=das
+12	Theata	_	NOUN	_	_	9	nmod	_	GermanLemma=Theater
+13	umg'schrieben	_	VERB	_	_	0	root	_	GermanLemma=umschreiben|SpaceAfter=No
+14	.	_	PUNCT	_	_	13	punct	_	GermanLemma=.
+
+# sent_id = wiki_Haferltarock_42
+# text = Do mou anejda in Ofang s'Gleiche eizohln, z.B.an Eiro.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Do	_	ADV	_	_	9	advmod	_	GermanLemma=da
+2	mou	_	AUX	_	_	9	aux	_	GermanLemma=müssen
+3	anejda	_	DET	_	_	9	nsubj	_	GermanLemma=jeder
+4-5	in	_	_	_	_	_	_	_	GermanLemma=in
+4	i	_	ADP	_	_	6	case	_	GermanLemma=in
+5	n	_	DET	_	_	6	det	_	GermanLemma=der
+6	Ofang	_	NOUN	_	_	9	obl	_	GermanLemma=Anfang
+7	s'	_	DET	_	_	8	det	_	GermanLemma=das|SpaceAfter=No
+8	Gleiche	_	ADJ	_	_	9	obj	_	GermanLemma=gleich
+9	eizohln	_	VERB	_	_	0	root	_	GermanLemma=einzahlen|SpaceAfter=No
+10	,	_	PUNCT	_	_	12	punct	_	GermanLemma=,
+11	z.	_	ADP	_	_	12	case	_	GermanLemma=zum|SpaceAfter=No
+12	B.	_	NOUN	_	_	9	conj	_	CorrectSpaceAfter=Yes|GermanLemma=Beispiel|SpaceAfter=No
+13	an	_	DET	_	_	14	det	_	GermanLemma=ein
+14	Eiro	_	NOUN	_	_	12	orphan	_	GermanLemma=Euro|SpaceAfter=No
+15	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_6905707
+# text = Gö, da Thomas is oiwei stier.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/6905707
+# author = brauchinet
+1	Gö	_	INTJ	_	_	7	discourse	_	GermanLemma=Gell|SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	GermanLemma=,
+3	da	_	DET	_	_	4	det	_	GermanLemma=der
+4	Thomas	_	PROPN	_	_	7	nsubj	_	GermanLemma=Thomas
+5	is	_	AUX	_	_	7	cop	_	GermanLemma=sein
+6	oiwei	_	ADV	_	_	7	advmod	_	GermanLemma=immer
+7	stier	_	ADJ	_	_	0	root	_	GermanLemma=pleite|SpaceAfter=No
+8	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = wiki_Haferltarock_19
+# text = Wenn meara Leit spuin wölln, nachernd kann dea wej weida hint sitzt „fimfe mea“ oosong.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Wenn	_	SCONJ	_	_	4	mark	_	GermanLemma=wenn
+2	meara	_	DET	_	_	3	advmod	_	GermanLemma=mehr
+3	Leit	_	NOUN	_	_	4	nsubj	_	GermanLemma=Leute
+4	spuin	_	VERB	_	_	18	advcl	_	GermanLemma=spielen
+5	wölln	_	AUX	_	_	4	aux	_	GermanLemma=wollen|SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	GermanLemma=,
+7	nachernd	_	ADV	_	_	18	advmod	_	GermanLemma=nachher
+8	kann	_	AUX	_	_	18	aux	_	GermanLemma=können
+9	dea	_	PRON	_	_	18	nsubj	_	GermanLemma=der
+10	wej	_	SCONJ	_	_	18	mark	_	GermanLemma=wo
+11	weida	_	ADV	_	_	12	advmod	_	GermanLemma=weiter
+12	hint	_	ADV	_	_	13	advmod	_	GermanLemma=hinten
+13	sitzt	_	VERB	_	_	9	acl:relcl	_	GermanLemma=sitzen
+14	„	_	PUNCT	_	_	16	punct	_	GermanLemma=„|SpaceAfter=No
+15	fimfe	_	NUM	_	_	16	nummod	_	GermanLemma=fünf
+16	mea	_	ADV	_	_	18	obj	_	GermanLemma=mehr|SpaceAfter=No
+17	“	_	PUNCT	_	_	16	punct	_	GermanLemma=“
+18	oosong	_	VERB	_	_	0	root	_	GermanLemma=ansagen|SpaceAfter=No
+19	.	_	PUNCT	_	_	18	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_51
+# text = Wann heard da Regn auf?
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Wann	_	ADV	_	_	2	advmod	_	GermanLemma=wann
+2	heard	_	VERB	_	_	0	root	_	GermanLemma=hören
+3	da	_	DET	_	_	4	det	_	GermanLemma=der
+4	Regn	_	NOUN	_	_	2	nsubj	_	GermanLemma=Regen
+5	auf	_	ADP	_	_	2	compound:prt	_	GermanLemma=auf|SpaceAfter=No
+6	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
+
+# sent_id = tatoeba_9190654
+# text = Des is a Hiadl.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/9190654
+# author = brauchinet
+1	Des	_	PRON	_	_	4	nsubj	_	GermanLemma=das
+2	is	_	AUX	_	_	4	cop	_	GermanLemma=sein
+3	a	_	DET	_	_	4	det	_	GermanLemma=ein
+4	Hiadl	_	NOUN	_	_	0	root	_	GermanLemma=Hütchen|SpaceAfter=No
+5	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_10638346
+# text = Gib ma's!
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/10638346
+# author = brauchinet
+1	Gib	_	VERB	_	_	0	root	_	GermanLemma=geben
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich|SpaceAfter=No
+3	's	_	PRON	_	_	1	obj	_	GermanLemma=es|SpaceAfter=No
+4	!	_	PUNCT	_	_	1	punct	_	GermanLemma=!
+
+# sent_id = tatoeba_8008024
+# text = Wiaso schaust 'n olle damlaung auf d'Uhr?
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/8008024
+# author = brauchinet
+1	Wiaso	_	ADV	_	_	2	advmod	_	GermanLemma=wieso
+2	schaust	_	VERB	_	_	0	root	_	GermanLemma=schauen
+3	'n	_	PRON	_	_	2	nsubj	_	GermanLemma=du
+4	olle	_	ADV	_	_	5	advmod	_	GermanLemma=alle
+5	damlaung	_	ADV	_	_	2	advmod	_	GermanLemma=daumenlang
+6	auf	_	ADP	_	_	8	case	_	GermanLemma=auf
+7	d'	_	DET	_	_	8	det	_	GermanLemma=die|SpaceAfter=No
+8	Uhr	_	NOUN	_	_	2	obl	_	GermanLemma=Uhr|SpaceAfter=No
+9	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
+
+# sent_id = wiki_Haferltarock_47
+# text = Handspiele wean awl direkt vo oan an anan zohlt und zülln dopplt.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Handspiele	_	NOUN	_	_	9	nsubj:pass	_	GermanLemma=Handspiel
+2	wean	_	AUX	_	_	9	aux:pass	_	GermanLemma=werden
+3	awl	_	ADV	_	_	9	advmod	_	GermanLemma=immer
+4	direkt	_	ADV	_	_	9	advmod	_	GermanLemma=direkt
+5	vo	_	ADP	_	_	6	case	_	GermanLemma=von
+6	oan	_	DET	_	_	9	obl:agent	_	GermanLemma=einer
+7	an	_	ADP	_	_	8	case	_	GermanLemma=an
+8	anan	_	DET	_	_	9	obl	_	GermanLemma=anderer
+9	zohlt	_	VERB	_	_	0	root	_	GermanLemma=zahlen
+10	und	_	CCONJ	_	_	11	cc	_	GermanLemma=und
+11	zülln	_	VERB	_	_	9	conj	_	GermanLemma=zählen
+12	dopplt	_	ADJ	_	_	11	advmod	_	GermanLemma=doppelt|SpaceAfter=No
+13	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
+
+# sent_id = wiki_Lamma_4
+# text = Noch 41 Kilometa rinnds bei Golling, 480 Meta üwan Meer drüwa, ind Soizach eini.
+# genre = wiki
+# dialect_group = central
+# location = Salzburg (city)
+# source = https://bar.wikipedia.org/wiki/L%C3%A5mma
+1	Noch	_	ADP	_	_	3	case	_	GermanLemma=nach
+2	41	_	NUM	_	_	3	nummod	_	GermanLemma=41
+3	Kilometa	_	NOUN	_	_	4	obl	_	GermanLemma=Kilometer
+4	rinnd	_	VERB	_	_	0	root	_	GermanLemma=rinnen|SpaceAfter=No
+5	s	_	PRON	_	_	4	nsubj	_	GermanLemma=sie
+6	bei	_	ADP	_	_	7	case	_	GermanLemma=bei
+7	Golling	_	PROPN	_	_	4	obl	_	GermanLemma=Golling|SpaceAfter=No
+8	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
+9	480	_	NUM	_	_	10	nummod	_	GermanLemma=480
+10	Meta	_	NOUN	_	_	14	obl	_	GermanLemma=Meter
+11-12	üwan	_	_	_	_	_	_	_	_
+11	üwa	_	ADP	_	_	13	case	_	GermanLemma=über
+12	n	_	DET	_	_	13	det	_	GermanLemma=das
+13	Meer	_	NOUN	_	_	10	nmod	_	GermanLemma=Meer
+14	drüwa	_	ADV	_	_	4	advmod	_	GermanLemma=drüber|SpaceAfter=No
+15	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
+16-17	ind	_	_	_	_	_	_	_	_
+16	in	_	ADP	_	_	18	case	_	GermanLemma=in
+17	d	_	DET	_	_	18	det	_	GermanLemma=die
+18	Soizach	_	PROPN	_	_	4	obl	_	GermanLemma=Salzach
+19	eini	_	ADP	_	_	4	compound:prt	_	GermanLemma=rein|SpaceAfter=No
+20	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Pronomen_27
+# text = Mir han sim Lait gwen.
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pronomen)
+1	Mir	_	PRON	_	_	4	nsubj	_	GermanLemma=wir
+2	han	_	AUX	_	_	4	aux	_	GermanLemma=sein
+3	sim	_	NUM	_	_	4	nummod	_	GermanLemma=sieben
+4	Lait	_	NOUN	_	_	0	root	_	GermanLemma=Leute
+5	gwen	_	AUX	_	_	4	cop	_	GermanLemma=sein|SpaceAfter=No
+6	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Pronomen_20
+# text = Dee hamd si gscheid vàda!
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pronomen)
+1	Dee	_	PRON	_	_	5	nsubj	_	GermanLemma=die
+2	hamd	_	AUX	_	_	5	aux	_	GermanLemma=haben
+3	si	_	PRON	_	_	5	expl:pv	_	GermanLemma=sich
+4	gscheid	_	ADJ	_	_	5	advmod	_	GermanLemma=richtig
+5	vàda	_	VERB	_	_	0	root	_	GermanLemma=vertun|SpaceAfter=No
+6	!	_	PUNCT	_	_	5	punct	_	GermanLemma=!
+
+# sent_id = tatoeba_7276673
+# text = Fost warats ma auskumma.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/7276673
+# author = brauchinet
+1	Fost	_	ADV	_	_	5	advmod	_	GermanLemma=fast
+2	warat	_	AUX	_	_	5	aux	_	GermanLemma=sein|SpaceAfter=No
+3	s	_	PRON	_	_	5	expl	_	GermanLemma=es
+4	ma	_	PRON	_	_	5	obl:arg	_	GermanLemma=ich
+5	auskumma	_	VERB	_	_	0	root	_	GermanLemma=auskommen|SpaceAfter=No
+6	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = wiki_Age-of-Empires_18
+# text = In dene Heisln kammá nachád Leid mocha oda irgánd án Zeig erfoáschn und fobessán.
+# genre = wiki
+# dialect_group = north
+# location = Upper Bavaria
+# source = https://bar.wikipedia.org/wiki/Age_of_Empires
+1	In	_	ADP	_	_	3	case	_	GermanLemma=in
+2	dene	_	DET	_	_	3	det	_	GermanLemma=dieses
+3	Heisln	_	NOUN	_	_	8	obl	_	GermanLemma=Häuschen
+4	kam	_	AUX	_	_	8	aux	_	GermanLemma=können|SpaceAfter=No
+5	má	_	PRON	_	_	8	nsubj	_	GermanLemma=man
+6	nachád	_	ADV	_	_	8	advmod	_	GermanLemma=nachher
+7	Leid	_	NOUN	_	_	8	obj	_	GermanLemma=Leute
+8	mocha	_	VERB	_	_	0	root	_	GermanLemma=machen
+9	oda	_	CCONJ	_	_	13	cc	_	GermanLemma=oder
+10	irgánd	_	DET	_	Typo=Yes	12	det	_	CorrectForm=irgándán|GermanLemma=irgendein
+11	án	_	X	_	_	10	goeswith	_	_
+12	Zeig	_	NOUN	_	_	13	obj	_	GermanLemma=Zeug
+13	erfoáschn	_	VERB	_	_	8	conj	_	GermanLemma=erforschen
+14	und	_	CCONJ	_	_	15	cc	_	GermanLemma=und
+15	fobessán	_	VERB	_	_	13	conj	_	GermanLemma=verbessern|SpaceAfter=No
+16	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
+
+# sent_id = wiki_Walsch_4
+# text = Frier wor des gonz a normales Wort, ober mit der Zeit isches olleweil mehr zu an negativ brauchtn Ausdruck gwordn, wenns a viele net beas moanen, wenn sies gebrauchn.
+# genre = wiki
+# dialect_group = south
+# location = South Tyrol
+# source = https://bar.wikipedia.org/wiki/Walsch
+1	Frier	_	ADJ	_	_	7	amod	_	GermanLemma=früher
+2	wor	_	AUX	_	_	7	cop	_	GermanLemma=sein
+3	des	_	PRON	_	_	7	nsubj	_	GermanLemma=das
+4	gonz	_	ADV	_	_	6	advmod	_	GermanLemma=ganz
+5	a	_	DET	_	_	7	det	_	GermanLemma=ein
+6	normales	_	ADJ	_	_	7	amod	_	GermanLemma=normal
+7	Wort	_	NOUN	_	_	0	root	_	GermanLemma=Wort|SpaceAfter=No
+8	,	_	PUNCT	_	_	22	punct	_	GermanLemma=,
+9	ober	_	ADV	_	_	22	advmod	_	GermanLemma=aber
+10	mit	_	ADP	_	_	12	case	_	GermanLemma=mit
+11	der	_	DET	_	_	12	det	_	GermanLemma=der
+12	Zeit	_	NOUN	_	_	22	obl	_	GermanLemma=Zeit
+13	isch	_	AUX	_	_	22	aux	_	GermanLemma=sein|SpaceAfter=No
+14	es	_	PRON	_	_	22	nsubj	_	GermanLemma=es
+15	olleweil	_	ADV	_	_	16	advmod	_	GermanLemma=alleweil
+16	mehr	_	ADV	_	_	22	advmod	_	GermanLemma=mehr
+17	zu	_	ADP	_	_	21	case	_	GermanLemma=zu
+18	an	_	DET	_	_	21	det	_	GermanLemma=ein
+19	negativ	_	ADJ	_	_	20	advmod	_	GermanLemma=negativ
+20	brauchtn	_	ADJ	_	_	21	amod	_	GermanLemma=gebraucht
+21	Ausdruck	_	NOUN	_	_	22	obl	_	GermanLemma=Ausdruck
+22	gwordn	_	VERB	_	_	7	advcl	_	GermanLemma=werden|SpaceAfter=No
+23	,	_	PUNCT	_	_	30	punct	_	GermanLemma=,
+24	wenn	_	SCONJ	_	_	30	mark	_	GermanLemma=wenn|SpaceAfter=No
+25	s	_	PRON	_	_	30	obj	_	GermanLemma=es
+26	a	_	ADV	_	_	30	advmod	_	GermanLemma=auch
+27	viele	_	DET	_	_	30	nsubj	_	GermanLemma=viel
+28	net	_	PART	_	_	30	advmod	_	GermanLemma=nicht
+29	beas	_	ADJ	_	_	30	advmod	_	GermanLemma=böse
+30	moanen	_	VERB	_	_	22	advcl	_	GermanLemma=meinen|SpaceAfter=No
+31	,	_	PUNCT	_	_	35	punct	_	GermanLemma=,
+32	wenn	_	SCONJ	_	_	35	mark	_	GermanLemma=wenn
+33	sie	_	PRON	_	_	35	nsubj	_	GermanLemma=sie|SpaceAfter=No
+34	s	_	PRON	_	_	35	obj	_	GermanLemma=es
+35	gebrauchn	_	VERB	_	_	30	advcl	_	GermanLemma=gebrauchen|SpaceAfter=No
+36	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_16
+# text = I mechad gern an disch reservieren für 4 leid auf 19.00
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	I	_	PRON	_	_	6	nsubj	_	GermanLemma=ich
+2	mechad	_	AUX	_	_	6	aux	_	GermanLemma=möchten
+3	gern	_	ADV	_	_	6	advmod	_	GermanLemma=gern
+4	an	_	DET	_	_	5	det	_	GermanLemma=ein
+5	disch	_	NOUN	_	_	6	obj	_	GermanLemma=Tisch
+6	reservieren	_	VERB	_	_	0	root	_	GermanLemma=reservieren
+7	für	_	ADP	_	_	9	case	_	GermanLemma=für
+8	4	_	NUM	_	_	9	nummod	_	GermanLemma=4
+9	leid	_	NOUN	_	_	5	nmod	_	GermanLemma=Leute
+10	auf	_	ADP	_	_	11	case	_	GermanLemma=auf
+11	19.00	_	NUM	_	_	5	nmod	_	GermanLemma=19.00
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_8
+# text = Beim französischen Teil is anders.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:Bsundaheitn_im_boarischn_Vokabular
+1	Bei	_	ADP	_	_	4	case	_	GermanLemma=bei|SpaceAfter=No
+2	m	_	DET	_	_	4	det	_	GermanLemma=der
+3	französischen	_	ADJ	_	_	4	amod	_	GermanLemma=französisch
+4	Teil	_	NOUN	_	_	6	obl	_	GermanLemma=Teil
+5	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
+6	anders	_	ADJ	_	_	0	root	_	GermanLemma=anders|SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = wiki_Schneckn_2
+# text = Schneckn (Gastropoda) san Viecha aus da Glass vo de Molluskn (Mollusca).
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Schneckn
+1	Schneckn	_	NOUN	_	_	6	nsubj	_	GermanLemma=Schnecke
+2	(	_	PUNCT	_	_	3	punct	_	GermanLemma=(|SpaceAfter=No
+3	Gastropoda	_	X	_	_	1	appos	_	GermanLemma=Gastropoda|SpaceAfter=No
+4	)	_	PUNCT	_	_	3	punct	_	GermanLemma=)
+5	san	_	AUX	_	_	6	cop	_	GermanLemma=sein
+6	Viecha	_	NOUN	_	_	0	root	_	GermanLemma=Viech
+7	aus	_	ADP	_	_	9	case	_	GermanLemma=aus
+8	da	_	DET	_	_	9	det	_	GermanLemma=die
+9	Glass	_	NOUN	_	_	6	nmod	_	GermanLemma=Klasse
+10	vo	_	ADP	_	_	12	case	_	GermanLemma=von
+11	de	_	DET	_	_	12	det	_	GermanLemma=die
+12	Molluskn	_	PROPN	_	_	9	nmod	_	GermanLemma=Molluske
+13	(	_	PUNCT	_	_	14	punct	_	GermanLemma=(|SpaceAfter=No
+14	Mollusca	_	X	_	_	12	appos	_	GermanLemma=Mollusca|SpaceAfter=No
+15	)	_	PUNCT	_	_	14	punct	_	GermanLemma=)|SpaceAfter=No
+16	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_2
+# text = Des "von"/"davon" und "mit"/"damit" waarn Werta de ma im Hochdeitschn und im Boarischn ned sogt.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:Bsundaheitn_im_boarischn_Vokabular
+1	Des	_	DET	_	_	3	det	_	GermanLemma=das
+2	"	_	PUNCT	_	_	3	punct	_	GermanLemma="|SpaceAfter=No
+3	von	_	ADP	_	_	18	nsubj	_	GermanLemma=von|SpaceAfter=No
+4	"	_	PUNCT	_	_	3	punct	_	GermanLemma="|SpaceAfter=No
+5	/	_	PUNCT	_	_	7	punct	_	GermanLemma=/|SpaceAfter=No
+6	"	_	PUNCT	_	_	7	punct	_	GermanLemma="|SpaceAfter=No
+7	davon	_	ADV	_	_	3	conj	_	GermanLemma=dahinab|SpaceAfter=No
+8	"	_	PUNCT	_	_	7	punct	_	GermanLemma="
+9	und	_	CCONJ	_	_	11	cc	_	GermanLemma=und
+10	"	_	PUNCT	_	_	11	punct	_	GermanLemma="|SpaceAfter=No
+11	mit	_	ADP	_	_	3	conj	_	GermanLemma=mit|SpaceAfter=No
+12	"	_	PUNCT	_	_	11	punct	_	GermanLemma="|SpaceAfter=No
+13	/	_	PUNCT	_	_	15	punct	_	GermanLemma=/|SpaceAfter=No
+14	"	_	PUNCT	_	_	15	punct	_	GermanLemma="|SpaceAfter=No
+15	damit	_	ADV	_	_	11	conj	_	GermanLemma=damit|SpaceAfter=No
+16	"	_	PUNCT	_	_	15	punct	_	GermanLemma="
+17	waarn	_	AUX	_	_	18	cop	_	GermanLemma=sein
+18	Werta	_	NOUN	_	_	0	root	_	GermanLemma=Wort
+19	de	_	PRON	_	_	29	obj	_	GermanLemma=das
+20	ma	_	PRON	_	_	29	nsubj	_	GermanLemma=man
+21-22	im	_	_	_	_	_	_	_	_
+21	i	_	ADP	_	_	23	case	_	GermanLemma=in
+22	m	_	DET	_	_	23	det	_	GermanLemma=das
+23	Hochdeitschn	_	NOUN	_	_	29	obl	_	GermanLemma=Hochdeutsch
+24	und	_	CCONJ	_	_	27	cc	_	GermanLemma=und
+25-26	im	_	_	_	_	_	_	_	_
+25	i	_	ADP	_	_	27	case	_	GermanLemma=in
+26	m	_	DET	_	_	27	det	_	GermanLemma=das
+27	Boarischn	_	NOUN	_	_	23	conj	_	GermanLemma=Bairisch
+28	ned	_	PART	_	_	29	advmod	_	GermanLemma=nicht
+29	sogt	_	VERB	_	_	18	acl:relcl	_	GermanLemma=sagen|SpaceAfter=No
+30	.	_	PUNCT	_	_	18	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_5
+# text = I glaab ned.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:Bsundaheitn_im_boarischn_Vokabular
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	glaab	_	VERB	_	_	0	root	_	GermanLemma=glauben
+3	ned	_	PART	_	_	2	advmod	_	GermanLemma=nicht|SpaceAfter=No
+4	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Minga_33
+# text = Wei z'Minga nua no a bissl boarisch gredd wead, sogns do moast Münchna und Münchnarin.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	Wei	_	SCONJ	_	_	9	mark	_	GermanLemma=weil
+2	z'	_	ADP	_	_	3	case	_	GermanLemma=zu|SpaceAfter=No
+3	Minga	_	PROPN	_	_	9	obl	_	GermanLemma=München
+4	nua	_	ADV	_	_	9	advmod	_	GermanLemma=nur
+5	no	_	ADV	_	_	9	advmod	_	GermanLemma=noch
+6	a	_	DET	_	_	9	advmod	_	GermanLemma=ein
+7	bissl	_	ADJ	_	_	6	fixed	_	GermanLemma=bisschen
+8	boarisch	_	NOUN	_	_	9	nsubj	_	GermanLemma=bairisch
+9	gredd	_	VERB	_	_	12	advcl	_	GermanLemma=reden
+10	wead	_	AUX	_	_	9	aux	_	GermanLemma=werden|SpaceAfter=No
+11	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
+12	sogns	_	VERB	_	_	0	root	_	GermanLemma=sagen
+13	do	_	ADV	_	_	12	advmod	_	GermanLemma=da
+14	moast	_	ADV	_	_	12	advmod	_	GermanLemma=meistens
+15	Münchna	_	NOUN	_	_	12	obj	_	GermanLemma=Münchner
+16	und	_	CCONJ	_	_	17	cc	_	GermanLemma=und
+17	Münchnarin	_	NOUN	_	_	15	conj	_	GermanLemma=Münchnerin|SpaceAfter=No
+18	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Boarische-Umschrift_12
+# text = Hob ma n konvertiern kenna (iss doch guat, wann ma se jedn Blädsinn aufhebt) und sich jetzt koane Fragezeichn mehr.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
+1	Hob	_	AUX	_	_	4	aux	_	GermanLemma=haben
+2	ma	_	PRON	_	_	4	obl:arg	_	GermanLemma=ich
+3	n	_	PRON	_	_	4	obj	_	GermanLemma=er
+4	konvertiern	_	VERB	_	_	0	root	_	GermanLemma=konvertieren
+5	kenna	_	AUX	_	_	4	aux	_	GermanLemma=können
+6	(	_	PUNCT	_	_	10	punct	_	GermanLemma=(|SpaceAfter=No
+7	is	_	AUX	_	_	10	cop	_	GermanLemma=sein|SpaceAfter=No
+8	s	_	PRON	_	_	10	expl	_	GermanLemma=es
+9	doch	_	ADV	_	_	10	advmod	_	GermanLemma=doch
+10	guat	_	ADJ	_	_	4	parataxis	_	GermanLemma=gut|SpaceAfter=No
+11	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+12	wann	_	SCONJ	_	_	17	mark	_	GermanLemma=wenn
+13	ma	_	PRON	_	_	17	nsubj	_	GermanLemma=man
+14	se	_	PRON	_	_	17	expl:pv	_	GermanLemma=sich
+15	jedn	_	DET	_	_	16	det	_	GermanLemma=jeden
+16	Blädsinn	_	NOUN	_	_	17	obj	_	GermanLemma=Blödsinn
+17	aufhebt	_	VERB	_	_	10	advcl	_	GermanLemma=aufheben|SpaceAfter=No
+18	)	_	PUNCT	_	_	10	punct	_	GermanLemma=)
+19	und	_	CCONJ	_	_	20	cc	_	GermanLemma=und
+20	sich	_	VERB	_	_	4	conj	_	GermanLemma=sehen
+21	jetzt	_	ADV	_	_	20	advmod	_	GermanLemma=jetzt
+22	koane	_	DET	_	_	23	det	_	GermanLemma=kein
+23	Fragezeichn	_	NOUN	_	_	20	obj	_	GermanLemma=Fragezeichen
+24	mehr	_	ADV	_	_	20	advmod	_	GermanLemma=mehr|SpaceAfter=No
+25	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = cairo_4
+# parallel_id = cairo/4
+# text = Mogst geh?
+# text_en = Do you want to go?
+# genre = grammar-examples
+# dialect_group = central
+# location = Upper Bavaria
+1	Mogst	_	AUX	_	_	2	aux	_	GermanLemma=mögen
+2	geh	_	VERB	_	_	0	root	_	GermanLemma=gehen|SpaceAfter=No
+3	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
+
+# sent_id = wikisample_Boarische-Grammatik-Konjunktiona_78
+# text = I ho koan Hunger, wal i ho schou wos gessn.
+# genre = grammar-examples
+# dialect_group = north
+# location = Western North Bavarian area
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Konjunktiona)
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	ho	_	VERB	_	_	0	root	_	GermanLemma=haben
+3	koan	_	DET	_	_	4	det	_	GermanLemma=kein
+4	Hunger	_	NOUN	_	_	2	obj	_	GermanLemma=Hunger|SpaceAfter=No
+5	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+6	wal	_	SCONJ	_	_	11	mark	_	GermanLemma=weil
+7	i	_	PRON	_	_	11	nsubj	_	GermanLemma=ich
+8	ho	_	AUX	_	_	11	aux	_	GermanLemma=haben
+9	schou	_	ADV	_	_	11	advmod	_	GermanLemma=schon
+10	wos	_	PRON	_	_	11	obj	_	GermanLemma=was
+11	gessn	_	VERB	_	_	2	advcl	_	GermanLemma=essen|SpaceAfter=No
+12	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_83
+# text = weck mi moing doch ned
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	weck	_	VERB	_	_	0	root	_	GermanLemma=wecken
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
+3	moing	_	ADV	_	_	1	advmod	_	GermanLemma=morgen
+4	doch	_	ADV	_	_	5	advmod	_	GermanLemma=doch
+5	ned	_	PART	_	_	1	advmod	_	GermanLemma=nicht
+
+# sent_id = wiki_Fiisch_4
+# text = Fiisch san owa koa natialiche Eihheit.
+# dialect_group = unk
+# location = unk
+# genre = wiki
+# source = https://bar.wikipedia.org/wiki/Fiisch
+1	Fiisch	_	NOUN	_	_	6	nsubj	_	GermanLemma=Fisch
+2	san	_	AUX	_	_	6	cop	_	GermanLemma=sein
+3	owa	_	ADV	_	_	6	advmod	_	GermanLemma=aber
+4	koa	_	DET	_	_	6	det	_	GermanLemma=keine
+5	natialiche	_	ADJ	_	_	6	amod	_	GermanLemma=natürlich
+6	Eihheit	_	NOUN	_	_	0	root	_	GermanLemma=Einheit|SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_69
+# text = Wann und wo laffd „Indiana Jones“?
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Wann	_	ADV	_	_	4	advmod	_	GermanLemma=wann
+2	und	_	CCONJ	_	_	3	cc	_	GermanLemma=und
+3	wo	_	ADV	_	_	1	conj	_	GermanLemma=wo
+4	laffd	_	VERB	_	_	0	root	_	GermanLemma=laufen
+5	„	_	PUNCT	_	_	6	punct	_	GermanLemma=„|SpaceAfter=No
+6	Indiana	_	PROPN	_	_	4	nsubj	_	GermanLemma=Indiana
+7	Jones	_	PROPN	_	_	6	flat	_	GermanLemma=Jones|SpaceAfter=No
+8	“	_	PUNCT	_	_	6	punct	_	GermanLemma=“|SpaceAfter=No
+9	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
+
+# sent_id = wiki_Der-Zettelträger-Papp_13
+# text = De erschte Fassung håt da Nestroy fia Zwölf Mädchen in Uniform g'schrieb'n, de zweite fia gymnastische G'spassettl'n und de dritte fia de daumois unhaamlich beliebt'n Tierstückl'n.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Der_Zetteltr%C3%A4ger_Papp
+1	De	_	DET	_	_	3	det	_	GermanLemma=die
+2	erschte	_	ADJ	_	_	3	amod	_	GermanLemma=erste
+3	Fassung	_	NOUN	_	_	12	obj	_	GermanLemma=Fassung
+4	håt	_	AUX	_	_	12	aux	_	GermanLemma=haben
+5	da	_	DET	_	_	6	det	_	GermanLemma=der
+6	Nestroy	_	PROPN	_	_	12	nsubj	_	GermanLemma=Nestroy
+7	fia	_	ADP	_	_	8	case	_	GermanLemma=für
+8	Zwölf	_	NUM	_	_	12	obl	_	GermanLemma=Zwölf
+9	Mädchen	_	NOUN	_	_	8	flat	_	GermanLemma=Mädchen
+10	in	_	ADP	_	_	8	flat	_	GermanLemma=in
+11	Uniform	_	NOUN	_	_	8	flat	_	GermanLemma=Uniform
+12	g'schrieb'n	_	VERB	_	_	0	root	_	GermanLemma=schreiben|SpaceAfter=No
+13	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
+14	de	_	DET	_	_	15	det	_	GermanLemma=die
+15	zweite	_	ADJ	_	_	12	conj	_	GermanLemma=zweite
+16	fia	_	ADP	_	_	17	case	_	GermanLemma=für
+17	gymnastische	_	ADJ	_	_	15	orphan	_	GermanLemma=gymnastisch
+18	G'spassettl'n	_	NOUN	_	_	17	flat	_	GermanLemma=Gaudi/Scherz
+19	und	_	CCONJ	_	_	21	cc	_	GermanLemma=und
+20	de	_	DET	_	_	21	det	_	GermanLemma=die
+21	dritte	_	ADJ	_	_	12	conj	_	GermanLemma=dritte
+22	fia	_	ADP	_	_	27	case	_	GermanLemma=für
+23	de	_	DET	_	_	27	det	_	GermanLemma=die
+24	daumois	_	ADV	_	_	26	advmod	_	GermanLemma=damals
+25	unhaamlich	_	ADJ	_	_	26	advmod	_	GermanLemma=unheimlich
+26	beliebt'n	_	ADJ	_	_	27	amod	_	GermanLemma=beliebt
+27	Tierstückl'n	_	NOUN	_	_	21	orphan	_	GermanLemma=Tierstück|SpaceAfter=No
+28	.	_	PUNCT	_	_	12	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5623891-2
+# text = „Dir passt a nia wos, du oider Grantscherm.”
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5623891
+# author = brauchinet
+1	„	_	PUNCT	_	_	3	punct	_	GermanLemma=„|SpaceAfter=No
+2	Dir	_	PRON	_	_	3	obl:arg	_	GermanLemma=du
+3	passt	_	VERB	_	_	0	root	_	GermanLemma=passen
+4	a	_	ADV	_	_	3	advmod	_	GermanLemma=auch
+5	nia	_	ADV	_	_	3	advmod	_	GermanLemma=nie
+6	wos	_	PRON	_	_	3	nsubj	_	GermanLemma=was|SpaceAfter=No
+7	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
+8	du	_	PRON	_	_	2	vocative	_	GermanLemma=du
+9	oider	_	ADJ	_	_	10	amod	_	GermanLemma=alt
+10	Grantscherm	_	NOUN	_	_	8	appos	_	GermanLemma=Griesgram|SpaceAfter=No
+11	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.|SpaceAfter=No
+12	”	_	PUNCT	_	_	3	punct	_	GermanLemma=”
+
+# sent_id = wikitalk_Dischkrian:Ödenburg_8
+# text = I moa es wa da sicha a ned Recht waun ma in Mohammed sein Nam vadodln dätn.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:%C3%96denburg
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	moa	_	VERB	_	_	0	root	_	GermanLemma=meinen
+3	es	_	PRON	_	_	9	expl	_	GermanLemma=es
+4	wa	_	AUX	_	_	9	cop	_	GermanLemma=sein
+5	da	_	PRON	_	_	9	obl:arg	_	GermanLemma=du
+6	sicha	_	ADJ	_	_	9	advmod	_	GermanLemma=sicher
+7	a	_	ADV	_	_	9	advmod	_	GermanLemma=auch
+8	ned	_	PART	_	_	9	advmod	_	GermanLemma=nicht
+9	Recht	_	NOUN	_	_	2	ccomp	_	GermanLemma=Recht
+10	waun	_	SCONJ	_	_	16	mark	_	GermanLemma=wenn
+11	ma	_	PRON	_	_	16	nsubj	_	GermanLemma=wir
+12	in	_	DET	_	_	13	det	_	GermanLemma=der
+13	Mohammed	_	PROPN	_	_	15	nmod	_	GermanLemma=Mohammed
+14	sein	_	DET	_	_	15	det:poss	_	GermanLemma=sein
+15	Nam	_	NOUN	_	_	16	obj	_	GermanLemma=Name
+16	vadodln	_	VERB	_	_	9	advcl	_	GermanLemma=verdaddeln/verunstalten
+17	dätn	_	AUX	_	_	16	aux	_	GermanLemma=tun|SpaceAfter=No
+18	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Walsch_7
+# text = Damit sein schon die Keltn va die oltn Germanen bezeichnet gwordn.
+# genre = wiki
+# dialect_group = south
+# location = South Tyrol
+# source = https://bar.wikipedia.org/wiki/Walsch
+1	Damit	_	ADV	_	_	10	advmod	_	GermanLemma=damit
+2	sein	_	AUX	_	_	10	aux	_	GermanLemma=sein
+3	schon	_	ADV	_	_	10	advmod	_	GermanLemma=schon
+4	die	_	DET	_	_	5	det	_	GermanLemma=der
+5	Keltn	_	NOUN	_	_	10	nsubj:pass	_	GermanLemma=Kelte
+6	va	_	ADP	_	_	9	case	_	GermanLemma=von
+7	die	_	DET	_	_	9	det	_	GermanLemma=der
+8	oltn	_	ADJ	_	_	9	amod	_	GermanLemma=alt
+9	Germanen	_	NOUN	_	_	10	obl:agent	_	GermanLemma=Germane
+10	bezeichnet	_	VERB	_	_	0	root	_	GermanLemma=bezeichnen
+11	gwordn	_	AUX	_	_	10	aux:pass	_	GermanLemma=werden|SpaceAfter=No
+12	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
+
+# sent_id = wiki_Dazzlwuam_12
+# text = Es kintad duachaus sei, dass fria in de Oipm soichane Reptilien glebt haum, de filaicht eascht in jingana Zeid ausgschdoam san.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Dazzlwuam
+1	Es	_	PRON	_	_	3	expl	_	GermanLemma=es
+2	kintad	_	AUX	_	_	3	aux	_	GermanLemma=können
+3	duachaus	_	ADV	_	_	0	root	_	GermanLemma=durchaus
+4	sei	_	AUX	_	_	3	cop	_	GermanLemma=sein|SpaceAfter=No
+5	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
+6	dass	_	SCONJ	_	_	13	mark	_	GermanLemma=dass
+7	fria	_	ADJ	_	_	13	advmod	_	GermanLemma=früher
+8	in	_	ADP	_	_	10	case	_	GermanLemma=in
+9	de	_	DET	_	_	10	det	_	GermanLemma=die
+10	Oipm	_	PROPN	_	_	13	obl	_	GermanLemma=Alpen
+11	soichane	_	DET	_	_	12	det	_	GermanLemma=solcher
+12	Reptilien	_	NOUN	_	_	13	nsubj	_	GermanLemma=Reptil
+13	glebt	_	VERB	_	_	3	ccomp	_	GermanLemma=leben
+14	haum	_	AUX	_	_	13	aux	_	GermanLemma=haben|SpaceAfter=No
+15	,	_	PUNCT	_	_	22	punct	_	GermanLemma=,
+16	de	_	PRON	_	_	22	nsubj	_	GermanLemma=das
+17	filaicht	_	ADV	_	_	22	advmod	_	GermanLemma=vielleicht
+18	eascht	_	ADV	_	_	22	advmod	_	GermanLemma=erst
+19	in	_	ADP	_	_	21	case	_	GermanLemma=in
+20	jingana	_	ADJ	_	_	21	amod	_	GermanLemma=jung
+21	Zeid	_	NOUN	_	_	22	obl	_	GermanLemma=Zeit
+22	ausgschdoam	_	VERB	_	_	13	advcl	_	GermanLemma=aussterben
+23	san	_	AUX	_	_	22	aux	_	GermanLemma=sein|SpaceAfter=No
+24	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+
+# sent_id = wiki_Kafää_4
+# text = Es gibt sogoa eigane Lokäu, de Kafäähaisa, wo hauptsächlich Kafää drunkn wiad.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
+1	Es	_	PRON	_	_	2	expl	_	GermanLemma=es
+2	gibt	_	VERB	_	_	0	root	_	GermanLemma=geben
+3	sogoa	_	ADV	_	_	2	advmod	_	GermanLemma=sogar
+4	eigane	_	ADJ	_	_	5	amod	_	GermanLemma=eigen
+5	Lokäu	_	NOUN	_	_	2	obj	_	GermanLemma=Lokal|SpaceAfter=No
+6	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
+7	de	_	DET	_	_	8	det	_	GermanLemma=die
+8	Kafäähaisa	_	NOUN	_	_	5	appos	_	GermanLemma=Kaffeehaus|SpaceAfter=No
+9	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
+10	wo	_	ADV	_	_	13	advmod	_	GermanLemma=wo
+11	hauptsächlich	_	ADJ	_	_	13	advmod	_	GermanLemma=hauptsächlich
+12	Kafää	_	NOUN	_	_	13	nsubj:pass	_	GermanLemma=Kaffee
+13	drunkn	_	VERB	_	_	5	acl	_	GermanLemma=trinken
+14	wiad	_	AUX	_	_	13	aux:pass	_	GermanLemma=werden|SpaceAfter=No
+15	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_6112494-1
+# text = Die Oamut is gwiss des Schrecklichste auf da Wöd.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/6112494
+# author = brauchinet
+1	Die	_	DET	_	_	2	det	_	GermanLemma=die
+2	Oamut	_	NOUN	_	_	6	nsubj	_	GermanLemma=Armut
+3	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
+4	gwiss	_	ADV	_	_	6	advmod	_	GermanLemma=gewiss
+5	des	_	DET	_	_	6	det	_	GermanLemma=das
+6	Schrecklichste	_	NOUN	_	_	0	root	_	GermanLemma=Schrecklichste
+7	auf	_	ADP	_	_	9	case	_	GermanLemma=auf
+8	da	_	DET	_	_	9	det	_	GermanLemma=der
+9	Wöd	_	NOUN	_	_	6	obl	_	GermanLemma=Welt|SpaceAfter=No
+10	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = wiki_Kafää_19
+# text = In Kairo is des Drangl um 1532 nochweislich scho do gwesn.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
+1	In	_	ADP	_	_	2	case	_	GermanLemma=in
+2	Kairo	_	PROPN	_	_	11	obl	_	GermanLemma=Kairo
+3	is	_	AUX	_	_	11	aux	_	GermanLemma=sein
+4	des	_	DET	_	_	5	det	_	GermanLemma=das
+5	Drangl	_	NOUN	_	_	11	nsubj	_	GermanLemma=Getränk
+6	um	_	ADP	_	_	7	case	_	GermanLemma=um
+7	1532	_	NUM	_	_	11	obl	_	GermanLemma=1532
+8	nochweislich	_	ADJ	_	_	11	advmod	_	GermanLemma=nachweislich
+9	scho	_	ADV	_	_	11	advmod	_	GermanLemma=schon
+10	do	_	ADV	_	_	11	advmod	_	GermanLemma=da
+11	gwesn	_	VERB	_	_	0	root	_	GermanLemma=sein|SpaceAfter=No
+12	.	_	PUNCT	_	_	11	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_74
+# text = Werds heid sonnig?
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Werd	_	VERB	_	_	0	root	_	GermanLemma=werden|SpaceAfter=No
+2	s	_	PRON	_	_	1	expl	_	GermanLemma=es
+3	heid	_	ADV	_	_	1	advmod	_	GermanLemma=heute
+4	sonnig	_	ADJ	_	_	1	xcomp	_	GermanLemma=sonnig|SpaceAfter=No
+5	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
+
+# sent_id = tatoeba_5184415
+# text = I waaß ned, ob's kumma is oder ned.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5184415
+# author = brauchinet
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	waaß	_	VERB	_	_	0	root	_	GermanLemma=wissen
+3	ned	_	PART	_	_	2	advmod	_	GermanLemma=nicht|SpaceAfter=No
+4	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+5	ob	_	SCONJ	_	_	7	mark	_	GermanLemma=ob|SpaceAfter=No
+6	's	_	PRON	_	_	7	nsubj	_	GermanLemma=sie/es
+7	kumma	_	VERB	_	_	2	ccomp	_	GermanLemma=kommen
+8	is	_	AUX	_	_	7	aux	_	GermanLemma=sein
+9	oder	_	CCONJ	_	_	10	cc	_	GermanLemma=oder
+10	ned	_	PART	_	_	7	advmod	_	GermanLemma=nicht|SpaceAfter=No
+11	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_8814303
+# text = Bei dir geht's imma sche pomali, gö?
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/8814303
+# author = brauchinet
+1	Bei	_	ADP	_	_	2	case	_	GermanLemma=bei
+2	dir	_	PRON	_	_	3	obl	_	GermanLemma=du
+3	geht	_	VERB	_	_	0	root	_	GermanLemma=gehen|SpaceAfter=No
+4	's	_	PRON	_	_	3	expl	_	GermanLemma=es
+5	imma	_	ADV	_	_	3	advmod	_	GermanLemma=immer
+6	sche	_	ADV	_	_	7	advmod	_	GermanLemma=schön
+7	pomali	_	ADJ	_	_	3	advmod	_	GermanLemma=langsam|SpaceAfter=No
+8	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
+9	gö	_	INTJ	_	_	3	discourse	_	GermanLemma=gell|SpaceAfter=No
+10	?	_	PUNCT	_	_	3	punct	_	GermanLemma=?
+
+# sent_id = cairo_15
+# parallel_id = cairo/15
+# text = Er hod a Auto kauft, aber sei Bruada nur a Radl.
+# text_en = He bought a car but his brother just a bike.
+# genre = grammar-examples
+# dialect_group = central
+# location = Upper Bavaria
+1	Er	_	PRON	_	_	5	nsubj	_	GermanLemma=er
+2	hod	_	AUX	_	_	5	aux	_	GermanLemma=haben
+3	a	_	DET	_	_	4	det	_	GermanLemma=ein
+4	Auto	_	NOUN	_	_	5	obj	_	GermanLemma=Auto
+5	kauft	_	VERB	_	_	0	root	_	GermanLemma=kaufen|SpaceAfter=No
+6	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
+7	aber	_	CCONJ	_	_	9	cc	_	GermanLemma=aber
+8	sei	_	DET	_	_	9	det:poss	_	GermanLemma=sein
+9	Bruada	_	NOUN	_	_	5	conj	_	GermanLemma=Bruder
+10	nur	_	ADV	_	_	9	advmod	_	GermanLemma=nur
+11	a	_	DET	_	_	12	det	_	GermanLemma=ein
+12	Radl	_	NOUN	_	_	9	orphan	_	GermanLemma=Rad|SpaceAfter=No
+13	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_6905705
+# text = Wöche Liadln kaunnst am bestn singa?
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/6905705
+# author = brauchinet
+1	Wöche	_	DET	_	_	2	det	_	GermanLemma=welches
+2	Liadln	_	NOUN	_	_	6	obj	_	GermanLemma=Lied
+3	kaunnst	_	AUX	_	_	6	aux	_	GermanLemma=können
+4	am	_	ADP	_	_	5	case	_	GermanLemma=am
+5	bestn	_	ADV	_	_	6	advmod	_	GermanLemma=besten
+6	singa	_	VERB	_	_	0	root	_	GermanLemma=singen|SpaceAfter=No
+7	?	_	PUNCT	_	_	6	punct	_	GermanLemma=?
+
+# sent_id = wiki_Studentnfuada_10
+# text = No a praktische Eingschoft vo dem Fuada is, doss mas wärndm Läsn gloaweis einefuadan ko.
+# genre = wiki
+# dialect_group = southcentral
+# location = Bad Reichenhall
+# source = https://bar.wikipedia.org/wiki/Studentnfuada
+1	No	_	ADV	_	_	2	advmod	_	GermanLemma=noch
+2	a	_	DET	_	_	4	det	_	GermanLemma=eine
+3	praktische	_	ADJ	_	_	4	amod	_	GermanLemma=praktisch
+4	Eingschoft	_	NOUN	_	_	0	root	_	GermanLemma=Eigenschaft
+5	vo	_	ADP	_	_	7	case	_	GermanLemma=von
+6	dem	_	DET	_	_	7	det	_	GermanLemma=das
+7	Fuada	_	NOUN	_	_	4	nmod	_	GermanLemma=Futter
+8	is	_	AUX	_	_	4	cop	_	GermanLemma=sein|SpaceAfter=No
+9	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+10	doss	_	SCONJ	_	_	17	mark	_	GermanLemma=dass
+11	ma	_	PRON	_	_	17	nsubj	_	GermanLemma=man|SpaceAfter=No
+12	s	_	PRON	_	_	17	obj	_	GermanLemma=es
+13-14	wärndm	_	_	_	_	_	_	_	_
+13	wärnd	_	ADP	_	_	15	case	_	GermanLemma=während
+14	m	_	DET	_	_	15	det	_	GermanLemma=das
+15	Läsn	_	NOUN	_	_	17	obl	_	GermanLemma=Lesen
+16	gloaweis	_	ADJ	_	_	17	advmod	_	GermanLemma=kleinweise
+17	einefuadan	_	VERB	_	_	4	ccomp	_	GermanLemma=reinfuttern
+18	ko	_	AUX	_	_	17	aux	_	GermanLemma=können|SpaceAfter=No
+19	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wiki_Jazz-Rap_8
+# text = A kommerziell erfolgreiche Jazz-Rap-Kåpell wårn z.B.Gang Starr (die hom an Jazz-Rap a teiweis afundn), The Roots oda A Tribe Called Quest.
+# genre = wiki
+# dialect_group = south
+# location = South Tyrol
+# source = https://bar.wikipedia.org/wiki/Jazz-Rap
+1	A	_	DET	_	_	4	det	_	GermanLemma=eine
+2	kommerziell	_	ADJ	_	_	3	advmod	_	GermanLemma=kommerziell
+3	erfolgreiche	_	ADJ	_	_	4	amod	_	GermanLemma=erfolgreich
+4	Jazz-Rap-Kåpell	_	NOUN	_	_	7	nsubj	_	GermanLemma=Jazz-Rapp-Kapelle
+5	wårn	_	AUX	_	_	7	cop	_	GermanLemma=sein
+6	z.	_	ADP	_	_	7	case	_	GermanLemma=zum|SpaceAfter=No
+7	B.	_	NOUN	_	_	0	root	_	GermanLemma=Beispiel|SpaceAfter=No
+8	Gang	_	PROPN	_	_	7	appos	_	GermanLemma=Gang
+9	Starr	_	PROPN	_	_	8	flat	_	GermanLemma=Starr
+10	(	_	PUNCT	_	_	17	punct	_	GermanLemma=(|SpaceAfter=No
+11	die	_	PRON	_	_	17	nsubj	_	GermanLemma=die
+12	hom	_	AUX	_	_	17	aux	_	GermanLemma=haben
+13	an	_	DET	_	_	14	det	_	GermanLemma=der
+14	Jazz-Rap	_	PROPN	_	_	17	obl	_	GermanLemma=Jazz-Rap
+15	a	_	ADV	_	_	17	advmod	_	GermanLemma=auch
+16	teiweis	_	ADV	_	_	17	advmod	_	GermanLemma=teilweise
+17	afundn	_	VERB	_	_	8	acl	_	GermanLemma=erfinden|SpaceAfter=No
+18	)	_	PUNCT	_	_	17	punct	_	GermanLemma=)|SpaceAfter=No
+19	,	_	PUNCT	_	_	20	punct	_	GermanLemma=,
+20	The	_	PROPN	_	_	8	conj	_	GermanLemma=The
+21	Roots	_	PROPN	_	_	20	flat	_	GermanLemma=Roots
+22	oda	_	CCONJ	_	_	23	cc	_	GermanLemma=oder
+23	A	_	PROPN	_	_	8	conj	_	GermanLemma=A
+24	Tribe	_	PROPN	_	_	23	flat	_	GermanLemma=Tribe
+25	Called	_	PROPN	_	_	23	flat	_	GermanLemma=Called
+26	Quest	_	PROPN	_	_	23	flat	_	GermanLemma=Quest|SpaceAfter=No
+27	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5166957
+# text = Waun i des wissat!
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5166957
+# author = brauchinet
+1	Waun	_	SCONJ	_	_	4	mark	_	GermanLemma=wenn
+2	i	_	PRON	_	_	4	nsubj	_	GermanLemma=ich
+3	des	_	DET	_	_	4	obj	_	GermanLemma=das
+4	wissat	_	VERB	_	_	0	root	_	GermanLemma=wissen|SpaceAfter=No
+5	!	_	PUNCT	_	_	4	punct	_	GermanLemma=!
+
+# sent_id = xsid_de-st_valid_24
+# text = I brauch an Erinnerung um Lisa ozuholn
+# text_en = i need a reminder to pick Lisa up
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	brauch	_	VERB	_	_	0	root	_	GermanLemma=brauchen
+3	an	_	DET	_	_	4	det	_	GermanLemma=die
+4	Erinnerung	_	NOUN	_	_	2	obj	_	GermanLemma=Erinnerung
+5	um	_	ADP	_	_	6	case	_	GermanLemma=um
+6	Lisa	_	PROPN	_	_	7	obj	_	GermanLemma=Lisa
+7	ozuholn	_	VERB	_	_	2	xcomp	_	GermanLemma=abholen
+
+# sent_id = wiki_Minga_37
+# text = S'guit bsundas fia d'Stodtei, wo in d'30ga Joar z'Minga kema san.
+# genre = wiki
+# dialect_group = central
+# location = Munich
+# source = https://bar.wikipedia.org/wiki/Minga
+1	S'	_	DET	_	_	2	nsubj	_	GermanLemma=das|SpaceAfter=No
+2	guit	_	VERB	_	_	0	root	_	GermanLemma=gelten
+3	bsundas	_	ADV	_	_	2	advmod	_	GermanLemma=besonders
+4	fia	_	ADP	_	_	6	case	_	GermanLemma=für
+5	d'	_	DET	_	_	6	det	_	GermanLemma=der|SpaceAfter=No
+6	Stodtei	_	NOUN	_	_	2	obl	_	GermanLemma=Stadtteil|SpaceAfter=No
+7	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
+8	wo	_	SCONJ	_	_	15	mark	_	GermanLemma=wo
+9	in	_	ADP	_	_	12	case	_	GermanLemma=in
+10	d'	_	DET	_	_	12	det	_	GermanLemma=das|SpaceAfter=No
+11	30ga	_	ADJ	_	_	12	amod	_	GermanLemma=30er
+12	Joar	_	NOUN	_	_	15	obl	_	GermanLemma=Jahr
+13	z'	_	ADP	_	_	14	case	_	GermanLemma=zu|SpaceAfter=No
+14	Minga	_	PROPN	_	_	15	obl	_	GermanLemma=München
+15	kema	_	VERB	_	_	6	acl:relcl	_	GermanLemma=kommen
+16	san	_	AUX	_	_	15	aux	_	GermanLemma=sein|SpaceAfter=No
+17	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Haferltarock_39
+# text = Dea wej Trumpf ogsagt hod, gwingt, wej gsagt, mid 61 Aung in seine Stich, wenn ned mea Aung ogsagt woan san.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Dea	_	PRON	_	_	4	nsubj	_	GermanLemma=der
+2	wej	_	SCONJ	_	_	4	mark	_	GermanLemma=wo
+3	Trumpf	_	NOUN	_	_	4	obj	_	GermanLemma=Trumpf
+4	ogsagt	_	VERB	_	_	7	csubj	_	GermanLemma=ansagen
+5	hod	_	AUX	_	_	4	aux	_	GermanLemma=haben|SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	GermanLemma=,
+7	gwingt	_	VERB	_	_	0	root	_	GermanLemma=gewinnen|SpaceAfter=No
+8	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
+9	wej	_	ADV	_	_	10	advmod	_	GermanLemma=wie
+10	gsagt	_	VERB	_	_	7	parataxis	_	GermanLemma=sagen|SpaceAfter=No
+11	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
+12	mid	_	ADP	_	_	14	case	_	GermanLemma=mit
+13	61	_	NUM	_	_	14	nummod	_	GermanLemma=61
+14	Aung	_	NOUN	_	_	7	obl	_	GermanLemma=Auge
+15	in	_	ADP	_	_	17	case	_	GermanLemma=in
+16	seine	_	DET	_	_	17	det:poss	_	GermanLemma=sein
+17	Stich	_	NOUN	_	_	7	obl	_	GermanLemma=Stich|SpaceAfter=No
+18	,	_	PUNCT	_	_	23	punct	_	GermanLemma=,
+19	wenn	_	SCONJ	_	_	23	mark	_	GermanLemma=wenn
+20	ned	_	PART	_	_	23	advmod	_	GermanLemma=nicht
+21	mea	_	DET	_	_	22	det	_	GermanLemma=mehr
+22	Aung	_	NOUN	_	_	23	nsubj:pass	_	GermanLemma=Auge
+23	ogsagt	_	VERB	_	_	7	advcl	_	GermanLemma=ansagen
+24	woan	_	AUX	_	_	23	aux:pass	_	GermanLemma=werden
+25	san	_	AUX	_	_	23	aux	_	GermanLemma=sein|SpaceAfter=No
+26	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Boarische-Umschrift_21
+# text = Ned ummasunscht hoasst Microsoft iabasetzt jò Winzigwoach - wei's Hirn davo zerscht gschrumpft und dann woachkocht werd.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Wikipedia_Dischkrian:Boarische_Umschrift
+1	Ned	_	PART	_	_	2	advmod	_	GermanLemma=nicht
+2	ummasunscht	_	ADV	_	_	3	advmod	_	GermanLemma=umsonst
+3	hoasst	_	VERB	_	_	0	root	_	GermanLemma=heißen
+4	Microsoft	_	PROPN	_	_	3	nsubj	_	GermanLemma=Microsoft
+5	iabasetzt	_	ADJ	_	_	3	advmod	_	GermanLemma=übersetzt
+6	jò	_	ADV	_	_	3	advmod	_	GermanLemma=ja
+7	Winzigwoach	_	NOUN	_	_	3	obj	_	GermanLemma=Winzigweich
+8	-	_	PUNCT	_	_	14	punct	_	GermanLemma=-
+9	wei	_	SCONJ	_	_	14	mark	_	GermanLemma=weil|SpaceAfter=No
+10	's	_	DET	_	_	11	det	_	GermanLemma=das
+11	Hirn	_	NOUN	_	_	14	nsubj:pass	_	GermanLemma=Hirn
+12	davo	_	ADV	_	_	14	advmod	_	GermanLemma=davon
+13	zerscht	_	ADV	_	_	14	advmod	_	GermanLemma=zuerst
+14	gschrumpft	_	VERB	_	_	3	advcl	_	GermanLemma=schrumpfen
+15	und	_	CCONJ	_	_	17	cc	_	GermanLemma=und
+16	dann	_	ADV	_	_	17	advmod	_	GermanLemma=dann
+17	woachkocht	_	VERB	_	_	14	conj	_	GermanLemma=weichkochen
+18	werd	_	AUX	_	_	14	aux:pass	_	GermanLemma=werden|SpaceAfter=No
+19	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_99
+# text = Stei an Alarm für alle 30 Minutn
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Stei	_	VERB	_	_	0	root	_	GermanLemma=stellen
+2	an	_	DET	_	_	3	det	_	GermanLemma=der
+3	Alarm	_	NOUN	_	_	1	obj	_	GermanLemma=Alarm
+4	für	_	ADP	_	_	7	case	_	GermanLemma=für
+5	alle	_	DET	_	_	7	det	_	GermanLemma=alle
+6	30	_	NUM	_	_	7	nummod	_	GermanLemma=30
+7	Minutn	_	NOUN	_	_	3	nmod	_	GermanLemma=Minute
+
+# sent_id = wikitalk_Dischkrian:Bsundaheitn-im-boarischn-Vokabular_4
+# text = Wui ma sogn, schaugts her, do san neie eibirgate Werta im Boarischn und heit sogt im Boairischn Frikadelle, Brötchen, hochkommen, Tschüß oda "von" statt "davon" ...?
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:Bsundaheitn_im_boarischn_Vokabular
+1	Wui	_	SCONJ	_	_	3	mark	_	GermanLemma=wollen
+2	ma	_	PRON	_	_	3	nsubj	_	GermanLemma=man
+3	sogn	_	VERB	_	_	0	root	_	GermanLemma=sagen|SpaceAfter=No
+4	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
+5	schaugts	_	VERB	_	_	3	parataxis	_	GermanLemma=schauen
+6	her	_	ADP	_	_	5	compound:prt	_	GermanLemma=her|SpaceAfter=No
+7	,	_	PUNCT	_	_	12	punct	_	GermanLemma=,
+8	do	_	ADV	_	_	12	advmod	_	GermanLemma=da
+9	san	_	AUX	_	_	12	cop	_	GermanLemma=sein
+10	neie	_	ADJ	_	_	12	amod	_	GermanLemma=neu
+11	eibirgate	_	ADJ	_	_	12	amod	_	GermanLemma=eingebürgert
+12	Werta	_	NOUN	_	_	3	parataxis	_	GermanLemma=Wort
+13-14	im	_	_	_	_	_	_	_	_
+13	i	_	ADP	_	_	15	case	_	GermanLemma=in
+14	m	_	DET	_	_	15	det	_	GermanLemma=das
+15	Boarischn	_	NOUN	_	_	12	nmod	_	GermanLemma=Bairische
+16	und	_	CCONJ	_	_	18	cc	_	GermanLemma=und
+17	heit	_	ADV	_	_	18	advmod	_	GermanLemma=heute
+18	sogt	_	VERB	_	_	12	conj	_	GermanLemma=sagen
+19-20	im	_	_	_	_	_	_	_	_
+19	i	_	ADP	_	_	21	case	_	GermanLemma=in
+20	m	_	DET	_	_	21	det	_	GermanLemma=das
+21	Boairischn	_	NOUN	_	_	18	obl	_	GermanLemma=Bairische
+22	Frikadelle	_	NOUN	_	_	18	obj	_	GermanLemma=Frikadelle|SpaceAfter=No
+23	,	_	PUNCT	_	_	24	punct	_	GermanLemma=,
+24	Brötchen	_	NOUN	_	_	22	conj	_	GermanLemma=Brötchen|SpaceAfter=No
+25	,	_	PUNCT	_	_	26	punct	_	GermanLemma=,
+26	hochkommen	_	VERB	_	_	22	conj	_	GermanLemma=hochkommen|SpaceAfter=No
+27	,	_	PUNCT	_	_	28	punct	_	GermanLemma=,
+28	Tschüß	_	NOUN	_	_	22	conj	_	GermanLemma=Tschüß
+29	oda	_	CCONJ	_	_	31	cc	_	GermanLemma=oder
+30	"	_	PUNCT	_	_	31	punct	_	GermanLemma="|SpaceAfter=No
+31	von	_	ADP	_	_	22	conj	_	GermanLemma=von|SpaceAfter=No
+32	"	_	PUNCT	_	_	31	punct	_	GermanLemma="
+33	statt	_	CCONJ	_	_	35	cc	_	GermanLemma=statt
+34	"	_	PUNCT	_	_	35	punct	_	GermanLemma="|SpaceAfter=No
+35	davon	_	ADV	_	_	31	conj	_	GermanLemma=davon|SpaceAfter=No
+36	"	_	PUNCT	_	_	35	punct	_	GermanLemma="
+37	...	_	PUNCT	_	_	3	punct	_	GermanLemma=...|SpaceAfter=No
+38	?	_	PUNCT	_	_	3	punct	_	GermanLemma=?
+
+# sent_id = sid_de-ba_natural_313
+# text = Scheint in Mallorca grod Sunn?
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Scheint	_	VERB	_	_	0	root	_	GermanLemma=scheinen
+2	in	_	ADP	_	_	3	case	_	GermanLemma=in
+3	Mallorca	_	PROPN	_	_	1	obl	_	GermanLemma=Mallorca
+4	grod	_	ADV	_	_	1	advmod	_	GermanLemma=gerade
+5	Sunn	_	NOUN	_	_	1	nsubj	_	GermanLemma=Sonne|SpaceAfter=No
+6	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
+
+# sent_id = tatoeba_5167002
+# text = I hau's gwisst, dass i's schoff.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5167002
+# author = brauchinet
+1	I	_	PRON	_	_	4	nsubj	_	GermanLemma=ich
+2	hau	_	AUX	_	_	4	aux	_	GermanLemma=haben|SpaceAfter=No
+3	's	_	PRON	_	_	4	obj	_	GermanLemma=es
+4	gwisst	_	VERB	_	_	0	root	_	GermanLemma=wissen|SpaceAfter=No
+5	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
+6	dass	_	SCONJ	_	_	9	mark	_	GermanLemma=dass
+7	i	_	PRON	_	_	9	nsubj	_	GermanLemma=ich|SpaceAfter=No
+8	's	_	PRON	_	_	9	obj	_	GermanLemma=es
+9	schoff	_	VERB	_	_	4	dislocated	_	GermanLemma=schaffen|SpaceAfter=No
+10	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_94
+# text = Änder den Wecker um Simme auf achte.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Änder	_	VERB	_	_	0	root	_	GermanLemma=ändern
+2	den	_	DET	_	_	3	det	_	GermanLemma=der
+3	Wecker	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker
+4	um	_	ADP	_	_	5	case	_	GermanLemma=um
+5	Simme	_	NUM	_	_	3	nmod	_	GermanLemma=sieben
+6	auf	_	ADP	_	_	7	case	_	GermanLemma=auf
+7	achte	_	NUM	_	_	1	obl	_	GermanLemma=acht|SpaceAfter=No
+8	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_76
+# text = Wos san meine Erinnerungen füa moang?
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Wos	_	PRON	_	_	4	nsubj	_	GermanLemma=was
+2	san	_	AUX	_	_	4	cop	_	GermanLemma=sein
+3	meine	_	DET	_	_	4	det:poss	_	GermanLemma=meine
+4	Erinnerungen	_	NOUN	_	_	0	root	_	GermanLemma=Erinnerung
+5	füa	_	ADP	_	_	6	case	_	GermanLemma=für
+6	moang	_	NOUN	_	_	4	nmod	_	GermanLemma=morgen|SpaceAfter=No
+7	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
+
+# sent_id = sid_de-ba_natural_73
+# text = wann kimmt Avatar in Burghausen im Kino?
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	wann	_	ADV	_	_	2	advmod	_	GermanLemma=wann
+2	kimmt	_	VERB	_	_	0	root	_	GermanLemma=kommen
+3	Avatar	_	PROPN	_	_	2	nsubj	_	GermanLemma=Avatar
+4	in	_	ADP	_	_	5	case	_	GermanLemma=in
+5	Burghausen	_	PROPN	_	_	2	obl	_	GermanLemma=Burghausen
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	ADP	_	_	8	case	_	GermanLemma=in
+7	m	_	DET	_	_	8	det	_	GermanLemma=das
+8	Kino	_	NOUN	_	_	5	nmod	_	GermanLemma=Kino|SpaceAfter=No
+9	?	_	PUNCT	_	_	2	punct	_	GermanLemma=?
+
+# sent_id = tatoeba_6630545
+# text = Nia sogat i na.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/6630545
+# author = brauchinet
+1	Nia	_	ADV	_	_	2	advmod	_	GermanLemma=Nie
+2	sogat	_	VERB	_	_	0	root	_	GermanLemma=sagen
+3	i	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+4	na	_	INTJ	_	_	2	ccomp	_	GermanLemma=nein|SpaceAfter=No
+5	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Sauschädelstöhln_4
+# text = Waunn des Vaschwinden vom Schädl ofgfoll'n is, mocht sie oft des gonze Duaf auf d Suach noch de Ibltäta.
+# genre = wiki
+# dialect_group = unk (southcentral/south)
+# location = Styria
+# source = https://bar.wikipedia.org/wiki/Sausch%C3%A4delst%C3%B6hln
+1	Waunn	_	SCONJ	_	_	7	mark	_	GermanLemma=wenn
+2	des	_	DET	_	_	3	det	_	GermanLemma=das
+3	Vaschwinden	_	NOUN	_	_	7	nsubj	_	GermanLemma=Verschwinden
+4-5	vom	_	_	_	_	_	_	_	_
+4	vo	_	ADP	_	_	6	case	_	GermanLemma=von
+5	m	_	DET	_	_	6	det	_	GermanLemma=der
+6	Schädl	_	NOUN	_	_	3	nmod	_	GermanLemma=Schädel
+7	ofgfoll'n	_	VERB	_	_	18	advcl	_	GermanLemma=auffallen
+8	is	_	AUX	_	_	7	aux	_	GermanLemma=sein|SpaceAfter=No
+9	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+10	mocht	_	AUX	_	_	18	aux	_	GermanLemma=machen
+11	sie	_	PRON	_	_	18	expl:pv	_	GermanLemma=sich
+12	oft	_	ADV	_	_	18	advmod	_	GermanLemma=oft
+13	des	_	DET	_	_	15	det	_	GermanLemma=das
+14	gonze	_	ADJ	_	_	15	amod	_	GermanLemma=ganz
+15	Duaf	_	NOUN	_	_	18	nsubj	_	GermanLemma=Dorf
+16	auf	_	ADP	_	_	18	case	_	GermanLemma=auf
+17	d	_	DET	_	_	18	det	_	GermanLemma=die
+18	Suach	_	NOUN	_	_	0	root	_	GermanLemma=Suche
+19	noch	_	ADP	_	_	21	case	_	GermanLemma=nach
+20	de	_	DET	_	_	21	det	_	GermanLemma=der
+21	Ibltäta	_	NOUN	_	_	18	nmod	_	GermanLemma=Übeltäter|SpaceAfter=No
+22	.	_	PUNCT	_	_	18	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_270
+# text = Wos fia Wecka hob i?
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Wos	_	PRON	_	_	4	obj	_	GermanLemma=was
+2	fia	_	ADP	_	_	3	case	_	GermanLemma=für
+3	Wecka	_	NOUN	_	_	1	nmod	_	GermanLemma=Wecker
+4	hob	_	VERB	_	_	0	root	_	GermanLemma=haben
+5	i	_	PRON	_	_	4	nsubj	_	GermanLemma=ich|SpaceAfter=No
+6	?	_	PUNCT	_	_	4	punct	_	GermanLemma=?
+
+# sent_id = wiki_Dazzlwuam_21
+# text = Im 1935 hod owa a berlina Fotograf, dea weng Laundschoftsaufnaumen in de schwaiza Beag untawegs woa, zufelig an Schnopschus fu am Dazlwuam gmocht.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Dazzlwuam
+1	Im	_	ADP	_	_	2	case	_	GermanLemma=im
+2	1935	_	NUM	_	_	25	obl	_	GermanLemma=1935
+3	hod	_	AUX	_	_	25	aux	_	GermanLemma=haben
+4	owa	_	ADV	_	_	25	advmod	_	GermanLemma=aber
+5	a	_	DET	_	_	7	det	_	GermanLemma=ein
+6	berlina	_	ADJ	_	_	7	amod	_	GermanLemma=berliner
+7	Fotograf	_	NOUN	_	_	25	nsubj	_	GermanLemma=Fotograf|SpaceAfter=No
+8	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
+9	dea	_	PRON	_	_	16	nsubj	_	GermanLemma=der
+10	weng	_	ADP	_	_	11	case	_	GermanLemma=wegen
+11	Laundschoftsaufnaumen	_	NOUN	_	_	16	obl	_	GermanLemma=Landschaftsaufnahme
+12	in	_	ADP	_	_	15	case	_	GermanLemma=in
+13	de	_	DET	_	_	15	det	_	GermanLemma=der
+14	schwaiza	_	ADJ	_	_	15	amod	_	GermanLemma=schweizer
+15	Beag	_	NOUN	_	_	16	obl	_	GermanLemma=Berg
+16	untawegs	_	ADV	_	_	7	acl:relcl	_	GermanLemma=unterwegs
+17	woa	_	AUX	_	_	16	cop	_	GermanLemma=sein|SpaceAfter=No
+18	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
+19	zufelig	_	ADJ	_	_	25	amod	_	GermanLemma=zufällig
+20	an	_	DET	_	_	21	det	_	GermanLemma=ein
+21	Schnopschus	_	NOUN	_	_	25	obj	_	GermanLemma=Schnappschuss
+22	fu	_	ADP	_	_	24	case	_	GermanLemma=von
+23	am	_	DET	_	_	24	det	_	GermanLemma=der
+24	Dazlwuam	_	NOUN	_	_	21	nmod	_	GermanLemma=Tatzelwurm
+25	gmocht	_	VERB	_	_	0	root	_	GermanLemma=machen|SpaceAfter=No
+26	.	_	PUNCT	_	_	25	punct	_	GermanLemma=.
+
+# sent_id = wiki_Dazzlwuam_17
+# text = es gibt bis zum Aunfaung fum 20.Joahundat an Haufn Leit de in Dazlwuam gseng haum woin
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Dazzlwuam
+1	es	_	PRON	_	_	2	expl	_	GermanLemma=es
+2	gibt	_	VERB	_	_	0	root	_	GermanLemma=geben
+3	bis	_	ADP	_	_	6	case	_	GermanLemma=bis
+4-5	zum	_	_	_	_	_	_	_	_
+4	zu	_	ADP	_	_	6	case	_	GermanLemma=zu
+5	m	_	DET	_	_	6	det	_	GermanLemma=der
+6	Aunfaung	_	NOUN	_	_	2	obl	_	GermanLemma=Anfang
+7-8	fum	_	_	_	_	_	_	_	_
+7	fu	_	ADP	_	_	10	case	_	GermanLemma=von
+8	m	_	DET	_	_	10	det	_	GermanLemma=das
+9	20.	_	ADJ	_	_	10	amod	_	GermanLemma=20.|SpaceAfter=No
+10	Joahundat	_	NOUN	_	_	6	nmod	_	GermanLemma=Jahrhundert
+11	an	_	DET	_	_	12	det	_	GermanLemma=ein
+12	Haufn	_	NOUN	_	_	2	obj	_	GermanLemma=Haufen
+13	Leit	_	NOUN	_	_	12	appos	_	GermanLemma=Leute
+14	de	_	PRON	_	_	17	nsubj	_	GermanLemma=die
+15	in	_	DET	_	_	16	det	_	GermanLemma=der
+16	Dazlwuam	_	NOUN	_	_	17	obj	_	GermanLemma=Tatzelwurm
+17	gseng	_	VERB	_	_	12	acl:relcl	_	GermanLemma=sehen
+18	haum	_	AUX	_	_	17	aux	_	GermanLemma=haben
+19	woin	_	AUX	_	_	17	aux	_	GermanLemma=wollen
+
+# sent_id = tatoeba_5297343
+# text = Des is mei jingara Bruada.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5297343
+# author = brauchinet
+1	Des	_	PRON	_	_	5	nsubj	_	GermanLemma=das
+2	is	_	AUX	_	_	5	cop	_	GermanLemma=sein
+3	mei	_	DET	_	_	5	det:poss	_	GermanLemma=mein
+4	jingara	_	ADJ	_	_	5	amod	_	GermanLemma=jung
+5	Bruada	_	NOUN	_	_	0	root	_	GermanLemma=Bruder|SpaceAfter=No
+6	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5381496
+# text = Da Hauns wird si eichere Kiah auschaun.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5381496
+# author = brauchinet
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Hauns	_	PROPN	_	_	7	nsubj	_	GermanLemma=Hans
+3	wird	_	AUX	_	_	7	aux	_	GermanLemma=werden
+4	si	_	PRON	_	_	7	expl:pv	_	GermanLemma=sich
+5	eichere	_	DET	_	_	6	det:poss	_	GermanLemma=eure
+6	Kiah	_	NOUN	_	_	7	obj	_	GermanLemma=Kuh
+7	auschaun	_	VERB	_	_	0	root	_	GermanLemma=anschauen|SpaceAfter=No
+8	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_265
+# text = Sog Ma wannst mi auweckn konnst
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Sog	_	VERB	_	_	0	root	_	GermanLemma=sagen
+2	Ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
+3	wannst	_	SCONJ	_	_	5	mark	_	GermanLemma=wann
+4	mi	_	PRON	_	_	5	obj	_	GermanLemma=ich
+5	auweckn	_	VERB	_	_	1	ccomp	_	GermanLemma=aufwecken
+6	konnst	_	AUX	_	_	5	aux	_	GermanLemma=können
+
+# sent_id = cairo_5
+# parallel_id = cairo/5
+# text = Sam, machs Fensta auf!
+# text_en = Sam, open the window!
+# genre = grammar-examples
+# dialect_group = central
+# location = Upper Bavaria
+1	Sam	_	PROPN	_	_	3	vocative	_	GermanLemma=Sam|SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	GermanLemma=,
+3	mach	_	VERB	_	_	0	root	_	GermanLemma=machen|SpaceAfter=No
+4	s	_	DET	_	_	5	det	_	GermanLemma=das
+5	Fensta	_	NOUN	_	_	3	obj	_	GermanLemma=Fenster
+6	auf	_	ADP	_	_	3	compound:prt	_	GermanLemma=auf|SpaceAfter=No
+7	!	_	PUNCT	_	_	3	punct	_	GermanLemma=!
+
+# sent_id = wiki_Schneckn_31
+# text = Des kaumma si recht guat auschaun, waummar an Schneck iwar a Glos greun lossd.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Schneckn
+1	Des	_	PRON	_	_	7	obj	_	GermanLemma=das
+2	kaum	_	AUX	_	_	7	aux	_	GermanLemma=können|SpaceAfter=No
+3	ma	_	PRON	_	_	7	nsubj	_	GermanLemma=man
+4	si	_	PRON	_	_	7	expl:pv	_	GermanLemma=sich
+5	recht	_	ADV	_	_	7	advmod	_	GermanLemma=recht
+6	guat	_	ADJ	_	_	7	advmod	_	GermanLemma=gut
+7	auschaun	_	VERB	_	_	0	root	_	GermanLemma=anschauen|SpaceAfter=No
+8	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+9	waum	_	SCONJ	_	_	17	mark	_	GermanLemma=wenn|SpaceAfter=No
+10	mar	_	PRON	_	_	17	nsubj	_	GermanLemma=man
+11	an	_	DET	_	_	12	det	_	GermanLemma=die
+12	Schneck	_	NOUN	_	_	17	obj	_	GermanLemma=Schnecke
+13	iwar	_	ADP	_	_	15	case	_	GermanLemma=über
+14	a	_	DET	_	_	15	det	_	GermanLemma=ein
+15	Glos	_	NOUN	_	_	17	obl	_	GermanLemma=Glas
+16	greun	_	VERB	_	_	17	xcomp	_	GermanLemma=kriechen
+17	lossd	_	VERB	_	_	7	advcl	_	GermanLemma=lassen|SpaceAfter=No
+18	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_261
+# text = schoid an Wecka auf 8e ei.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	schoid	_	VERB	_	_	0	root	_	GermanLemma=schalten
+2	an	_	DET	_	_	3	det	_	GermanLemma=ein
+3	Wecka	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker
+4	auf	_	ADP	_	_	5	case	_	GermanLemma=auf
+5	8e	_	NUM	_	_	1	obl	_	GermanLemma=8
+6	ei	_	ADP	_	_	1	compound:prt	_	GermanLemma=ein|SpaceAfter=No
+7	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wiki_Walsch_17
+# text = Unter "walsch strickn" versteat man a gwisse Ort die Stricknodlen zu hebn, wenn man mit Woll strickt.
+# genre = wiki
+# dialect_group = south
+# location = South Tyrol
+# source = https://bar.wikipedia.org/wiki/Walsch
+1	Unter	_	ADP	_	_	4	case	_	GermanLemma=unter
+2	"	_	PUNCT	_	_	4	punct	_	GermanLemma="|SpaceAfter=No
+3	walsch	_	ADJ	_	_	4	advmod	_	GermanLemma=walsch
+4	strickn	_	VERB	_	_	6	obl	_	GermanLemma=stricken|SpaceAfter=No
+5	"	_	PUNCT	_	_	4	punct	_	GermanLemma="
+6	versteat	_	VERB	_	_	0	root	_	GermanLemma=verstehen
+7	man	_	PRON	_	_	6	nsubj	_	GermanLemma=man
+8	a	_	DET	_	_	10	det	_	GermanLemma=eine
+9	gwisse	_	ADJ	_	_	10	amod	_	GermanLemma=gewiss
+10	Ort	_	NOUN	_	_	6	obj	_	GermanLemma=Art
+11	die	_	DET	_	_	12	det	_	GermanLemma=die
+12	Stricknodlen	_	NOUN	_	_	14	obj	_	GermanLemma=Stricknadel
+13	zu	_	PART	_	_	14	mark	_	GermanLemma=zu
+14	hebn	_	VERB	_	_	6	xcomp	_	GermanLemma=heben|SpaceAfter=No
+15	,	_	PUNCT	_	_	20	punct	_	GermanLemma=,
+16	wenn	_	SCONJ	_	_	20	mark	_	GermanLemma=wenn
+17	man	_	PRON	_	_	20	nsubj	_	GermanLemma=man
+18	mit	_	ADP	_	_	19	case	_	GermanLemma=mit
+19	Woll	_	NOUN	_	_	20	obl	_	GermanLemma=Wolle
+20	strickt	_	VERB	_	_	6	advcl	_	GermanLemma=stricken|SpaceAfter=No
+21	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-st_valid_137
+# text = Wearts in Donnerstog schneibm?
+# text_en = is it going to snow thursday
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	Weart	_	AUX	_	_	5	aux	_	GermanLemma=werden|SpaceAfter=No
+2	s	_	PRON	_	_	5	expl	_	GermanLemma=es
+3	in	_	ADP	_	_	4	case	_	GermanLemma=an
+4	Donnerstog	_	NOUN	_	_	5	obl	_	GermanLemma=Donnerstag
+5	schneibm	_	VERB	_	_	0	root	_	GermanLemma=schneien|SpaceAfter=No
+6	?	_	PUNCT	_	_	5	punct	_	GermanLemma=?
+
+# sent_id = tatoeba_9512380
+# text = Des is für die Fisch.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/9512380
+# author = brauchinet
+1	Des	_	PRON	_	_	5	nsubj	_	GermanLemma=das
+2	is	_	AUX	_	_	5	cop	_	GermanLemma=sein
+3	für	_	ADP	_	_	5	case	_	GermanLemma=für
+4	die	_	DET	_	_	5	det	_	GermanLemma=der
+5	Fisch	_	NOUN	_	_	0	root	_	GermanLemma=Fisch|SpaceAfter=No
+6	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = wiki_Jazz-Rap_3
+# text = D'rbei bedianen sich die Kinschtler bå moderne Jazzformen wia Jazzfunk oder Fusion.
+# genre = wiki
+# dialect_group = south
+# location = South Tyrol
+# source = https://bar.wikipedia.org/wiki/Jazz-Rap
+1	D'rbei	_	ADV	_	_	2	advmod	_	GermanLemma=dabei
+2	bedianen	_	VERB	_	_	0	root	_	GermanLemma=bedienen
+3	sich	_	PRON	_	_	2	expl:pv	_	GermanLemma=sich
+4	die	_	DET	_	_	5	det	_	GermanLemma=der
+5	Kinschtler	_	NOUN	_	_	2	nsubj	_	GermanLemma=Künstler
+6	bå	_	ADP	_	_	8	case	_	GermanLemma=bei
+7	moderne	_	ADJ	_	_	8	amod	_	GermanLemma=modern
+8	Jazzformen	_	NOUN	_	_	2	obl	_	GermanLemma=Jazzform
+9	wia	_	SCONJ	_	_	10	case	_	GermanLemma=wie
+10	Jazzfunk	_	NOUN	_	_	8	nmod	_	GermanLemma=Jazzfunk
+11	oder	_	CCONJ	_	_	12	cc	_	GermanLemma=oder
+12	Fusion	_	NOUN	_	_	10	conj	_	GermanLemma=Fusion|SpaceAfter=No
+13	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Bairische-Buechspraach_2
+# text = 3 Saachan: Genau gnumma is de BB ebm ned grod a "Ethymologische Schreibweis" von Boarischen.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:Bairische_Buechspraach
+1	3	_	NUM	_	_	2	nummod	_	GermanLemma=3
+2	Saachan	_	NOUN	_	_	15	parataxis	_	GermanLemma=Sache|SpaceAfter=No
+3	:	_	PUNCT	_	_	2	punct	_	GermanLemma=:
+4	Genau	_	ADJ	_	_	5	advmod	_	GermanLemma=genau
+5	gnumma	_	ADJ	_	_	15	advmod	_	GermanLemma=genommen
+6	is	_	AUX	_	_	15	cop	_	GermanLemma=sein
+7	de	_	DET	_	_	8	det	_	GermanLemma=die
+8	BB	_	PROPN	_	_	15	nsubj	_	GermanLemma=BB
+9	ebm	_	ADV	_	_	10	advmod	_	GermanLemma=eben
+10	ned	_	PART	_	_	15	advmod	_	GermanLemma=nicht
+11	grod	_	ADV	_	_	15	advmod	_	GermanLemma=gerade
+12	a	_	DET	_	_	15	det	_	GermanLemma=eine
+13	"	_	PUNCT	_	_	15	punct	_	GermanLemma="|SpaceAfter=No
+14	Ethymologische	_	ADJ	_	_	15	amod	_	GermanLemma=ethymologisch
+15	Schreibweis	_	NOUN	_	_	0	root	_	GermanLemma=Schreibweise|SpaceAfter=No
+16	"	_	PUNCT	_	_	15	punct	_	GermanLemma="
+17-18	von	_	_	_	_	_	_	_	_
+17	vo	_	ADP	_	_	19	case	_	GermanLemma=von
+18	n	_	DET	_	_	19	det	_	GermanLemma=das
+19	Boarischen	_	NOUN	_	_	15	nmod	_	GermanLemma=Bairische|SpaceAfter=No
+20	.	_	PUNCT	_	_	15	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_18
+# text = Is heid bewölkt?
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Is	_	AUX	_	_	3	cop	_	GermanLemma=sein
+2	heid	_	ADV	_	_	3	advmod	_	GermanLemma=heute
+3	bewölkt	_	ADJ	_	_	0	root	_	GermanLemma=bewölkt|SpaceAfter=No
+4	?	_	PUNCT	_	_	3	punct	_	GermanLemma=?
+
+# sent_id = wikisample_Boarische-Grammatik_1
+# text = "Ham S Eana oghengt?", frogd da Bolizisd.
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik
+1	"	_	PUNCT	_	_	5	punct	_	GermanLemma="|SpaceAfter=No
+2	Ham	_	AUX	_	_	5	aux	_	GermanLemma=haben
+3	S	_	PRON	_	_	5	nsubj	_	GermanLemma=Sie
+4	Eana	_	PRON	_	_	5	expl:pv	_	GermanLemma=sich
+5	oghengt	_	VERB	_	_	9	ccomp	_	GermanLemma=anschnallen|SpaceAfter=No
+6	?	_	PUNCT	_	_	5	punct	_	GermanLemma=?|SpaceAfter=No
+7	"	_	PUNCT	_	_	5	punct	_	GermanLemma="|SpaceAfter=No
+8	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
+9	frogd	_	VERB	_	_	0	root	_	GermanLemma=fragen
+10	da	_	DET	_	_	11	det	_	GermanLemma=der
+11	Bolizisd	_	NOUN	_	_	9	nsubj	_	GermanLemma=Polizist|SpaceAfter=No
+12	.	_	PUNCT	_	_	9	punct	_	GermanLemma=.
+
+# sent_id = wiki_Toppmkorsee_12
+# text = Auf'm Toppmkor, am Berg im Kloaourlertoi ligt a sumpfige Berglaa, s Wurmfejd gnonnt.
+# genre = wiki
+# dialect_group = southcentral
+# location = Pongau
+# source = https://bar.wikipedia.org/wiki/Toppmkorsee
+1-2	Auf'm	_	_	_	_	_	_	_	_
+1	Auf	_	ADP	_	_	3	case	_	GermanLemma=auf
+2	'm	_	DET	_	_	3	det	_	GermanLemma=der
+3	Toppmkor	_	NOUN	_	_	10	obl	_	GermanLemma=Tappenkar|SpaceAfter=No
+4	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
+5	am	_	DET	_	_	6	det	_	GermanLemma=der
+6	Berg	_	NOUN	_	_	3	appos	_	GermanLemma=Berg
+7-8	im	_	_	_	_	_	_	_	_
+7	i	_	ADP	_	_	9	case	_	GermanLemma=in
+8	m	_	DET	_	_	9	det	_	GermanLemma=das
+9	Kloaourlertoi	_	PROPN	_	_	6	nmod	_	GermanLemma=Kleinarltal
+10	ligt	_	VERB	_	_	0	root	_	GermanLemma=liegen
+11	a	_	DET	_	_	13	det	_	GermanLemma=ein
+12	sumpfige	_	ADJ	_	_	13	amod	_	GermanLemma=sumpfig
+13	Berglaa	_	NOUN	_	_	10	nsubj	_	GermanLemma=Berglehne|SpaceAfter=No
+14	,	_	PUNCT	_	_	17	punct	_	GermanLemma=,
+15	s	_	DET	_	_	16	det	_	GermanLemma=das
+16	Wurmfejd	_	NOUN	_	_	17	obl:arg	_	GermanLemma=Wurmfeld
+17	gnonnt	_	VERB	_	_	13	acl	_	GermanLemma=nennen|SpaceAfter=No
+18	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
+
+# sent_id = wikitalk_Dischkrian:Ödenburg_18
+# text = Wanns mit da Iwapriafung fiati seits, kunnts da Oweisung af da Voalog foign und as Problem mit da URL korrigian.
+# genre = social
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Dischkrian:%C3%96denburg
+1	Wanns	_	SCONJ	_	_	5	mark	_	GermanLemma=wenn
+2	mit	_	ADP	_	_	4	case	_	GermanLemma=mit
+3	da	_	DET	_	_	4	det	_	GermanLemma=die
+4	Iwapriafung	_	NOUN	_	_	5	obl	_	GermanLemma=Überprüfung
+5	fiati	_	ADJ	_	_	14	advcl	_	GermanLemma=fertig
+6	seits	_	AUX	_	_	5	cop	_	GermanLemma=sein|SpaceAfter=No
+7	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
+8	kunnts	_	AUX	_	_	14	aux	_	GermanLemma=können
+9	da	_	DET	_	_	10	det	_	GermanLemma=die
+10	Oweisung	_	NOUN	_	_	14	obl:arg	_	GermanLemma=Anweisung
+11	af	_	ADP	_	_	13	case	_	GermanLemma=auf
+12	da	_	DET	_	_	13	det	_	GermanLemma=die
+13	Voalog	_	NOUN	_	_	10	nmod	_	GermanLemma=Vorlage
+14	foign	_	VERB	_	_	0	root	_	GermanLemma=folgen
+15	und	_	CCONJ	_	_	21	cc	_	GermanLemma=und
+16	as	_	DET	_	_	17	det	_	GermanLemma=das
+17	Problem	_	NOUN	_	_	21	obj	_	GermanLemma=Problem
+18	mit	_	ADP	_	_	20	case	_	GermanLemma=mit
+19	da	_	DET	_	_	20	det	_	GermanLemma=der
+20	URL	_	NOUN	_	_	17	nmod	_	GermanLemma=URL
+21	korrigian	_	VERB	_	_	14	conj	_	GermanLemma=korrigieren|SpaceAfter=No
+22	.	_	PUNCT	_	_	14	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Verbn_17
+# text = I geh hoam, weil i mei Suppn essn wui.
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Verbn)
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	geh	_	VERB	_	_	0	root	_	GermanLemma=gehen
+3	hoam	_	ADP	_	_	2	compound:prt	_	GermanLemma=heim|SpaceAfter=No
+4	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
+5	weil	_	SCONJ	_	_	9	mark	_	GermanLemma=weil
+6	i	_	PRON	_	_	9	nsubj	_	GermanLemma=ich
+7	mei	_	DET	_	_	8	det:poss	_	GermanLemma=meine
+8	Suppn	_	NOUN	_	_	9	obj	_	GermanLemma=Suppe
+9	essn	_	VERB	_	_	2	advcl	_	GermanLemma=essen
+10	wui	_	AUX	_	_	9	aux	_	GermanLemma=wollen|SpaceAfter=No
+11	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_51
+# text = bewert amoi des buach "Harry Potter" mit anem stern
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	bewert	_	VERB	_	_	0	root	_	GermanLemma=bewerten
+2	amoi	_	ADV	_	_	1	advmod	_	GermanLemma=einmal
+3	des	_	DET	_	_	4	det	_	GermanLemma=das
+4	buach	_	NOUN	_	_	1	obj	_	GermanLemma=Buch
+5	"	_	PUNCT	_	_	6	punct	_	GermanLemma="|SpaceAfter=No
+6	Harry	_	PROPN	_	_	4	appos	_	GermanLemma=Harry
+7	Potter	_	PROPN	_	_	6	flat	_	GermanLemma=Potter|SpaceAfter=No
+8	"	_	PUNCT	_	_	6	punct	_	GermanLemma="
+9	mit	_	ADP	_	_	11	case	_	GermanLemma=mit
+10	anem	_	DET	_	_	11	det	_	GermanLemma=ein
+11	stern	_	NOUN	_	_	1	obl	_	GermanLemma=Stern
+
+# sent_id = tatoeba_5166984
+# text = An deiner Stö tarat i des net.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5166984
+# author = brauchinet
+1	An	_	ADP	_	_	3	case	_	GermanLemma=an
+2	deiner	_	DET	_	_	3	det	_	GermanLemma=deine
+3	Stö	_	NOUN	_	_	4	obl	_	GermanLemma=Stelle
+4	tarat	_	VERB	_	_	0	root	_	GermanLemma=tun
+5	i	_	PRON	_	_	4	nsubj	_	GermanLemma=ich
+6	des	_	PRON	_	_	4	obj	_	GermanLemma=das
+7	net	_	PART	_	_	4	advmod	_	GermanLemma=nicht|SpaceAfter=No
+8	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5224038
+# text = I schau ma gern Goifspün au.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5224038
+# author = brauchinet
+1	I	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+2	schau	_	VERB	_	_	0	root	_	GermanLemma=schauen
+3	ma	_	PRON	_	_	2	expl:pv	_	GermanLemma=ich
+4	gern	_	ADV	_	_	2	advmod	_	GermanLemma=gern
+5	Goifspün	_	NOUN	_	_	2	obj	_	GermanLemma=Golfspiel
+6	au	_	ADP	_	_	2	compound:prt	_	GermanLemma=an|SpaceAfter=No
+7	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5608900
+# text = Gö, du host des nu net tau, wos'd tuan soin hättatst.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5608900
+# author = brauchinet
+1	Gö	_	INTJ	_	_	8	discourse	_	GermanLemma=Gö|SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	GermanLemma=,
+3	du	_	PRON	_	_	8	nsubj	_	GermanLemma=du
+4	host	_	AUX	_	_	8	aux	_	GermanLemma=haben
+5	des	_	PRON	_	_	8	obj	_	GermanLemma=das
+6	nu	_	ADV	_	_	8	advmod	_	GermanLemma=noch
+7	net	_	PART	_	_	8	advmod	_	GermanLemma=nicht
+8	tau	_	VERB	_	_	0	root	_	GermanLemma=tun|SpaceAfter=No
+9	,	_	PUNCT	_	_	12	punct	_	GermanLemma=,
+10	wos	_	PRON	_	_	12	obj	_	GermanLemma=was|SpaceAfter=No
+11	'd	_	PRON	_	_	12	nsubj	_	GermanLemma=du
+12	tuan	_	VERB	_	_	5	acl:relcl	_	GermanLemma=tun
+13	soin	_	AUX	_	_	12	aux	_	GermanLemma=sollen
+14	hättatst	_	AUX	_	_	12	aux	_	GermanLemma=haben|SpaceAfter=No
+15	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
+
+# sent_id = wiki_Sauschädelstöhln_9
+# text = Bei dera Grichtsvahaundlung gehts oft ziemlich hoart zua, und oft wern vom Richta hoche Göd- und Getränkestrofen fir Zwischnruaf varhängt, sodaß si de Vahaundlung ned z kuaz gstoidt.
+# genre = wiki
+# dialect_group = unk (southcentral/south)
+# location = Styria
+# source = https://bar.wikipedia.org/wiki/Sausch%C3%A4delst%C3%B6hln
+1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
+2	dera	_	DET	_	_	3	det	_	GermanLemma=der
+3	Grichtsvahaundlung	_	NOUN	_	_	4	obl	_	GermanLemma=Gerichtsverhandlung
+4	geht	_	VERB	_	_	0	root	_	GermanLemma=gehen|SpaceAfter=No
+5	s	_	PRON	_	_	4	expl	_	GermanLemma=es
+6	oft	_	ADV	_	_	4	advmod	_	GermanLemma=oft
+7	ziemlich	_	ADV	_	_	8	advmod	_	GermanLemma=ziemlich
+8	hoart	_	ADJ	_	_	4	advmod	_	GermanLemma=hart
+9	zua	_	PART	_	_	4	compound:prt	_	GermanLemma=zu|SpaceAfter=No
+10	,	_	PUNCT	_	_	23	punct	_	GermanLemma=,
+11	und	_	CCONJ	_	_	23	cc	_	GermanLemma=und
+12	oft	_	ADV	_	_	23	advmod	_	GermanLemma=oft
+13	wern	_	AUX	_	_	23	aux:pass	_	GermanLemma=werden
+14-15	vom	_	_	_	_	_	_	_	_
+14	vo	_	ADP	_	_	16	case	_	GermanLemma=von
+15	m	_	DET	_	_	16	det	_	GermanLemma=der
+16	Richta	_	NOUN	_	_	23	obl:agent	_	GermanLemma=Richter
+17	hoche	_	ADJ	_	_	18	amod	_	GermanLemma=hoch
+18	Göd-	_	NOUN	_	_	23	nsubj:pass	_	GermanLemma=Geld-
+19	und	_	CCONJ	_	_	20	cc	_	GermanLemma=und
+20	Getränkestrofen	_	NOUN	_	_	18	conj	_	GermanLemma=Getränkestrafe
+21	fir	_	ADP	_	_	22	case	_	GermanLemma=für
+22	Zwischnruaf	_	NOUN	_	_	23	obl	_	GermanLemma=Zwischenruf
+23	varhängt	_	VERB	_	_	4	conj	_	GermanLemma=verhängen|SpaceAfter=No
+24	,	_	PUNCT	_	_	32	punct	_	GermanLemma=,
+25	sodaß	_	SCONJ	_	_	32	mark	_	GermanLemma=sodass
+26	si	_	PRON	_	_	32	expl:pv	_	GermanLemma=sich
+27	de	_	DET	_	_	28	det	_	GermanLemma=die
+28	Vahaundlung	_	NOUN	_	_	32	nsubj	_	GermanLemma=Verhandlung
+29	ned	_	PART	_	_	32	advmod	_	GermanLemma=nicht
+30	z	_	ADV	_	_	31	advmod	_	GermanLemma=zu
+31	kuaz	_	ADJ	_	_	32	advmod	_	GermanLemma=kurz
+32	gstoidt	_	VERB	_	_	23	advcl	_	GermanLemma=gestalten|SpaceAfter=No
+33	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wiki_Kafää_45
+# text = Owa de Kenna schwean, dos des da Kaffää min bestn Gschmockn is.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
+1	Owa	_	ADV	_	_	4	advmod	_	GermanLemma=aber
+2	de	_	DET	_	_	3	det	_	GermanLemma=der
+3	Kenna	_	NOUN	_	_	4	nsubj	_	GermanLemma=Kenner
+4	schwean	_	VERB	_	_	0	root	_	GermanLemma=schwören|SpaceAfter=No
+5	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
+6	dos	_	SCONJ	_	_	9	mark	_	GermanLemma=dass
+7	des	_	PRON	_	_	9	nsubj	_	GermanLemma=das
+8	da	_	DET	_	_	9	det	_	GermanLemma=der
+9	Kaffää	_	NOUN	_	_	4	ccomp	_	GermanLemma=Kaffee
+10-11	min	_	_	_	_	_	_	_	_
+10	mi	_	ADP	_	_	13	case	_	GermanLemma=mit
+11	n	_	DET	_	_	13	det	_	GermanLemma=der
+12	bestn	_	ADJ	_	_	13	amod	_	GermanLemma=gut
+13	Gschmockn	_	NOUN	_	_	9	nmod	_	GermanLemma=Geschmack
+14	is	_	AUX	_	_	9	cop	_	GermanLemma=sein|SpaceAfter=No
+15	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wiki_Haferltarock_34
+# text = Es gitt owa koa Regl, dasma awl stecha mou, wemma ko.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Es	_	PRON	_	_	2	expl	_	GermanLemma=es
+2	gitt	_	VERB	_	_	0	root	_	GermanLemma=geben
+3	owa	_	ADV	_	_	2	advmod	_	GermanLemma=aber
+4	koa	_	DET	_	_	5	det	_	GermanLemma=keine
+5	Regl	_	NOUN	_	_	2	obj	_	GermanLemma=Regel|SpaceAfter=No
+6	,	_	PUNCT	_	_	10	punct	_	GermanLemma=,
+7	das	_	SCONJ	_	_	10	mark	_	GermanLemma=dass|SpaceAfter=No
+8	ma	_	PRON	_	_	10	nsubj	_	GermanLemma=man
+9	awl	_	ADV	_	_	10	advmod	_	GermanLemma=immer
+10	stecha	_	VERB	_	_	5	acl	_	GermanLemma=stechen
+11	mou	_	AUX	_	_	10	aux	_	GermanLemma=müssen|SpaceAfter=No
+12	,	_	PUNCT	_	_	15	punct	_	GermanLemma=,
+13	wem	_	SCONJ	_	_	15	mark	_	GermanLemma=wenn|SpaceAfter=No
+14	ma	_	PRON	_	_	15	nsubj	_	GermanLemma=man
+15	ko	_	AUX	_	_	10	advcl	_	GermanLemma=kann|SpaceAfter=No
+16	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Kafää_32
+# text = Ludwig van Beethoven hod de Gwohnheit ghobt, genau 60 Kafääbaunan zum oozöön, um si draus a Schalal Mokka zmochn.
+# genre = wiki
+# dialect_group = central
+# location = Vienna
+# source = https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4
+1	Ludwig	_	PROPN	_	_	7	nsubj	_	GermanLemma=Ludwig
+2	van	_	PROPN	_	_	1	flat	_	GermanLemma=van
+3	Beethoven	_	PROPN	_	_	1	flat	_	GermanLemma=Beethoven
+4	hod	_	AUX	_	_	7	aux	_	GermanLemma=haben
+5	de	_	DET	_	_	6	det	_	GermanLemma=die
+6	Gwohnheit	_	NOUN	_	_	7	obj	_	GermanLemma=Gewohnheit
+7	ghobt	_	VERB	_	_	0	root	_	GermanLemma=haben|SpaceAfter=No
+8	,	_	PUNCT	_	_	11	punct	_	GermanLemma=,
+9	genau	_	ADJ	_	_	10	amod	_	GermanLemma=genau
+10	60	_	NUM	_	_	11	nummod	_	GermanLemma=60
+11	Kafääbaunan	_	NOUN	_	_	6	acl	_	GermanLemma=Kaffeebohne
+12-13	zum	_	_	_	_	_	_	_	_
+12	zu	_	PART	_	_	14	mark	_	GermanLemma=zu
+13	m	_	DET	_	_	14	det	_	GermanLemma=das
+14	oozöön	_	NOUN	_	_	11	nmod	_	GermanLemma=Abzählen|SpaceAfter=No
+15	,	_	PUNCT	_	_	23	punct	_	GermanLemma=,
+16	um	_	SCONJ	_	_	23	mark	_	GermanLemma=um
+17	si	_	PRON	_	_	23	expl:pv	_	GermanLemma=sich
+18	draus	_	ADV	_	_	23	advmod	_	GermanLemma=daraus
+19	a	_	DET	_	_	20	det	_	GermanLemma=eine
+20	Schalal	_	NOUN	_	_	23	obj	_	GermanLemma=Schale
+21	Mokka	_	NOUN	_	_	20	appos	_	GermanLemma=Mokka
+22	z	_	PART	_	_	23	mark	_	GermanLemma=zu|SpaceAfter=No
+23	mochn	_	VERB	_	_	7	advcl	_	GermanLemma=machen|SpaceAfter=No
+24	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = wiki_Haferltarock_29
+# text = Nachand mou oane vo de vier Foama als Trumpf osong.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Nachand	_	ADV	_	_	10	advmod	_	GermanLemma=nachher
+2	mou	_	AUX	_	_	10	aux	_	GermanLemma=müssen
+3	oane	_	NUM	_	_	10	obj	_	GermanLemma=eine
+4	vo	_	ADP	_	_	7	case	_	GermanLemma=von
+5	de	_	DET	_	_	7	det	_	GermanLemma=die
+6	vier	_	NUM	_	_	7	nummod	_	GermanLemma=vier
+7	Foama	_	NOUN	_	_	3	nmod	_	GermanLemma=Karte
+8	als	_	ADP	_	_	9	case	_	GermanLemma=als
+9	Trumpf	_	NOUN	_	_	10	obl	_	GermanLemma=Trumpf
+10	osong	_	VERB	_	_	0	root	_	GermanLemma=ansagen|SpaceAfter=No
+11	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_5195373
+# text = Kaunnst amoi auzahn?
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/5195373
+# author = brauchinet
+1	Kaunnst	_	AUX	_	_	3	aux	_	GermanLemma=können
+2	amoi	_	ADV	_	_	3	advmod	_	GermanLemma=einmal
+3	auzahn	_	VERB	_	_	0	root	_	GermanLemma=anziehen|SpaceAfter=No
+4	?	_	PUNCT	_	_	3	punct	_	GermanLemma=?
+
+# sent_id = wiki_Dazzlwuam_11
+# text = Im Gengsoz zu de Ainhearna, de Sfinxn und Zentauren, miassn de Gschicht fum Dazzlwuam ned umbedingt kompet aus da Fantasi fu de Leit fria entschbrunga sei.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Dazzlwuam
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	ADP	_	_	3	case	_	GermanLemma=in
+2	m	_	DET	_	_	3	det	_	GermanLemma=der
+3	Gengsoz	_	NOUN	_	_	29	advcl	_	GermanLemma=Gegensatz
+4	zu	_	ADP	_	_	6	case	_	GermanLemma=zu
+5	de	_	DET	_	_	6	det	_	GermanLemma=das
+6	Ainhearna	_	NOUN	_	_	3	nmod	_	GermanLemma=Einhorn|SpaceAfter=No
+7	,	_	PUNCT	_	_	9	punct	_	GermanLemma=,
+8	de	_	DET	_	_	9	det	_	GermanLemma=die
+9	Sfinxn	_	NOUN	_	_	6	conj	_	GermanLemma=Sphinx
+10	und	_	CCONJ	_	_	11	cc	_	GermanLemma=und
+11	Zentauren	_	NOUN	_	_	6	conj	_	GermanLemma=Zentaur|SpaceAfter=No
+12	,	_	PUNCT	_	_	3	punct	_	GermanLemma=,
+13	miassn	_	AUX	_	_	29	aux	_	GermanLemma=müssen
+14	de	_	DET	_	_	15	det	_	GermanLemma=die
+15	Gschicht	_	NOUN	_	_	29	nsubj	_	GermanLemma=Geschichte
+16-17	fum	_	_	_	_	_	_	_	_
+16	fu	_	ADP	_	_	18	case	_	GermanLemma=von
+17	m	_	DET	_	_	18	det	_	GermanLemma=der
+18	Dazzlwuam	_	NOUN	_	_	15	nmod	_	GermanLemma=Tatzelwurm
+19	ned	_	PART	_	_	29	advmod	_	GermanLemma=nicht
+20	umbedingt	_	ADJ	_	_	29	advmod	_	GermanLemma=unbedingt
+21	kompet	_	ADJ	_	_	29	advmod	_	GermanLemma=komplett
+22	aus	_	ADP	_	_	24	case	_	GermanLemma=aus
+23	da	_	DET	_	_	24	det	_	GermanLemma=die
+24	Fantasi	_	NOUN	_	_	29	obl	_	GermanLemma=Fantasie
+25	fu	_	ADP	_	_	27	case	_	GermanLemma=von
+26	de	_	DET	_	_	27	det	_	GermanLemma=die
+27	Leit	_	NOUN	_	_	24	nmod	_	GermanLemma=Leute
+28	fria	_	ADJ	_	_	27	amod	_	GermanLemma=früher
+29	entschbrunga	_	VERB	_	_	0	root	_	GermanLemma=entspringen
+30	sei	_	AUX	_	_	29	aux	_	GermanLemma=sein|SpaceAfter=No
+31	.	_	PUNCT	_	_	29	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_81
+# text = Lösch den Wecker um Simme.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Lösch	_	VERB	_	_	0	root	_	GermanLemma=löschen
+2	den	_	DET	_	_	3	det	_	GermanLemma=der
+3	Wecker	_	NOUN	_	_	1	obj	_	GermanLemma=Wecker
+4	um	_	ADP	_	_	5	case	_	GermanLemma=um
+5	Simme	_	NUM	_	_	3	nmod	_	GermanLemma=sieben|SpaceAfter=No
+6	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_7
+# text = bitte des liadl a nu dazua doa
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	bitte	_	ADV	_	_	7	advmod	_	GermanLemma=bitte
+2	des	_	DET	_	_	3	det	_	GermanLemma=das
+3	liadl	_	NOUN	_	_	7	obj	_	GermanLemma=Lied
+4	a	_	ADV	_	_	7	advmod	_	GermanLemma=auch
+5	nu	_	ADV	_	_	7	advmod	_	GermanLemma=noch
+6	dazua	_	ADV	_	_	7	advmod	_	GermanLemma=dazu
+7	doa	_	VERB	_	_	0	root	_	GermanLemma=tun
+
+# sent_id = xsid_de-st_valid_197
+# text = Weart der Wind gschnochts do wo i grot bin nochlossn?
+# text_en = Will the wind die down at my current location by supper time?
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	Weart	_	AUX	_	_	10	aux	_	GermanLemma=werden
+2	der	_	DET	_	_	3	det	_	GermanLemma=der
+3	Wind	_	NOUN	_	_	10	nsubj	_	GermanLemma=Wind
+4	gschnochts	_	ADV	_	_	10	advmod	_	GermanLemma=abends
+5	do	_	ADV	_	_	10	advcl	_	GermanLemma=hier
+6	wo	_	ADV	_	_	9	advmod	_	GermanLemma=wo
+7	i	_	PRON	_	_	9	nsubj	_	GermanLemma=ich
+8	grot	_	ADV	_	_	9	advmod	_	GermanLemma=grad
+9	bin	_	VERB	_	_	5	acl:relcl	_	GermanLemma=sein
+10	nochlossn	_	VERB	_	_	0	root	_	GermanLemma=nachlassen|SpaceAfter=No
+11	?	_	PUNCT	_	_	10	punct	_	GermanLemma=?
+
+# sent_id = wikisample_Boarische-Grammatik-Genitif_4
+# text = Gez ruig one maina waida!
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Genitif)
+1	Gez	_	VERB	_	_	0	root	_	GermanLemma=gehen
+2	ruig	_	ADJ	_	_	1	advmod	_	GermanLemma=ruhig
+3	one	_	ADP	_	_	4	case	_	GermanLemma=ohne
+4	maina	_	PRON	_	_	1	obl	_	GermanLemma=meiner
+5	waida	_	ADP	_	_	1	compound:prt	_	GermanLemma=weiter|SpaceAfter=No
+6	!	_	PUNCT	_	_	1	punct	_	GermanLemma=!
+
+# sent_id = xsid_de-st_valid_193
+# text = Spiel iber Spotify eppis vu die 80er
+# text_en = Play some melody from the eighties on Spotify
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	Spiel	_	VERB	_	_	0	root	_	GermanLemma=spielen
+2	iber	_	ADP	_	_	3	case	_	GermanLemma=über
+3	Spotify	_	PROPN	_	_	1	obl	_	GermanLemma=Spotify
+4	eppis	_	PRON	_	_	1	obj	_	GermanLemma=etwas
+5	vu	_	ADP	_	_	7	case	_	GermanLemma=von
+6	die	_	DET	_	_	7	det	_	GermanLemma=die
+7	80er	_	NOUN	_	_	4	nmod	_	GermanLemma=80er
+
+# sent_id = xsid_de-ba_test_72
+# text = Erinner mi Miete zum zoin.
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Erinner	_	VERB	_	_	0	root	_	GermanLemma=erinnern
+2	mi	_	PRON	_	_	1	obj	_	GermanLemma=ich
+3	Miete	_	NOUN	_	_	1	obl:arg	_	GermanLemma=Miete
+4-5	zum	_	_	_	_	_	_	_	_
+4	zu	_	PART	_	_	6	mark	_	GermanLemma=zu
+5	m	_	DET	_	_	6	det	_	GermanLemma=das
+6	zoin	_	NOUN	_	_	3	nmod	_	GermanLemma=Zahlen|SpaceAfter=No
+7	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Verbn_7
+# text = Da Votter sogt, er hout garwat.
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Verbn)
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Votter	_	NOUN	_	_	3	nsubj	_	GermanLemma=Vater
+3	sogt	_	VERB	_	_	0	root	_	GermanLemma=sagen|SpaceAfter=No
+4	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+5	er	_	PRON	_	_	7	nsubj	_	GermanLemma=er
+6	hout	_	AUX	_	_	7	aux	_	GermanLemma=haben
+7	garwat	_	VERB	_	_	3	ccomp	_	GermanLemma=arbeiten|SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+
+# sent_id = cairo_17
+# parallel_id = cairo/17
+# text = Sie häd ihre Hoar macha soin, aber hods aus irgendoam Grund an dem Dog ned gmacht.
+# text_en = She should have been doing her hair but for some reason she wouldn't that day.
+# genre = grammar-examples
+# dialect_group = central
+# location = Upper Bavaria
+1	Sie	_	PRON	_	_	5	nsubj	_	GermanLemma=sie
+2	häd	_	AUX	_	_	5	aux	_	GermanLemma=haben
+3	ihre	_	DET	_	_	4	det:poss	_	GermanLemma=ihr
+4	Hoar	_	NOUN	_	_	5	obj	_	GermanLemma=Haar
+5	macha	_	VERB	_	_	0	root	_	GermanLemma=machen
+6	soin	_	AUX	_	_	5	aux	_	GermanLemma=sollen|SpaceAfter=No
+7	,	_	PUNCT	_	_	18	punct	_	GermanLemma=,
+8	aber	_	CCONJ	_	_	18	cc	_	GermanLemma=aber
+9	hod	_	AUX	_	_	18	aux	_	GermanLemma=haben|SpaceAfter=No
+10	s	_	PRON	_	_	18	obj	_	GermanLemma=es
+11	aus	_	ADP	_	_	13	case	_	GermanLemma=aus
+12	irgendoam	_	DET	_	_	13	det	_	GermanLemma=irgendein
+13	Grund	_	NOUN	_	_	18	obl	_	GermanLemma=Grund
+14	an	_	ADP	_	_	16	case	_	GermanLemma=an
+15	dem	_	DET	_	_	16	det	_	GermanLemma=der
+16	Dog	_	NOUN	_	_	18	obl	_	GermanLemma=Tag
+17	ned	_	PART	_	_	18	advmod	_	GermanLemma=nicht
+18	gmacht	_	VERB	_	_	5	conj	_	GermanLemma=machen|SpaceAfter=No
+19	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_6896804
+# text = Da Thomas foahrt mitn Radl aufm Gehsteig.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/6896804
+# author = brauchinet
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Thomas	_	PROPN	_	_	3	nsubj	_	GermanLemma=Thomas
+3	foahrt	_	VERB	_	_	0	root	_	GermanLemma=fahren
+4-5	mitn	_	_	_	_	_	_	_	_
+4	mit	_	ADP	_	_	6	case	_	GermanLemma=mit
+5	n	_	DET	_	_	6	det	_	GermanLemma=das
+6	Radl	_	NOUN	_	_	3	obl	_	GermanLemma=Rad
+7-8	aufm	_	_	_	_	_	_	_	_
+7	auf	_	ADP	_	_	9	case	_	GermanLemma=auf
+8	m	_	DET	_	_	9	det	_	GermanLemma=der
+9	Gehsteig	_	NOUN	_	_	3	obl	_	GermanLemma=Gehsteig|SpaceAfter=No
+10	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Pronomen_32
+# text = Da Mo, deam sei Kotz oghaut is.
+# genre = grammar-examples
+# dialect_group = unk
+# location = unk
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pronomen)
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Mo	_	NOUN	_	_	0	root	_	GermanLemma=Mann|SpaceAfter=No
+3	,	_	PUNCT	_	_	7	punct	_	GermanLemma=,
+4	deam	_	PRON	_	_	7	obl:arg	_	GermanLemma=der
+5	sei	_	DET	_	_	6	det	_	GermanLemma=seine
+6	Kotz	_	NOUN	_	_	7	nsubj	_	GermanLemma=Katze
+7	oghaut	_	VERB	_	_	2	acl:relcl	_	GermanLemma=abhauen
+8	is	_	AUX	_	_	7	aux	_	GermanLemma=sein|SpaceAfter=No
+9	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Studentnfuada_4
+# text = Da Nam Studentnfuada kimmt dohea, dass oam des Zeigl beim Denga hejfa soi.
+# genre = wiki
+# dialect_group = southcentral
+# location = Bad Reichenhall
+# source = https://bar.wikipedia.org/wiki/Studentnfuada
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Nam	_	NOUN	_	_	4	nsubj	_	GermanLemma=Name
+3	Studentnfuada	_	NOUN	_	_	2	appos	_	GermanLemma=Studentenfutter
+4	kimmt	_	VERB	_	_	0	root	_	GermanLemma=kommen
+5	dohea	_	ADP	_	_	4	compound:prt	_	GermanLemma=daher|SpaceAfter=No
+6	,	_	PUNCT	_	_	14	punct	_	GermanLemma=,
+7	dass	_	SCONJ	_	_	14	mark	_	GermanLemma=dass
+8	oam	_	PRON	_	_	14	obl:arg	_	GermanLemma=einer
+9	des	_	DET	_	_	10	det	_	GermanLemma=das
+10	Zeigl	_	NOUN	_	_	14	nsubj	_	GermanLemma=Zeug
+11-12	beim	_	_	_	_	_	_	_	_
+11	bei	_	ADP	_	_	13	case	_	GermanLemma=bei
+12	m	_	DET	_	_	13	det	_	GermanLemma=das
+13	Denga	_	NOUN	_	_	14	obl	_	GermanLemma=Denken
+14	hejfa	_	VERB	_	_	4	advcl	_	GermanLemma=helfen
+15	soi	_	AUX	_	_	14	aux	_	GermanLemma=sollen|SpaceAfter=No
+16	.	_	PUNCT	_	_	4	punct	_	GermanLemma=.
+
+# sent_id = wiki_Haberertanz_3
+# text = Er soi um 1900 entstandn sein und wiard nua vo Burschn tanzt.
+# genre = wiki
+# dialect_group = unk (central/southcentral/south)
+# location = Upper Bavaria
+# source = https://bar.wikipedia.org/wiki/Haberertanz
+1	Er	_	PRON	_	_	5	nsubj	_	GermanLemma=er
+2	soi	_	AUX	_	_	5	aux	_	GermanLemma=sollen
+3	um	_	ADP	_	_	4	case	_	GermanLemma=um
+4	1900	_	NUM	_	_	5	obl	_	GermanLemma=1900
+5	entstandn	_	VERB	_	_	0	root	_	GermanLemma=entstehen
+6	sein	_	AUX	_	_	5	aux	_	GermanLemma=sein
+7	und	_	CCONJ	_	_	12	cc	_	GermanLemma=und
+8	wiard	_	AUX	_	_	12	aux:pass	_	GermanLemma=werden
+9	nua	_	ADV	_	_	12	advmod	_	GermanLemma=nur
+10	vo	_	ADP	_	_	11	case	_	GermanLemma=von
+11	Burschn	_	NOUN	_	_	12	obl:agent	_	GermanLemma=Bursche/Junge
+12	tanzt	_	VERB	_	_	5	conj	_	GermanLemma=tanzen|SpaceAfter=No
+13	.	_	PUNCT	_	_	5	punct	_	GermanLemma=.
+
+# sent_id = wiki_Dazzlwuam_13
+# text = Dafia schbrechn foigende Argument:
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = East Austria
+# source = https://bar.wikipedia.org/wiki/Dazzlwuam
+1	Dafia	_	ADP	_	_	2	compound:prt	_	GermanLemma=Dafür
+2	schbrechn	_	VERB	_	_	0	root	_	GermanLemma=sprechen
+3	foigende	_	ADJ	_	_	4	amod	_	GermanLemma=folgend
+4	Argument	_	NOUN	_	_	2	nsubj	_	GermanLemma=Argument|SpaceAfter=No
+5	:	_	PUNCT	_	_	2	punct	_	GermanLemma=:
+
+# sent_id = wiki_Haferltarock_23
+# text = Des gejt in Fimfaschrittn aso zou.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Des	_	PRON	_	_	2	nsubj	_	GermanLemma=das
+2	gejt	_	VERB	_	_	0	root	_	GermanLemma=gehen
+3	in	_	ADP	_	_	4	case	_	GermanLemma=in
+4	Fimfaschrittn	_	NOUN	_	_	2	obl	_	GermanLemma=Fünferschritt
+5	aso	_	ADV	_	_	2	advmod	_	GermanLemma=so
+6	zou	_	PART	_	_	2	mark	_	GermanLemma=zu|SpaceAfter=No
+7	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-ba_test_77
+# text = Lösch alle meine Erinnerungen.
+# genre = non-fiction
+# dialect_group = central
+# location = Upper Bavaria
+1	Lösch	_	VERB	_	_	0	root	_	GermanLemma=löschen
+2	alle	_	DET	_	_	4	det	_	GermanLemma=alle
+3	meine	_	DET	_	_	4	det:poss	_	GermanLemma=meine
+4	Erinnerungen	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung|SpaceAfter=No
+5	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wiki_Obwaller_4
+# text = Da Nom Obwaller is a im Nationalsozialismus efta auftaucht, wei einige Nazis so koassn homb.
+# genre = wiki
+# dialect_group = southcentral
+# location = Pinzgau
+# source = https://bar.wikipedia.org/wiki/Obwaller
+1	Da	_	DET	_	_	2	det	_	GermanLemma=der
+2	Nom	_	NOUN	_	_	10	nsubj	_	GermanLemma=Name
+3	Obwaller	_	PROPN	_	_	2	appos	_	GermanLemma=Obwaller
+4	is	_	AUX	_	_	10	aux	_	GermanLemma=sein
+5	a	_	ADV	_	_	10	advmod	_	GermanLemma=auch
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	ADP	_	_	8	case	_	GermanLemma=in
+7	m	_	DET	_	_	8	det	_	GermanLemma=der
+8	Nationalsozialismus	_	NOUN	_	_	10	obl	_	GermanLemma=Nationalsozialismus
+9	efta	_	ADV	_	_	10	advmod	_	GermanLemma=öfter
+10	auftaucht	_	VERB	_	_	0	root	_	GermanLemma=auftauchen|SpaceAfter=No
+11	,	_	PUNCT	_	_	16	punct	_	GermanLemma=,
+12	wei	_	SCONJ	_	_	16	mark	_	GermanLemma=weil
+13	einige	_	DET	_	_	14	det	_	GermanLemma=einige
+14	Nazis	_	NOUN	_	_	16	nsubj	_	GermanLemma=Nazi
+15	so	_	ADV	_	_	16	advmod	_	GermanLemma=so
+16	koassn	_	VERB	_	_	10	advcl	_	GermanLemma=heißen
+17	homb	_	AUX	_	_	16	aux	_	GermanLemma=haben|SpaceAfter=No
+18	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
+
+# sent_id = xsid_de-st_valid_121
+# text = Lesch die Erinnerung firs Treffen in der Hitte
+# text_en = Cancel the reminder for the meeting at the lodge
+# genre = non-fiction
+# dialect_group = south
+# location = South Tyrol
+1	Lesch	_	VERB	_	_	0	root	_	GermanLemma=löschen
+2	die	_	DET	_	_	3	det	_	GermanLemma=die
+3	Erinnerung	_	NOUN	_	_	1	obj	_	GermanLemma=Erinnerung
+4-5	firs	_	_	_	_	_	_	_	_
+4	fir	_	ADP	_	_	6	case	_	GermanLemma=für
+5	s	_	DET	_	_	6	det	_	GermanLemma=das
+6	Treffen	_	NOUN	_	_	3	nmod	_	GermanLemma=Treffen
+7	in	_	ADP	_	_	9	case	_	GermanLemma=in
+8	der	_	DET	_	_	9	det	_	GermanLemma=die
+9	Hitte	_	NOUN	_	_	6	nmod	_	GermanLemma=Hütte
+
+# sent_id = wiki_Walsch_20
+# text = Unter der "Walschn Kronkatkat" versteaht man in der oltn Viechmedizin a gferlichs Kopfkatarr va die Rinder.
+# genre = wiki
+# dialect_group = south
+# location = South Tyrol
+# source = https://bar.wikipedia.org/wiki/Walsch
+1	Unter	_	ADP	_	_	5	case	_	GermanLemma=unter
+2	der	_	DET	_	_	5	det	_	GermanLemma=der
+3	"	_	PUNCT	_	_	5	punct	_	GermanLemma="|SpaceAfter=No
+4	Walschn	_	ADJ	_	_	5	amod	_	GermanLemma=walsch
+5	Kronkatkat	_	NOUN	_	_	7	obl	_	GermanLemma=<unknown>|SpaceAfter=No
+6	"	_	PUNCT	_	_	5	punct	_	GermanLemma="
+7	versteaht	_	VERB	_	_	0	root	_	GermanLemma=verstehen
+8	man	_	PRON	_	_	7	nsubj	_	GermanLemma=man
+9	in	_	ADP	_	_	12	case	_	GermanLemma=in
+10	der	_	DET	_	_	12	det	_	GermanLemma=die
+11	oltn	_	ADJ	_	_	12	amod	_	GermanLemma=alt
+12	Viechmedizin	_	NOUN	_	_	7	obl	_	GermanLemma=Tiermedizin
+13	a	_	DET	_	_	15	det	_	GermanLemma=ein
+14	gferlichs	_	ADJ	_	_	15	amod	_	GermanLemma=gefährlich
+15	Kopfkatarr	_	NOUN	_	_	7	obj	_	GermanLemma=Kopfkatarr
+16	va	_	ADP	_	_	18	case	_	GermanLemma=von
+17	die	_	DET	_	_	18	det	_	GermanLemma=das
+18	Rinder	_	NOUN	_	_	15	nmod	_	GermanLemma=Rind|SpaceAfter=No
+19	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_227
+# text = Bewerte des neie Buach vo da Moyes mit 4 Sterne
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Bewerte	_	VERB	_	_	0	root	_	GermanLemma=bewerten
+2	des	_	DET	_	_	4	det	_	GermanLemma=das
+3	neie	_	ADJ	_	_	4	amod	_	GermanLemma=neu
+4	Buach	_	NOUN	_	_	1	obj	_	GermanLemma=Buch
+5	vo	_	ADP	_	_	7	case	_	GermanLemma=von
+6	da	_	DET	_	_	7	det	_	GermanLemma=die
+7	Moyes	_	PROPN	_	_	4	nmod	_	GermanLemma=Moyes
+8	mit	_	ADP	_	_	10	case	_	GermanLemma=mit
+9	4	_	NUM	_	_	10	nummod	_	GermanLemma=4
+10	Sterne	_	NOUN	_	_	1	obl	_	GermanLemma=Stern
+
+# sent_id = wiki_Sauschädelstöhln_6
+# text = Danoch gibts beim Durfwirtn de Grichtsvahaundlung, dazua wird vurhea da Vursitzende Rod (Richta) bstimmt.
+# genre = wiki
+# dialect_group = unk (southcentral/south)
+# location = Styria
+# source = https://bar.wikipedia.org/wiki/Sausch%C3%A4delst%C3%B6hln
+1	Danoch	_	ADV	_	_	2	advmod	_	GermanLemma=danach
+2	gibt	_	VERB	_	_	0	root	_	GermanLemma=geben|SpaceAfter=No
+3	s	_	PRON	_	_	2	expl	_	GermanLemma=es
+4-5	beim	_	_	_	_	_	_	_	_
+4	bei	_	ADP	_	_	6	case	_	GermanLemma=bei
+5	m	_	DET	_	_	6	det	_	GermanLemma=der
+6	Durfwirtn	_	NOUN	_	_	2	obl	_	GermanLemma=Dorfwirt
+7	de	_	DET	_	_	8	det	_	GermanLemma=die
+8	Grichtsvahaundlung	_	NOUN	_	_	2	obj	_	GermanLemma=Gerichtsverhandlung|SpaceAfter=No
+9	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
+10	dazua	_	ADV	_	_	19	advmod	_	GermanLemma=dazu
+11	wird	_	AUX	_	_	19	aux:pass	_	GermanLemma=werden
+12	vurhea	_	ADV	_	_	19	advmod	_	GermanLemma=vorher
+13	da	_	DET	_	_	15	det	_	GermanLemma=der
+14	Vursitzende	_	ADJ	_	_	15	amod	_	GermanLemma=vorsitzend
+15	Rod	_	NOUN	_	_	19	nsubj	_	GermanLemma=Rat
+16	(	_	PUNCT	_	_	17	punct	_	GermanLemma=(|SpaceAfter=No
+17	Richta	_	NOUN	_	_	15	appos	_	GermanLemma=Richter|SpaceAfter=No
+18	)	_	PUNCT	_	_	17	punct	_	GermanLemma=)
+19	bstimmt	_	VERB	_	_	2	advcl	_	GermanLemma=bestimmen|SpaceAfter=No
+20	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = wiki_Webseitn_4
+# text = De Basissproch bei da Eastellung vo Netzseitn is HTML.
+# genre = wiki
+# dialect_group = unk (central/southcentral)
+# location = South East Upper Bavaria
+# source = https://bar.wikipedia.org/wiki/Webseitn
+1	De	_	DET	_	_	2	det	_	GermanLemma=die
+2	Basissproch	_	NOUN	_	_	0	root	_	GermanLemma=Basissprache
+3	bei	_	ADP	_	_	5	case	_	GermanLemma=bei
+4	da	_	DET	_	_	5	det	_	GermanLemma=die
+5	Eastellung	_	NOUN	_	_	2	nmod	_	GermanLemma=Erstellung
+6	vo	_	ADP	_	_	7	case	_	GermanLemma=von
+7	Netzseitn	_	NOUN	_	_	5	nmod	_	GermanLemma=Netzseite
+8	is	_	AUX	_	_	2	cop	_	GermanLemma=sein
+9	HTML	_	PROPN	_	_	2	nsubj	_	GermanLemma=HTML|SpaceAfter=No
+10	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_226
+# text = bewert des Buach "der Märchenerzähler" mit 5 Sternen.
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	bewert	_	VERB	_	_	0	root	_	GermanLemma=bewerten
+2	des	_	DET	_	_	3	det	_	GermanLemma=das
+3	Buach	_	NOUN	_	_	1	obj	_	GermanLemma=Buch
+4	"	_	PUNCT	_	_	6	punct	_	GermanLemma="|SpaceAfter=No
+5	der	_	DET	_	_	6	det	_	GermanLemma=der
+6	Märchenerzähler	_	NOUN	_	_	3	appos	_	GermanLemma=Märchenerzähler|SpaceAfter=No
+7	"	_	PUNCT	_	_	6	punct	_	GermanLemma="
+8	mit	_	ADP	_	_	10	case	_	GermanLemma=mit
+9	5	_	NUM	_	_	10	nummod	_	GermanLemma=5
+10	Sternen	_	NOUN	_	_	1	obl	_	GermanLemma=Stern|SpaceAfter=No
+11	.	_	PUNCT	_	_	1	punct	_	GermanLemma=.
+
+# sent_id = wikisample_Boarische-Grammatik-Präpositiona_53
+# text = Vo Låndshout å bin'e schnöller gforn.
+# genre = grammar-examples
+# dialect_group = north
+# location = Western North Bavarian area
+# source = https://bar.wikipedia.org/wiki/Boarische_Grammatik_(Pr%C3%A4positiona)
+1	Vo	_	ADP	_	_	2	case	_	GermanLemma=von
+2	Låndshout	_	PROPN	_	_	7	obl	_	GermanLemma=Landshut
+3	å	_	ADP	_	_	2	case	_	GermanLemma=an
+4	bin	_	AUX	_	_	7	aux	_	GermanLemma=sein|SpaceAfter=No
+5	'e	_	PRON	_	_	7	nsubj	_	GermanLemma=ich
+6	schnöller	_	ADJ	_	_	7	advmod	_	GermanLemma=schnell
+7	gforn	_	VERB	_	_	0	root	_	GermanLemma=fahren|SpaceAfter=No
+8	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_241
+# text = Wo werd grod Romeo und Julia im Theater gspuit
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	Wo	_	ADV	_	_	10	advmod	_	GermanLemma=wo
+2	werd	_	AUX	_	_	10	aux	_	GermanLemma=werden
+3	grod	_	ADV	_	_	10	advmod	_	GermanLemma=gerade
+4	Romeo	_	PROPN	_	_	10	nsubj	_	GermanLemma=Romeo
+5	und	_	CCONJ	_	_	6	cc	_	GermanLemma=und
+6	Julia	_	PROPN	_	_	4	conj	_	GermanLemma=Julia
+7-8	im	_	_	_	_	_	_	_	_
+7	i	_	ADP	_	_	9	case	_	GermanLemma=in
+8	m	_	DET	_	_	9	det	_	GermanLemma=das
+9	Theater	_	NOUN	_	_	10	obl	_	GermanLemma=Theater
+10	gspuit	_	VERB	_	_	0	root	_	GermanLemma=spielen
+
+# sent_id = wiki_Studentnfuada_8
+# text = Insgsomt soagt des fira schnälle, oohoitnde Leistungssteigarung, ohne doss da Keapa vo zvui Vadaungsarbat belost werad.
+# genre = wiki
+# dialect_group = southcentral
+# location = Bad Reichenhall
+# source = https://bar.wikipedia.org/wiki/Studentnfuada
+1	Insgsomt	_	ADV	_	_	2	advmod	_	GermanLemma=insgesamt
+2	soagt	_	VERB	_	_	0	root	_	GermanLemma=sorgen
+3	des	_	PRON	_	_	2	nsubj	_	GermanLemma=das
+4	fir	_	ADP	_	_	9	case	_	GermanLemma=für|SpaceAfter=No
+5	a	_	DET	_	_	9	det	_	GermanLemma=eine
+6	schnälle	_	ADJ	_	_	9	amod	_	GermanLemma=schnell|SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
+8	oohoitnde	_	ADJ	_	_	9	amod	_	GermanLemma=anhaltend
+9	Leistungssteigarung	_	NOUN	_	_	2	obl	_	GermanLemma=Leistungssteigerung|SpaceAfter=No
+10	,	_	PUNCT	_	_	19	punct	_	GermanLemma=,
+11	ohne	_	SCONJ	_	_	19	mark	_	GermanLemma=ohne
+12	doss	_	SCONJ	_	_	19	mark	_	GermanLemma=dass
+13	da	_	DET	_	_	14	det	_	GermanLemma=der
+14	Keapa	_	NOUN	_	_	19	nsubj:pass	_	GermanLemma=Körper
+15	vo	_	ADP	_	_	18	case	_	GermanLemma=von
+16	z	_	ADV	_	_	17	advmod	_	GermanLemma=zu|SpaceAfter=No
+17	vui	_	DET	_	_	18	det	_	GermanLemma=viel
+18	Vadaungsarbat	_	NOUN	_	_	19	obl:agent	_	GermanLemma=Verdauungsarbeit
+19	belost	_	VERB	_	_	2	advcl	_	GermanLemma=belasten
+20	werad	_	AUX	_	_	19	aux:pass	_	GermanLemma=werden|SpaceAfter=No
+21	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+
+# sent_id = sid_de-ba_natural_19
+# text = reservierst ma bitte an Disch im Zeitlos fürn Brunch?
+# genre = non-fiction
+# dialect_group = unk (central/southcentral/south)
+# location = unk
+1	reservierst	_	VERB	_	_	0	root	_	GermanLemma=reservieren
+2	ma	_	PRON	_	_	1	obl:arg	_	GermanLemma=ich
+3	bitte	_	ADV	_	_	1	advmod	_	GermanLemma=bitte
+4	an	_	DET	_	_	5	det	_	GermanLemma=ein
+5	Disch	_	NOUN	_	_	1	obj	_	GermanLemma=Tisch
+6-7	im	_	_	_	_	_	_	_	_
+6	i	_	ADP	_	_	8	case	_	GermanLemma=in
+7	m	_	DET	_	_	8	det	_	GermanLemma=das
+8	Zeitlos	_	NOUN	_	_	5	nmod	_	GermanLemma=Zeitlos
+9-10	fürn	_	_	_	_	_	_	_	_
+9	für	_	ADP	_	_	11	case	_	GermanLemma=für
+10	n	_	DET	_	_	11	det	_	GermanLemma=der
+11	Brunch	_	NOUN	_	_	5	nmod	_	GermanLemma=Brunch|SpaceAfter=No
+12	?	_	PUNCT	_	_	1	punct	_	GermanLemma=?
+
+# sent_id = wiki_Haferltarock_17
+# text = Wenn koana spuin wui wiad zamgschmissn und da naxde mou gem.
+# genre = wiki
+# dialect_group = northcentral
+# location = Bavarian Forest
+# source = https://bar.wikipedia.org/wiki/Haferltarock
+1	Wenn	_	ADV	_	_	3	advmod	_	GermanLemma=wenn
+2	koana	_	DET	_	_	3	nsubj	_	GermanLemma=keiner
+3	spuin	_	VERB	_	_	0	root	_	GermanLemma=spielen
+4	wui	_	AUX	_	_	3	aux	_	GermanLemma=wollen
+5	wiad	_	AUX	_	_	6	aux	_	GermanLemma=werden
+6	zamgschmissn	_	VERB	_	_	3	conj	_	GermanLemma=zusammenschmeißen
+7	und	_	CCONJ	_	_	11	cc	_	GermanLemma=und
+8	da	_	DET	_	_	9	det	_	GermanLemma=der
+9	naxde	_	ADJ	_	_	11	nsubj	_	GermanLemma=nah
+10	mou	_	AUX	_	_	11	aux	_	GermanLemma=müssen
+11	gem	_	VERB	_	_	6	conj	_	GermanLemma=geben|SpaceAfter=No
+12	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
+
+# sent_id = wiki_J-Pop_8
+# text = Im deitschschbrouchign Raum is J-Pop vorajm bai Anime-Fans populer.
+# genre = wiki
+# dialect_group = north
+# location = unk
+# source = https://bar.wikipedia.org/wiki/J-Pop
+1-2	Im	_	_	_	_	_	_	_	_
+1	I	_	ADP	_	_	4	case	_	GermanLemma=in
+2	m	_	DET	_	_	4	det	_	GermanLemma=der
+3	deitschschbrouchign	_	ADJ	_	_	4	amod	_	GermanLemma=deutschsprachig
+4	Raum	_	NOUN	_	_	11	obl	_	GermanLemma=Raum
+5	is	_	AUX	_	_	11	cop	_	GermanLemma=sein
+6	J-Pop	_	PROPN	_	_	11	nsubj	_	GermanLemma=J-Pop
+7-8	vorajm	_	_	_	_	_	_	_	_
+7	vor	_	ADP	_	_	8	case	_	GermanLemma=vor
+8	ajm	_	DET	_	_	11	obl	_	GermanLemma=allem
+9	bai	_	ADP	_	_	10	case	_	GermanLemma=bei
+10	Anime-Fans	_	NOUN	_	_	11	obl	_	GermanLemma=Anime-Fan
+11	populer	_	ADJ	_	_	0	root	_	GermanLemma=populär|SpaceAfter=No
+12	.	_	PUNCT	_	_	11	punct	_	GermanLemma=.
+
+# sent_id = tatoeba_7154447
+# text = Glei gib i s'da.
+# genre = grammar-examples
+# dialect_group = unk (central/southcentral/south)
+# location = Austria
+# source = https://tatoeba.org/en/sentences/show/7154447
+# author = brauchinet
+1	Glei	_	ADV	_	_	2	advmod	_	GermanLemma=gleich
+2	gib	_	VERB	_	_	0	root	_	GermanLemma=geben
+3	i	_	PRON	_	_	2	nsubj	_	GermanLemma=ich
+4	s'	_	PRON	_	_	2	obj	_	GermanLemma=es|SpaceAfter=No
+5	da	_	PRON	_	_	2	obl:arg	_	GermanLemma=du|SpaceAfter=No
+6	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
+

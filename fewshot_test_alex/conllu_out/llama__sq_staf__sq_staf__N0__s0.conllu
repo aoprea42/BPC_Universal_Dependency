@@ -1,0 +1,442 @@
+# sent_id = STAF__5
+# text = - Ma thirr këtu!
+1	-	_	_	_	_	0	root	_	_
+2-3	Ma	_	_	_	_	_	_	_	_
+2	Më	_	_	_	_	1	dep	_	_
+3	e	_	_	_	_	1	dep	_	_
+4	thirr	_	_	_	_	1	dep	_	_
+5	këtu	_	_	_	_	1	dep	_	_
+6	!	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__165
+# text = Pastaj unë nuk kisha se si të kërkoja një festë, absolutisht jo.
+1	Pastaj	_pastaj_	ADV	_	_	0	root	_	_
+2	unë	unë	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	nuk	nuk	PART	_	_	4	advmod	_	_
+4	kisha	kam	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	aux	_	_
+5	se	se	SCONJ	_	_	6	mark	_	_
+6	si	të	PART	_	_	7	mark	_	_
+7	të	kërkoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	xcomp	_	_
+8	kërkoja	një	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	një	festë	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	_
+10	festë	absolutisht	ADV	_	_	11	advmod	_	_
+11	,	jo	PART	_	_	7	advmod	_	_
+12	absolutisht	.	PUNCT	_	_	1	punct	_	_
+13	jo	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__154
+# text = E kuptova sakaq: ajo kishte veshur një fustan të ri dhe Ernesti po i mbërthente zinxhirin nga pas.
+1	E	_	_	_	_	0	root	_	_
+2	kuptova	_	_	_	_	1	dep	_	_
+3	sakaq	_	_	_	_	1	dep	_	_
+4	:	_	_	_	_	1	dep	_	_
+5	ajo	_	_	_	_	1	dep	_	_
+6	kishte	_	_	_	_	1	dep	_	_
+7	veshur	_	_	_	_	1	dep	_	_
+8	një	_	_	_	_	1	dep	_	_
+9	fustan	_	_	_	_	1	dep	_	_
+10	të	_	_	_	_	1	dep	_	_
+11	ri	_	_	_	_	1	dep	_	_
+12	dhe	_	_	_	_	1	dep	_	_
+13	Ernesti	_	_	_	_	1	dep	_	_
+14	po	_	_	_	_	1	dep	_	_
+15	i	_	_	_	_	1	dep	_	_
+16	mbërthente	_	_	_	_	1	dep	_	_
+17	zinxhirin	_	_	_	_	1	dep	_	_
+18	nga	_	_	_	_	1	dep	_	_
+19	pas	_	_	_	_	1	dep	_	_
+20	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__4
+# text = Unë ia luajta syrin dhe prisha fytyrën për t'i dhënë shenjë të heshtte.
+1	Unë	_	_	_	_	0	root	_	_
+2-3	ia	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	1	dep	_	_
+3	e	_	_	_	_	1	dep	_	_
+4	luajta	_	_	_	_	1	dep	_	_
+5	syrin	_	_	_	_	1	dep	_	_
+6	dhe	_	_	_	_	1	dep	_	_
+7	prisha	_	_	_	_	1	dep	_	_
+8	fytyrën	_	_	_	_	1	dep	_	_
+9	për	_	_	_	_	1	dep	_	_
+10-11	t'i	_	_	_	_	_	_	_	_
+10	të	_	_	_	_	1	dep	_	_
+11	i	_	_	_	_	1	dep	_	_
+12	dhënë	_	_	_	_	1	dep	_	_
+13	shenjë	_	_	_	_	1	dep	_	_
+14	të	_	_	_	_	1	dep	_	_
+15	heshtte	_	_	_	_	1	dep	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__144_145
+# text = – Çfarë është kjo? – pyeti instinktivisht Ernesti, ndërsa buzëqeshte.
+1	–	_	_	_	_	0	root	_	_
+2	Çfarë	Çfarë	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	është	kështu	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+4	kjo	kjo	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	_
+5	?	?	PUNCT	PUNCT	_	1	punct	_	_
+6	–	pyete	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+7	pyeti	instinktivisht	ADV	ADV	_	6	advmod	_	_
+8	instinktivisht	Ernesti	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+9	Ernesti	,	PUNCT	PUNCT	_	10	punct	_	_
+10	,	ndërsa	CCONJ	CCONJ	_	6	cc	_	_
+11	ndërsa	buzëqeshte	ADV	ADV	_	10	advmod	_	_
+12	buzëqeshte	.	PUNCT	PUNCT	_	1	punct	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__101
+# text = Por, edhe sikur në librin që kishte lexuar të shkruhej se në Shqipëri vjeshta ishte e thatë, atij nuk do t'i dukej ky shi i papritur.
+1	Por	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3	edhe	_	_	_	_	1	dep	_	_
+4	sikur	_	_	_	_	1	dep	_	_
+5	në	_	_	_	_	1	dep	_	_
+6	librin	_	_	_	_	1	dep	_	_
+7	që	_	_	_	_	1	dep	_	_
+8	kishte	_	_	_	_	1	dep	_	_
+9	lexuar	_	_	_	_	1	dep	_	_
+10	të	_	_	_	_	1	dep	_	_
+11	shkruhej	_	_	_	_	1	dep	_	_
+12	se	_	_	_	_	1	dep	_	_
+13	në	_	_	_	_	1	dep	_	_
+14	Shqipëri	_	_	_	_	1	dep	_	_
+15	vjeshta	_	_	_	_	1	dep	_	_
+16	ishte	_	_	_	_	1	dep	_	_
+17	e	_	_	_	_	1	dep	_	_
+18	thatë	_	_	_	_	1	dep	_	_
+19	,	_	_	_	_	1	dep	_	_
+20	atij	_	_	_	_	1	dep	_	_
+21	nuk	_	_	_	_	1	dep	_	_
+22	do	_	_	_	_	1	dep	_	_
+23-24	t'i	_	_	_	_	_	_	_	_
+23	të	_	_	_	_	1	dep	_	_
+24	i	_	_	_	_	1	dep	_	_
+25	dukej	_	_	_	_	1	dep	_	_
+26	ky	_	_	_	_	1	dep	_	_
+27	shi	_	_	_	_	1	dep	_	_
+28	i	_	_	_	_	1	dep	_	_
+29	papritur	_	_	_	_	1	dep	_	_
+30	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__1
+# text = Ai ma kishte marrë nga xhepi kutinë e kishte filluar të pinte duhan.
+1	Ai	_	_	_	_	0	root	_	_
+2-3	ma	_	_	_	_	_	_	_	_
+2	më	_	_	_	_	1	dep	_	_
+3	e	_	_	_	_	1	dep	_	_
+4	kishte	_	_	_	_	1	dep	_	_
+5	marrë	_	_	_	_	1	dep	_	_
+6	nga	_	_	_	_	1	dep	_	_
+7	xhepi	_	_	_	_	1	dep	_	_
+8	kutinë	_	_	_	_	1	dep	_	_
+9	e	_	_	_	_	1	dep	_	_
+10	kishte	_	_	_	_	1	dep	_	_
+11	filluar	_	_	_	_	1	dep	_	_
+12	të	_	_	_	_	1	dep	_	_
+13	pinte	_	_	_	_	1	dep	_	_
+14	duhan	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__177
+# text = Le të jetë emri që ia keni vënë bonum omen i fatit të tij të ardhshëm.
+1	Le	_	_	_	_	0	root	_	_
+2	të	_	_	_	_	1	dep	_	_
+3	jetë	_	_	_	_	1	dep	_	_
+4	emri	_	_	_	_	1	dep	_	_
+5	që	_	_	_	_	1	dep	_	_
+6-7	ia	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	1	dep	_	_
+7	e	_	_	_	_	1	dep	_	_
+8	keni	_	_	_	_	1	dep	_	_
+9	vënë	_	_	_	_	1	dep	_	_
+10	bonum	_	_	_	_	1	dep	_	_
+11	omen	_	_	_	_	1	dep	_	_
+12	i	_	_	_	_	1	dep	_	_
+13	fatit	_	_	_	_	1	dep	_	_
+14	të	_	_	_	_	1	dep	_	_
+15	tij	_	_	_	_	1	dep	_	_
+16	të	_	_	_	_	1	dep	_	_
+17	ardhshëm	_	_	_	_	1	dep	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__170
+# text = Befasia, që na shkakton mysafiri me pyetjen e parë shumëfishohet kur e bën pyetjen tjetër:
+1	Befasia	_befasia	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	,	_që	SCONJ	_	_	3	mark	_	_
+3	që	_na	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+4	na	_shkaktoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	shkakton	mysafir	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	dobj	_	_
+6	mysafiri	me	ADP	_	_	7	case	_	_
+7	me	pyete	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	nmod	_	_
+8	pyetjen	e	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	e	përshëndetje	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
+10	parë	e	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	shumëfishohet	përshëndetje	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	9	nmod	_	_
+12	kur	shumëfishohet	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+13	e	kur	SCONJ	_	_	14	mark	_	_
+14	bën	bëj	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+15	pyetjen	pyete	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	14	dobj	_	_
+16	tjetër	tjetër	ADJ	_	_	15	amod	_	_
+17	:	_	_	_	_	4	dep	_	_
+
+# sent_id = STAF__153
+# text = Ish gruaja e tij ishte pak skiç në krahasim me pasqyrën dhe shikonte pasqyrimin e vet në pasqyrë, ndërsa Ernesti ishte pas saj, buzëqeshte dhe diç i bënte në kurriz.
+1	Ish	_	_	_	_	7	dep	_	_
+2	gruaja	_	_	_	_	7	dep	_	_
+3	e	_	_	_	_	7	dep	_	_
+4	tij	grua	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nsubj	_	_
+5	ishte	_	_	_	_	7	dep	_	_
+6	pak	pasqyrë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	nmod:poss	_	_
+7	skiç	shikoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	në	pasqyrë	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	_
+9	krahasim	_	_	_	_	7	dep	_	_
+10	me	pasqyrë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	obj	_	_
+11	pasqyrën	ndërsa	SCONJ	_	_	12	mark	_	_
+12	dhe	Ernesti	PROPN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	shikonte	_	_	_	_	7	dep	_	_
+14	pasqyrimin	_	_	_	_	7	dep	_	_
+15	e	buzëqesh	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	dep	_	_
+16	vet	diç	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	dep	_	_
+17	në	bëj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	dep	_	_
+18	pasqyrë	bëj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	advcl	_	_
+19	,	kurriz	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	17	obj	_	_
+20	ndërsa	.	PUNCT	_	_	7	punct	_	_
+21	Ernesti	_	_	_	_	7	dep	_	_
+22	ishte	_	_	_	_	7	dep	_	_
+23	pas	_	_	_	_	7	dep	_	_
+24	saj	_	_	_	_	7	dep	_	_
+25	,	_	_	_	_	7	dep	_	_
+26	buzëqeshte	_	_	_	_	7	dep	_	_
+27	dhe	_	_	_	_	7	dep	_	_
+28	diç	_	_	_	_	7	dep	_	_
+29	i	_	_	_	_	7	dep	_	_
+30	bënte	_	_	_	_	7	dep	_	_
+31	në	_	_	_	_	7	dep	_	_
+32	kurriz	_	_	_	_	7	dep	_	_
+33	.	_	_	_	_	7	dep	_	_
+
+# sent_id = STAF__64
+# text = Kur hapa sytë dhe vura re në sytë e saj pika loti, desha ta pyesja ç'i kishte ata lot.
+1	Kur	_	_	_	_	0	root	_	_
+2	hapa	_	_	_	_	1	dep	_	_
+3	sytë	_	_	_	_	1	dep	_	_
+4	dhe	_	_	_	_	1	dep	_	_
+5	vura	_	_	_	_	1	dep	_	_
+6	re	_	_	_	_	1	dep	_	_
+7	në	_	_	_	_	1	dep	_	_
+8	sytë	_	_	_	_	1	dep	_	_
+9	e	_	_	_	_	1	dep	_	_
+10	saj	_	_	_	_	1	dep	_	_
+11	pika	_	_	_	_	1	dep	_	_
+12	loti	_	_	_	_	1	dep	_	_
+13	,	_	_	_	_	1	dep	_	_
+14	desha	_	_	_	_	1	dep	_	_
+15-16	ta	_	_	_	_	_	_	_	_
+15	të	_	_	_	_	1	dep	_	_
+16	e	_	_	_	_	1	dep	_	_
+17	pyesja	_	_	_	_	1	dep	_	_
+18-19	ç'i	_	_	_	_	_	_	_	_
+18	ç'	_	_	_	_	1	dep	_	_
+19	i	_	_	_	_	1	dep	_	_
+20	kishte	_	_	_	_	1	dep	_	_
+21	ata	_	_	_	_	1	dep	_	_
+22	lot	_	_	_	_	1	dep	_	_
+23	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__137
+# text = Gjumit mbi të.
+1	Gjumit	_	_	_	_	0	root	_	_
+2	mbi	_	_	_	_	1	dep	_	_
+3	të	_	_	_	_	1	dep	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__55
+# text = Atëherë ne banonim ende në një apartament diku në një pallat nga zona e Varrit të Bamit dhe gjatë atyre muajve të një moskomunikimi të plotë unë s'mora vesh asgjë rreth tij, ndoshta dhe ai rreth meje.
+1	Atëherë	_	_	_	_	0	root	_	_
+2	ne	_	_	_	_	1	dep	_	_
+3	banonim	_	_	_	_	1	dep	_	_
+4	ende	_	_	_	_	1	dep	_	_
+5	në	_	_	_	_	1	dep	_	_
+6	një	_	_	_	_	1	dep	_	_
+7	apartament	_	_	_	_	1	dep	_	_
+8	diku	_	_	_	_	1	dep	_	_
+9	në	_	_	_	_	1	dep	_	_
+10	një	_	_	_	_	1	dep	_	_
+11	pallat	_	_	_	_	1	dep	_	_
+12	nga	_	_	_	_	1	dep	_	_
+13	zona	_	_	_	_	1	dep	_	_
+14	e	_	_	_	_	1	dep	_	_
+15	Varrit	_	_	_	_	1	dep	_	_
+16	të	_	_	_	_	1	dep	_	_
+17	Bamit	_	_	_	_	1	dep	_	_
+18	dhe	_	_	_	_	1	dep	_	_
+19	gjatë	_	_	_	_	1	dep	_	_
+20	atyre	_	_	_	_	1	dep	_	_
+21	muajve	_	_	_	_	1	dep	_	_
+22	të	_	_	_	_	1	dep	_	_
+23	një	_	_	_	_	1	dep	_	_
+24	moskomunikimi	_	_	_	_	1	dep	_	_
+25	të	_	_	_	_	1	dep	_	_
+26	plotë	_	_	_	_	1	dep	_	_
+27	unë	_	_	_	_	1	dep	_	_
+28-29	s'mora	_	_	_	_	_	_	_	_
+28	s'	_	_	_	_	1	dep	_	_
+29	mora	_	_	_	_	1	dep	_	_
+30	vesh	_	_	_	_	1	dep	_	_
+31	asgjë	_	_	_	_	1	dep	_	_
+32	rreth	_	_	_	_	1	dep	_	_
+33	tij	_	_	_	_	1	dep	_	_
+34	,	_	_	_	_	1	dep	_	_
+35	ndoshta	_	_	_	_	1	dep	_	_
+36	dhe	_	_	_	_	1	dep	_	_
+37	ai	_	_	_	_	1	dep	_	_
+38	rreth	_	_	_	_	1	dep	_	_
+39	meje	_	_	_	_	1	dep	_	_
+40	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__149
+# text = Atë ditë e mora vesh që meritën na e paskëshin pas ato fletët e bardha të lidhura në mënyrë profesionale.
+1	Atë	_	_	_	_	0	root	_	_
+2	ditë	_	_	_	_	1	dep	_	_
+3	e	vesh	VERB	_	VerbForm=Conv	2	xcomp	_	_
+4	mora	_	_	_	_	1	dep	_	_
+5	vesh	_	_	_	_	1	dep	_	_
+6	që	pas	ADP	_	AdpType=Post	7	case	_	_
+7	meritën	_	_	_	_	1	dep	_	_
+8	na	_	_	_	_	1	dep	_	_
+9	e	_	_	_	_	1	dep	_	_
+10	paskëshin	_	_	_	_	1	dep	_	_
+11	pas	profesional	ADJ	_	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+12	ato	.	PUNCT	_	_	2	punct	_	_
+13	fletët	_	_	_	_	1	dep	_	_
+14	e	_	_	_	_	1	dep	_	_
+15	bardha	_	_	_	_	1	dep	_	_
+16	të	_	_	_	_	1	dep	_	_
+17	lidhura	_	_	_	_	1	dep	_	_
+18	në	_	_	_	_	1	dep	_	_
+19	mënyrë	_	_	_	_	1	dep	_	_
+20	profesionale	_	_	_	_	1	dep	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__141
+# text = – Kjo është për ty, – tha, duke ia zgjatur Ernestit.
+1	–	_	_	_	_	0	root	_	_
+2	Kjo	_	_	_	_	1	dep	_	_
+3	është	_	_	_	_	1	dep	_	_
+4	për	_	_	_	_	1	dep	_	_
+5	ty	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	–	_	_	_	_	1	dep	_	_
+8	tha	_	_	_	_	1	dep	_	_
+9	,	_	_	_	_	1	dep	_	_
+10	duke	_	_	_	_	1	dep	_	_
+11-12	ia	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	1	dep	_	_
+12	i	_	_	_	_	1	dep	_	_
+13	zgjatur	_	_	_	_	1	dep	_	_
+14	Ernestit	_	_	_	_	1	dep	_	_
+15	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__100
+# text = Gjenerali e dinte që në Shqipëri vjeshta ishte e lagësht dhe me shi.
+1	Gjenerali	_	_	_	_	0	root	_	_
+2	e	_	_	_	_	1	dep	_	_
+3	dinte	_	_	_	_	1	dep	_	_
+4	që	_	_	_	_	1	dep	_	_
+5	në	_	_	_	_	1	dep	_	_
+6	Shqipëri	_	_	_	_	1	dep	_	_
+7	vjeshta	_	_	_	_	1	dep	_	_
+8	ishte	_	_	_	_	1	dep	_	_
+9	e	_	_	_	_	1	dep	_	_
+10	lagësht	_	_	_	_	1	dep	_	_
+11	dhe	_	_	_	_	1	dep	_	_
+12	me	_	_	_	_	1	dep	_	_
+13	shi	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__76
+# text = Isha i këputur, nuk gjeta forca të pyesja së paku ku ndodhesha, një trullosje më përpiu sërishmi, një rënie në boshllëk dhe më bëri përshtypje se kësaj radhe nuk dëgjova krisma.
+1	Isha	_	_	_	_	0	root	_	_
+2	i	_	_	_	_	1	dep	_	_
+3	këputur	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	nuk	_	_	_	_	1	dep	_	_
+6	gjeta	_	_	_	_	1	dep	_	_
+7	forca	_	_	_	_	1	dep	_	_
+8	të	_	_	_	_	1	dep	_	_
+9	pyesja	_	_	_	_	1	dep	_	_
+10	së	_	_	_	_	1	dep	_	_
+11	paku	_	_	_	_	1	dep	_	_
+12	ku	_	_	_	_	1	dep	_	_
+13	ndodhesha	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	një	_	_	_	_	1	dep	_	_
+16	trullosje	_	_	_	_	1	dep	_	_
+17	më	_	_	_	_	1	dep	_	_
+18	përpiu	_	_	_	_	1	dep	_	_
+19	sërishmi	_	_	_	_	1	dep	_	_
+20	,	_	_	_	_	1	dep	_	_
+21	një	_	_	_	_	1	dep	_	_
+22	rënie	_	_	_	_	1	dep	_	_
+23	në	_	_	_	_	1	dep	_	_
+24	boshllëk	_	_	_	_	1	dep	_	_
+25	dhe	_	_	_	_	1	dep	_	_
+26	më	_	_	_	_	1	dep	_	_
+27	bëri	_	_	_	_	1	dep	_	_
+28	përshtypje	_	_	_	_	1	dep	_	_
+29	se	_	_	_	_	1	dep	_	_
+30	kësaj	_	_	_	_	1	dep	_	_
+31	radhe	_	_	_	_	1	dep	_	_
+32	nuk	_	_	_	_	1	dep	_	_
+33	dëgjova	_	_	_	_	1	dep	_	_
+34	krisma	_	_	_	_	1	dep	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__99
+# text = Para se të nisej, kishte mësuar, midis të tjerash, edhe diçka për klimën e Shqipërisë.
+1	Para	_	_	_	_	0	root	_	_
+2	se	_	_	_	_	1	dep	_	_
+3	të	_	_	_	_	1	dep	_	_
+4	nisej	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	kishte	_	_	_	_	1	dep	_	_
+7	mësuar	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	midis	_	_	_	_	1	dep	_	_
+10	të	_	_	_	_	1	dep	_	_
+11	tjerash	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	edhe	_	_	_	_	1	dep	_	_
+14	diçka	_	_	_	_	1	dep	_	_
+15	për	_	_	_	_	1	dep	_	_
+16	klimën	_	_	_	_	1	dep	_	_
+17	e	_	_	_	_	1	dep	_	_
+18	Shqipërisë	_	_	_	_	1	dep	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__25
+# text = Ishte fillimi i shtatorit '99, vjeshta e fundit e mijëvjeçarit të dytë.
+1	Ishte	fillimi	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|SubGender=Nom	0	root	_	_
+2	fillimi	_	_	_	_	1	dep	_	_
+3	i	shtatorit	ADP	_	AdpType=Prep	4	case	_	_
+4	shtatorit	_	_	_	_	1	dep	_	_
+5	'99	_	_	_	_	1	dep	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	vjeshta	_	_	_	_	1	dep	_	_
+8	e	fundit	ADP	_	AdpType=Post	9	case	_	_
+9	fundit	_	_	_	_	1	dep	_	_
+10	e	_	_	_	_	1	dep	_	_
+11	mijëvjeçarit	mijëvjeçarit	ADP	_	AdpType=Post	12	case	_	_
+12	të	_	_	_	_	1	dep	_	_
+13	dytë	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = STAF__85
+# text = Gjenerali e dinte këtë.
+1	Gjenerali	_	_	_	_	0	root	_	_
+2	e	_	_	_	_	1	dep	_	_
+3	dinte	_	_	_	_	1	dep	_	_
+4	këtë	_	_	_	_	1	dep	_	_
+5	.	_	_	_	_	1	dep	_	_
+

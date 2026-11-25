@@ -1,0 +1,2881 @@
+# sent_id = email-enronsent28_01-0016
+# text = At that time, the gurus and geniuses of Wall Street were predicting a 250 Dow and many were talking openly about the end of capitalism.
+1	At	_	ADP	_	_	2	case	_	_
+2	that	_	_	_	_	4	dep	_	_
+3	time	_	PUNCT	_	_	1	punct	_	_
+4	,	_	NOUN	_	_	0	root	_	_
+5	the	_	DET	_	_	6	det	_	_
+6	gurus	_	NOUN	_	_	4	nsubj	_	_
+7	and	_	CCONJ	_	_	8	cc	_	_
+8	geniuses	_	NOUN	_	_	6	conj	_	_
+9	of	_	ADP	_	_	10	case	_	_
+10	Wall	_	NOUN	_	_	8	nmod	_	_
+11	Street	_	NOUN	_	_	10	nmod	_	_
+12	were	_	AUX	_	_	4	cop	_	_
+13	predicting	_	VERB	_	_	4	advcl	_	_
+14	a	_	DET	_	_	15	det	_	_
+15	250	_	NUM	_	_	16	nummod	_	_
+16	Dow	_	NOUN	_	_	13	obj	_	_
+17	and	_	CCONJ	_	_	18	cc	_	_
+18	many	_	PRON	_	_	13	conj	_	_
+19	were	_	AUX	_	_	13	cop	_	_
+20	talking	_	VERB	_	_	13	advcl	_	_
+21	openly	_	ADV	_	_	20	advmod	_	_
+22	about	_	ADP	_	_	23	case	_	_
+23	the	_	DET	_	_	24	det	_	_
+24	end	_	NOUN	_	_	20	obj	_	_
+25	of	_	ADP	_	_	26	case	_	_
+26	capitalism	_	NOUN	_	_	24	nmod	_	_
+27	.	_	_	_	_	4	dep	_	_
+
+# sent_id = reviews-048201-0001
+# text = Very Mediocre donuts!
+1	Very	very	ADV	_	_	0	root	_	_
+2	Mediocre	mediocre	ADJ	_	_	3	amod	_	_
+3	donuts	donut	NOUN	_	_	4	nmod	_	_
+4	!	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_02-0010
+# text = Please handle.
+1	Please	please	ADV	_	_	2	advmod	_	_
+2	handle	handle	VERB	_	_	0	root	_	_
+3	.	_	_	_	_	2	dep	_	_
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0005
+# text = One of the pictures shows a flag that was found in Fallujah.
+1	One	one	DET	DT	_	2	nsubj	_	_
+2	of	_	_	_	_	3	dep	_	_
+3	the	show	VERB	VB	_	0	root	_	_
+4	pictures	_	_	_	_	3	dep	_	_
+5	shows	_	_	_	_	3	dep	_	_
+6	a	_	_	_	_	3	dep	_	_
+7	flag	_	_	_	_	3	dep	_	_
+8	that	.	.	PUNCT	.	7	punct	_	_
+9	was	_	_	_	_	3	dep	_	_
+10	found	_	_	_	_	3	dep	_	_
+11	in	_	_	_	_	3	dep	_	_
+12	Fallujah	_	_	_	_	3	dep	_	_
+13	.	_	_	_	_	3	dep	_	_
+
+# sent_id = reviews-130216-0002
+# text = My house already feels fresh and good thanks to the Battery Park Pest I'm enjoying my time indoors much better.
+1	My	PRP$	PRON	PRON	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+2	house	NNS	NOUN	NOUN	Number=Plur	3	nsubj	_	_
+3	already	RB	ADV	ADV	_	4	advmod	_	_
+4	feels	VBZ	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	fresh	CC	CC	CC	_	4	cc	_	_
+6	and	JJ	JJ	JJ	_	4	conj	_	_
+7	good	TO	TO	TO	_	4	mark	_	_
+8	thanks	DT	DET	DET	Definite=Def|PronType=Art	9	det	_	_
+9	to	NNP	PROPN	PROPN	Number=Sing	10	nmod	_	_
+10	the	NNP	PROPN	PROPN	Number=Sing	11	nmod	_	_
+11	Battery	NNS	NOUN	NOUN	Number=Plur	4	nsubj	_	_
+12	Park	PRP	PRON	PRON	Number=Sing|Person=1	13	nsubj	_	_
+13	Pest	VBZ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+14-15	I'm	_	_	_	_	_	_	_	_
+14	I	VBG	VERB	VERB	Tense=Pres|VerbForm=Ger	4	dep	_	_
+15	'm	PRP$	PRON	PRON	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+16	enjoying	NNS	NOUN	NOUN	Number=Plur	14	nsubj	_	_
+17	my	IN	ADP	ADP	_	18	case	_	_
+18	time	RB	ADV	ADV	_	14	advmod	_	_
+19	indoors	RB	ADV	ADV	_	14	advmod	_	_
+20	much	JJ	JJ	JJ	_	14	advmod	_	_
+21	better	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+22	.	_	_	_	_	4	dep	_	_
+
+# sent_id = email-enronsent28_01-0008
+# text = By September of that year the Dow had tumbled to 744.
+1	By	by	ADP	_	_	0	root	_	_
+2	September	September	NOUN	_	_	1	dep	_	_
+3	of	of	ADP	_	_	2	case	_	_
+4	that	that	DET	_	_	1	dep	_	_
+5	year	year	NOUN	_	_	1	dep	_	_
+6	the	the	DET	_	_	1	dep	_	_
+7	Dow	Dow	PROPN	_	_	1	dep	_	_
+8	had	have	AUX	_	_	9	aux	_	_
+9	tumbled	tumble	VERB	_	_	7	root	_	_
+10	to	to	ADP	_	_	9	case	_	_
+11	744	744	NUM	_	_	9	obl	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-299524-0001
+# text = Quality has fallen over the years, but still the best go-to burger place on the East Bay.
+1	Quality	quality	NOUN	NN	Number=Sing|Person=3	4	nsubj	_	_
+2	has	fall	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	fallen	fall	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	_
+4	over	year	NOUN	NNS	Number=Plur	0	root	_	_
+5	the	,	PUNCT	,	_	7	punct	_	_
+6	years	over	ADP	IN	_	7	case	_	_
+7	,	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	but	bay	NOUN	NN	Number=Sing	4	obl	_	_
+9	still	,	PUNCT	,	_	11	punct	_	_
+10	the	but	CCONJ	CC	_	11	cc	_	_
+11	best	still	ADV	RB	_	4	conj	_	_
+12	go	the	DET	DT	Definite=Def|PronType=Art|PunctType=Brck	13	det	_	_
+13	-	best	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	to	go-to	NOUN	NN	_	15	compound	_	_
+15	burger	burger	NOUN	NN	_	16	compound	_	_
+16	place	place	NOUN	NN	_	17	nmod	_	_
+17	on	on	ADP	IN	_	18	case	_	_
+18	the	East	PROPN	NNP	_	19	nmod	_	_
+19	East	Bay	PROPN	NNP	_	20	nmod	_	_
+20	Bay	.	PUNCT	.	_	4	punct	_	_
+21	.	_	_	_	_	4	dep	_	_
+
+# sent_id = reviews-046500-0001
+# text = Mens and Boys Barbers, on the number 9 Bus route.
+1-2	Mens	_	_	_	_	_	_	_	_
+1	Men	man	NOUN	NN	Number=Plur|Person=3	0	root	_	_
+2	s	and	CCONJ	CC	_	3	cc	_	_
+3	and	boy	NOUN	NNS	Number=Plur|Person=3	1	conj	_	_
+4	Boys	barber	NOUN	NNS	Number=Plur|Person=3	1	conj	_	_
+5	Barbers	,	PUNCT	,	_	1	punct	_	_
+6	,	_	ADP	IN	_	7	case	_	_
+7	on	_	NOUN	NN	_	8	obl	_	_
+8	the	_	NOUN	NN	_	1	obl	_	_
+9	number	_	_	_	_	1	dep	_	_
+10	9	_	_	_	_	1	dep	_	_
+11	Bus	_	_	_	_	1	dep	_	_
+12	route	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent36_01-0012
+# text = Thanks.
+1	Thanks	thanks	NOUN	NN	_	0	root	_	_
+2	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106230959AAuYQ5Q_ans-0003
+# text = May seem a little silly, but, taking a long ride on the Metra system or the "L" system is a great way to see the city and sites without spending a fortune.
+1	May	_	_	_	_	0	root	_	_
+2	seem	_	_	_	_	1	dep	_	_
+3	a	_	_	_	_	1	dep	_	_
+4	little	_	_	_	_	1	dep	_	_
+5	silly	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	but	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	taking	_	_	_	_	1	dep	_	_
+10	a	_	_	_	_	1	dep	_	_
+11	long	_	_	_	_	1	dep	_	_
+12	ride	_	_	_	_	1	dep	_	_
+13	on	_	_	_	_	1	dep	_	_
+14	the	_	_	_	_	1	dep	_	_
+15	Metra	_	_	_	_	1	dep	_	_
+16	system	_	_	_	_	1	dep	_	_
+17	or	_	_	_	_	1	dep	_	_
+18	the	_	_	_	_	1	dep	_	_
+19	"	_	_	_	_	1	dep	_	_
+20	L	_	_	_	_	1	dep	_	_
+21	"	_	_	_	_	1	dep	_	_
+22	system	_	_	_	_	1	dep	_	_
+23	is	_	_	_	_	1	dep	_	_
+24	a	_	_	_	_	1	dep	_	_
+25	great	_	_	_	_	1	dep	_	_
+26	way	_	_	_	_	1	dep	_	_
+27	to	_	_	_	_	1	dep	_	_
+28	see	_	_	_	_	1	dep	_	_
+29	the	_	_	_	_	1	dep	_	_
+30	city	_	_	_	_	1	dep	_	_
+31	and	_	_	_	_	1	dep	_	_
+32	sites	_	_	_	_	1	dep	_	_
+33	without	_	_	_	_	1	dep	_	_
+34	spending	_	_	_	_	1	dep	_	_
+35	a	_	_	_	_	1	dep	_	_
+36	fortune	_	_	_	_	1	dep	_	_
+37	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-087368-0003
+# text = Clean store, friendly check-out staff up front.
+1	Clean	store	NOUN	NN	_	2	nsubj	_	_
+2	store	VB	VERB	VB	_	0	root	_	_
+3	,	,	PUNCT	,	_	4	punct	_	_
+4	friendly	check-out	ADJ	JJ	_	5	amod	_	_
+5	check	_	_	_	_	2	dep	_	_
+6	-	_	_	_	_	2	dep	_	_
+7	out	,	PUNCT	,	_	8	punct	_	_
+8	staff	front	ADJ	JJ	_	9	amod	_	_
+9	up	_	_	_	_	2	dep	_	_
+10	front	_	_	_	_	2	dep	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent32_01-0026
+# text = here is to getting back on track after thanksgiving
+1	here	here	ADV	_	_	2	advmod	_	_
+2	is	to	VERB	_	_	0	root	_	_
+3	to	_	_	_	_	2	dep	_	_
+4	getting	_	_	_	_	2	dep	_	_
+5	back	_	_	_	_	2	dep	_	_
+6	on	_	_	_	_	2	dep	_	_
+7	track	after	ADP	_	_	6	case	_	_
+8	after	thanksgiving	NOUN	_	_	7	nmod	_	_
+9	thanksgiving	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent09_02-0023
+# text = Teco Tap 85.000 / HPL IFERC ; 20.000 / Enron
+1	Teco	Teco	NOUN	NN	_	0	root	_	_
+2	Tap	Tap	VERB	VB	_	1	dep	_	_
+3	85.000	85.000	NUM	CD	_	2	obj	_	_
+4	/	/	PUNCT	$	_	2	punct	_	_
+5	HPL	HPL	PROPN	NNP	_	6	nmod	_	_
+6	IFERC	IFERC	PROPN	NNP	_	2	obj	_	_
+7	;	;	PUNCT	$	_	2	punct	_	_
+8	20.000	20.000	NUM	CD	_	9	obj	_	_
+9	/	Enron	PROPN	NNP	_	2	obj	_	_
+10	Enron	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500-0002
+# text = Groups: alt.animals, alt.animals.cat, alt.animals.ethics.vegetarian, talk.politics.animals
+1	Groups	_	_	_	_	0	root	_	_
+2	:	_	_	_	_	1	dep	_	_
+3	alt.animals	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5	alt.animals.cat	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	alt.animals.ethics.vegetarian	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	talk.politics.animals	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent18_02-0061
+# text = Al,
+1	Al	Al	PROPN	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108081519AAdHz5c_ans-0003
+# text = I like music very loud and with a lot of bass.
+1	I	I	PRON	PRP	_	0	root	_	_
+2	like	like	VERB	VBP	_	1	dep	_	_
+3	music	music	NOUN	NN	_	2	dobj	_	_
+4	very	very	ADV	RB	_	2	advmod	_	_
+5	loud	loud	ADJ	JJ	_	4	advmod	_	_
+6	and	and	CCONJ	CC	_	2	cc	_	_
+7	with	with	ADP	IN	_	1	dep	_	_
+8	a	a	DET	DT	_	9	det	_	_
+9	lot	lot	NOUN	NN	_	7	nmod	_	_
+10	of	of	ADP	IN	_	9	case	_	_
+11	bass	bass	NOUN	NN	_	10	nmod	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_GUHarryPotterReaders_75faa7d55aff9230_ENG_20050715_234000-0002
+# text = The story had brillant battle scenes, lovable heroes and villians, a compelling story line, and it left me dying for the next part of the series:) go to taleofterra.com to learn more aboout it
+1	The	_	DET	DT	_	2	nsubj	_	_
+2	story	_	NOUN	NOUN	_	0	root	_	_
+3	had	_	AUX	AUX	_	2	aux	_	_
+4	brillant	_	ADJ	ADJ	_	2	dep	_	_
+5	battle	_	NOUN	NOUN	_	6	nmod	_	_
+6	scenes	_	NOUN	NOUN	_	4	nmod	_	_
+7	,	_	PUNCT	PUNCT	_	2	punct	_	_
+8	lovable	_	ADJ	ADJ	_	2	dep	_	_
+9	heroes	_	NOUN	NOUN	_	2	dep	_	_
+10	and	_	CCONJ	CCONJ	_	11	cc	_	_
+11	villians	_	NOUN	NOUN	_	9	conj	_	_
+12	,	_	PUNCT	PUNCT	_	2	punct	_	_
+13	a	_	DET	DET	_	2	dep	_	_
+14	compelling	_	ADJ	ADJ	_	2	dep	_	_
+15	story	_	NOUN	NOUN	_	16	nmod	_	_
+16	line	_	NOUN	NOUN	_	14	nmod	_	_
+17	,	_	PUNCT	PUNCT	_	2	punct	_	_
+18	and	_	CCONJ	CCONJ	_	19	cc	_	_
+19	it	_	PRON	PRON	_	2	nsubj	_	_
+20	left	_	VERB	VERB	_	2	cop	_	_
+21	me	_	PRON	PRON	_	20	nsubj	_	_
+22	dying	_	VERB	VERB	_	20	xcomp	_	_
+23	for	_	ADP	ADP	_	2	dep	_	_
+24	the	_	DET	DET	_	25	det	_	_
+25	next	_	ADJ	ADJ	_	26	amod	_	_
+26	part	_	NOUN	NOUN	_	27	nmod	_	_
+27	of	_	ADP	ADP	_	23	fixed	_	_
+28	the	_	DET	DET	_	29	det	_	_
+29	series	_	NOUN	NOUN	_	27	nmod	_	_
+30	:)	_	PUNCT	PUNCT	_	2	punct	_	_
+31	go	_	CCONJ	CCONJ	_	32	cc	_	_
+32	to	_	PRON	PRON	_	2	nsubj	_	_
+33	taleofterra.com	_	VERB	VERB	_	2	cop	_	_
+34	to	_	PRON	PRON	_	33	nsubj	_	_
+35	learn	_	VERB	VERB	_	33	xcomp	_	_
+36	more	_	ADP	ADP	_	37	case	_	_
+37	aboout	_	DET	DET	_	38	det	_	_
+38	it	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent23_02-0001
+# text = i was thinking somewhere that requires a jacket, like tony's.
+1	i	i	PRON	PRON	_	4	nsubj	_	_
+2	was	was	AUX	AUX	_	4	aux	_	_
+3	thinking	think	VERB	VERB	_	4	advcl	_	_
+4	somewhere	somewhere	ADV	ADV	_	0	root	_	_
+5	that	that	SCONJ	SCONJ	_	6	mark	_	_
+6	requires	require	VERB	VERB	_	4	ccomp	_	_
+7	a	a	DET	DET	_	8	det	_	_
+8	jacket	jacket	NOUN	NOUN	_	6	obj	_	_
+9	,	,	PUNCT	PUNCT	_	6	punct	_	_
+10	like	like	ADV	ADV	_	11	case	_	_
+11-12	tony's	_	_	_	_	_	_	_	_
+11	tony	tony	PROPN	PROPN	_	6	obl	_	_
+12	's	's	PUNCT	PUNCT	_	11	punct	_	_
+13	.	_	_	_	_	4	dep	_	_
+
+# sent_id = reviews-346074-0002
+# text = Thanks Southland.
+1	Thanks	thanks	ADJ	_	_	2	case	_	_
+2	Southland	Southland	NOUN	_	_	0	root	_	_
+3	.	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent32_01-0015
+# text = 02/28/2001 04:41 PM
+1	02/28/2001	02	NUM	NUM	_	0	root	_	_
+2	04:41	/	PUNCT	PUNCT	_	3	punct	_	_
+3	PM	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-341750-0004
+# text = I felt as if I was in an over priced Olive Garden.
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	felt	feel	VERB	VBD	_	0	root	_	_
+3	as	if	ADV	IN	_	2	advmod	_	_
+4	if	I	PRON	PRP	_	5	nsubj	_	_
+5	I	be	VERB	VBD	_	2	ccomp	_	_
+6	was	in	ADP	IN	_	7	case	_	_
+7	in	Olive	NOUN	NN	_	5	obl	_	_
+8	an	Garden	NOUN	NN	_	7	compound	_	_
+9	over	.	PUNCT	.	_	2	punct	_	_
+10	priced	_	_	_	_	2	dep	_	_
+11	Olive	_	_	_	_	2	dep	_	_
+12	Garden	_	_	_	_	2	dep	_	_
+13	.	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent29_02-0008
+# text = I am bringing two of my girlfriends from LJ.
+1	I	PRON	PRON	PRP	_	2	nsubj	_	_
+2	am	AUX	AUX	VBP	_	0	root	_	_
+3	bringing	VERB	VERB	VBG	_	2	xcomp	_	_
+4	two	NUM	NUM	CD	_	3	nummod	_	_
+5	of	ADP	ADP	IN	_	3	case	_	_
+6	my	DET	DET	PRP$	_	7	nmod:poss	_	_
+7	girlfriends	NOUN	NOUN	NNS	_	5	nmod	_	_
+8	from	ADP	ADP	IN	_	3	case	_	_
+9	LJ	PROPN	PROPN	NNP	_	8	nmod	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent29_02-0016
+# text = Stacey Barclay Richardson Enron Net Works, LLC - Global Contracts Stacey.Richardson@enron.com (713) 853-0569 Office (713) 646-2495 Fax (713) 710-6084 Pager
+1	Stacey	Stacey	PROPN	NNP	_	2	nmod:poss	_	_
+2	Barclay	Barclay	PROPN	NNP	_	3	nmod:poss	_	_
+3	Richardson	Richardson	PROPN	NNP	_	4	nmod:poss	_	_
+4	Enron	Enron	PROPN	NNP	_	5	nmod:poss	_	_
+5	Net	Net	NOUN	NN	_	6	nmod:poss	_	_
+6	Works	Works	NOUN	NNS	_	7	nmod:poss	_	_
+7	,	LLC	PROPN	NNP	_	8	nmod:poss	_	_
+8	LLC	Global	ADJ	JJ	_	9	nmod:poss	_	_
+9	-	Contracts	NOUN	NNS	_	10	nmod:poss	_	_
+10	Global	Stacey.Richardson@enron.com	PROPN	NNP	_	11	nmod:poss	_	_
+11	Contracts	(	PUNCT	(	_	12	punct	_	_
+12	Stacey.Richardson@enron.com	713	NUM	CD	_	13	nmod:poss	_	_
+13	(	853-0569	NUM	CD	_	14	nmod:poss	_	_
+14	713	Office	NOUN	NN	_	15	nmod:poss	_	_
+15	)	(	PUNCT	(	_	16	punct	_	_
+16	853-0569	713	NUM	CD	_	17	nmod:poss	_	_
+17	Office	646-2495	NUM	CD	_	18	nmod:poss	_	_
+18	(	Fax	NOUN	NN	_	19	nmod:poss	_	_
+19	713	(	PUNCT	(	_	20	punct	_	_
+20	)	713	NUM	CD	_	21	nmod:poss	_	_
+21	646-2495	710-6084	NUM	CD	_	22	nmod:poss	_	_
+22	Fax	Pager	NOUN	NN	_	23	nmod:poss	_	_
+23	(	)	PUNCT	)	_	0	root	_	_
+24	713	_	_	_	_	23	dep	_	_
+25	)	_	_	_	_	23	dep	_	_
+26	710-6084	_	_	_	_	23	dep	_	_
+27	Pager	_	_	_	_	23	dep	_	_
+
+# sent_id = email-enronsent21_02-0029
+# text = Thanks
+1	Thanks	_	_	_	_	0	root	_	_
+
+# sent_id = newsgroup-groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600-0015
+# text = --
+1	--	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-264993-0002
+# text = I schedule my weekly appointment here just to get a chance to lie comfortably on my tummy.
+1	I	PRON	PRON	PRP	_	2	nsubj	_	_
+2	schedule	VERB	VERB	VBP	_	0	root	_	_
+3	my	_	_	_	_	2	dep	_	_
+4	weekly	_	_	_	_	2	dep	_	_
+5	appointment	_	_	_	_	2	dep	_	_
+6	here	_	_	_	_	2	dep	_	_
+7	just	_	_	_	_	2	dep	_	_
+8	to	_	_	_	_	2	dep	_	_
+9	get	_	_	_	_	2	dep	_	_
+10	a	_	_	_	_	2	dep	_	_
+11	chance	_	_	_	_	2	dep	_	_
+12	to	_	_	_	_	2	dep	_	_
+13	lie	_	_	_	_	2	dep	_	_
+14	comfortably	_	_	_	_	2	dep	_	_
+15	on	_	_	_	_	2	dep	_	_
+16	my	_	_	_	_	2	dep	_	_
+17	tummy	_	_	_	_	2	dep	_	_
+18	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-374344-0005
+# text = Lest you be lame!!!
+1	Lest	lest	ADV	_	_	0	root	_	_
+2	you	be	VERB	_	_	1	advmod	_	_
+3	be	lame	VERB	_	_	2	advmod	_	_
+4	lame	!!!	PUNCT	_	_	1	punct	_	_
+5	!!!	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0034
+# text = - Alex Levine
+1	-	_	_	_	_	0	root	_	_
+2	Alex	_	_	_	_	1	dep	_	_
+3	Levine	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0037
+# text = Thank you.
+1	Thank	thank	VERB	_	_	0	root	_	_
+2	you	you	PRON	_	_	1	obj	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_04-0009
+# text = http://www.theadvocate.com/sports/story.asp?StoryID=16473
+1	http://www.theadvocate.com/sports/story.asp?StoryID=16473	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-302465-0003
+# text = The haircut was inexpensive and so were the salon services (eyebrows were cheap!).
+1	The	the	DET	DT	_	2	det	_	_
+2	haircut	haircut	NOUN	NNS	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	inexpensive	inexpensive	ADJ	JJ	_	2	amod	_	_
+5	and	and	CCONJ	CC	_	3	cc	_	_
+6	so	so	ADV	RB	_	7	advmod	_	_
+7	were	be	VERB	VBD	_	3	conj	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	salon	salon	NOUN	NN	_	7	nsubj	_	_
+10	services	services	NOUN	NNS	_	9	nmod	_	_
+11	(	(	PUNCT	(	_	12	punct	_	_
+12	eyebrows	eyebrow	NOUN	NNS	_	7	nsubj	_	_
+13	were	be	VERB	VBD	_	12	acl	_	_
+14	cheap	cheap	ADJ	JJ	_	12	amod	_	_
+15	!	!	PUNCT	)	_	12	punct	_	_
+16	)	)	PUNCT	)	_	3	punct	_	_
+17	.	_	_	_	_	3	dep	_	_
+
+# sent_id = answers-20111108071652AA8GAZw_ans-0001
+# text = USPS Delivery in Auckland,NZ?
+1	USPS	Delivery	NOUN	NN	_	2	nsubj	_	_
+2	Delivery	AUX	IN	_	_	0	root	_	_
+3	in	_	PROPN	NNP	_	2	obl	_	_
+4	Auckland	_	PUNCT	,	_	2	punct	_	_
+5	,	_	PROPN	NNP	_	3	flat	_	_
+6	NZ	_	PUNCT	?	_	2	punct	_	_
+7	?	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent29_02-0013
+# text = Could one of you please email me a copy of the standard template you use for Enfolio gas purchase agreements?
+1	Could	_	_	_	_	0	root	_	_
+2	one	_	_	_	_	1	dep	_	_
+3	of	_	_	_	_	1	dep	_	_
+4	you	_	_	_	_	1	dep	_	_
+5	please	_	_	_	_	1	dep	_	_
+6	email	_	_	_	_	1	dep	_	_
+7	me	_	_	_	_	1	dep	_	_
+8	a	_	_	_	_	1	dep	_	_
+9	copy	_	_	_	_	1	dep	_	_
+10	of	_	_	_	_	1	dep	_	_
+11	the	_	_	_	_	1	dep	_	_
+12	standard	_	_	_	_	1	dep	_	_
+13	template	_	_	_	_	1	dep	_	_
+14	you	_	_	_	_	1	dep	_	_
+15	use	_	_	_	_	1	dep	_	_
+16	for	_	_	_	_	1	dep	_	_
+17	Enfolio	_	_	_	_	1	dep	_	_
+18	gas	_	_	_	_	1	dep	_	_
+19	purchase	_	_	_	_	1	dep	_	_
+20	agreements	_	_	_	_	1	dep	_	_
+21	?	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0006
+# text = On the next two pictures he took screenshots of two beheading video's.
+1	On	_	ADP	_	_	0	root	_	_
+2	the	_	DET	_	_	1	dep	_	_
+3	next	_	ADJ	_	_	1	dep	_	_
+4	two	_	NUM	_	_	3	nummod	_	_
+5	pictures	_	NOUN	_	_	1	dep	_	_
+6	he	_	PRON	_	_	1	dep	_	_
+7	took	_	VERB	_	_	1	dep	_	_
+8	screenshots	_	NOUN	_	_	7	obj	_	_
+9	of	_	ADP	_	_	1	dep	_	_
+10	two	_	NUM	_	_	9	nummod	_	_
+11	beheading	_	NOUN	_	_	10	nmod	_	_
+12	video's	_	NOUN	_	_	11	nmod	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0040
+# text = - REDLINE GPSA Guaranty.doc
+1	-	_	_	_	_	0	root	_	_
+2	REDLINE	_	_	_	_	1	dep	_	_
+3	GPSA	_	_	_	_	1	dep	_	_
+4	Guaranty.doc	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20110320195750AAkPbFG_ans-0008
+# text = Nacho Libre is suppose to be inspired in Mexicans, not in Argentineans.
+1	Nacho	Libre	ADJ	ADJ	_	0	root	_	_
+2	Libre	_	_	_	_	1	dep	_	_
+3	is	_	_	_	_	1	dep	_	_
+4	suppose	_	_	_	_	1	dep	_	_
+5	to	_	_	_	_	1	dep	_	_
+6	be	_	_	_	_	1	dep	_	_
+7	inspired	_	_	_	_	1	dep	_	_
+8	in	_	_	_	_	1	dep	_	_
+9	Mexicans	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	not	_	_	_	_	1	dep	_	_
+12	in	_	_	_	_	1	dep	_	_
+13	Argentineans	_	_	_	_	1	dep	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20081218053636AA9vV0u_ans-0010
+# text = Goodluck!
+1	Good	good	ADJ	_	_	2	amod	_	_
+2	luck	luck	NOUN	_	_	0	root	_	_
+3	!	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20090203211448AAoG2yX_ans-0003
+# text = Green Tea.
+1	Green	_	ADJ	_	_	2	nmod	_	_
+2	Tea	_	NOUN	_	_	0	root	_	_
+3	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-211933-0002
+# text = Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area.
+1	Seth	_	PROPN	NNP	_	0	root	_	_
+2	provides	_	VERB	VBZ	_	1	advcl	_	_
+3	deep	_	ADJ	JJ	_	4	amod	_	_
+4	tissue	_	NOUN	NN	_	5	nmod	_	_
+5	massage	_	NOUN	NN	_	2	obj	_	_
+6	which	_	PRON	WHPR	_	7	nmod	_	_
+7	has	_	AUX	VBZ	_	2	advcl	_	_
+8	significantly	_	ADV	RB	_	9	advmod	_	_
+9	reduced	_	VERB	VBN	_	7	xcomp	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	pain	_	NOUN	NN	_	9	obj	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	my	_	PRON	PRP$_	_	11	nmod	_	_
+14	neck	_	NOUN	NN	_	13	nmod	_	_
+15	and	_	CCONJ	CC	_	16	cc	_	_
+16	shoulders	_	NOUN	NNS	_	14	conj	_	_
+17	and	_	CCONJ	CC	_	18	cc	_	_
+18	added	_	VERB	VBN	_	7	xcomp	_	_
+19	flexibility	_	NOUN	NN	_	18	obj	_	_
+20	and	_	CCONJ	CC	_	21	cc	_	_
+21	movement	_	NOUN	NN	_	19	conj	_	_
+22	back	_	ADV	RB	_	1	dep	_	_
+23	to	_	ADP	TO	_	1	dep	_	_
+24	the	_	DET	DT	_	25	det	_	_
+25	area	_	NOUN	NN	_	23	nmod	_	_
+26	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107155815AA6LXXJ_ans-0007
+# text = NCL is a notch below either, in terms of quality and service.
+1	NCL	_	_	_	_	0	root	_	_
+2	is	_	_	_	_	1	cop	_	_
+3	a	_	_	_	_	4	det	_	_
+4	notch	_	_	_	_	1	nsubj	_	_
+5	below	_	_	_	_	4	advmod	_	_
+6	either	_	_	_	_	5	advmod	_	_
+7	,	_	_	_	_	1	punct	_	_
+8	in	_	_	_	_	1	case	_	_
+9	terms	_	_	_	_	8	nmod	_	_
+10	of	_	_	_	_	9	case	_	_
+11	quality	_	_	_	_	10	nmod	_	_
+12	and	_	_	_	_	11	cc	_	_
+13	service	_	_	_	_	12	conj	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0024
+# text = LS HPL LSK IC 20.000 / Enron
+1	LS	LS	ADP	_	_	2	case	_	_
+2	HPL	HPL	NOUN	_	_	3	nmod	_	_
+3	LSK	LSK	NOUN	_	_	4	case	_	_
+4	IC	IC	ADP	_	_	5	case	_	_
+5	20.000	20.000	NUM	_	_	6	nummod	_	_
+6	/	Enron	PROPN	_	_	0	root	_	_
+7	Enron	_	_	_	_	6	dep	_	_
+
+# sent_id = reviews-025894-0002
+# text = I have eaten here several times and everytime the service is slower than slow.
+1	I	PRON	PRON	PRP	_	2	nsubj	_	_
+2	have	AUX	AUX	VBP	_	0	root	_	_
+3	eaten	VERB	VERB	VBN	_	2	xcomp	_	_
+4	here	ADV	ADV	RB	_	3	advmod	_	_
+5	several	NUM	NUM	CD	_	3	nummod	_	_
+6	times	NOUN	NOUN	NNS	_	3	nummod	_	_
+7	and	CCONJ	CCONJ	CC	_	3	cc	_	_
+8	every	DET	DET	DT	_	9	det	_	_
+9	time	NOUN	NOUN	NN	_	3	conj	_	_
+10	the	DET	DET	DT	_	11	det	_	_
+11	service	NOUN	NOUN	NN	_	9	nmod	_	_
+12	is	AUX	AUX	VBZ	_	13	cop	_	_
+13	slower	ADJ	ADJ	JJ	_	9	amod	_	_
+14	than	ADP	ADP	IN	_	15	case	_	_
+15	slow	ADJ	ADJ	JJ	_	13	advmod	_	_
+16	.	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent21_01-0017
+# text = Kinder Morgan $ 3,500,000 $ 1,250,000
+1	Kinder	Morgan	NOUN	NN	Number=Sing|Person=3	0	root	_	_
+2	Morgan	_	_	_	_	1	dep	_	_
+3	$	_	_	_	_	1	dep	_	_
+4	3,500,000	3,500,000	NUM	CD	_	2	nummod	_	_
+5	$	_	_	_	_	1	dep	_	_
+6	1,250,000	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0006
+# text = Amy:-)
+1	Amy	_Amy	PROPN	NNP	_	0	root	_	_
+2	:-)	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106130843AA7yj7U_ans-0004
+# text = Have no idea what kind of restaurant this is or where it is.
+1	Have	Have	VERB	_	_	0	root	_	_
+2	no	no	DET	_	_	3	det	_	_
+3	idea	idea	NOUN	_	_	1	obj	_	_
+4	what	what	PRON	_	_	3	nsubj	_	_
+5	kind	of	ADP	_	_	6	case	_	_
+6	of	kind	NOUN	_	_	4	nmod	_	_
+7	restaurant	this	PRON	_	_	6	dobj	_	_
+8	this	or	CCONJ	_	_	9	cc	_	_
+9	is	where	ADV	_	_	7	advmod	_	_
+10	or	it	PRON	_	_	7	nsubj	_	_
+11	where	is	AUX	_	_	1	cop	_	_
+12	it	or	CCONJ	_	_	13	cc	_	_
+13	is	where	ADV	_	_	11	advmod	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-138110-0002
+# text = I had to get a permit here, it was cool
+1	I	I	PRON	PRP	_	0	root	_	_
+2	had	_	_	_	_	1	dep	_	_
+3	to	_	DET	DT	_	4	det	_	_
+4	get	permit	NOUN	NN	_	2	obj	_	_
+5	a	here	ADV	RB	_	4	advmod	_	_
+6	permit	_	PUNCT	,	_	2	punct	_	_
+7	here	it	PRON	PRP	_	8	nsubj	_	_
+8	,	was	AUX	VBD	_	2	ccomp	_	_
+9	it	cool	ADJ	JJ	_	8	xcomp	_	_
+10	was	_	PUNCT	.	_	2	punct	_	_
+11	cool	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106230959AAuYQ5Q_ans-0008
+# text = to make convo, it's short, so if things go great, you can
+1	to	_	_	_	_	0	root	_	_
+2	make	_	_	_	_	1	dep	_	_
+3	convo	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+5-6	it's	_	_	_	_	_	_	_	_
+5	it	_	_	_	_	1	dep	_	_
+6	's	_	_	_	_	1	dep	_	_
+7	short	_	_	_	_	1	dep	_	_
+8	,	_	_	_	_	1	dep	_	_
+9	so	_	_	_	_	1	dep	_	_
+10	if	_	_	_	_	1	dep	_	_
+11	things	_	_	_	_	1	dep	_	_
+12	go	_	_	_	_	1	dep	_	_
+13	great	_	_	_	_	1	dep	_	_
+14	,	_	_	_	_	1	dep	_	_
+15	you	_	_	_	_	1	dep	_	_
+16	can	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700-0012
+# text = 81K Download
+1	81	_	_	_	_	0	root	_	_
+2	K	_	_	_	_	1	dep	_	_
+3	Download	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent18_02-0067
+# text = I hope that this would mean that you would remain involved at some level.
+1	I	PRON	PRON	PRP	_	2	nsubj	_	_
+2	hope	VERB	VERB	VBP	_	0	root	_	_
+3	that	DET	DET	DT	_	4	det	_	_
+4	this	PRON	PRON	DT	_	5	nsubj	_	_
+5	would	VERB	VERB	MD	_	2	ccomp	_	_
+6	mean	VERB	VERB	VB	_	5	ccomp	_	_
+7	that	DET	DET	DT	_	8	det	_	_
+8	you	PRON	PRON	PRP	_	9	nsubj	_	_
+9	would	VERB	VERB	MD	_	6	ccomp	_	_
+10	remain	VERB	VERB	VB	_	9	ccomp	_	_
+11	involved	ADJ	ADJ	JJ	_	10	xcomp	_	_
+12	at	ADP	ADP	IN	_	13	case	_	_
+13	some	DET	DET	DT	_	14	det	_	_
+14	level	ADJ	ADJ	JJ	_	15	nmod	_	_
+15	.	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20090801154222AA09uXV_ans-0002
+# text = I like shrimp,fried,grilled,or steamed.
+1	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	like	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	shrimp	_	NOUN	_	Number=Plur	4	dobj	_	_
+4	,	_	_	_	_	0	root	_	_
+5	fried	_	PUNCT	_	_	6	punct	_	_
+6	,	_	ADJ	_	_	4	conj	_	_
+7	grilled	_	PUNCT	_	_	8	punct	_	_
+8	,	_	ADJ	_	_	4	conj	_	_
+9	or	_	PUNCT	_	_	10	punct	_	_
+10	steamed	_	CCONJ	_	_	4	conj	_	_
+11	.	_	_	_	_	4	dep	_	_
+
+# sent_id = answers-20090716131314AA4W9uJ_ans-0002
+# text = Not me sorry.
+1	Not	not	ADV	_	_	2	advmod	_	_
+2	me	me	PRON	_	_	3	nsubj	_	_
+3	sorry	sorry	ADV	_	_	0	root	_	_
+4	.	_	_	_	_	3	dep	_	_
+
+# sent_id = email-enronsent09_02-0034
+# text = ?
+1	?	_	_	_	_	0	root	_	_
+
+# sent_id = answers-20111104115933AA30CRJ_ans-0001
+# text = surprise romantic cheap date night san francisco?
+1	surprise	_	_	_	_	0	root	_	_
+2	romantic	_	_	_	_	1	advmod	_	_
+3	cheap	_	_	_	_	1	advmod	_	_
+4	date	_	_	_	_	1	nmod	_	_
+5	night	_	_	_	_	4	nmod	_	_
+6	san	_	_	_	_	5	nmod	_	_
+7	francisco	_	_	_	_	6	nmod	_	_
+8	?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_04-0017
+# text = why is enron blowing up?
+1	why	why	ADV	_	_	2	advmod	_	_
+2	is	be	VERB	_	_	0	root	_	_
+3	enron	enron	NOUN	_	_	2	nsubj	_	_
+4	blowing	blow	VERB	_	_	2	xcomp	_	_
+5	up	up	ADV	_	_	4	advmod	_	_
+6	?	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent18_02-0056
+# text = (713) 853-7408
+1	(	_	_	_	_	0	root	_	_
+2	713	_	_	_	_	1	dep	_	_
+3	)	_	_	_	_	1	dep	_	_
+4	853-7408	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-002317-0001
+# text = telephone number
+1	telephone	telephone	VERB	_	_	0	root	_	_
+2	number	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108082432AAph0C0_ans-0001
+# text = I need creative art ideas?
+1	I	PRON	PRON	PRP	_	2	nsubj	_	_
+2	need	VERB	VERB	VBP	_	0	root	_	_
+3	creative	ADJ	ADJ	JJ	_	4	amod	_	_
+4	art	NOUN	NOUN	NNS	_	2	dobj	_	_
+5	ideas	NOUN	NOUN	NNS	_	4	nmod	_	_
+6	?	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent28_01-0013
+# text = A big rally then took the Dow (unconfirmed) to a record high of 1051 in January of '73, turning everyone bullish.
+1	A	a	DET	DT	_	2	det	_	_
+2	big	big	ADJ	JJ	_	3	amod	_	_
+3	rally	rally	NOUN	NN	_	0	root	_	_
+4	then	then	ADV	RB	_	3	advmod	_	_
+5	took	take	VERB	VB	_	3	compound	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	Dow	Dow	NOUN	NN	_	5	obj	_	_
+8	(	(unconfirmed)	ADJ	JJ	_	7	amod	_	_
+9	unconfirmed	to	PART	TO	_	10	mark	_	_
+10	)	a	DET	DT	_	11	det	_	_
+11	to	record	NOUN	NN	_	5	obj	_	_
+12	a	in	ADP	IN	_	13	case	_	_
+13	record	January	NOUN	NNP	_	11	nmod	_	_
+14	high	of	ADP	IN	_	15	case	_	_
+15	of	'73	NUM	CD	_	13	nmod	_	_
+16	1051	,	PUNCT	,	_	3	punct	_	_
+17	in	turn	VERB	VBG	_	3	dep	_	_
+18	January	everyone	NOUN	NN	_	17	obj	_	_
+19	of	bullish	ADJ	JJ	_	18	amod	_	_
+20	'73	.	PUNCT	.	_	3	punct	_	_
+21	,	_	_	_	_	3	dep	_	_
+22	turning	_	_	_	_	3	dep	_	_
+23	everyone	_	_	_	_	3	dep	_	_
+24	bullish	_	_	_	_	3	dep	_	_
+25	.	_	_	_	_	3	dep	_	_
+
+# sent_id = email-enronsent23_04-0001
+# text = daily dose on enron -
+1	daily	daily	ADJ	_	_	0	root	_	_
+2	dose	dose	NOUN	_	_	1	dep	_	_
+3	on	on	ADP	_	_	4	case	_	_
+4	enron	enron	PROPN	_	_	2	nmod	_	_
+5	-	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_01-0015
+# text = Location: Houston, Texas USA
+1	Location	Location	NOUN	NN	_	0	root	_	_
+2	:	:	PUNCT	:	_	3	case	_	_
+3	Houston	Houston	PROPN	NNP	_	1	nmod	_	_
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	Texas	Texas	PROPN	NNP	_	3	nmod	_	_
+6	USA	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107155845AAE3kCA_ans-0010
+# text = You'd find similar bands to them that are from the UK and US.
+1-2	You'd	_	_	_	_	_	_	_	_
+1	You	you	PRON	PRP	_	4	nsubj	_	_
+2	'd	_	_	_	_	4	dep	_	_
+3	find	you	PRON	PRP	_	4	nsubj	_	_
+4	similar	find	VERB	VB	_	0	root	_	_
+5	bands	similar	ADJ	JJ	_	6	amod	_	_
+6	to	band	NOUN	NNS	_	4	dobj	_	_
+7	them	to	ADP	IN	_	8	case	_	_
+8	that	them	PRON	PRP	_	6	nmod	_	_
+9	are	that	SCONJ	IN	_	11	mark	_	_
+10	from	be	VERB	VBP	_	11	cop	_	_
+11	the	them	PRON	PRP	_	6	nmod	_	_
+12	UK	that	SCONJ	IN	_	14	mark	_	_
+13	and	be	VERB	VBP	_	14	cop	_	_
+14	US	be	VERB	VBP	_	11	acl:relcl	_	_
+15	.	_	_	_	_	4	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_jokecity_0566f0ba3b5f748f_ENG_20051125_240500-0002
+# text = In one class, he asks the students if anyone can give him an example of a "tragedy".
+1	In	in	ADP	_	_	2	case	_	_
+2	one	class	NUM	_	_	3	amod	_	_
+3	class	class	NOUN	_	_	4	nsubj	_	_
+4	,	he	PRON	_	_	5	nsubj	_	_
+5	he	ask	VERB	_	_	0	root	_	_
+6	asks	the	DET	_	_	7	det	_	_
+7	the	student	NOUN	_	_	5	obj	_	_
+8	students	if	SCONJ	_	_	9	mark	_	_
+9	if	anyone	PRON	_	_	5	advcl	_	_
+10	anyone	can	AUX	_	_	9	aux	_	_
+11	can	give	VERB	_	_	9	xcomp	_	_
+12	give	him	PRON	_	_	11	obj	_	_
+13	him	an	DET	_	_	14	det	_	_
+14	an	example	NOUN	_	_	11	obj	_	_
+15	example	of	ADP	_	_	14	case	_	_
+16	of	a	DET	_	_	17	det	_	_
+17	a	tragedy	NOUN	_	_	14	nmod	_	_
+18	"	.	PUNCT	_	_	5	punct	_	_
+19	tragedy	_	_	_	_	5	dep	_	_
+20	"	_	_	_	_	5	dep	_	_
+21	.	_	_	_	_	5	dep	_	_
+
+# sent_id = answers-20111108064636AAvIKDE_ans-0003
+# text = Their service is top-notch and I especially love the free French champagne served even in Economy.
+1	Their	service	NOUN	NN	Number=Plur|Person=3	2	nsubj	_	_
+2	service	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	is	_	ADJ	JJ	_	4	amod	_	_
+4	top	_	_	_	_	2	dep	_	_
+5	-	_	_	_	_	2	dep	_	_
+6	notch	_	_	_	_	2	dep	_	_
+7	and	_	_	_	_	2	dep	_	_
+8	I	_	_	_	_	2	dep	_	_
+9	especially	_	_	_	_	2	dep	_	_
+10	love	_	_	_	_	2	dep	_	_
+11	the	_	_	_	_	2	dep	_	_
+12	free	_	_	_	_	2	dep	_	_
+13	French	_	_	_	_	2	dep	_	_
+14	champagne	_	_	_	_	2	dep	_	_
+15	served	_	_	_	_	2	dep	_	_
+16	even	_	_	_	_	2	dep	_	_
+17	in	_	_	_	_	2	dep	_	_
+18	Economy	_	_	_	_	2	dep	_	_
+19	.	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent09_02-0037
+# text = KEN
+1	KEN	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-192399-0003
+# text = Listened to my problem and took care of it.
+1	Listened	listen	VERB	_	_	0	root	_	_
+2	to	to	ADP	_	_	1	case	_	_
+3	my	my	PRON	_	_	4	det	_	_
+4	problem	problem	NOUN	_	_	2	nmod	_	_
+5	and	and	CCONJ	_	_	1	cc	_	_
+6	took	take	VERB	_	_	7	aux	_	_
+7	care	care	NOUN	_	_	5	conj	_	_
+8	of	of	ADP	_	_	7	case	_	_
+9	it	it	PRON	_	_	8	nmod	_	_
+10	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-juancole.com_juancole_20041018060600_ENG_20041018_060600-0003
+# text = Abu Musab al-Zarqawi and his group are said to have been bitter rivals of al-Qaeda during the Afghan resistance days.
+1	Abu	Musab	AL	ADJ	_	0	root	_	_
+2	Musab	_	_	_	_	1	dep	_	_
+3	al	_	_	_	_	1	dep	_	_
+4	-	_	_	_	_	1	dep	_	_
+5	Zarqawi	_	_	_	_	1	dep	_	_
+6	and	_	_	_	_	1	dep	_	_
+7	his	_	_	_	_	1	dep	_	_
+8	group	_	_	_	_	1	dep	_	_
+9	are	_	_	_	_	1	dep	_	_
+10	said	_	_	_	_	1	dep	_	_
+11	to	_	_	_	_	1	dep	_	_
+12	have	_	_	_	_	1	dep	_	_
+13	been	_	_	_	_	1	dep	_	_
+14	bitter	_	_	_	_	1	dep	_	_
+15	rivals	_	_	_	_	1	dep	_	_
+16	of	_	_	_	_	1	dep	_	_
+17	al	_	_	_	_	1	dep	_	_
+18	-	_	_	_	_	1	dep	_	_
+19	Qaeda	_	_	_	_	1	dep	_	_
+20	during	_	_	_	_	1	dep	_	_
+21	the	_	_	_	_	1	dep	_	_
+22	Afghan	_	_	_	_	1	dep	_	_
+23	resistance	_	_	_	_	1	dep	_	_
+24	days	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0010
+# text = Stacey here is the Master draft we discussed.
+1	Stacey	Stacey	PROPN	NNP	_	4	nsubj	_	_
+2	here	here	ADV	RB	_	4	advmod	_	_
+3	is	be	AUX	VBZ	_	4	cop	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	Master	Master	NOUN	NN	_	6	nmod	_	_
+6	draft	draft	NOUN	NN	_	7	nmod	_	_
+7	we	we	PRON	PRP	_	8	nsubj	_	_
+8	discussed	discussed	VERB	VBD	_	0	root	_	_
+9	.	_	_	_	_	8	dep	_	_
+
+# sent_id = reviews-241108-0002
+# text = Horrible service.
+1	Horrible	_	_	_	_	0	root	_	_
+2	service	_	_	_	_	1	dep	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108050147AAOkFgL_ans-0001
+# text = What's the best time to start a trip around the world?
+1-2	What's	_	_	_	_	_	_	_	_
+1	What	what	DET	DT	_	0	root	_	_
+2	's	'	PUNCT	'	_	1	dep	_	_
+3	the	the	DET	DT	_	1	dep	_	_
+4	best	best	ADJ	JJ	_	1	dep	_	_
+5	time	time	NOUN	NN	_	1	dep	_	_
+6	to	to	PART	TO	_	1	dep	_	_
+7	start	start	VERB	VB	_	1	dep	_	_
+8	a	a	DET	DT	_	7	dobj	_	_
+9	trip	trip	NOUN	NN	_	7	dobj	_	_
+10	around	around	ADP	IN	_	11	case	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	world	world	NOUN	NN	_	9	nmod	_	_
+13	?	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000-0010
+# text = But will diplomacy work?
+1	But	_	_	_	_	0	root	_	_
+2	will	does	VERB	_	_	1	aux	_	_
+3	diplomacy	diplomacy	NOUN	_	_	1	obj	_	_
+4	work	work	VERB	_	_	3	xcomp	_	_
+5	?	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000-0011
+# text = Otherwise, hope to see you there!
+1	Otherwise	otherwise	ADV	_	_	2	advmod	_	_
+2	,	to	VERB	_	_	0	root	_	_
+3	hope	_	_	_	_	2	aux	_	_
+4	to	see	VERB	_	_	2	xcomp	_	_
+5	see	you	PRON	_	_	4	nsubj	_	_
+6	you	there	ADV	_	_	4	advmod	_	_
+7	there	!	PUNCT	_	_	2	punct	_	_
+8	!	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20111106230959AAuYQ5Q_ans-0009
+# text = extend, and if you want to end it, you just say bye,
+1	extend	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+3	and	_	_	_	_	1	dep	_	_
+4	if	_	_	_	_	1	dep	_	_
+5	you	_	_	_	_	1	dep	_	_
+6	want	_	_	_	_	1	dep	_	_
+7	to	_	_	_	_	1	dep	_	_
+8	end	_	_	_	_	1	dep	_	_
+9	it	_	_	_	_	1	dep	_	_
+10	,	_	_	_	_	1	dep	_	_
+11	you	_	_	_	_	1	dep	_	_
+12	just	_	_	_	_	1	dep	_	_
+13	say	_	_	_	_	1	dep	_	_
+14	bye	_	_	_	_	1	dep	_	_
+15	,	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-229100-0002
+# text = Love this place!!
+1	Love	love	VERB	_	_	0	root	_	_
+2	this	this	DET	_	_	3	det	_	_
+3	place	place	NOUN	_	_	1	obj	_	_
+4	!!	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_04-0004
+# text = the economy is down and when enron collapses, the energy industry is going to be in a world of hurt.
+1	the	the	DET	DT	_	2	det	_	_
+2	economy	economy	NOUN	NOUN	_	3	nsubj	_	_
+3	is	be	VERB	VERB	_	0	root	_	_
+4	down	down	ADV	ADV	_	3	advmod	_	_
+5	and	and	CCONJ	CCONJ	_	3	cc	_	_
+6	when	when	ADV	ADV	_	7	advmod	_	_
+7	enron	enron	NOUN	NOUN	_	8	nsubj	_	_
+8	collapses	collapse	VERB	VERB	_	3	conj	_	_
+9	,	,	PUNCT	PUNCT	_	3	punct	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	energy	energy	NOUN	NOUN	_	12	nsubj	_	_
+12	industry	industry	NOUN	NOUN	_	13	nmod	_	_
+13	is	be	VERB	VERB	_	3	dep	_	_
+14	going	go	VERB	VERB	_	13	aux	_	_
+15	to	to	PART	PART	_	14	mark	_	_
+16	be	be	VERB	VERB	_	13	cop	_	_
+17	in	in	ADP	IN	_	18	case	_	_
+18	a	world	NOUN	NOUN	_	13	nmod	_	_
+19	world	of	ADP	IN	_	20	case	_	_
+20	of	hurt	NOUN	NOUN	_	18	nmod	_	_
+21	hurt	.	PUNCT	PUNCT	_	3	punct	_	_
+22	.	_	_	_	_	3	dep	_	_
+
+# sent_id = reviews-290238-0001
+# text = Out of business?
+1	Out	_	_	_	_	0	root	_	_
+2	of	_	_	_	_	1	advmod	_	_
+3	business	_	_	_	_	1	punct	_	_
+4	?	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108111112AAAjhoy_ans-0006
+# text = Call a vet would be a good idea with a sick dog
+1	Call	_	_	_	_	0	root	_	_
+2	a	_	_	_	_	1	det	_	_
+3	vet	_	_	_	_	2	nmod	_	_
+4	would	_	_	_	_	1	dep	_	_
+5	be	_	_	_	_	4	aux	_	_
+6	a	_	_	_	_	5	det	_	_
+7	good	_	_	_	_	6	amod	_	_
+8	idea	_	_	_	_	6	nmod	_	_
+9	with	_	_	_	_	8	case	_	_
+10	a	_	_	_	_	9	det	_	_
+11	sick	_	_	_	_	10	amod	_	_
+12	dog	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_02-0009
+# text = I have asked Doug Daniels to prepare the settlement papers reflecting such an agreement.
+1	I	PRON	PRON	PRP	_	2	nsubj	_	_
+2	have	AUX	AUX	VBP	_	0	root	_	_
+3	asked	VBD	VERB	VBD	_	2	ccomp	_	_
+4	Doug	PROPN	PROPN	NNP	_	3	nsubj	_	_
+5	Daniels	PROPN	PROPN	NNP	_	4	flat	_	_
+6	to	TO	PART	TO	_	3	mark	_	_
+7	prepare	VB	VERB	VB	_	3	xcomp	_	_
+8	the	DET	DET	DT	_	9	det	_	_
+9	settlement	NOUN	NOUN	NNS	_	7	dobj	_	_
+10	papers	NOUN	NOUN	NNS	_	9	nmod	_	_
+11	reflecting	VERB	VERB	VBG	_	7	advcl	_	_
+12	such	DET	DET	DT	_	13	det	_	_
+13	an	NOUN	NOUN	NNS	_	11	nsubj	_	_
+14	agreement	PUNCT	PUNCT	.	_	2	punct	_	_
+15	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-223040-0001
+# text = I love this place lots of people to talk to and school is across the street!
+1	I	PRON	PRON	PRP	_	2	nsubj	_	_
+2	love	VERB	VERB	VBP	_	0	root	_	_
+3	this	DET	DET	DT	_	4	det	_	_
+4	place	NOUN	NOUN	NN	_	2	obj	_	_
+5	lots	ADJ	ADJ	JJ	_	6	amod	_	_
+6	of	NOUN	NOUN	NNS	_	4	nmod	_	_
+7	people	ADP	ADP	TO	_	8	case	_	_
+8	to	VERB	VERB	VB	_	6	acl	_	_
+9	talk	CCONJ	CC	CC	_	2	cc	_	_
+10	to	NOUN	NOUN	NN	_	11	nsubj	_	_
+11	and	AUX	AUX	VBZ	_	2	conj	_	_
+12	school	ADV	ADV	RB	_	13	advmod	_	_
+13	is	NOUN	NOUN	NN	_	11	obl	_	_
+14	across	PUNCT	PUNCT	.	_	2	punct	_	_
+15	the	_	_	_	_	2	dep	_	_
+16	street	_	_	_	_	2	dep	_	_
+17	!	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent29_02-0041
+# text = Thank you though.
+1	Thank	thank	VERB	_	_	0	root	_	_
+2	you	you	PRON	_	_	1	obj	_	_
+3	though	though	ADV	_	_	1	advmod	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000-0007
+# text = It would be great if the person from CHANT who started this page would put up a short description of the campaign and a list to this group page on the Action Network site.
+1	It	it	PRON	PRON	_	0	root	_	_
+2	would	would	AUX	AUX	_	1	dep	_	_
+3	be	be	AUX	AUX	_	1	dep	_	_
+4	great	great	ADJ	ADJ	_	5	advmod	_	_
+5	if	if	SCONJ	SCONJ	_	3	mark	_	_
+6	the	the	DET	DET	_	1	dep	_	_
+7	person	person	NOUN	NOUN	_	1	dep	_	_
+8	from	from	ADP	ADP	_	7	case	_	_
+9	CHANT	CHANT	PROPN	PROPN	_	7	nmod	_	_
+10	who	who	PRON	PRON	_	11	nsubj	_	_
+11	started	started	VERB	VERB	_	7	acl	_	_
+12	this	this	DET	DET	_	13	det	_	_
+13	page	page	NOUN	NOUN	_	11	obj	_	_
+14	would	who	PRON	PRON	_	15	nsubj	_	_
+15	put	started	VERB	VERB	_	13	acl	_	_
+16	up	this	DET	DET	_	17	det	_	_
+17	a	page	NOUN	NOUN	_	15	obj	_	_
+18	short	who	PRON	PRON	_	19	nsubj	_	_
+19	description	started	VERB	VERB	_	17	acl	_	_
+20	of	this	DET	DET	_	21	det	_	_
+21	the	page	NOUN	NOUN	_	19	obj	_	_
+22	campaign	who	PRON	PRON	_	23	nsubj	_	_
+23	and	started	VERB	VERB	_	21	acl	_	_
+24	a	this	DET	DET	_	25	det	_	_
+25	list	page	NOUN	NOUN	_	23	obj	_	_
+26	to	who	PRON	PRON	_	27	nsubj	_	_
+27	this	started	VERB	VERB	_	25	acl	_	_
+28	group	this	DET	DET	_	29	det	_	_
+29	page	page	NOUN	NOUN	_	27	obj	_	_
+30	on	who	PRON	PRON	_	31	nsubj	_	_
+31	the	started	VERB	VERB	_	29	acl	_	_
+32	Action	this	DET	DET	_	33	det	_	_
+33	Network	page	NOUN	NOUN	_	31	obj	_	_
+34	site	who	PRON	PRON	_	35	nsubj	_	_
+35	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107200249AAIyCy5_ans-0003
+# text = Michelangelo made the marble one but why did he do another if Donatello had already made one?
+1	Michelangelo	Michelangelo	NOUN	NN	_	4	nsubj	_	_
+2	made	MAKE	VERB	VB	_	4	cop	_	_
+3	the	THAT	DET	DT	_	4	det	_	_
+4	marble	marble	NOUN	NN	_	0	root	_	_
+5	one	one	NUM	CD	_	4	nummod	_	_
+6	but	but	CCONJ	CC	_	7	cc	_	_
+7	why	why	ADV	WRB	_	4	advmod	_	_
+8	did	do	VERB	VBD	_	7	cop	_	_
+9	he	he	PRON	PRP	_	8	nsubj	_	_
+10	do	do	VERB	VB	_	8	cop	_	_
+11	another	another	NUM	CD	_	12	nummod	_	_
+12	if	if	SCONJ	IN	_	10	advcl	_	_
+13	Donatello	Donatello	PROPN	NNP	_	12	nsubj	_	_
+14	had	have	AUX	VBD	_	12	aux	_	_
+15	already	already	ADV	RB	_	14	advmod	_	_
+16	made	one	NUM	CD	_	14	obj	_	_
+17	one	?	PUNCT	.	_	4	punct	_	_
+18	?	_	_	_	_	4	dep	_	_
+
+# sent_id = email-enronsent21_02-0037
+# text = EY4108.E PERFORMANCE 01-Feb-02 P 12,514,373 -$ 265,932
+1	EY4108.E	_	_	_	_	0	root	_	_
+2	PERFORMANCE	_	_	_	_	1	dep	_	_
+3	01-Feb-02	_	_	_	_	1	dep	_	_
+4	P	_	_	_	_	1	dep	_	_
+5	12,514,373	_	_	_	_	1	dep	_	_
+6	-	_	_	_	_	1	dep	_	_
+7	$	_	_	_	_	1	dep	_	_
+8	265,932	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_APassionforRats_207517af35c166ef_ENG_20050526_150700-0005
+# text = Cindy
+1	Cindy	_	_	_	_	0	root	_	_
+
+# sent_id = weblog-juancole.com_juancole_20041018060600_ENG_20041018_060600-0006
+# text = This consolidation is obviously a result of Bush's aggressive invasion of Iraq and of the botching of the aftermath.
+1	This	_	DET	DT	_	2	nsubj	_	_
+2	consolidation	_	NOUN	NOUN	_	0	root	_	_
+3	is	_	AUX	AUX	_	2	cop	_	_
+4	obviously	_	ADV	ADV	_	2	advmod	_	_
+5	a	_	DET	DET	_	6	det	_	_
+6	result	_	NOUN	NOUN	_	2	nmod	_	_
+7	of	_	ADP	ADP	_	8	case	_	_
+8-9	Bush's	_	_	_	_	_	_	_	_
+8	Bush	_	PROPN	PROPN	_	6	nmod	_	_
+9	's	_	PUNCT	PUNCT	_	10	punct	_	_
+10	aggressive	_	ADJ	ADJ	_	11	amod	_	_
+11	invasion	_	NOUN	NOUN	_	6	nmod	_	_
+12	of	_	ADP	ADP	_	13	case	_	_
+13	Iraq	_	PROPN	PROPN	_	11	nmod	_	_
+14	and	_	CCONJ	CCONJ	_	15	cc	_	_
+15	of	_	ADP	ADP	_	16	case	_	_
+16	the	_	DET	DET	_	17	det	_	_
+17	botching	_	NOUN	NOUN	_	6	nmod	_	_
+18	of	_	ADP	ADP	_	19	case	_	_
+19	the	_	DET	DET	_	20	det	_	_
+20	aftermath	_	NOUN	NOUN	_	17	nmod	_	_
+21	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-290238-0003
+# text = If you check RecWarehouse.com, they don't list this as a location.
+1	If	if	CCONJ	_	_	2	cc	_	_
+2	you	check	VERB	VBP	_	4	advcl	_	_
+3	check	RecWarehouse.com	NOUN	NNP	_	2	nsubj	_	_
+4	RecWarehouse.com	DO	VERB	VBP	_	0	root	_	_
+5	,	not	ADV	RB	_	6	neg	_	_
+6	they	_	_	_	_	4	dep	_	_
+7-8	don't	_	_	_	_	_	_	_	_
+7	do	as	ADP	IN	_	8	case	_	_
+8	n't	a	DET	DT	_	9	det	_	_
+9	list	location	NOUN	NN	_	6	nmod	_	_
+10	this	.	PUNCT	.	_	4	punct	_	_
+11	as	_	_	_	_	4	dep	_	_
+12	a	_	_	_	_	4	dep	_	_
+13	location	_	_	_	_	4	dep	_	_
+14	.	_	_	_	_	4	dep	_	_
+
+# sent_id = reviews-227515-0003
+# text = I have had several dentists in my life, but Dr. Deters is by far my favorite.
+1	I	I	PRON	PRON	_	4	nsubj	_	_
+2	have	have	VERB	VERB	_	4	aux	_	_
+3	had	had	AUX	AUX	_	4	aux	_	_
+4	several	dentist	NOUN	NOUN	Number=Plur|Plur=Yes	0	root	_	_
+5	dentists	in	ADP	ADP	_	6	case	_	_
+6	in	my	DET	DET	Number=Sing|Poss=Yes|PronType=Prs	4	nmod	_	_
+7	my	life	NOUN	NOUN	Number=Sing	6	nmod	_	_
+8	life	,	PUNCT	PUNCT	_	4	punct	_	_
+9	,	,	PUNCT	PUNCT	_	4	punct	_	_
+10	but	but	CCONJ	CCONJ	_	11	cc	_	_
+11	Dr.	Dr.	PROPN	PROPN	_	12	nmod	_	_
+12	Deters	Deters	PROPN	PROPN	_	13	nsubj	_	_
+13	is	be	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	dep	_	_
+14	by	by	ADP	ADP	_	15	case	_	_
+15	far	far	ADV	ADV	_	13	advmod	_	_
+16	my	my	DET	DET	Number=Sing|Poss=Yes|PronType=Prs	17	nmod	_	_
+17	favorite	favorite	ADJ	ADJ	Number=Sing	13	nmod	_	_
+18	.	_	_	_	_	4	dep	_	_
+
+# sent_id = answers-20111107082312AAPNaxb_ans-0007
+# text = It was pretty epic as I remember and would love to send my friend there.
+1	It	it	PRON	PRON	_	4	nsubj	_	_
+2	was	be	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+3	pretty	pretty	ADV	ADV	_	4	advmod	_	_
+4	epic	epic	ADJ	ADJ	_	0	root	_	_
+5	as	as	SCONJ	SCONJ	_	6	mark	_	_
+6	I	I	PRON	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+7	remember	remember	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl	_	_
+8	and	and	CCONJ	CCONJ	_	9	cc	_	_
+9	would	love	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+10	love	to	PART	PART	_	9	mark	_	_
+11	to	send	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	xcomp	_	_
+12	send	my	PRON	PRON	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	my	friend	NOUN	NOUN	Number=Sing	11	nsubj	_	_
+14	friend	there	ADV	ADV	_	11	advmod	_	_
+15	there	.	PUNCT	PUNCT	_	4	punct	_	_
+16	.	_	_	_	_	4	dep	_	_
+
+# sent_id = answers-20111108103704AAB0G7y_ans-0002
+# text = for the past few days she has been shivering and wont eat but she could walk now her hid legs are not working but she is back to her self .. what should i do .?
+1	for	_	_	_	_	0	root	_	_
+2	the	_	_	_	_	1	dep	_	_
+3	past	_	_	_	_	1	dep	_	_
+4	few	_	_	_	_	1	dep	_	_
+5	days	_	_	_	_	1	dep	_	_
+6	she	_	_	_	_	1	dep	_	_
+7	has	_	_	_	_	1	dep	_	_
+8	been	_	_	_	_	1	dep	_	_
+9	shivering	_	_	_	_	1	dep	_	_
+10	and	_	_	_	_	1	dep	_	_
+11-12	wont	_	_	_	_	_	_	_	_
+11	wo	_	_	_	_	1	dep	_	_
+12	nt	_	_	_	_	1	dep	_	_
+13	eat	_	_	_	_	1	dep	_	_
+14	but	_	_	_	_	1	dep	_	_
+15	she	_	_	_	_	1	dep	_	_
+16	could	_	_	_	_	1	dep	_	_
+17	walk	_	_	_	_	1	dep	_	_
+18	now	_	_	_	_	1	dep	_	_
+19	her	_	_	_	_	1	dep	_	_
+20	hid	_	_	_	_	1	dep	_	_
+21	legs	_	_	_	_	1	dep	_	_
+22	are	_	_	_	_	1	dep	_	_
+23	not	_	_	_	_	1	dep	_	_
+24	working	_	_	_	_	1	dep	_	_
+25	but	_	_	_	_	1	dep	_	_
+26	she	_	_	_	_	1	dep	_	_
+27	is	_	_	_	_	1	dep	_	_
+28	back	_	_	_	_	1	dep	_	_
+29	to	_	_	_	_	1	dep	_	_
+30	her	_	_	_	_	1	dep	_	_
+31	self	_	_	_	_	1	dep	_	_
+32	..	_	_	_	_	1	dep	_	_
+33	what	_	_	_	_	1	dep	_	_
+34	should	_	_	_	_	1	dep	_	_
+35	i	_	_	_	_	1	dep	_	_
+36	do	_	_	_	_	1	dep	_	_
+37	.?	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0064
+# text = Thanks
+1	Thanks	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-048201-0002
+# text = The Donuts were very over proofed, making them stale and bready.
+1	The	_	DET	_	_	2	nsubj	_	_
+2	Donuts	_	NOUN	_	_	0	root	_	_
+3	were	_	AUX	_	_	2	aux	_	_
+4	very	_	ADV	_	_	5	advmod	_	_
+5	over	_	ADJ	_	_	6	amod	_	_
+6	proofed	_	VERB	_	_	2	acl	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	making	_	VERB	_	_	2	advcl	_	_
+9	them	_	PRON	_	_	8	nsubj	_	_
+10	stale	_	ADJ	_	_	8	xcomp	_	_
+11	and	_	CCONJ	_	_	12	cc	_	_
+12	bready	_	ADJ	_	_	10	conj	_	_
+13	.	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent32_01-0030
+# text = 11/15/2000 11:58 AM
+1	11/15/2000	_	_	_	_	0	root	_	_
+2	11:58	_	_	_	_	1	dep	_	_
+3	AM	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0050
+# text = Don't worry about avoiding temptation... as you grow older, it will avoid you.
+1-2	Don't	_	_	_	_	_	_	_	_
+1	Do	_	_	_	_	0	root	_	_
+2	n't	_	_	_	_	1	aux	_	_
+3	worry	_	_	_	_	1	advmod	_	_
+4	about	_	_	_	_	1	advmod	_	_
+5	avoiding	_	_	_	_	1	advmod	_	_
+6	temptation	_	_	_	_	5	nmod	_	_
+7	...	_	_	_	_	1	punct	_	_
+8	as	_	_	_	_	1	advmod	_	_
+9	you	_	_	_	_	1	nsubj	_	_
+10	grow	_	_	_	_	1	advmod	_	_
+11	older	_	_	_	_	10	advmod	_	_
+12	,	_	_	_	_	1	punct	_	_
+13	it	_	_	_	_	1	nsubj	_	_
+14	will	_	_	_	_	1	aux	_	_
+15	avoid	_	_	_	_	1	advmod	_	_
+16	you	_	_	_	_	15	obj	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108071652AA8GAZw_ans-0007
+# text = i always thought theres no custom charges for gifts.
+1	i	i	PRON	PRP	_	2	nsubj	_	_
+2	always	always	ADV	RB	_	0	root	_	_
+3	thought	think	VERB	VBD	_	2	advmod	_	_
+4-5	theres	_	_	_	_	_	_	_	_
+4	there	there	ADV	RB	_	3	advmod	_	_
+5	s	there	PRON	PRP	_	3	nsubj	_	_
+6	no	no	DET	DT	_	7	det	_	_
+7	custom	charge	NOUN	NNS	_	3	obj	_	_
+8	charges	for	ADP	IN	_	7	case	_	_
+9	for	gift	NOUN	NNS	_	8	nmod	_	_
+10	gifts	.	PUNCT	.	_	2	punct	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-118679-0002
+# text = Unfortunately, I've given it a couple of tries at different times and decided to stop going.
+1	Unfortunately	Unfortunately	ADV	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3-4	I've	_	_	_	_	_	_	_	_
+3	I	I	PRON	_	_	4	nsubj	_	_
+4	've	've	AUX	_	_	5	aux	_	_
+5	given	give	VERB	_	_	1	dep	_	_
+6	it	it	PRON	_	_	5	dobj	_	_
+7	a	a	DET	_	_	8	det	_	_
+8	couple	couple	NOUN	_	_	5	nmod	_	_
+9	of	of	ADP	_	_	8	case	_	_
+10	tries	tries	NOUN	_	_	8	nmod	_	_
+11	at	at	ADP	_	_	10	case	_	_
+12	different	different	ADJ	_	_	10	amod	_	_
+13	times	times	NOUN	_	_	12	nmod	_	_
+14	and	and	CCONJ	_	_	5	cc	_	_
+15	decided	decide	VERB	_	_	5	conj	_	_
+16	to	to	PART	_	_	15	mark	_	_
+17	stop	stop	VERB	_	_	15	xcomp	_	_
+18	going	go	VERB	_	_	17	dobj	_	_
+19	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-028996-0003
+# text = I own a property management firm and need a contractor with the credentials that Farrell Electric has.
+1	I	PRON	PRON	PRP	_	0	root	_	_
+2	own	VERB	VERB	VBP	_	1	dep	_	_
+3	a	DET	DET	DT	_	4	det	_	_
+4	property	PROPN	PROPN	NN	_	2	dobj	_	_
+5	management	ADJ	ADJ	JJ	_	4	amod	_	_
+6	firm	PROPN	PROPN	NN	_	4	nmod	_	_
+7	and	CCONJ	CC	CC	_	8	cc	_	_
+8	need	VERB	VERB	VBP	_	2	conj	_	_
+9	a	DET	DET	DT	_	10	det	_	_
+10	contractor	PROPN	PROPN	NN	_	8	dobj	_	_
+11	with	ADP	IN	IN	_	12	case	_	_
+12	the	DET	DET	DT	_	13	det	_	_
+13	credentials	NOUN	NOUN	NNS	_	10	nmod	_	_
+14	that	DET	DET	DT	_	15	det	_	_
+15	Farrell	ELECTRIC	PROPN	PROPN	_	13	nmod	_	_
+16	Electric	VERB	VERB	VBZ	_	15	acl	_	_
+17	has	PUNCT	PUNCT	.	_	2	punct	_	_
+18	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653-0008
+# text = Remember that the Occupation is emphemeral."
+1	Remember	remember	VERB	_	_	0	root	_	_
+2	that	the	DET	_	Definite=Def|PronType=Art	1	det	_	_
+3	the	_	DET	_	_	2	det	_	_
+4	Occupation	occupation	NOUN	_	_	2	nmod	_	_
+5	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+6	emphemeral	emphemeral	ADJ	_	_	4	amod	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+8	"	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_12-0003
+# text = that's fine, i don't want to see you either, i just need to make a cd.
+1-2	that's	_	_	_	_	_	_	_	_
+1	that	that	DET	DT	_	0	root	_	_
+2	's	be	AUX	VBZ	_	3	cop	_	_
+3	fine	fine	ADJ	JJ	_	1	dep	_	_
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	i	i	PRON	PRP	_	6	nsubj	_	_
+6-7	don't	_	_	_	_	_	_	_	_
+6	do	do	VERB	VB	_	3	root	_	_
+7	n't	not	ADV	RB	_	6	advmod	_	_
+8	want	want	VERB	VB	_	6	ccomp	_	_
+9	to	to	PART	TO	_	8	mark	_	_
+10	see	see	VERB	VB	_	8	xcomp	_	_
+11	you	you	PRON	PRP	_	10	obj	_	_
+12	either	either	ADV	RB	_	10	advmod	_	_
+13	,	,	PUNCT	,	_	6	punct	_	_
+14	i	i	PRON	PRP	_	15	nsubj	_	_
+15	just	just	ADV	RB	_	6	ccomp	_	_
+16	need	need	VERB	VB	_	15	xcomp	_	_
+17	to	to	PART	TO	_	16	mark	_	_
+18	make	make	VERB	VB	_	16	xcomp	_	_
+19	a	cd	NOUN	NN	_	18	obj	_	_
+20	cd	.	PUNCT	.	_	6	punct	_	_
+21	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-178726-0006
+# text = Clean and superb.
+1	Clean	_clean	ADJ	_	_	0	root	_	_
+2	and	and	CCONJ	_	_	3	cc	_	_
+3	superb	superb	ADJ	_	_	1	conj	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_marketview_20060625150800_ENG_20060625_150800-0009
+# text = em ... no ... the Gates foundation mainly invests in medical research and education, that means donating now adds a tremendous value compared to donating in ten years.
+1	em	EM	.	.	_	0	root	_	_
+2	...	...	.	.	_	1	punct	_	_
+3	no	no	.	.	_	1	punct	_	_
+4	...	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	the	Gates	PROPN	NNP	_	6	nmod	_	_
+6	Gates	foundation	PROPN	NNP	_	1	nsubj	_	_
+7	foundation	mainly	ADV	RB	_	8	advmod	_	_
+8	mainly	invest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	invests	in	ADP	IN	_	10	case	_	_
+10	in	medical	ADJ	JJ	Degree=Pos	8	nmod	_	_
+11	medical	research	NOUN	NN	Number=Sing	10	nmod	_	_
+12	research	and	CCONJ	CC	_	13	cc	_	_
+13	and	education	NOUN	NN	Number=Sing	11	conj	_	_
+14	education	,	PUNCT	,	_	8	punct	_	_
+15	,	that	SCONJ	IN	_	16	mark	_	_
+16	that	means	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+17	means	donate	VERB	VBG	Tense=Pres|VerbForm=Ger	16	xcomp	_	_
+18	donating	now	ADV	RB	_	17	advmod	_	_
+19	now	add	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
+20	adds	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	_
+21	a	tremendous	ADJ	JJ	Degree=Pos	19	nsubj	_	_
+22	tremendous	value	NOUN	NN	Number=Sing	19	obj	_	_
+23	value	compare	VERB	VBN	Tense=Past|VerbForm=Part	19	advcl	_	_
+24	compared	to	ADP	IN	_	25	case	_	_
+25	to	donate	VERB	VBG	Tense=Pres|VerbForm=Ger	23	nmod	_	_
+26	donating	in	ADP	IN	_	27	case	_	_
+27	in	ten	NUM	CD	NumType=Card	25	nmod	_	_
+28	ten	year	NOUN	NNS	Number=Plur	27	nmod	_	_
+29	years	.	PUNCT	.	_	1	punct	_	_
+30	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-254908-0001
+# text = I hired this company to unlock my car.
+1	I	PRON	PRON	PRP	_	0	root	_	_
+2	hired	VERB	VERB	VBD	_	1	dep	_	_
+3	this	DET	DET	DT	_	4	det	_	_
+4	company	NOUN	NOUN	NN	_	2	dobj	_	_
+5	to	ADP	ADP	TO	_	6	mark	_	_
+6	unlock	VERB	VERB	VB	_	4	acl	_	_
+7	my	_	_	_	_	1	dep	_	_
+8	car	_	_	_	_	1	dep	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.cat_0f877e44e3521d27_ENG_20040131_084700-0003
+# text = We have updated our site to include a LOST and FOUND page and you can now join our branch and make a secure on-line donation to the charity.
+1	We	we	PRON	PRON	_	2	nsubj	_	_
+2	have	have	AUX	AUX	_	0	root	_	_
+3	updated	updated	VERB	VERB	_	2	xcomp	_	_
+4	our	our	DET	DET	_	5	det	_	_
+5	site	site	NOUN	NOUN	_	3	dobj	_	_
+6	to	to	ADP	ADP	_	7	case	_	_
+7	include	include	VERB	VERB	_	3	advcl	_	_
+8	a	a	DET	DET	_	9	det	_	_
+9	LOST	lost	NOUN	NOUN	_	7	dobj	_	_
+10	and	and	CCONJ	CCONJ	_	7	cc	_	_
+11	FOUND	found	NOUN	NOUN	_	10	conj	_	_
+12	page	page	NOUN	NOUN	_	7	dobj	_	_
+13	and	and	CCONJ	CCONJ	_	7	cc	_	_
+14	you	you	PRON	PRON	_	7	nsubj	_	_
+15	can	can	AUX	AUX	_	7	aux	_	_
+16	now	now	ADV	ADV	_	7	advmod	_	_
+17	join	join	VERB	VERB	_	7	xcomp	_	_
+18	our	our	DET	DET	_	19	det	_	_
+19	branch	branch	NOUN	NOUN	_	17	dobj	_	_
+20	and	and	CCONJ	CCONJ	_	17	cc	_	_
+21	make	make	VERB	VERB	_	17	conj	_	_
+22	a	a	DET	DET	_	23	det	_	_
+23	secure	secure	ADJ	ADJ	_	21	dobj	_	_
+24	on	on	ADP	ADP	_	25	case	_	_
+25	-	line	NOUN	NOUN	_	23	nmod	_	_
+26	line	donation	NOUN	NOUN	_	21	dobj	_	_
+27	donation	to	ADP	ADP	_	28	case	_	_
+28	to	the	DET	DET	_	29	det	_	_
+29	the	charity	NOUN	NOUN	_	26	nmod	_	_
+30	charity	.	PUNCT	PUNCT	_	2	punct	_	_
+31	.	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20090709103651AAwwZKx_ans-0002
+# text = Heck there must be at least 1 korean.
+1	Heck	heck	ADJ	_	_	0	root	_	_
+2	there	there	ADV	_	_	3	advmod	_	_
+3	must	must	AUX	_	_	4	aux	_	_
+4	be	be	AUX	_	_	5	cop	_	_
+5	at	_	_	_	_	1	dep	_	_
+6	least	least	NUM	_	_	5	nummod	_	_
+7	1	1	NUM	_	_	6	nummod	_	_
+8	korean	korean	NOUN	_	_	7	nmod	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_aggressivevoicedaily_20060629164800_ENG_20060629_164800-0006
+# text = SCALIA filed a dissenting opinion, in which THOMAS and ALITO joined.
+1	SCALIA	Scalia	PROPN	NNP	_	0	root	_	_
+2	filed	file	VERB	VBD	_	1	cop	_	_
+3	a	a	DET	DT	_	4	det	_	_
+4	dissenting	dissenting	ADJ	JJ	_	2	amod	_	_
+5	opinion	opinion	NOUN	NN	_	2	obj	_	_
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	which	_	PRON	WHPR	_	5	advmod	_	_
+9	THOMAS	Thomas	PROPN	NNP	_	8	nmod	_	_
+10	and	_	CCONJ	CC	_	11	cc	_	_
+11	ALITO	Alito	PROPN	NNP	_	9	conj	_	_
+12	joined	join	VERB	VBD	_	2	advcl	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107211645AA391wC_ans-0002
+# text = Depends of what.
+1	Depends	depend	VBD	_	_	0	root	_	_
+2	of	_	_	_	_	1	case	_	_
+3	what	what	PRON	WDT	_	1	nsubj	_	_
+4	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_01-0005
+# text = i can think of a few things
+1	i	i	PRON	PRP	_	2	nsubj	_	_
+2	can	can	AUX	MD	_	0	root	_	_
+3	think	think	VERB	VB	_	2	xcomp	_	_
+4	of	of	ADP	IN	_	3	case	_	_
+5	a	a	DET	DT	_	6	det	_	_
+6	few	few	NUM	CD	_	3	nmod	_	_
+7	things	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-083563-0003
+# text = many thanks 2scompany...
+1	many	many	ADJ	_	_	2	nmod	_	_
+2	thanks	thanks	NOUN	_	_	3	nsubj	_	_
+3	2scompany	2scompany	VERB	_	_	0	root	_	_
+4	...	_	_	_	_	3	dep	_	_
+
+# sent_id = answers-20111107035344AAdi9dS_ans-0002
+# text = Well theres Mc.Donalds,Taco Bell,Burger King.....
+1	Well	Well	ADV	_	_	0	root	_	_
+2-3	theres	_	_	_	_	_	_	_	_
+2	there	there	ADV	_	_	3	advmod	_	_
+3	s	s	DET	_	_	4	det	_	_
+4-5	Mc.Donalds	_	_	_	_	_	_	_	_
+4	Mc.Donald	s	PROPN	_	_	5	nmod	_	_
+5	s	Mc.Donald	S	PROPN	_	6	nmod	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	Taco	Taco	PROPN	_	_	8	nmod	_	_
+8	Bell	Bell	PROPN	_	_	9	nmod	_	_
+9	,	,	PUNCT	_	_	1	punct	_	_
+10	Burger	Burger	PROPN	_	_	11	nmod	_	_
+11	King	King	PROPN	_	_	12	nmod	_	_
+12	.....	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-299169-0002
+# text = Fried rice has NO flavor, it literally taste like water.
+1	Fried	rice	NOUN	NN	Number=Sing|Person=3	2	nsubj	_	_
+2	rice	NO	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	has	flavor	NOUN	NN	Number=Sing|Person=3	2	obj	_	_
+4	NO	,	PUNCT	,	_	5	punct	_	_
+5	flavor	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+6	,	literally	ADV	RB	_	7	advmod	_	_
+7	it	taste	VERB	VB	VerbForm=Inf	2	advcl	_	_
+8	literally	like	ADP	IN	_	9	case	_	_
+9	taste	water	NOUN	NN	Number=Sing|Person=3	7	obl	_	_
+10	like	_	_	_	_	2	dep	_	_
+11	water	_	_	_	_	2	dep	_	_
+12	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-304759-0002
+# text = The architecture is simplz splendid.
+1	The	the	DET	DT	_	0	root	_	_
+2	architecture	architecture	NOUN	NN	_	1	dep	_	_
+3	is	be	AUX	VBZ	_	4	cop	_	_
+4	simplz	simplz	ADJ	JJ	_	2	amod	_	_
+5	splendid	splendid	ADJ	JJ	_	2	amod	_	_
+6	.	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0016
+# text = The hijackers were obviously al-Qaeda, and no operational links between al-Qaeda and Iraq had ever been found).
+1	The	the	DET	DT	_	2	nsubj	_	_
+2	hijackers	hijacker	NOUN	NNS	_	3	nsubj	_	_
+3	were	be	AUX	VBD	_	0	root	_	_
+4	obviously	obviously	ADV	RB	_	5	advmod	_	_
+5	al	al	ADP	IN	_	6	case	_	_
+6	-	Qaeda	PROPN	NNP	_	2	nmod	_	_
+7	Qaeda	,	PUNCT	,	_	3	punct	_	_
+8	,	and	CCONJ	CC	_	3	dep	_	_
+9	and	no	DET	DT	_	3	dep	_	_
+10	no	operational	ADJ	JJ	_	3	dep	_	_
+11	operational	links	NOUN	NNS	_	3	dep	_	_
+12	links	between	ADP	IN	_	13	case	_	_
+13	between	Qaeda	PROPN	NNP	_	11	nmod	_	_
+14	al	and	CCONJ	CC	_	15	cc	_	_
+15	-	Iraq	PROPN	NNP	_	13	nmod	_	_
+16	Qaeda	have	AUX	VBD	_	3	dep	_	_
+17	and	be	AUX	VBN	_	3	dep	_	_
+18	Iraq	links	NOUN	NNS	_	17	root	_	_
+19	had	between	ADP	IN	_	20	case	_	_
+20	ever	Qaeda	PROPN	NNP	_	18	nmod	_	_
+21	been	and	CCONJ	CC	_	22	cc	_	_
+22	found	Iraq	PROPN	NNP	_	20	nmod	_	_
+23	)	have	AUX	VBD	_	24	aux	_	_
+24	.	_	_	_	_	3	dep	_	_
+
+# sent_id = email-enronsent32_01-0046
+# text = 03/23/2001 12:24 PM
+1	03/23/2001	_	_	_	_	0	root	_	_
+2	12:24	_	_	_	_	1	dep	_	_
+3	PM	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106103415AAqdokn_ans-0006
+# text = idk ur choice
+1	idk	_	_	_	_	0	root	_	_
+2	ur	_	_	_	_	1	advmod	_	_
+3	choice	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_hiddennook_1fd8f731ae7ffaa0_ENG_20050214_192900-0009
+# text = But it looks like Google isn't opening it's mouth about the reason behind the offer as Linux News reports:
+1	But	it	PRON	PRON	_	0	root	_	_
+2	it	n't	AUX	AUX	_	1	dep	_	_
+3	looks	it's	VERB	VERB	_	1	dep	_	_
+4	like	_	NOUN	NOUN	_	3	obj	_	_
+5	Google	_	ADP	ADP	_	6	case	_	_
+6-7	isn't	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	1	dep	_	_
+7	n't	_	ADP	ADP	_	8	case	_	_
+8	opening	_	DET	DET	_	9	det	_	_
+9	it's	_	NOUN	NOUN	_	6	nmod	_	_
+10	mouth	_	CCONJ	CCONJ	_	11	cc	_	_
+11	about	_	PROPN	PROPN	_	9	appos	_	_
+12	the	_	PROPN	PROPN	_	11	flat	_	_
+13	reason	_	VERB	VERB	_	2	advcl	_	_
+14	behind	_	_	_	_	1	dep	_	_
+15	the	_	_	_	_	1	dep	_	_
+16	offer	_	_	_	_	1	dep	_	_
+17	as	_	_	_	_	1	dep	_	_
+18	Linux	_	_	_	_	1	dep	_	_
+19	News	_	_	_	_	1	dep	_	_
+20	reports	_	_	_	_	1	dep	_	_
+21	:	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent23_02-0007
+# text = real nice.
+1	real	real	ADJ	_	_	2	amod	_	_
+2	nice	nice	ADJ	_	_	0	root	_	_
+3	.	_	_	_	_	2	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0001
+# text = Email: n3td3v <xploita...@gmail.com>
+1	Email	_	_	_	_	0	root	_	_
+2	:	_	_	_	_	1	dep	_	_
+3	n3td3v	_	_	_	_	1	dep	_	_
+4	<	_	_	_	_	1	dep	_	_
+5	xploita...@gmail.com	_	_	_	_	1	dep	_	_
+6	>	_	_	_	_	1	dep	_	_
+
+# sent_id = weblog-blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000-0013
+# text = He has denied this.
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	has	has	AUX	VBP	_	0	root	_	_
+3	denied	deny	VERB	VBD	_	2	xcomp	_	_
+4	this	this	DET	DT	_	3	dobj	_	_
+5	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-200668-0001
+# text = kudos to Allentown Post Office staff
+1	kudos	kudos	NOUN	NN	_	0	root	_	_
+2	to	to	ADP	IN	_	1	dep	_	_
+3	Allentown	Allentown	PROPN	NNP	_	1	dep	_	_
+4	Post	Post	NOUN	NN	_	3	nmod	_	_
+5	Office	office	NOUN	NN	_	4	nmod	_	_
+6	staff	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0025
+# text = Debra Perlingiere
+1	Debra	Debra	PROPN	NNP	_	0	root	_	_
+2	Perlingiere	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108074555AAFT8Aj_ans-0004
+# text = Or background stands
+1	Or	_	_	_	_	0	root	_	_
+2	background	_	_	_	_	1	advmod	_	_
+3	stands	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_fineart_0339fc0ed4e53c5a_ENG_20050930_025500-0007
+# text = "Wei has given some virtuoso performances with brush and ink, often incorporating several different techniques into a single work," said Gordon S. Barrass, curator of the exhibition.
+1	"	Wei	PROPN	PROPN	_	2	nmod:poss	_	_
+2	Wei	give	VERB	VERB	_	3	acl:relcl	_	_
+3	has	give	VERB	VERB	_	0	root	_	_
+4	given	some	DET	DET	_	5	det	_	_
+5	some	virtuoso	ADJ	ADJ	_	3	nsubj	_	_
+6	virtuoso	performance	NOUN	NOUN	_	5	nmod	_	_
+7	performances	with	ADP	ADP	_	8	case	_	_
+8	with	brush	NOUN	NOUN	_	6	nmod	_	_
+9	brush	and	CCONJ	CCONJ	_	10	cc	_	_
+10	and	ink	NOUN	NOUN	_	8	conj	_	_
+11	ink	,	PUNCT	PUNCT	_	3	punct	_	_
+12	,	often	ADV	ADV	_	13	advmod	_	_
+13	often	incorporate	VERB	VERB	_	3	advcl	_	_
+14	incorporating	several	NUM	NUM	_	15	nummod	_	_
+15	several	different	ADJ	ADJ	_	13	nsubj	_	_
+16	different	technique	NOUN	NOUN	_	15	nmod	_	_
+17	techniques	into	ADP	ADP	_	18	case	_	_
+18	into	work	NOUN	NOUN	_	16	nmod	_	_
+19	a	,	PUNCT	PUNCT	_	13	punct	_	_
+20	single	say	VERB	VERB	_	3	advcl	_	_
+21	work	Gordon	PROPN	PROPN	_	22	nmod:poss	_	_
+22	,	S.	PROPN	PROPN	_	23	nmod:poss	_	_
+23	"	Barrass	PROPN	PROPN	_	20	nsubj	_	_
+24	said	,	PUNCT	PUNCT	_	20	punct	_	_
+25	Gordon	curator	NOUN	NOUN	_	27	nmod:poss	_	_
+26	S.	of	ADP	ADP	_	27	case	_	_
+27	Barrass	exhibition	NOUN	NOUN	_	20	nmod	_	_
+28	,	.	PUNCT	PUNCT	_	3	punct	_	_
+29	curator	_	_	_	_	3	dep	_	_
+30	of	_	_	_	_	3	dep	_	_
+31	the	_	_	_	_	3	dep	_	_
+32	exhibition	_	_	_	_	3	dep	_	_
+33	.	_	_	_	_	3	dep	_	_
+
+# sent_id = email-enronsent23_01-0004
+# text = like what?
+1	like	like	ADV	_	_	2	case	_	_
+2	what	what	PRON	_	_	0	root	_	_
+3	?	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent32_01-0025
+# text = don't they know we have better things to do
+1-2	don't	_	_	_	_	_	_	_	_
+1	do	do	AUX	_	_	0	root	_	_
+2	n't	n't	PART	_	_	1	aux	_	_
+3	they	they	PRON	_	_	1	nsubj	_	_
+4	know	know	VERB	_	_	1	xcomp	_	_
+5	we	we	PRON	_	_	4	nsubj	_	_
+6	have	have	AUX	_	_	4	aux	_	_
+7	better	better	ADJ	_	_	8	amod	_	_
+8	things	thing	NOUN	_	_	4	obj	_	_
+9	to	to	PART	_	_	4	mark	_	_
+10	do	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-169610-0001
+# text = house closing
+1	house	house	NOUN	NN	_	0	root	_	_
+2	closing	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_8TRACKGROUPFORCOOLPEOPLE_3b43577fb9121c9f_ENG_20050320_090500-0001
+# text = Play your CD's, 8-tracks, reel to reels, cassettes, vinyl 33/45's, and shellac 78's through this little integrated amp, you'll get a big eye opener !
+1	Play	_	VERB	_	_	0	root	_	_
+2	your	_	DET	_	_	3	det	_	_
+3	CD's	_	NOUN	_	_	1	nsubj	_	_
+4	,	_	PUNCT	_	_	1	punct	_	_
+5	8	_	NUM	_	_	1	dep	_	_
+6	-	_	NOUN	_	_	1	dep	_	_
+7	tracks	_	NOUN	_	_	1	dep	_	_
+8	,	_	ADP	_	_	7	case	_	_
+9	reel	_	NOUN	_	_	8	nmod	_	_
+10	to	_	PUNCT	_	_	8	punct	_	_
+11	reels	_	NOUN	_	_	1	dep	_	_
+12	,	_	NOUN	_	_	1	dep	_	_
+13	cassettes	_	NUM	_	_	1	dep	_	_
+14	,	_	PUNCT	_	_	13	punct	_	_
+15	vinyl	_	NOUN	_	_	13	nmod	_	_
+16	33	_	PUNCT	_	_	13	punct	_	_
+17	/	_	CCONJ	_	_	18	cc	_	_
+18	45's	_	NOUN	_	_	19	nmod	_	_
+19	,	_	NOUN	_	_	13	conj	_	_
+20	and	_	ADP	_	_	1	dep	_	_
+21	shellac	_	DET	_	_	1	dep	_	_
+22	78's	_	ADJ	_	_	1	dep	_	_
+23	through	_	ADJ	_	_	1	dep	_	_
+24	this	_	NOUN	_	_	1	dep	_	_
+25	little	_	PUNCT	_	_	24	punct	_	_
+26	integrated	_	PRON	_	_	27	nsubj	_	_
+27	amp	_	AUX	_	_	28	aux	_	_
+28	,	_	VERB	_	_	1	conj	_	_
+29-30	you'll	_	_	_	_	_	_	_	_
+29	you	_	DET	_	_	30	det	_	_
+30	'll	_	ADJ	_	_	31	amod	_	_
+31	get	_	NOUN	_	_	32	nmod	_	_
+32	a	_	NOUN	_	_	28	obj	_	_
+33	big	_	PUNCT	_	_	1	punct	_	_
+34	eye	_	_	_	_	1	dep	_	_
+35	opener	_	_	_	_	1	dep	_	_
+36	!	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-153921-0002
+# text = We order take out from here all the time and we are never disappointed.
+1	We	we	PRON	PRON	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	order	order	VERB	VERB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	take	_	_	_	_	2	dep	_	_
+4	out	from	ADP	ADP	_	5	case	_	_
+5	from	here	ADV	ADV	_	3	obl	_	_
+6	here	all	DET	DET	_	7	det	_	_
+7	all	time	NOUN	NOUN	Number=Sing	2	obl	_	_
+8	the	and	CCONJ	CCONJ	_	9	cc	_	_
+9	time	we	PRON	PRON	Number=Plur|Person=1|PronType=Prs	2	conj	_	_
+10	and	be	VERB	VERB	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	_
+11	we	never	ADV	ADV	_	12	advmod	_	_
+12	are	disappointed	ADJ	ADJ	_	9	advcl	_	_
+13	never	.	PUNCT	PUNCT	_	2	punct	_	_
+14	disappointed	_	_	_	_	2	dep	_	_
+15	.	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent18_01-0001
+# text = Vince,
+1	Vince	Vince	PROPN	NNP	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108071652AA8GAZw_ans-0003
+# text = They have been shipped using USPS Priority Mail International Parcels.
+1	They	they	PRON	PRP	Number=Plur|Person=3	2	nsubj	_	_
+2	have	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	been	be	VERB	VBN	Tense=Past|VerbForm=Part	2	aux	_	_
+4	shipped	shipped	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	_
+5	using	using	ADP	IN	_	6	case	_	_
+6	USPS	USPS	NOUN	NNP	Number=Sing	4	obl	_	_
+7	Priority	Priority	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	Mail	Mail	NOUN	NN	Number=Sing	6	compound	_	_
+9	International	International	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	Parcels	Parcels	NOUN	NNS	Number=Plur	4	obj	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-251755-0005
+# text = She's the best!
+1-2	She's	_	_	_	_	_	_	_	_
+1	She	_She	PRON	PRP	_	2	nsubj	_	_
+2	's	's	PART	POS	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	best	best	ADJ	JJ	_	2	amod	_	_
+5	!	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent21_01-0004
+# text = Dear Mr. Lavorato:
+1	Dear	_	_	_	_	0	root	_	_
+2	Mr.	_	_	_	_	1	dep	_	_
+3	Lavorato	_	_	_	_	1	dep	_	_
+4	:	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20090605110621AA3jC62_ans-0001
+# text = What language is talked in Iguazu?
+1	What	what	DET	DT	_	2	nsubj	_	_
+2	language	language	NOUN	NOUN	_	4	nsubj	_	_
+3	is	be	AUX	AUX	_	4	aux	_	_
+4	talked	in	VERB	VERB	_	0	root	_	_
+5	in	Iguazu	PROPN	PROPN	_	4	obj	_	_
+6	Iguazu	?	PUNCT	PUNCT	_	4	punct	_	_
+7	?	_	_	_	_	4	dep	_	_
+
+# sent_id = reviews-235190-0002
+# text = Believe it or not, but the channel guide has been most helpful to my family members that visit and don't know where to start when it comes to watching satellite tv.
+1	Believe	_	_	_	_	0	root	_	_
+2	it	_	_	_	_	1	dep	_	_
+3	or	_	_	_	_	1	dep	_	_
+4	not	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	but	_	_	_	_	1	dep	_	_
+7	the	_	_	_	_	1	dep	_	_
+8	channel	_	_	_	_	1	dep	_	_
+9	guide	_	_	_	_	1	dep	_	_
+10	has	_	_	_	_	1	dep	_	_
+11	been	_	_	_	_	1	dep	_	_
+12	most	_	_	_	_	1	dep	_	_
+13	helpful	_	_	_	_	1	dep	_	_
+14	to	_	_	_	_	1	dep	_	_
+15	my	_	_	_	_	1	dep	_	_
+16	family	_	_	_	_	1	dep	_	_
+17	members	_	_	_	_	1	dep	_	_
+18	that	_	_	_	_	1	dep	_	_
+19	visit	_	_	_	_	1	dep	_	_
+20	and	_	_	_	_	1	dep	_	_
+21-22	don't	_	_	_	_	_	_	_	_
+21	do	_	_	_	_	1	dep	_	_
+22	n't	_	_	_	_	1	dep	_	_
+23	know	_	_	_	_	1	dep	_	_
+24	where	_	_	_	_	1	dep	_	_
+25	to	_	_	_	_	1	dep	_	_
+26	start	_	_	_	_	1	dep	_	_
+27	when	_	_	_	_	1	dep	_	_
+28	it	_	_	_	_	1	dep	_	_
+29	comes	_	_	_	_	1	dep	_	_
+30	to	_	_	_	_	1	dep	_	_
+31	watching	_	_	_	_	1	dep	_	_
+32	satellite	_	_	_	_	1	dep	_	_
+33	tv	_	_	_	_	1	dep	_	_
+34	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_01-0035
+# text = not sure how much longer ene is going to be around and i'm checking out my options!
+1	not	_	ADV	_	_	0	root	_	_
+2	sure	_	ADV	_	_	1	dep	_	_
+3	how	_	ADV	_	_	1	dep	_	_
+4	much	_	ADV	_	_	1	dep	_	_
+5	longer	_	ADJ	_	_	1	dep	_	_
+6	ene	_	NOUN	_	_	1	dep	_	_
+7	is	_	VERB	_	_	1	dep	_	_
+8	going	_	VERB	_	_	7	aux	_	_
+9	to	_	PART	_	_	7	mark	_	_
+10	be	_	VERB	_	_	9	aux	_	_
+11	around	_	ADV	_	_	7	advmod	_	_
+12	and	_	CCONJ	_	_	1	dep	_	_
+13-14	i'm	_	_	_	_	_	_	_	_
+13	i	_	PRON	_	_	1	dep	_	_
+14	'm	_	PART	_	_	1	dep	_	_
+15	checking	_	VERB	_	_	14	aux	_	_
+16	out	_	ADV	_	_	15	advmod	_	_
+17	my	_	DET	_	_	18	det	_	_
+18	options	_	NOUN	_	_	15	obj	_	_
+19	!	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700-0007
+# text = --
+1	--	_	_	_	_	0	root	_	_
+
+# sent_id = reviews-283903-0001
+# text = very reasonable prices.
+1	very	reasonable	ADJ	_	_	2	amod	_	_
+2	reasonable	prices	NOUN	_	_	0	root	_	_
+3	prices	_	NOUN	_	_	2	nmod	_	_
+4	.	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20111106130843AA7yj7U_ans-0006
+# text = Or more if you have drinks.
+1	Or	or	CCONJ	_	_	2	cc	_	_
+2	more	if	ADV	_	_	4	advmod	_	_
+3	if	_	_	_	_	4	advmod	_	_
+4	you	have	DET	_	_	5	det	_	_
+5	have	drink	NOUN	_	_	0	root	_	_
+6	drinks	_	_	_	_	5	punct	_	_
+7	.	_	_	_	_	5	dep	_	_
+
+# sent_id = email-enronsent28_01-0020
+# text = great, we look forward to seeing you.
+1	great	_great_ADJ	ADJ	_	_	0	root	_	_
+2	,	_	,	PUNCT	_	1	punct	_	_
+3	we	we	PRON	PRON	_	4	nsubj	_	_
+4	look	look	VERB	VERB	_	1	advcl	_	_
+5	forward	_forward_ADJ	ADJ	_	_	4	xcomp	_	_
+6	to	_to	ADP	ADP	_	7	case	_	_
+7	seeing	_	_	_	_	1	dep	_	_
+8	you	you	PRON	PRON	_	7	obj	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0031
+# text = - Zsa Zsa Gabor
+1	-	_	_	_	_	0	root	_	_
+2	Zsa	_	_	_	_	1	dep	_	_
+3	Zsa	_	_	_	_	1	dep	_	_
+4	Gabor	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600-0011
+# text = They want to use LTS to tie into NASA's vision for Space Exploration, and seem pleased that the White House is moving in that direction.
+1	They	they	PRON	PRP	_	4	nsubj	_	_
+2	want	want	VERB	VBP	_	4	ccomp	_	_
+3	to	to	PART	TO	_	2	mark	_	_
+4	use	use	VERB	VB	_	0	root	_	_
+5	LTS	LTS	NOUN	NN	_	4	nsubj	_	_
+6	to	to	PART	TO	_	5	mark	_	_
+7	tie	tie	VERB	VB	_	5	ccomp	_	_
+8	into	into	ADP	IN	_	7	mark	_	_
+9-10	NASA's	_	_	_	_	_	_	_	_
+9	NASA	'NASA'	PROPN	NNP	_	8	obl	_	_
+10	's	's	PUNCT	''	_	9	punct	_	_
+11	vision	vision	NOUN	NN	_	9	nmod	_	_
+12	for	for	ADP	IN	_	11	case	_	_
+13	Space	Space	NOUN	NN	_	11	nmod	_	_
+14	Exploration	Exploration	NOUN	NN	_	13	nmod	_	_
+15	,	,	PUNCT	,	_	4	punct	_	_
+16	and	and	CCONJ	CC	_	4	cc	_	_
+17	seem	seem	VERB	VBP	_	4	conj	_	_
+18	pleased	pleased	ADJ	JJ	_	17	ccomp	_	_
+19	that	that	SCONJ	IN	_	17	mark	_	_
+20	the	the	DET	DT	_	21	det	_	_
+21	White	White	ADJ	JJ	_	22	amod	_	_
+22	House	House	NOUN	NN	_	19	nsubj	_	_
+23	is	be	VERB	VBZ	_	22	cop	_	_
+24	moving	moving	VERB	VBG	_	22	acl	_	_
+25	in	in	ADP	IN	_	24	mark	_	_
+26	that	that	SCONJ	IN	_	24	mark	_	_
+27	direction	direction	NOUN	NN	_	25	nmod	_	_
+28	.	_	_	_	_	4	dep	_	_
+
+# sent_id = answers-20111106103415AAqdokn_ans-0009
+# text = Hackney's has a great burger formula that started about 80 years ago.
+1-2	Hackney's	_	_	_	_	_	_	_	_
+1	Hackney	_	PROPN	_	_	0	root	_	_
+2	's	_	PART	_	_	1	case	_	_
+3	has	_	VERB	_	_	1	advcl	_	_
+4	a	_	DET	_	_	5	det	_	_
+5	great	_	ADJ	_	_	3	nsubj	_	_
+6	burger	_	NOUN	_	_	5	nmod	_	_
+7	formula	_	NOUN	_	_	6	nmod	_	_
+8	that	_	SCONJ	_	_	9	advmod	_	_
+9	started	_	VERB	_	_	3	ccomp	_	_
+10	about	_	ADP	_	_	9	case	_	_
+11	80	_	NUM	_	_	9	nummod	_	_
+12	years	_	NOUN	_	_	11	nmod	_	_
+13	ago	_	ADP	_	_	12	case	_	_
+14	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0019
+# text = I'm free any day but Tuesday.
+1-2	I'm	_	_	_	_	_	_	_	_
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	'm	_	AUX	VBP	_	4	aux	_	_
+3	free	_	ADJ	JJ	_	4	advmod	_	_
+4	any	_	VERB	VB	_	0	root	_	_
+5	day	_	DET	DT	_	6	det	_	_
+6	but	_	NOUN	NN	_	4	obj	_	_
+7	Tuesday	_	CCONJ	CC	_	8	cc	_	_
+8	.	_	_	_	_	4	dep	_	_
+
+# sent_id = email-enronsent04_01-0032
+# text = Give me a few days, and I'll be in touch.
+1	Give	_	_	_	_	0	root	_	_
+2	me	_	_	_	_	1	dep	_	_
+3	a	_	_	_	_	1	dep	_	_
+4	few	_	_	_	_	1	dep	_	_
+5	days	_	_	_	_	1	dep	_	_
+6	,	_	_	_	_	1	dep	_	_
+7	and	_	_	_	_	1	dep	_	_
+8-9	I'll	_	_	_	_	_	_	_	_
+8	I	_	_	_	_	1	dep	_	_
+9	'll	_	_	_	_	1	dep	_	_
+10	be	_	_	_	_	1	dep	_	_
+11	in	_	_	_	_	1	dep	_	_
+12	touch	_	_	_	_	1	dep	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108071652AA8GAZw_ans-0002
+# text = I have ordered Bose Headfones worth 300USD.
+1	I	_	PRON	PRP	_	0	root	_	_
+2	have	_	AUX	VBP	_	1	dep	_	_
+3	ordered	_	VERB	VBD	_	1	dep	_	_
+4	Bose	_	PROPN	NNP	_	3	dobj	_	_
+5	Headfones	_	NOUN	NNS	_	4	nmod	_	_
+6	worth	_	ADP	IN	_	7	case	_	_
+7	300	_	NUM	CD	_	5	nmod	_	_
+8	USD	_	PROPN	NNP	_	7	nmod	_	_
+9	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106022931AAwpqXm_ans-0010
+# text = Yes, I have usually voted National.
+1	Yes	yes	ADV	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	_
+4	have	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	_
+5	usually	usually	ADV	_	_	3	advmod	_	_
+6	voted	vote	VERB	_	Aspect=Perf|VerbForm=Part	3	conj	_	_
+7	National	National	PROPN	_	_	6	nmod	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107082312AAPNaxb_ans-0005
+# text = Four guys around a large square open hibachi cook your food, and when it's finished a server brings it to your table.
+1	Four	guys	NOUN	NN	Number=Plur|Person=3	2	nsubj	_	_
+2	guys	a	ADP	IN	_	3	case	_	_
+3	around	square	NOUN	NN	Number=Sing	4	nmod	_	_
+4	a	hibachi	VERB	VB	VerbForm=Part	0	root	_	_
+5	large	cook	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+6	square	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+7	open	food	NOUN	NN	Number=Sing	5	dobj	_	_
+8	hibachi	,	PUNCT	,	_	9	punct	_	_
+9	cook	and	CCONJ	CC	_	4	cc	_	_
+10	your	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	food	finish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	_
+12	,	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	_
+13	and	server	NOUN	NN	Number=Sing	11	nsubj	_	_
+14	when	bring	VERB	VB	VerbForm=Inf	13	acl:relcl	_	_
+15-16	it's	_	_	_	_	_	_	_	_
+15	it	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	14	dobj	_	_
+16	's	to	ADP	TO	_	17	case	_	_
+17	finished	table	NOUN	NN	Number=Sing	14	nmod	_	_
+18	a	.	PUNCT	.	_	4	punct	_	_
+19	server	_	_	_	_	4	dep	_	_
+20	brings	_	_	_	_	4	dep	_	_
+21	it	_	_	_	_	4	dep	_	_
+22	to	_	_	_	_	4	dep	_	_
+23	your	_	_	_	_	4	dep	_	_
+24	table	_	_	_	_	4	dep	_	_
+25	.	_	_	_	_	4	dep	_	_
+
+# sent_id = reviews-118668-0004
+# text = The setting feels like a Sushi bar in NYC; small, cozy, but with flair.
+1	The	the	DET	DT	_	2	det	_	_
+2	setting	setting	NOUN	NNS	_	3	nsubj	_	_
+3	feels	feel	VERB	VBZ	_	0	root	_	_
+4	like	like	ADP	IN	_	3	case	_	_
+5	a	a	DET	DT	_	6	det	_	_
+6	Sushi	Sushi	NOUN	NN	_	4	nmod	_	_
+7	bar	bar	NOUN	NN	_	6	nmod	_	_
+8	in	in	ADP	IN	_	7	case	_	_
+9	NYC	NYC	PROPN	NNP	_	8	nmod	_	_
+10	;	;	PUNCT	.	_	3	punct	_	_
+11	small	,	PUNCT	,	_	3	dep	_	_
+12	,	small	ADJ	JJ	_	3	dep	_	_
+13	cozy	cozy	ADJ	JJ	_	3	dep	_	_
+14	,	but	CCONJ	CC	_	15	cc	_	_
+15	but	with	ADP	IN	_	16	case	_	_
+16	with	flair	NOUN	NN	_	13	nmod	_	_
+17	flair	.	PUNCT	.	_	3	punct	_	_
+18	.	_	_	_	_	3	dep	_	_
+
+# sent_id = weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0040
+# text = The gods weren't with us on that one.
+1	The	the	DET	DT	_	2	det	_	_
+2	gods	god	NOUN	NNS	Plur=Yes	0	root	_	_
+3-4	weren't	_	_	_	_	_	_	_	_
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	aux	_	_
+4	n't	not	PART	RB	Polarity=Neg	3	advmod	_	_
+5	with	with	ADP	IN	_	6	case	_	_
+6	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1	7	nmod:poss	_	_
+7	on	on	ADP	IN	_	2	case	_	_
+8	that	that	DET	DT	_	9	det	_	_
+9	one	one	NUM	CD	NumType=Card	10	nummod	_	_
+10	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-219984-0001
+# text = never response the phone call
+1	never	never	ADV	_	_	2	advmod	_	_
+2	response	response	NOUN	_	_	3	nsubj	_	_
+3	the	call	VERB	_	_	0	root	_	_
+4	phone	the	DET	_	_	5	det	_	_
+5	call	_	_	_	_	3	dep	_	_
+
+# sent_id = email-enronsent29_02-0030
+# text = Would love for you to join us.
+1	Would	_would_	AUX	_	_	0	root	_	_
+2	love	_love_	VERB	_	_	1	aux	_	_
+3	for	for	ADP	_	_	4	case	_	_
+4	you	_you_	PRON	_	_	2	obj	_	_
+5	to	to	PART	_	_	2	mark	_	_
+6	join	_join_	VERB	_	_	2	xcomp	_	_
+7	us	_us_	PRON	_	_	6	obj	_	_
+8	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-369608-0002
+# text = I worked with Sam Mones who took great care of me.
+1	I	_	PRON	PRP	_	0	root	_	_
+2	worked	_	VERB	VBD	_	1	dep	_	_
+3	with	_	ADP	IN	_	4	case	_	_
+4	Sam	_	PROPN	NNP	_	2	obl	_	_
+5	Mones	_	PROPN	NNP	_	4	nmod	_	_
+6	who	_	PRON	WP	_	1	dep	_	_
+7	took	_	VERB	VBD	_	1	dep	_	_
+8	great	_	ADJ	JJ	_	9	amod	_	_
+9	care	_	NOUN	NN	_	7	obj	_	_
+10	of	_	ADP	IN	_	11	case	_	_
+11	me	_	PRON	PRP	_	9	nmod	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_02-0012
+# text = 06/12/2000 10:20 AM
+1	06/12/2000	06	NUM	NUM	_	0	root	_	_
+2	10:20	12	NUM	NUM	_	1	dep	_	_
+3	AM	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0040
+# text = Enron's working gas will be reduced by 420,588MMBTU.
+1-2	Enron's	_	_	_	_	_	_	_	_
+1	Enron	Enron	PROPN	PROPN	_	0	root	_	_
+2	's	's	PUNCT	PUNCT	_	1	case	_	_
+3	working	working	NOUN	NOUN	Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	dep	_	_
+4	gas	gas	NOUN	NOUN	Number=Sing	1	dep	_	_
+5	will	be	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	dep	_	_
+6	be	reduced	VERB	VERB	VerbForm=Part	1	dep	_	_
+7	reduced	by	ADP	ADP	_	6	case	_	_
+8	by	420,588	NUM	NUM	NumType=Card	9	nummod	_	_
+9	420,588	MMBTU	NOUN	NOUN	Number=Sing	7	nmod	_	_
+10	MMBTU	.	PUNCT	PUNCT	_	5	punct	_	_
+11	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.cat_0f877e44e3521d27_ENG_20040131_084700-0001
+# text = Email: "Ian"<ian.gilb...@btinternet.com>
+1	Email	Email	NOUN	NN	_	0	root	_	_
+2	:	:	PUNCT	:	_	3	case	_	_
+3	"	"Ian"	PROPN	PROPN	_	1	nmod	_	_
+4	Ian	<	SYM	SYM	_	5	case	_	_
+5	"	ian.gilb...@btinternet.com	PROPN	PROPN	_	1	nmod	_	_
+6	<	_	_	_	_	1	dep	_	_
+7	ian.gilb...@btinternet.com	_	_	_	_	1	dep	_	_
+8	>	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111106103415AAqdokn_ans-0018
+# text = http://www.flickr.com/photos/jellybeanjill13/532522805/
+1	http://www.flickr.com/photos/jellybeanjill13/532522805/	_	_	_	_	0	root	_	_
+
+# sent_id = email-enronsent18_02-0029
+# text = Hi Kevin,
+1	Hi	_	_	_	_	0	root	_	_
+2	Kevin	_	_	_	_	1	dep	_	_
+3	,	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-216281-0007
+# text = thanks Rich
+1	thanks	thanks	ADJ	_	_	0	root	_	_
+2	Rich	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_02-0019
+# text = I am on board.
+1	I	_	PRON	PRP	_	4	nsubj	_	_
+2	am	_	AUX	VBP	_	4	cop	_	_
+3	on	_	ADP	IN	_	4	case	_	_
+4	board	_	NOUN	NN	_	0	root	_	_
+5	.	_	_	_	_	4	dep	_	_
+
+# sent_id = email-enronsent29_02-0036
+# text = Today is good 12:30 ?
+1	Today	today	NOUN	NN	_	4	nsubj	_	_
+2	is	be	AUX	VBZ	_	4	cop	_	_
+3	good	good	ADJ	JJ	_	4	amod	_	_
+4	12:30	12:30	NUM	CD	_	0	root	_	_
+5	?	_	_	_	_	4	dep	_	_
+
+# sent_id = email-enronsent21_02-0042
+# text = As seen below,
+1	As	_	_	_	_	0	root	_	_
+2	seen	_	_	_	_	1	dep	_	_
+3	below	_	_	_	_	1	dep	_	_
+4	,	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-035993-0001
+# text = They have fresh flowers, lasted a long while in the vase, and the two ladies at the shop know the business well.
+1	They	they	PRON	PRP	_	0	root	_	_
+2	have	have	AUX	VBP	_	1	dep	_	_
+3	fresh	fresh	ADJ	JJ	_	1	dep	_	_
+4	flowers	flower	NOUN	NNS	_	1	dep	_	_
+5	,	last	VERB	VBD	_	1	dep	_	_
+6	lasted	while	ADV	RB	_	7	advmod	_	_
+7	a	in	ADP	IN	_	8	case	_	_
+8	long	vase	NOUN	NN	_	5	nmod	_	_
+9	while	and	CCONJ	CC	_	10	cc	_	_
+10	in	last	VERB	VBD	_	5	conj	_	_
+11	the	a	DET	DT	_	12	det	_	_
+12	vase	while	ADV	RB	_	10	advmod	_	_
+13	,	and	CCONJ	CC	_	14	cc	_	_
+14	and	the	DET	DT	_	15	det	_	_
+15	the	two	NUM	CD	_	16	nummod	_	_
+16	two	lady	NOUN	NNS	_	17	nmod	_	_
+17	ladies	at	ADP	IN	_	18	case	_	_
+18	at	shop	NOUN	NN	_	10	nmod	_	_
+19	the	know	VERB	VBP	_	1	dep	_	_
+20	shop	the	DET	DT	_	21	det	_	_
+21	know	business	NOUN	NN	_	22	nmod	_	_
+22	the	well	ADV	RB	_	19	xcomp	_	_
+23	business	.	PUNCT	.	_	4	punct	_	_
+24	well	_	_	_	_	1	dep	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0011
+# text = But I was not pleased to read the description in the catalog: "No good in a bed, but fine against a wall."
+1	But	_	_	_	_	0	root	_	_
+2	I	_	_	_	_	1	nsubj	_	_
+3	was	_	_	_	_	1	cop	_	_
+4	not	_	_	_	_	1	advmod	_	_
+5	pleased	_	_	_	_	1	mark	_	_
+6	to	_	_	_	_	1	aux	_	_
+7	read	_	_	_	_	6	det	_	_
+8	the	_	_	_	_	6	nsubj	_	_
+9	description	_	_	_	_	6	case	_	_
+10	in	_	_	_	_	9	det	_	_
+11	the	_	_	_	_	9	nmod	_	_
+12	catalog	_	_	_	_	1	punct	_	_
+13	:	_	_	_	_	8	appos	_	_
+14	"	_	_	_	_	13	advmod	_	_
+15	No	_	_	_	_	13	amod	_	_
+16	good	_	_	_	_	13	case	_	_
+17	in	_	_	_	_	16	det	_	_
+18	a	_	_	_	_	16	nmod	_	_
+19	bed	_	_	_	_	13	punct	_	_
+20	,	_	_	_	_	13	advmod	_	_
+21	but	_	_	_	_	13	amod	_	_
+22	fine	_	_	_	_	13	case	_	_
+23	against	_	_	_	_	22	det	_	_
+24	a	_	_	_	_	22	nmod	_	_
+25	wall	_	_	_	_	13	punct	_	_
+26	.	_	_	_	_	1	dep	_	_
+27	"	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108090345AAQiffR_ans-0004
+# text = Thank you (:
+1	Thank	thank	VERB	_	_	0	root	_	_
+2	you	you	PRON	_	_	1	obj	_	_
+3	(:	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent28_01-0028
+# text = FYI,
+1	FYI	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.cat_003362349f033873_ENG_20040712_077100-0015
+# text = http://www.newsfeeds.com - The #1 Newsgroup Service in the World!
+1	http://www.newsfeeds.com	http://www.newsfeeds.com	HTTP://WWW.NEWSFEEDS.COM	X	_	0	root	_	_
+2	-	The	DET	DT	_	1	det	_	_
+3	The	#	#	X	_	1	nummod	_	_
+4	#	1	1	X	_	1	nummod	_	_
+5	1	_	_	_	_	1	dep	_	_
+6	Newsgroup	!	!	X	_	1	punct	_	_
+7	Service	.	.	X	_	1	punct	_	_
+8	in	_	_	_	_	1	dep	_	_
+9	the	_	_	_	_	1	dep	_	_
+10	World	_	_	_	_	1	dep	_	_
+11	!	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_alt.animals.bears_07e0e03c803ffdbd_ENG_20040217_113500-0005
+# text = People love to buy these cute cuddly little animals for gifts and collectables.
+1	People	people	NOUN	NN	Number=Plur|Person=3	2	nsubj	_	_
+2	love	to	VERB	VB	VerbForm=Inf	0	root	_	_
+3	to	buy	VERB	VB	VerbForm=Inf	2	ccomp	_	_
+4	buy	these	DET	DT	Number=Plur|PronType=Dem	5	det	_	_
+5	these	cute	ADJ	JJ	Degree=Pos	3	obj	_	_
+6	cute	cuddly	ADJ	JJ	Degree=Pos	5	amod	_	_
+7	cuddly	little	ADJ	JJ	Degree=Pos	5	amod	_	_
+8	little	animal	NOUN	NNS	Number=Plur	5	nmod	_	_
+9	animals	for	ADP	IN	_	10	case	_	_
+10	for	gift	NOUN	NNS	Number=Plur	3	obj	_	_
+11	gifts	and	CCONJ	CC	_	12	cc	_	_
+12	and	collectable	NOUN	NNS	Number=Plur	3	conj	_	_
+13	collectables	.	PUNCT	.	_	2	punct	_	_
+14	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-038523-0001
+# text = Friendly service.
+1	Friendly	_	ADJ	_	_	2	nmod	_	_
+2	service	_	NOUN	_	_	0	root	_	_
+3	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-011806-0002
+# text = Sheer contrast to getting it done at karol bagh which is done under the wooden plank
+1	Sheer	_	_	_	_	0	root	_	_
+2	contrast	_	_	_	_	1	dep	_	_
+3	to	_	_	_	_	1	dep	_	_
+4	getting	_	_	_	_	1	dep	_	_
+5	it	_	_	_	_	1	dep	_	_
+6	done	_	_	_	_	1	dep	_	_
+7	at	_	_	_	_	1	dep	_	_
+8	karol	_	_	_	_	1	dep	_	_
+9	bagh	_	_	_	_	1	dep	_	_
+10	which	_	_	_	_	1	dep	_	_
+11	is	_	_	_	_	1	dep	_	_
+12	done	_	_	_	_	1	dep	_	_
+13	under	_	_	_	_	1	dep	_	_
+14	the	_	_	_	_	1	dep	_	_
+15	wooden	_	_	_	_	1	dep	_	_
+16	plank	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent29_02-0017
+# text = Today is good 12:30 ?
+1	Today	today	NOUN	NN	_	4	nsubj	_	_
+2	is	be	AUX	VBZ	_	4	cop	_	_
+3	good	good	ADJ	JJ	_	4	amod	_	_
+4	12:30	12:30	NUM	CD	_	0	root	_	_
+5	?	_	_	_	_	4	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_fineart_0339fc0ed4e53c5a_ENG_20050930_025500-0010
+# text = In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.
+1	In	_	_	_	_	0	root	_	_
+2-3	Wei's	_	_	_	_	_	_	_	_
+2	Wei	_	_	_	_	1	dep	_	_
+3	's	_	_	_	_	1	dep	_	_
+4	art	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	a	_	_	_	_	1	dep	_	_
+7	logician	_	_	_	_	1	dep	_	_
+8	could	_	_	_	_	1	dep	_	_
+9	see	_	_	_	_	1	dep	_	_
+10	mathematical	_	_	_	_	1	dep	_	_
+11	logic	_	_	_	_	1	dep	_	_
+12	,	_	_	_	_	1	dep	_	_
+13	a	_	_	_	_	1	dep	_	_
+14	cellist	_	_	_	_	1	dep	_	_
+15	could	_	_	_	_	1	dep	_	_
+16	see	_	_	_	_	1	dep	_	_
+17	a	_	_	_	_	1	dep	_	_
+18	ripple	_	_	_	_	1	dep	_	_
+19	of	_	_	_	_	1	dep	_	_
+20	nine	_	_	_	_	1	dep	_	_
+21	bass	_	_	_	_	1	dep	_	_
+22	notes	_	_	_	_	1	dep	_	_
+23	,	_	_	_	_	1	dep	_	_
+24	a	_	_	_	_	1	dep	_	_
+25	country	_	_	_	_	1	dep	_	_
+26	girl	_	_	_	_	1	dep	_	_
+27	could	_	_	_	_	1	dep	_	_
+28	see	_	_	_	_	1	dep	_	_
+29	straw	_	_	_	_	1	dep	_	_
+30	,	_	_	_	_	1	dep	_	_
+31	and	_	_	_	_	1	dep	_	_
+32	Harry	_	_	_	_	1	dep	_	_
+33	Potter	_	_	_	_	1	dep	_	_
+34	could	_	_	_	_	1	dep	_	_
+35	see	_	_	_	_	1	dep	_	_
+36	two	_	_	_	_	1	dep	_	_
+37	accompanied	_	_	_	_	1	dep	_	_
+38	green	_	_	_	_	1	dep	_	_
+39	blazes	_	_	_	_	1	dep	_	_
+40	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-025894-0001
+# text = Average food and deathly slow service
+1	Average	average	ADJ	_	_	2	nmod	_	_
+2	food	food	NOUN	_	_	0	root	_	_
+3	and	and	CCONJ	_	_	2	cc	_	_
+4	deathly	deathly	ADJ	_	_	5	amod	_	_
+5	slow	slow	ADJ	_	_	6	amod	_	_
+6	service	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-294978-0002
+# text = It's a fine place, I'm just a little mystified about the Michelin star.
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	_	PRON	PRON	_	0	root	_	_
+2	's	_	PART	PART	_	1	cop	_	_
+3	a	_	DET	DET	_	4	det	_	_
+4	fine	_	ADJ	ADJ	_	1	nsubj	_	_
+5	place	_	NOUN	NOUN	_	4	nmod	_	_
+6	,	_	PUNCT	PUNCT	_	1	punct	_	_
+7-8	I'm	_	_	_	_	_	_	_	_
+7	I	_	PRON	PRON	_	8	nsubj	_	_
+8	'm	_	AUX	AUX	_	1	cop	_	_
+9	just	_	ADV	ADV	_	10	advmod	_	_
+10	a	_	DET	DET	_	11	det	_	_
+11	little	_	ADJ	ADJ	_	8	nsubj	_	_
+12	mystified	_	ADJ	ADJ	_	11	amod	_	_
+13	about	_	ADP	ADP	_	14	case	_	_
+14	the	_	DET	DET	_	15	det	_	_
+15	Michelin	_	PROPN	PROPN	_	16	nmod	_	_
+16	star	_	NOUN	NOUN	_	12	nmod	_	_
+17	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-227515-0001
+# text = BEST DENTIST EVER -
+1	BEST	_best	ADJ	_	_	2	nsubj	_	_
+2	DENTIST	_dentist	NOUN	_	_	0	root	_	_
+3	EVER	_ever	ADV	_	_	2	advmod	_	_
+4	-	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent28_01-0014
+# text = But by December of '73 the Dow had collapsed to 788.
+1	But	_	_	_	_	0	root	_	_
+2	by	_	_	_	_	3	case	_	_
+3	December	_	_	_	_	1	advmod	_	_
+4	of	_	_	_	_	3	case	_	_
+5	'73	_	_	_	_	4	case	_	_
+6	the	_	_	_	_	7	det	_	_
+7	Dow	_	_	_	_	1	nsubj	_	_
+8	had	_	_	_	_	9	aux	_	_
+9	collapsed	_	_	_	_	1	advcl	_	_
+10	to	_	_	_	_	9	case	_	_
+11	788	_	_	_	_	10	nummod	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_02-0008
+# text = Thought that you might be interested.
+1	Thought	think	VERB	_	_	0	root	_	_
+2	that	that	SCONJ	_	_	1	mark	_	_
+3	you	you	PRON	_	_	4	nsubj	_	_
+4	might	may	AUX	_	_	1	aux	_	_
+5	be	be	AUX	_	_	4	aux	_	_
+6	interested	interest	ADJ	_	_	7	amod	_	_
+7	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_jokecity_0566f0ba3b5f748f_ENG_20051125_240500-0008
+# text = The room is silent, none of the other children volunteer.
+1	The	the	DET	DT	_	2	det	_	_
+2	room	room	NOUN	NNS	_	3	nsubj	_	_
+3	is	be	VERB	VBZ	_	0	root	_	_
+4	silent	silent	ADJ	JJ	_	3	amod	_	_
+5	,	,	PUNCT	,	_	7	punct	_	_
+6	none	none	PRON	PRP	_	7	nsubj	_	_
+7	of	volunteer	VERB	VB	_	3	advcl	_	_
+8	the	.	PUNCT	.	_	3	punct	_	_
+9	other	_	_	_	_	3	dep	_	_
+10	children	_	_	_	_	3	dep	_	_
+11	volunteer	_	_	_	_	3	dep	_	_
+12	.	_	_	_	_	3	dep	_	_
+
+# sent_id = reviews-217747-0002
+# text = "Thank you so much for the superior job well done.
+1	"	_	_	_	_	0	root	_	_
+2	Thank	_	_	_	_	1	dep	_	_
+3	you	_	_	_	_	1	dep	_	_
+4	so	_	_	_	_	1	dep	_	_
+5	much	_	_	_	_	1	dep	_	_
+6	for	_	_	_	_	1	dep	_	_
+7	the	_	_	_	_	1	dep	_	_
+8	superior	_	_	_	_	1	dep	_	_
+9	job	_	_	_	_	1	dep	_	_
+10	well	_	_	_	_	1	dep	_	_
+11	done	_	_	_	_	1	dep	_	_
+12	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-124492-0001
+# text = Great product, great service!!!
+1	Great	_	_	_	_	2	dep	_	_
+2	product	product	NOUN	NN	_	0	root	_	_
+3	,	_	_	_	_	2	dep	_	_
+4	great	service	NOUN	NN	_	2	dep	_	_
+5	service	!!!	PUNCT	.	_	4	punct	_	_
+6	!!!	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20111108044917AALAHtc_ans-0001
+# text = how much does it cost to join world resorts international?
+1	how	much	ADV	_	_	2	advmod	_	_
+2	much	_	_	_	_	3	dep	_	_
+3	does	to	JOIN	VERB	_	0	root	_	_
+4	it	_	_	_	_	3	dep	_	_
+5	cost	international	ADJ	_	_	4	amod	_	_
+6	to	resorts	INTERNATIONAL	NOUN	_	5	nmod	_	_
+7	join	resorts	INTERNATIONAL	ADJ	_	6	amod	_	_
+8	world	international	ADJ	_	_	7	amod	_	_
+9	resorts	_	_	_	_	3	dep	_	_
+10	international	resorts	INTERNATIONAL	NOUN	_	9	nmod	_	_
+11	?	_	_	_	_	3	dep	_	_
+
+# sent_id = answers-20111107211645AA391wC_ans-0004
+# text = If you mean fluid ounces, 20, as opposed to the 16 in America.
+1	If	if	CCONJ	_	_	0	root	_	_
+2	you	you	PRON	PRP	_	1	dep	_	_
+3	mean	means	VERB	VBZ	_	1	dep	_	_
+4	fluid	fluid	NOUN	NN	_	5	nmod	_	_
+5	ounces	ounce	NOUN	NNS	_	3	obj	_	_
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	20	20	NUM	CD	_	5	nummod	_	_
+8	,	,	PUNCT	,	_	9	punct	_	_
+9	as	as	ADP	IN	_	10	case	_	_
+10	opposed	oppose	VERB	VBN	_	7	nmod	_	_
+11	to	to	ADP	IN	_	1	dep	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	16	16	NUM	CD	_	11	nmod	_	_
+14	in	in	ADP	IN	_	15	case	_	_
+15	America	America	PROPN	NNP	_	11	nmod	_	_
+16	.	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0035
+# text = We will forward the draft of that guaranty to you later today.
+1	We	we	PRON	PRON	Number=Plur|Person=1|PronType=Prs	0	root	_	_
+2	will	will	AUX	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3	forward	forward	VERB	VERB	VerbForm=Part	1	compound	_	_
+4	the	the	DET	DET	Definite=Def|PronType=Art	5	det	_	_
+5	draft	draft	NOUN	NOUN	Number=Sing	3	obj	_	_
+6	of	of	ADP	ADP	_	7	case	_	_
+7	that	that	PRON	PRON	PronType=Rel	5	nmod	_	_
+8	guaranty	guaranty	NOUN	NOUN	Number=Sing	7	nmod	_	_
+9	to	to	ADP	ADP	_	1	dep	_	_
+10	you	you	PRON	PRON	Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
+11	later	you	PRON	PRON	Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+12	today	later	ADV	ADV	_	13	advmod	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111108074555AAFT8Aj_ans-0007
+# text = thumbs down???
+1	thumbs	thumb	NOUN	NN	Number=Plur|Person=3	0	root	_	_
+2	down	down	ADV	RB	_	3	advmod	_	_
+3	???	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111107221352AAlIioO_ans-0004
+# text = American Food, Soul Food, Mexican, Italian, and Chinese are the options.
+1	American	_	ADJ	_	_	2	nmod	_	_
+2	Food	_	NOUN	_	_	0	root	_	_
+3	,	_	NOUN	_	_	2	nmod	_	_
+4	Soul	_	NOUN	_	_	2	nmod	_	_
+5	Food	_	ADJ	_	_	6	nmod	_	_
+6	,	_	NOUN	_	_	2	nmod	_	_
+7	Mexican	_	ADJ	_	_	8	nmod	_	_
+8	,	_	NOUN	_	_	2	nmod	_	_
+9	Italian	_	CCONJ	_	_	2	cc	_	_
+10	,	_	ADJ	_	_	11	nmod	_	_
+11	and	_	NOUN	_	_	2	nmod	_	_
+12	Chinese	_	AUX	_	_	2	cop	_	_
+13	are	_	DET	_	_	14	det	_	_
+14	the	_	NOUN	_	_	2	nmod	_	_
+15	options	_	PUNCT	_	_	2	punct	_	_
+16	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-384229-0001
+# text = great tmobile service
+1	great	great	ADJ	_	_	2	nsubj	_	_
+2	tmobile	tmobile	NOUN	_	_	0	root	_	_
+3	service	_	_	_	_	2	dep	_	_
+
+# sent_id = email-enronsent09_02-0006
+# text = I understand the imminent cold weather is making things crazy, so now may not be the best time to be in your way.
+1	I	I	PRON	PRP	_	0	root	_	_
+2	understand	understand	VERB	VB	_	1	dep	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	imminent	imminent	ADJ	JJ	_	2	dobj	_	_
+5	cold	cold	ADJ	JJ	_	4	amod	_	_
+6	weather	weather	NOUN	NNS	_	4	nmod	_	_
+7	is	be	AUX	VBZ	_	4	cop	_	_
+8	making	make	VERB	VBG	_	1	dep	_	_
+9	things	thing	NOUN	NNS	_	8	nsubj	_	_
+10	crazy	crazy	ADJ	JJ	_	9	amod	_	_
+11	,	,	PUNCT	,	_	2	punct	_	_
+12	so	so	ADV	RB	_	13	advmod	_	_
+13	now	now	ADV	RB	_	14	advmod	_	_
+14	may	may	AUX	MD	_	15	aux	_	_
+15	not	be	AUX	VB	_	2	ccomp	_	_
+16	be	not	ADV	RB	_	15	neg	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	best	best	ADJ	JJ	_	15	dobj	_	_
+19	time	time	NOUN	NN	_	18	nmod	_	_
+20	to	to	PART	TO	_	21	mark	_	_
+21	be	be	AUX	VB	_	19	aux	_	_
+22	in	in	ADP	IN	_	23	case	_	_
+23	your	your	PRON	PRP$	_	21	obl	_	_
+24	way	way	NOUN	NN	_	23	nmod	_	_
+25	.	_	_	_	_	1	dep	_	_
+
+# sent_id = answers-20111103205154AAOod9K_ans-0005
+# text = Any suggestions would be really helpful, thanks!
+1	Any	some	DET	DT	_	2	nsubj	_	_
+2	suggestions	idea	VERB	VBZ	_	0	root	_	_
+3	would	_	_	_	_	2	dep	_	_
+4	be	_	_	_	_	2	dep	_	_
+5	really	_	_	_	_	2	punct	_	_
+6	helpful	_	_	_	_	2	advmod	_	_
+7	,	_	_	_	_	2	punct	_	_
+8	thanks	_	_	_	_	2	dep	_	_
+9	!	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20111108074455AAiMwmn_ans-0003
+# text = the camera only begins to work again when i take out the battery and put it back in.
+1	the	the	DET	DT	_	2	det	_	_
+2	camera	camera	NOUN	NNS	_	3	nsubj	_	_
+3	only	begins	VERB	VBZ	_	0	root	_	_
+4	begins	to	PART	TO	_	3	mark	_	_
+5	to	work	VERB	VB	_	3	xcomp	_	_
+6	work	only	ADV	RB	_	7	advmod	_	_
+7	again	again	ADV	RB	_	3	advmod	_	_
+8	when	when	SCONJ	IN	_	9	mark	_	_
+9	i	i	PRON	PRP	_	10	nsubj	_	_
+10	take	take	VERB	VB	_	3	ccomp	_	_
+11	out	out	ADV	RB	_	10	advmod	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	battery	battery	NOUN	NN	_	10	obj	_	_
+14	and	and	CCONJ	CC	_	15	cc	_	_
+15	put	put	VERB	VB	_	10	conj	_	_
+16	it	it	PRON	PRP	_	15	obj	_	_
+17	back	back	ADV	RB	_	15	advmod	_	_
+18	in	in	ADP	IN	_	15	case	_	_
+19	.	_	_	_	_	3	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0007
+# text = Choose the news and sport headlines you want - when you want them, all in one daily e-mail
+1	Choose	_	_	_	_	16	dep	_	_
+2	the	_	DET	_	_	3	nsubj	_	_
+3	news	_	_	_	_	16	dep	_	_
+4	and	_	NOUN	_	_	2	obj	_	_
+5	sport	_	_	_	_	16	dep	_	_
+6	headlines	_	PRON	_	_	5	obj	_	_
+7	you	_	_	_	_	16	dep	_	_
+8	want	_	_	_	_	16	dep	_	_
+9	-	_	PRON	_	_	8	obj	_	_
+10	when	_	PUNCT	_	_	16	dep	_	_
+11	you	_	ADJ	_	_	16	dep	_	_
+12	want	_	ADP	_	_	16	dep	_	_
+13	them	_	NUM	_	_	14	nmod	_	_
+14	,	_	ADJ	_	_	12	amod	_	_
+15	all	_	NOUN	_	_	12	obj	_	_
+16	in	_	PUNCT	_	_	0	root	_	_
+17	one	_	_	_	_	16	dep	_	_
+18	daily	_	_	_	_	16	dep	_	_
+19	e-mail	_	_	_	_	16	dep	_	_
+
+# sent_id = reviews-309258-0001
+# text = slow service
+1	slow	slow	ADJ	_	_	0	root	_	_
+2	service	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent09_02-0010
+# text = Mike
+1	Mike	_	_	_	_	0	root	_	_
+
+# sent_id = email-enronsent32_01-0008
+# text = Mark E Haedicke
+1	Mark	Mark	PROPN	NNP	_	0	root	_	_
+2	E	_	DET	DT	_	1	nmod	_	_
+3	Haedicke	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-270889-0002
+# text = Superior work - always comes through when we need him.
+1	Superior	work	NOUN	NN	Number=Sing|Person=3	4	nsubj	_	_
+2	work	_	VERB	VBZ	Number=Sing|Person=3	0	root	_	_
+3	-	_	PUNCT	-	_	4	punct	_	_
+4	always	always	ADV	RB	Degree=Pos	2	advmod	_	_
+5	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	through	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	_	_
+7	when	through	ADP	IN	_	8	case	_	_
+8	we	when	ADV	WRB	_	5	advmod	_	_
+9	need	we	PRON	PRP	Case=Nom|Number=Plur|Person=1	10	nsubj	_	_
+10	him	need	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+11	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-329807-0004
+# text = Highly recommended.
+1	Highly	_	ADV	_	_	0	root	_	_
+2	recommended	_	VERB	_	_	1	root	_	_
+3	.	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-283903-0002
+# text = quick in & out.
+1	quick	quick	ADJ	_	_	2	amod	_	_
+2	in	in	ADP	_	_	3	case	_	_
+3	&	out	NOUN	_	_	0	root	_	_
+4	out	_	_	_	_	3	dep	_	_
+5	.	_	_	_	_	3	dep	_	_
+
+# sent_id = email-enronsent09_02-0025
+# text = August 13, 2000
+1	August	August	ADJ	_	_	0	root	_	_
+2	13	13	NUM	_	_	3	nummod	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	2000	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent04_01-0013
+# text = Job ID: J12746KM
+1	Job	_	NOUN	_	_	0	root	_	_
+2	ID	_	NOUN	_	_	1	nmod	_	_
+3	:	_	PUNCT	_	_	1	punct	_	_
+4	J12746KM	_	_	_	_	1	dep	_	_
+
+# sent_id = reviews-245928-0003
+# text = They are especially rude to women.
+1	They	they	PRON	PRP	Number=Plur|Person=3	2	nsubj	_	_
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	especially	especially	ADV	RB	_	4	advmod	_	_
+4	rude	rude	ADJ	JJ	Degree=Pos	2	amod	_	_
+5	to	to	ADP	IN	_	6	case	_	_
+6	women	woman	NOUN	NN	Number=Plur	4	nmod	_	_
+7	.	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20111108050147AAOkFgL_ans-0007
+# text = Airfare alone will be incredibly expensive so make sure you have the money and of course free time to take your time and have a great time.
+1	Airfare	airfare	NOUN	NN	Number=Sing|Person=3	2	nsubj	_	_
+2	alone	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	will	alone	ADV	RB	_	2	advmod	_	_
+4	be	be	VERB	VB	VerbForm=Inf	5	cop	_	_
+5	incredibly	incredibly	ADV	RB	_	2	advmod	_	_
+6	expensive	expensive	ADJ	JJ	Degree=Pos	2	advmod	_	_
+7	so	so	ADV	RB	_	2	advmod	_	_
+8	make	make	VERB	VB	VerbForm=Inf	2	advcl	_	_
+9	sure	sure	ADV	RB	_	8	advmod	_	_
+10	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+11	have	have	VERB	VB	VerbForm=Inf	8	advcl	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_
+13	money	money	NOUN	NN	Number=Sing	11	obj	_	_
+14	and	and	CCONJ	CC	_	11	cc	_	_
+15	of	of	ADP	IN	_	16	case	_	_
+16	course	course	NOUN	NN	Number=Sing	11	obl	_	_
+17	free	free	ADJ	JJ	Degree=Pos	16	amod	_	_
+18	time	time	NOUN	NN	Number=Sing	16	nmod	_	_
+19	to	.	PUNCT	.	_	2	punct	_	_
+20	take	to	PART	TO	_	21	mark	_	_
+21	your	take	VERB	VB	VerbForm=Inf	8	advcl	_	_
+22	time	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	_
+23	and	time	NOUN	NN	Number=Sing	21	obj	_	_
+24	have	and	CCONJ	CC	_	21	cc	_	_
+25	a	have	VERB	VB	VerbForm=Inf	21	conj	_	_
+26	great	the	DET	DT	Definite=Def|PronType=Art	27	det	_	_
+27	time	money	NOUN	NN	Number=Sing	25	obj	_	_
+28	.	_	_	_	_	2	dep	_	_
+
+# sent_id = answers-20111108084036AAh8Ws9_ans-0005
+# text = if the computer is completely shut off, the USB ports aren't getting power, so they won't charge your phone
+1	if	if	CCONJ	_	_	0	root	_	_
+2	the	_	_	_	_	1	dep	_	_
+3	computer	the	DET	_	Definite=Def|PronType=Art	4	det	_	_
+4	is	computer	NOUN	_	_	2	nsubj	_	_
+5	completely	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+6	shut	completely	ADV	_	_	7	advmod	_	_
+7	off	shut	ADJ	_	_	4	amod	_	_
+8	,	off	ADV	_	_	7	advmod	_	_
+9	the	,	PUNCT	_	_	2	punct	_	_
+10	USB	the	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	ports	USB	NOUN	_	_	12	nmod	_	_
+12-13	aren't	_	_	_	_	_	_	_	_
+12	are	ports	NOUN	_	_	4	nmod	_	_
+13	n't	be	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+14	getting	completely	ADV	_	_	15	advmod	_	_
+15	power	shut	ADJ	_	_	12	amod	_	_
+16	,	off	ADV	_	_	15	advmod	_	_
+17	so	,	PUNCT	_	_	2	punct	_	_
+18	they	so	ADV	_	_	19	advmod	_	_
+19-20	won't	_	_	_	_	_	_	_	_
+19	wo	they	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
+20	n't	will	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	22	aux	_	_
+21	charge	n't	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	22	aux	_	_
+22	your	charge	VERB	_	VerbForm=Inf	2	cop	_	_
+23	phone	_	_	_	_	1	dep	_	_
+
+# sent_id = email-enronsent32_01-0047
+# text = I am going to be the Senior Regulatory Counsel at ISO New England starting on April 9, 2001.
+1	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	am	_	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	going	_	VERB	_	VerbForm=Part	2	xcomp	_	_
+4	to	_	ADP	_	_	5	case	_	_
+5	be	_	AUX	_	VerbForm=Inf	3	xcomp	_	_
+6	the	_	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	Senior	_	ADJ	_	_	8	amod	_	_
+8	Regulatory	_	NOUN	_	_	9	nmod	_	_
+9	Counsel	_	NOUN	_	_	5	nsubj	_	_
+10	at	_	ADP	_	_	11	case	_	_
+11	ISO	_	PROPN	_	_	9	nmod	_	_
+12	New	_	ADJ	_	_	13	amod	_	_
+13	England	_	PROPN	_	_	10	nmod	_	_
+14	starting	_	VERB	_	VerbForm=Part	3	advcl	_	_
+15	on	_	ADP	_	_	16	case	_	_
+16	April	_	NOUN	_	_	14	nmod	_	_
+17	9	_	NUM	_	NumType=Card	16	nummod	_	_
+18	,	_	PUNCT	_	_	2	punct	_	_
+19	2001	_	NUM	_	NumType=Card	16	nummod	_	_
+20	.	_	_	_	_	2	dep	_	_
+
+# sent_id = reviews-206303-0003
+# text = Always professional and reliable, sessions are good fun and suitably challenging.
+1	Always	always	ADV	_	_	0	root	_	_
+2	professional	and	ADV	_	_	3	advmod	_	_
+3	and	_	_	_	_	4	cc	_	_
+4	reliable	reliable	ADJ	_	_	5	amod	_	_
+5	,	_	_	_	_	6	cc	_	_
+6	sessions	sessions	NOUN	_	_	7	nmod	_	_
+7	are	are	AUX	_	_	8	cop	_	_
+8	good	good	ADJ	_	_	9	amod	_	_
+9	fun	_	_	_	_	10	cc	_	_
+10	and	fun	ADJ	_	_	11	amod	_	_
+11	suitably	_	_	_	_	12	cc	_	_
+12	challenging	suitably	ADV	_	_	13	advmod	_	_
+13	.	_	_	_	_	1	dep	_	_
+
+# sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0018
+# text = "By all means, marry.
+1	"	_	_	_	_	0	root	_	_
+2	By	_	_	_	_	1	dep	_	_
+3	all	_	_	_	_	1	dep	_	_
+4	means	_	_	_	_	1	dep	_	_
+5	,	_	_	_	_	1	dep	_	_
+6	marry	_	_	_	_	1	dep	_	_
+7	.	_	_	_	_	1	dep	_	_
+
